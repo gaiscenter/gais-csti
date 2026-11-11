@@ -1,6 +1,6 @@
 {
  "fingerprint": "59636e4b3f455774",
- "saved_at": "2026-11-11T16:35:54.278321",
+ "saved_at": "2026-11-11T23:40:53.490186",
  "entries": {
   "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557": {
    "v1": "yes",
@@ -204,6 +204,61 @@
    "conf": "high"
   },
   "https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html": {
+   "v1": "no"
+  },
+  "https://english.news.cn/20261111/0c8b62dbeb314368b6c48331a81ad1cb/c.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867589": {
+   "v1": "no"
+  },
+  "http://www.taiwansun.com/news/279426721/mainland-slams-taiwan-dpp-for-hindering-cross-strait-people-to-people-exchanges": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/12/2003867576": {
+   "v1": "no"
+  },
+  "https://www.busan.com/view/busan/view.php?code=2026111122090656083": {
+   "v1": "no"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5637648": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/china/us-federal-employees-to-work-in-taiwan-government-offices-under-new-program-6123748": {
+   "v1": "no"
+  },
+  "https://www.nakedcapitalism.com/2026/11/nvidia-scandal-jensen-huang-megaspeed-alice-huang-spy.html": {
+   "v1": "no"
+  },
+  "https://www.lrt.lt/naujienos/lietuvoje/2/3111251/po-uzdaro-seimo-komiteto-posedzio-raginimai-neskubeti-normalizuoti-santykiu-su-kinija": {
+   "v1": "no"
+  },
+  "https://weeklyblitz.net/2026/11/12/lithuanias-taiwan-gamble-why-restoring-ties-with-china-requires-more-than-words/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/12/2003867583": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867587": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "050",
+   "conf": "high"
+  },
+  "https://www.dailymail.com/news/article-16285627/Trumps-summit-Putin-Xi-Yalta-1945.html": {
+   "v1": "no"
+  },
+  "https://www.swissinfo.ch/eng/various/republican-blame-game-nvidia-honeytrap-and-a-nasa-job-offer/92348877": {
    "v1": "no"
   }
  }

@@ -1,21 +1,29 @@
 {
- "generated_at": "2026-11-11T16:36:04",
+ "generated_at": "2026-11-11T23:41:03",
  "model": "claude-haiku-4-5-20251001",
  "n_days": 1,
  "n_cells": 2,
  "days": {
   "2026-11-11": {
    "CHN": {
-    "ko": "2026-11-11 대만-중국 관계는 중국의 군사·외교 채널 움직임이 주도했다. 중국이 서태평양에서 '지역 거부' 훈련을 실시하고 있다는 대만의 발표가 군사 긴장을 높였고, 대만이 PNG 내 대표부 폐쇄 이후 직원 철수 상황이 외교 채널에서 추가 긴장을 더했다. 근거가 2건이라 추세를 단정하기 어렵다.",
-    "en": "On 2026-11-11, Taiwan-China tensions were driven primarily by Chinese military and diplomatic moves. Taiwan's announcement that China is conducting 'area denial' drills in the Western Pacific raised military tensions, while the departure of Taiwan's representative office staff from PNG following government-ordered closure added diplomatic friction. With only two articles underlying this shift, it is difficult to characterize this as a clear trend.",
+    "ko": "중국 긴장도 상승은 주로 군사와 외교 채널에서 나타났다. 군사 측면에서는 대만이 중국의 '지역 거부' 훈련을 서태평양에서 진행 중이라고 공식 발표했고, 외교 채널에서는 대만이 APEC 특사에 에이서 창업자를 임명하면서 중국에 서면 보증을 요구했으며, 중국 정부가 대만의 DPP를 인민교류 방해 혐의로 비난하고, 대만 대표부가 파푸아뉴기니에서 정부 지시로 철수하는 일이 발생했다. 대만 측 대응은 외교 채널 1건만 기록되어 근거가 제한적이다.",
+    "en": "China's tension index rose primarily through military and diplomatic channels. On the military side, Taiwan publicly reported that China is conducting 'area denial' drills in the Western Pacific. Diplomatically, Taiwan appointed an Acer founder as APEC envoy and called for written guarantees from China, while China's mainland criticized Taiwan's DPP for obstructing people-to-people exchanges, and Taiwan's representative office staff departed PNG following government orders to close the office. Taiwan's response was recorded only in one diplomatic channel action, making it limited in scope.",
     "model": "claude-haiku-4-5-20251001",
     "codebook_fingerprint": "59636e4b3f455774",
-    "n_articles": 4,
-    "generated_at": "2026-11-11T16:36:04",
+    "n_articles": 5,
+    "generated_at": "2026-11-11T23:41:03",
     "sources": [
      {
       "url": "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644",
       "title": "Taiwan says China is conducting ’area denial’ drills in Western Pacific  - International | Daily Mirror"
+     },
+     {
+      "url": "https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/",
+      "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China - BusinessWorld Online"
+     },
+     {
+      "url": "https://english.news.cn/20261111/0c8b62dbeb314368b6c48331a81ad1cb/c.html",
+      "title": "Mainland slams Taiwan's DPP for hindering cross-Strait people-to-people exchanges-Xinhua"
      },
      {
       "url": "https://focustaiwan.tw/politics/202611110011",
@@ -24,12 +32,12 @@
     ]
    },
    "USA": {
-    "ko": "대만이 미국 연방 공무원 펠로십 프로그램을 추진하면서 외교 채널에서 긍정 신호를 보냈다. 미국 연방 공무원들이 대만 정부 부처에서 근무하는 방식으로 양국 관계를 강화하려는 움직임으로, 5건의 기사가 이를 보도했다.",
-    "en": "Taiwan is signaling positive diplomatic engagement through the implementation of a federal employee fellowship program with the United States. Under this scheme, US federal employees will work in Taiwan government offices, reflecting efforts to strengthen bilateral ties, as reported across five news outlets.",
+    "ko": "대만이 미국과의 외교 채널에서 연방 공무원 교류 프로그램을 추진하는 움직임이 보도되었다. 미국 연방 공무원들이 대만 정부 기관에서 근무하는 방식의 협력 방안이 6건의 기사로 보도되었으며, 이는 양국 간 관계 강화를 겨냥한 것으로 나타났다.",
+    "en": "Taiwan's diplomatic initiatives featured a federal employee fellowship program with the United States, with multiple reports covering the scheme to have US federal staff work in Taiwan government offices. The program was reported across six articles as a measure aimed at strengthening bilateral ties.",
     "model": "claude-haiku-4-5-20251001",
     "codebook_fingerprint": "59636e4b3f455774",
-    "n_articles": 5,
-    "generated_at": "2026-11-11T16:36:02",
+    "n_articles": 6,
+    "generated_at": "2026-11-11T23:41:01",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557",
@@ -48,8 +56,8 @@
       "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM"
      },
      {
-      "url": "https://focustaiwan.tw/business/202611110022",
-      "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan"
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867587",
+      "title": "US federal staff to work in Taiwan - Taipei Times"
      }
     ]
    }

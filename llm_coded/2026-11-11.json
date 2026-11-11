@@ -1,20 +1,20 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T16:35:54.278693",
+ "generated_at": "2026-11-11T23:40:53.490602",
  "codebook_fingerprint": "59636e4b3f455774",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 53,
- "n_coded": 53,
- "n_relevant": 9,
+ "n_articles": 68,
+ "n_coded": 68,
+ "n_relevant": 11,
  "stats": {
-  "api_calls": 33,
+  "api_calls": 15,
   "api_failures": 0,
   "unparseable": 0,
   "unpriced": 0,
   "cache_write": 12108,
-  "cache_read": 387456,
-  "input_uncached": 6845,
+  "cache_read": 169512,
+  "input_uncached": 3729,
   "folded": 0
  },
  "articles": {
@@ -433,6 +433,121 @@
    },
    "mentions": 1,
    "title": "Inside the firm at the heart of Nvidia scandal accused of smuggling chips to China | The Independent"
+  },
+  "https://english.news.cn/20261111/0c8b62dbeb314368b6c48331a81ad1cb/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Mainland slams Taiwan's DPP for hindering cross-Strait people-to-people exchanges-Xinhua"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867589": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Alleged Chinese spy barred from re-entry to Taiwan - Taipei Times"
+  },
+  "http://www.taiwansun.com/news/279426721/mainland-slams-taiwan-dpp-for-hindering-cross-strait-people-to-people-exchanges": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Mainland slams Taiwan's DPP for hindering cross-Strait people-to-people exchanges"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/12/2003867576": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Sun Yat-sen left behind a checklist - Taipei Times"
+  },
+  "https://www.busan.com/view/busan/view.php?code=2026111122090656083": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "대만 `中국적 앨리스황 홍콩여권 이용해 출입국`…향후 심사체계 재검토 - 부산일보"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Jensen Huang affair with alleged Chinese spy sparks security concerns in Taiwan | The Star"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5637648": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 Alleged Chinese spy barred from re-entry to Taiwan - 焦點 - 自由時報電子報"
+  },
+  "https://www.theepochtimes.com/china/us-federal-employees-to-work-in-taiwan-government-offices-under-new-program-6123748": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US Federal Employees to Work in Taiwan Government Offices Under New Program | The Epoch Times"
+  },
+  "https://www.nakedcapitalism.com/2026/11/nvidia-scandal-jensen-huang-megaspeed-alice-huang-spy.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Who Benefits From the Nvidia Scandal Revelations?"
+  },
+  "https://www.lrt.lt/naujienos/lietuvoje/2/3111251/po-uzdaro-seimo-komiteto-posedzio-raginimai-neskubeti-normalizuoti-santykiu-su-kinija": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Po uÅ¾daro Seimo komiteto posÄdÅ¾io â raginimai neskubÄti normalizuoti santykiÅ³ su Kinija - LRT"
+  },
+  "https://weeklyblitz.net/2026/11/12/lithuanias-taiwan-gamble-why-restoring-ties-with-china-requires-more-than-words/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lithuania’s Taiwan gamble: Why restoring ties with China requires more than words - BLiTZ"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/12/2003867583": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Notes from Central Taiwan: The politics behind the KMT’s infrastructure promises - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867587": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "050",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US federal staff to work in Taiwan - Taipei Times"
+  },
+  "https://www.dailymail.com/news/article-16285627/Trumps-summit-Putin-Xi-Yalta-1945.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "MARK ALMOND: I fear Trump's summit with Putin and Xi next week will be like Yalta in 1945 when three leaders carved up the world | Daily Mail Online"
+  },
+  "https://www.swissinfo.ch/eng/various/republican-blame-game-nvidia-honeytrap-and-a-nasa-job-offer/92348877": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Republican blame game, alleged Nvidia honeytrap, and a NASA job offer - SWI swissinfo.ch"
   }
  }
 }

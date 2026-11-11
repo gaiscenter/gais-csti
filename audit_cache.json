@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "prompt_version": 3,
-  "saved_at": "2026-11-11T16:33:47.745880",
+  "saved_at": "2026-11-11T23:39:54.194606",
   "entries": {
     "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/|172|neg": {
       "ok": false,
@@ -1261,6 +1261,132 @@
         "c2": true,
         "c3": null,
         "reason": "조건1: 예 — 기사는 대만과 미국 간의 무기 판매(군사 지원) 문제를 직접 다루고 있으며, 이는 대만의 방위 능력과 안보에 직접 영향을 주는 국가 간 사건입니다. 조건2: 예 — 기사의 논조는 대만 국방부 장관이 미국 의회의 초당적 지지와 무기 판매 계속을 긍정적으로 표현하고 있으며, 협력적·우호적 맥락으로 일관되어 있습니다. 최종: 예"
+      }
+    },
+    "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867589|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Alleged Chinese spy barred from re-entry to Taiwan - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "The woman accused of spying for China during an extramarital affair with Nvidia Corp CEO Jensen Huang (黃仁勳) used a Hong Kong passport to enter Taiwan, but she is barred from returning to Taiwan, as her entry permit has been revoked, Minister of the Interior Liu Shyh-fang (劉世芳) said yesterday.",
+      "paragraph_2": "Jensen Huang has admitted to having an affair, reportedly with Alice Huang (黃樂), also known as Huang Le, a former executive at Singapore-based Megaspeed who US officials believe was working for Chinese intelligence. Beijing has rejected the allegations of spying.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 중심 사건은 개인 스파이 혐의(Alice Huang)와 Nvidia CEO의 개인적 부정행위이며, 이는 대만과 중국 정부 간의 국가급 행위가 아니라 제3국(미국) 기업 임직원 관련 개인 사건입니다. 조건2: 예 — 기사의 논조는 스파이 혐의, 국가안보 위협, 입국금지 등으로 일관되어 있어 부정적/갈등적 방향과 일치합니다. 조건3: 예|아니오 — 불분명한 판단 (조건"
+      }
+    },
+    "https://english.news.cn/20261111/0c8b62dbeb314368b6c48331a81ad1cb/c.html|090|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Mainland slams Taiwan's DPP for hindering cross-Strait people-to-people exchanges-Xinhua",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING, Nov. 11 (Xinhua) -- A Chinese mainland spokesperson on Wednesday criticized Taiwan's Democratic Progressive Party (DPP) authorities for using legislation to suppress political dissent, intimidate the public and obstruct cross-Strait exchanges.",
+      "paragraph_2": "Zhang Han, spokesperson for the State Council Taiwan Affairs Office, made the remarks at a regular news conference in response to reports that the DPP authorities initiated procedures to revise the so-called anti-infiltration law, under the pretext of combating what they described as repression from the mainland.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국 정부 대변인이 대만 DPP 당국의 입법·정책(반침투법 개정, 관광 제한)을 직접 겨냥하여 비판하고 있으며, 이는 양측 간 정책 충돌 및 교류 제한으로 나타나는 대만-중국 간 직접적인 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국이 대만의 정책을 비판하고 \"분리주의 의제\" 추진, \"해협 대결 심화\" 시도로 묘사하는 등 명확히 갈등적·부정적입니다. 조건3: 예 — 부"
+      }
+    },
+    "https://www.taipeitimes.com/News/editorials/archives/2026/11/12/2003867576|160|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Sun Yat-sen left behind a checklist - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Today is the 160th anniversary of the birth of Republic of China (ROC) founder Sun Yat-sen (孫逸仙). The two sides of the Taiwan Strait intend to mark the day as if the other were trespassing.",
+      "paragraph_2": "Beijing set up a preparatory office for the commemorations in November last year, under the Chinese People’s Political Consultative Conference, and has framed the anniversary around “national rejuvenation” and opposition to Taiwanese independence.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 아니오 — 기사는 Sun Yat-sen 탄생 160주년 기념을 둘러싼 양측의 상징적 경쟁과 정치적 해석 차이를 다루고 있을 뿐, 군사행동·영토침범·위협·제재 등 한쪽이 다른 쪽의 안보에 직접 영향을 주는 구체적 행위가 없습니다. 조건2: 예 — 기사의 논조는 양측이 역사적 인물을 \"전리품\"처럼 경쟁하고 각자의 일부만을 선택적으로 해석하는 대립적 관계를 비판하는 부정적 톤입니다. 조건"
+      }
+    },
+    "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Waar is Alice Huang? Vermoedelijke Chinese spionne reisde met Hongkongs paspoort naar Taiwan | VRT NWS Nieuws",
+      "text_len": 2333,
+      "paragraph_1": "Alice Huang, de Chinese vrouw die verdacht wordt van spionage terwijl ze een affaire had met Nvidia-topman Jensen Huang, heeft een Hongkongs paspoort gebruikt om naar Taiwan te reizen. Dat heeft de immigratiedienst van Taiwan bevestigd. Waar de vrouw op dit moment is, is onduidelijk.",
+      "paragraph_2": "Jensen Huang , de topman van de Amerikaanse chipreus Nvidia, zit al enkele dagen in nauwe schoentjes. Eind oktober onthulde de krant The New York Times dat hij \"een nauwe band\" had met een Chinese vrouw. Zij zou vanuit Peking de opdracht gekregen hebben om te spioneren en bewust Jensen Huang geviseerd hebben.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국 요원의 미국 기업 고위임원 접근 사건을 다루고 있으며, 대만은 용의자가 통과한 영토일 뿐 대만-중국 간 국가급 상호작용이 아닙니다. 조건2: 아니오 — 기사의 논조는 중국의 스파이 활동 혐의라는 부정적/갈등적 내용인데, GoldsteinScale +1.9는 협력적/긍정적으로 분류되어 있어 심각한 불일치입니다. 최종: 아니오"
+      }
+    },
+    "http://www.taiwansun.com/news/279426721/mainland-slams-taiwan-dpp-for-hindering-cross-strait-people-to-people-exchanges|090|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Mainland slams Taiwan's DPP for hindering cross-Strait people-to-people exchanges",
+      "text_len": 2500,
+      "paragraph_1": "Xinhua 11 Nov 2026, 21:45 GMT+10",
+      "paragraph_2": "BEIJING, Nov. 11 (Xinhua) -- A Chinese mainland spokesperson on Wednesday criticized Taiwan's Democratic Progressive Party (DPP) authorities for using legislation to suppress political dissent, intimidate the public and obstruct cross-Strait exchanges.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국 정부 대변인이 대만 DPP 당국의 입법(반침투법 개정)과 관광 제한 정책을 직접 겨냥하여 비판하고 있으며, 이는 양쪽 정부 간의 교류 제한과 정책 충돌을 다루는 양국 간 사건입니다. 조건2: 예 — 기사의 논조는 중국이 대만을 \"분리주의\", \"대항 심화\", \"교류 방해\"로 비판하는 명백히 부정적이고 갈등적 내용이며, GoldsteinScale -2.0(갈등/부정)과 일치"
+      }
+    },
+    "https://news.ltn.com.tw/news/focus/breakingnews/5637648|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "《TAIPEI TIMES》 Alleged Chinese spy barred from re-entry to Taiwan - 焦點 - 自由時報電子報",
+      "text_len": 2500,
+      "paragraph_1": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。",
+      "paragraph_2": "Minister of the Interior Liu Shyh-fang, right, and National Police Agency Director-General Chang Jung-hsin attend a meeting of the legislature’s Internal Administration Committee in Taipei yesterday.\r\nPhoto: Tu Chien-jung, Taipei Times",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사는 개인 스파이 혐의 사건(Alice Huang의 중국 스파이 혐의)을 다루고 있으며, 대만 정부가 취한 조치(입국 금지)는 개인에 대한 것이지 중국 정부/국가를 직접 겨냥한 국가 간 행위가 아닙니다. 조건2: 예 — 기사의 논조는 스파이 혐의, 국가안보 우려, 입국 금지라는 부정적 내용으로 일관되어 있으며, GoldsteinScale -5.0의 갈등적 코드와 일치"
+      }
+    },
+    "https://weeklyblitz.net/2026/11/12/lithuanias-taiwan-gamble-why-restoring-ties-with-china-requires-more-than-words/|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Lithuania’s Taiwan gamble: Why restoring ties with China requires more than words - BLiTZ",
+      "text_len": 2500,
+      "paragraph_1": "Lithuania appears to be reconsidering one of the most consequential foreign-policy decisions of its recent history: allowing Taiwan to establish a representative office in Vilnius under its own name. Recent signals from the Lithuanian government suggest a growing willingness to repair relations with Beijing, including discussions about changing the office’s controversial name. President Gitanas Nausėda has also acknowledged that allowing the office to operate under the name “Taiwan” was a mistake. Yet, despite these political signals, concrete measures to restore diplomatic relations remain limited. The question is no longer whether Lithuania wants to improve ties with China, but whether it is prepared to address the decision that caused the diplomatic breakdown.",
+      "paragraph_2": "The controversy dates back to November 2021, when Lithuania permitted Taiwan to open a representative office in Vilnius using the name “Taiwanese Representative Office” rather than the more commonly used “Taipei Representative Office.” The decision broke with established diplomatic practice and directly challenged Beijing’s position on the Taiwan question. China viewed the move as an attempt to imply the existence of “one China, one Taiwan,” undermining the political foundation of bilateral relations. Beijing subsequently downgraded diplomatic ties, recalled its ambassador and imposed measures that disrupted economic exchanges. What Vilnius initially presented as a diplomatic achievement soon became the starting point of a prolonged confrontation with its largest Asian trading partner.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 리투아니아-중국 간의 외교 분쟁이며, 대만-중국 간의 직접적인 국가급 행위(군사행동, 위협, 무력시위 등)를 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 대만 사무소 설립으로 인한 중국의 보복, 경제제재, 외교 위기 등 갈등과 부정적 결과를 중심으로 다루고 있어서 긍정적 코드(+3.4)와 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.lrt.lt/naujienos/lietuvoje/2/3111251/po-uzdaro-seimo-komiteto-posedzio-raginimai-neskubeti-normalizuoti-santykiu-su-kinija|111|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Po uÅ¾daro Seimo komiteto posÄdÅ¾io â raginimai neskubÄti normalizuoti santykiÅ³ su Kinija - LRT",
+      "text_len": 2500,
+      "paragraph_1": "Po treÄiadienÄ¯ vykusio uÅ¾daro Seimo UÅ¾sienio reikalÅ³ komiteto (URK) posÄdÅ¾io parlamentarai ragino neskubÄti normalizuoti santykiÅ³ su Kinija ir Å¡Ä¯ procesÄ atskirti nuo bendradarbiavimo su Taivanu. Komiteto pirmininkas Remigijus Motuzas teigÄ, kad uÅ¾sienio reikalÅ³ ministras KÄstutis Budrys nuo Å¡iol informuos parlamentarus apie tolesnes derybas, o opozicijos atstovai Ä¯spÄjo dÄl Pekino keliamÅ³ grÄsmiÅ³.",
+      "paragraph_2": "âVisi mes buvome vieningos nuomonÄs, kad iÅ¡ tikrÅ³jÅ³ nereikÄtÅ³ tÅ³ procesÅ³ skubinti. SutarÄme, kad uÅ¾sienio reikalÅ³ ministras tiek prieÅ¡ kiekvienas derybas, tiek po kiekvienÅ³ derybÅ³ su Taivanu ir Kinijos Liaudies Respublika informuos Seimo URKâ, â treÄiadienÄ¯ Å¾urnalistams teigÄ R. Motuzas.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 리투아니아 의회의 대만-중국 관계 정상화에 대한 입장 논의를 다루고 있으며, 대만과 중국 간의 직접적인 행위(무력시위, 위협, 침범 등)가 아니라 제3국(리투아니아)의 외교 정책 결정에 관한 내용입니다. 조건2: 예 — 기사의 논조는 중국과의 관계 정상화를 서두르지 말아야 한다는 경고와 중국의 위협을 우려하는 내용으로, 갈등적/부정적 기조와 일치합니다. 조건3: 아"
+      }
+    },
+    "https://www.theepochtimes.com/china/us-federal-employees-to-work-in-taiwan-government-offices-under-new-program-6123748|030|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "US Federal Employees to Work in Taiwan Government Offices Under New Program | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "The United States and Taiwan have signed an agreement allowing American federal employees to work in Taiwanese government offices for up to a year.",
+      "paragraph_2": "Under the Taiwan Fellowship Program, participants will receive intensive Mandarin-language training and regional studies before taking assignments in Taiwan’s legislature, government ministries, other agencies, or organizations outside the public sector.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 미국과 대만 두 국가(정부급 행위자)가 직접 체결한 협정에 관한 사건으로, 양측 정부 간의 직접적인 상호작용을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 인적 교류, 교육·문화 프로그램, 전문가 양성을 통한 관계 심화를 다루고 있으며, 이는 긍정적 협력 내용이므로 GoldsteinScale +4.0과 일치합니다. 최종: 예"
       }
     }
   }
