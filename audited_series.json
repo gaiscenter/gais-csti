@@ -1,0 +1,26 @@
+{
+ "2026-11-11": {
+  "overall|CHN_threat": -0.8444,
+  "overall|CHN_response": -1.2833,
+  "overall|USA_threat": -1.1667,
+  "overall|USA_response": -1.3206,
+  "military|CHN_threat": 0.2273,
+  "military|CHN_response": 0.4702,
+  "military|USA_threat": 0.0123,
+  "military|USA_response": 0.0,
+  "supply|CHN_threat": -1.7338,
+  "supply|CHN_response": -1.2829,
+  "supply|USA_threat": -0.7023,
+  "supply|USA_response": -2.1143,
+  "diplomatic|CHN_threat": -0.0669,
+  "diplomatic|CHN_response": 0.1512,
+  "diplomatic|USA_threat": -0.0087,
+  "diplomatic|USA_response": -0.0059,
+  "cyber|CHN": 0.1506,
+  "cyber|USA": 0.1495
+ },
+ "_meta": {
+  "updated_at": "2026-11-11T08:22:08.748490",
+  "note": "날짜별로 그날 감사를 거쳐 공개된 값. 계열은 매 회차 재계산되므로 overlay_audited_series()가 이 기록으로 과거 날짜를 되살린다."
+ }
+}

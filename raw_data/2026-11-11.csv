@@ -1,0 +1,79 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,4,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286834.html
+2026-11-11,TAIWAN,THE US,051,3.4,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557
+2026-11-11,THE US,TAIWAN,084,7.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557
+2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,TAIWAN,CHINESE,090,-2.0,10,False,False,False,https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318
+2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,CHINA,TAIPEI,043,2.8,2,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,TAIWAN,CHINA,042,1.9,4,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,TAIPEI,CHINA,042,1.9,2,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,CHINA,TAIWAN,043,2.8,4,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,CHINA,TAIWAN,172,-5.0,1,False,False,False,http://inews24.com/view/2024793
+2026-11-11,CHINA,TAIWAN,172,-5.0,1,False,False,False,http://inews24.com/view/2024793
+2026-11-11,CHINA,TAIPEI,172,-5.0,4,False,False,False,http://inews24.com/view/2024793
+2026-11-11,CHINA,TAIWAN,172,-5.0,2,False,False,False,http://inews24.com/view/2024793
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html
+2026-11-11,SHANGHAI,TAIWAN,043,2.8,4,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,NVIDIA,TAIWAN,043,2.8,2,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,NVIDIA,TAIWAN,043,2.8,2,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWAN,SHANGHAI,042,1.9,8,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWANESE,CHINA,090,-2.0,1,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWANESE,CHINA,090,-2.0,2,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWAN,SHANGHAI,042,1.9,2,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,SHANGHAI,TAIWAN,043,2.8,6,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,NVIDIA,TAIWAN,043,2.8,6,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWAN,NVIDIA,042,1.9,6,False,False,False,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,TAIWANESE,WASHINGTON,090,-2.0,6,False,False,True,https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842
+2026-11-11,UNITED STATES,TAIWAN,172,-5.0,2,False,False,False,https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/
+2026-11-11,NEW YORK,TAIWAN,172,-5.0,8,False,False,False,https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/
+2026-11-11,TAIPEI,GUAM,043,2.8,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553
+2026-11-11,TAIPEI,GUAM,042,1.9,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553
+2026-11-11,GUAM,TAIPEI,042,1.9,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553
+2026-11-11,GUAM,TAIPEI,043,2.8,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553
+2026-11-11,CHINA,TAIWAN,043,2.8,1,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,BEIJING,TAIWAN,043,2.8,2,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,BEIJING,TAIWAN,043,2.8,1,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,TAIWAN,BEIJING,042,1.9,4,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,TAIWAN,CHINA,042,1.9,1,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,TAIWAN,BEIJING,042,1.9,2,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,BEIJING,TAIWAN,043,2.8,3,False,False,True,https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/
+2026-11-11,TAIWAN,CHINA,071,7.4,4,False,True,False,https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea
+2026-11-11,TAIWAN,CHINA,073,7.4,5,False,False,False,https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea
+2026-11-11,TAIWAN,CHINA,071,7.4,1,False,True,False,https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea
+2026-11-11,TAIWAN,UNITED STATES,071,7.4,2,False,True,False,https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIPEI,CHINESE,043,2.8,8,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,TAIWAN,THE US,051,3.4,1,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties
+2026-11-11,CHINESE,TAIPEI,042,1.9,8,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINESE,TAIPEI,090,-2.0,5,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINESE,TAIPEI,090,-2.0,5,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIPEI,172,-5.0,8,False,False,False,http://inews24.com/view/2024991
+2026-11-11,TAIPEI,WASHINGTON,161,-4.0,4,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIPEI,WASHINGTON,161,-4.0,6,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIWAN,THE US,051,3.4,10,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,CHINA,TAIWAN,013,0.4,2,False,False,True,https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy
+2026-11-11,TAIWAN,WASHINGTON,071,7.4,5,False,True,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIWAN,CHINA,010,0.0,1,False,False,False,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
+2026-11-11,CHINA,TAIWAN,130,-4.4,2,False,False,True,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
+2026-11-11,TAIWAN,CHINA,010,0.0,1,False,False,False,https://blog.wenxuecity.com/myblog/72453/202611/7617.html

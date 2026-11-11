@@ -1,0 +1,177 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T08:23:20.438670",
+ "codebook_fingerprint": "59636e4b3f455774",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 20,
+ "n_coded": 20,
+ "n_relevant": 3,
+ "stats": {
+  "api_calls": 20,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 12108,
+  "cache_read": 230052,
+  "input_uncached": 3444,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "050",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times"
+  },
+  "https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan confirma entrada de alegada espiã chinesa ligada ao presidente da Nvidia"
+  },
+  "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "050",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - KSEV Radio 700"
+  },
+  "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Nvidia chips worth at least $7.5 billion reach China, YTN reports | EconoTimes"
+  },
+  "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "The Nvidia Spy Scandal Was Hiding in Plain Sight"
+  },
+  "https://www.hani.co.kr/arti/english_edition/e_international/1286810.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Jensen Huang’s one-man rule over Nvidia could be its downfall"
+  },
+  "http://inews24.com/view/2024991": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "젠슨 황, 불륜 논란에도 정상 출근…일주일 뒤 실적 발표 컨콜 등장할까"
+  },
+  "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan, China tap market rescue funds. Why won't Korea? - The Korea Times"
+  },
+  "https://www.hani.co.kr/arti/english_edition/e_international/1286834.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Alleged Nvidia spy Alice Huang courted investors with promise of coveted GPUs"
+  },
+  "https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia CEO's 'relationship' triggers wave of viral memes"
+  },
+  "http://inews24.com/view/2024793": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "\"젠슨 황 불륜녀, 中에 엔비디아 반도체 10조원 공급 정황\""
+  },
+  "https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Belize’s Foreign Policy Faces Global Pressure | Greater Belize Media Belize’s Foreign Policy Faces Global Pressure"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Guam, Taipei elementary schools sign sister-school pact - Taipei Times"
+  },
+  "https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "âValstieÄiÅ³â lyderis: santykiÅ³ su Kinija atkÅ«rimas â minimumas, o ne draugystÄs siekis - LRT"
+  },
+  "https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Jensen Huang's 'spy' mistress had a secret HUSBAND: Nvidia plot thickens as details emerge on lover's past with financier who fell foul of Chinese authorities | Daily Mail Online"
+  },
+  "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "All the characters being talked about in the Jensen Huang scandal - AOL"
+  },
+  "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM"
+  },
+  "https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia Hires Top US Law Firm To Investigate CEO Jensen Huang's Alleged Link To Chinese Spy"
+  },
+  "https://blog.wenxuecity.com/myblog/72453/202611/7617.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "黄乐，她到底是谁？（中英文） - 博客 | 文学城"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - Internazionale"
+  }
+ }
+}

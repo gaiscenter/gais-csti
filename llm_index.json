@@ -1,0 +1,13 @@
+{
+ "date": "2026-11-11",
+ "mode": "shadow",
+ "codebook_fingerprint": "59636e4b3f455774",
+ "cells": {
+  "USA_response": {
+   "value": -1.3977,
+   "raw": -3.7273,
+   "e": 3,
+   "mentions": 22
+  }
+ }
+}

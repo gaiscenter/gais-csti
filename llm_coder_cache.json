@@ -1,0 +1,81 @@
+{
+ "fingerprint": "59636e4b3f455774",
+ "saved_at": "2026-11-11T08:23:20.438500",
+ "entries": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "050",
+   "conf": "high"
+  },
+  "https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318": {
+   "v1": "no"
+  },
+  "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "050",
+   "conf": "high"
+  },
+  "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842": {
+   "v1": "no"
+  },
+  "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/": {
+   "v1": "no"
+  },
+  "https://www.hani.co.kr/arti/english_edition/e_international/1286810.html": {
+   "v1": "no"
+  },
+  "http://inews24.com/view/2024991": {
+   "v1": "no"
+  },
+  "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea": {
+   "v1": "no"
+  },
+  "https://www.hani.co.kr/arti/english_edition/e_international/1286834.html": {
+   "v1": "no"
+  },
+  "https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes": {
+   "v1": "no"
+  },
+  "http://inews24.com/view/2024793": {
+   "v1": "no"
+  },
+  "https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553": {
+   "v1": "no"
+  },
+  "https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html": {
+   "v1": "no"
+  },
+  "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html": {
+   "v1": "no"
+  },
+  "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "060",
+   "conf": "high"
+  },
+  "https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy": {
+   "v1": "no"
+  },
+  "https://blog.wenxuecity.com/myblog/72453/202611/7617.html": {
+   "v1": "no"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties": {
+   "v1": "no"
+  }
+ }
+}

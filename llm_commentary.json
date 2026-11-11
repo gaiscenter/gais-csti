@@ -1,0 +1,43 @@
+{
+ "generated_at": "2026-11-11T08:23:28",
+ "model": "claude-haiku-4-5-20251001",
+ "n_days": 1,
+ "n_cells": 2,
+ "days": {
+  "2026-11-11": {
+   "CHN": {
+    "ko": "이 날 기사 20건을 읽었고, 그중 대만-중국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "20 articles were read for this day and none reported an event between Korea and China. A value of zero means no event was found, not that data is missing.",
+    "model": "none (no events)",
+    "codebook_fingerprint": "59636e4b3f455774",
+    "n_articles": 0,
+    "thin": true,
+    "empty": true,
+    "generated_at": "2026-11-11T08:23:26",
+    "sources": []
+   },
+   "USA": {
+    "ko": "대만과 미국이 연방 공무원 교류 프로그램을 시행하기로 했다. 외교 채널에서 미국 연방 공무원들이 대만 정부 기관에서 근무하는 방식으로 양국 관계를 강화하려는 움직임이 나타났다. 근거 3건으로 볼 때 이는 양측의 협력 의지를 보여주는 외교적 조치다.",
+    "en": "Taiwan and the United States are implementing a federal employee fellowship program. In the diplomatic channel, US federal employees will work in Taiwan's government offices as part of an effort to strengthen ties between the two sides. Based on three reports, this represents a diplomatic initiative reflecting mutual commitment to cooperation.",
+    "model": "claude-haiku-4-5-20251001",
+    "codebook_fingerprint": "59636e4b3f455774",
+    "n_articles": 3,
+    "generated_at": "2026-11-11T08:23:28",
+    "sources": [
+     {
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557",
+      "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times"
+     },
+     {
+      "url": "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - KSEV Radio 700"
+     },
+     {
+      "url": "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM"
+     }
+    ]
+   }
+  }
+ }
+}
