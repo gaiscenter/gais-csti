@@ -1,28 +1,35 @@
 {
- "generated_at": "2026-11-11T08:23:28",
+ "generated_at": "2026-11-11T16:36:04",
  "model": "claude-haiku-4-5-20251001",
  "n_days": 1,
  "n_cells": 2,
  "days": {
   "2026-11-11": {
    "CHN": {
-    "ko": "이 날 기사 20건을 읽었고, 그중 대만-중국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
-    "en": "20 articles were read for this day and none reported an event between Korea and China. A value of zero means no event was found, not that data is missing.",
-    "model": "none (no events)",
-    "codebook_fingerprint": "59636e4b3f455774",
-    "n_articles": 0,
-    "thin": true,
-    "empty": true,
-    "generated_at": "2026-11-11T08:23:26",
-    "sources": []
-   },
-   "USA": {
-    "ko": "대만과 미국이 연방 공무원 교류 프로그램을 시행하기로 했다. 외교 채널에서 미국 연방 공무원들이 대만 정부 기관에서 근무하는 방식으로 양국 관계를 강화하려는 움직임이 나타났다. 근거 3건으로 볼 때 이는 양측의 협력 의지를 보여주는 외교적 조치다.",
-    "en": "Taiwan and the United States are implementing a federal employee fellowship program. In the diplomatic channel, US federal employees will work in Taiwan's government offices as part of an effort to strengthen ties between the two sides. Based on three reports, this represents a diplomatic initiative reflecting mutual commitment to cooperation.",
+    "ko": "2026-11-11 대만-중국 관계는 중국의 군사·외교 채널 움직임이 주도했다. 중국이 서태평양에서 '지역 거부' 훈련을 실시하고 있다는 대만의 발표가 군사 긴장을 높였고, 대만이 PNG 내 대표부 폐쇄 이후 직원 철수 상황이 외교 채널에서 추가 긴장을 더했다. 근거가 2건이라 추세를 단정하기 어렵다.",
+    "en": "On 2026-11-11, Taiwan-China tensions were driven primarily by Chinese military and diplomatic moves. Taiwan's announcement that China is conducting 'area denial' drills in the Western Pacific raised military tensions, while the departure of Taiwan's representative office staff from PNG following government-ordered closure added diplomatic friction. With only two articles underlying this shift, it is difficult to characterize this as a clear trend.",
     "model": "claude-haiku-4-5-20251001",
     "codebook_fingerprint": "59636e4b3f455774",
-    "n_articles": 3,
-    "generated_at": "2026-11-11T08:23:28",
+    "n_articles": 4,
+    "generated_at": "2026-11-11T16:36:04",
+    "sources": [
+     {
+      "url": "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644",
+      "title": "Taiwan says China is conducting ’area denial’ drills in Western Pacific  - International | Daily Mirror"
+     },
+     {
+      "url": "https://focustaiwan.tw/politics/202611110011",
+      "title": "Taiwan representative office staff depart PNG after gov't-ordered closure - Focus Taiwan"
+     }
+    ]
+   },
+   "USA": {
+    "ko": "대만이 미국 연방 공무원 펠로십 프로그램을 추진하면서 외교 채널에서 긍정 신호를 보냈다. 미국 연방 공무원들이 대만 정부 부처에서 근무하는 방식으로 양국 관계를 강화하려는 움직임으로, 5건의 기사가 이를 보도했다.",
+    "en": "Taiwan is signaling positive diplomatic engagement through the implementation of a federal employee fellowship program with the United States. Under this scheme, US federal employees will work in Taiwan government offices, reflecting efforts to strengthen bilateral ties, as reported across five news outlets.",
+    "model": "claude-haiku-4-5-20251001",
+    "codebook_fingerprint": "59636e4b3f455774",
+    "n_articles": 5,
+    "generated_at": "2026-11-11T16:36:02",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557",
@@ -33,8 +40,16 @@
       "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - KSEV Radio 700"
      },
      {
+      "url": "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties",
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne"
+     },
+     {
       "url": "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
       "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM"
+     },
+     {
+      "url": "https://focustaiwan.tw/business/202611110022",
+      "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan"
      }
     ]
    }

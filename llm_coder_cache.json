@@ -1,6 +1,6 @@
 {
  "fingerprint": "59636e4b3f455774",
- "saved_at": "2026-11-11T08:23:20.438500",
+ "saved_at": "2026-11-11T16:35:54.278321",
  "entries": {
   "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557": {
    "v1": "yes",
@@ -75,6 +75,135 @@
    "v1": "no"
   },
   "https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties": {
+   "v1": "no"
+  },
+  "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/": {
+   "v1": "no"
+  },
+  "https://patriotpost.us/articles/1002708-the-jensen-huang-scandal": {
+   "v1": "no"
+  },
+  "https://tribunaonline.com.br/internacional/chinesa-acusada-de-espionagem-usou-passaporte-de-hong-kong-para-entrar-em-taiwan-334626": {
+   "v1": "no"
+  },
+  "https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/": {
+   "v1": "no"
+  },
+  "https://www.correiodopovo.com.br/jornal-com-tecnologia/chinesa-acusada-de-espionagem-contra-ceo-da-nvidia-entrou-em-taiwan-com-passaporte-de-hong-kong-1.1763729": {
+   "v1": "no"
+  },
+  "https://timesofindia.indiatimes.com/relationships/jensen-huangs-old-taipei-bar-photo-with-alice-huang-goes-viral-again-whats-the-story/articleshow/135730841.cms": {
+   "v1": "no"
+  },
+  "https://www.dw.com/id/perang-cip-ai-as-cina-megaspeed-jadi-sorotan-di-tengah-skandal-nvidia/a-79914195": {
+   "v1": "no"
+  },
+  "https://www.huffingtonpost.kr:443/article/261998": {
+   "v1": "no"
+  },
+  "https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/": {
+   "v1": "no"
+  },
+  "https://drimble.nl/binnenlands-nieuws/108564036/taiwan-onderzoekt-hoe-vermeende-chinese-spion-land-in-kon.html": {
+   "v1": "no"
+  },
+  "http://inews24.com/view/2025060": {
+   "v1": "no"
+  },
+  "https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "100",
+   "conf": "high"
+  },
+  "https://www.fnnews.com/news/202611111746450059": {
+   "v1": "no"
+  },
+  "https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan": {
+   "v1": "no"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/business/202611110022": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "040",
+   "conf": "low"
+  },
+  "https://www.busan.com/view/busan/view.php?code=2026111118004583176": {
+   "v1": "no"
+  },
+  "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "050",
+   "conf": "high"
+  },
+  "https://www.businessinsider.com/jensen-huang-scandal-nvidia-tsmc-taiwan-semiconductor-2026-11": {
+   "v1": "no"
+  },
+  "https://www.alphatv.gr/kosmos/italia-sinagermos-me-apeili-vomvas-kai-paraliritika-minimata-se-300-sxoleia/": {
+   "v1": "no"
+  },
+  "https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/": {
+   "v1": "no"
+  },
+  "https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/po-uzdaro-seimo-komiteto-posedzio---raginimai-neskubeti-normalizuoti-santykiu-su-kinija/": {
+   "v1": "no"
+  },
+  "http://english.hani.co.kr/arti/english_edition/e_international/1286810.html": {
+   "v1": "no"
+  },
+  "https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html": {
+   "v1": "no"
+  },
+  "https://english.aawsat.com/world/5340034-chinese-woman-accused-spying-nvidia-boss-entered-taiwan-hong-kong-passport": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867565": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/politics/202611110011": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "160",
+   "conf": "high"
+  },
+  "https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html": {
+   "v1": "no"
+  },
+  "https://www.ibtimes.co.uk/taiwan-alice-huang-alleged-spy-entry-permit-1831666": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html": {
    "v1": "no"
   }
  }

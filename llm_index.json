@@ -4,10 +4,22 @@
  "codebook_fingerprint": "59636e4b3f455774",
  "cells": {
   "USA_response": {
-   "value": -1.3977,
-   "raw": -3.7273,
+   "value": -1.5985,
+   "raw": -3.197,
+   "e": 5,
+   "mentions": 33
+  },
+  "CHN_response": {
+   "value": 0.8333,
+   "raw": 5.0,
+   "e": 1,
+   "mentions": 8
+  },
+  "CHN_threat": {
+   "value": 2.2167,
+   "raw": 5.9111,
    "e": 3,
-   "mentions": 22
+   "mentions": 9
   }
  }
 }

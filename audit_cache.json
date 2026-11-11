@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
   "prompt_version": 3,
-  "saved_at": "2026-11-11T08:22:08.744493",
+  "saved_at": "2026-11-11T16:33:47.745880",
   "entries": {
     "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/|172|neg": {
       "ok": false,
@@ -883,6 +883,384 @@
         "c2": false,
         "c3": null,
         "reason": "조건1: 아니오 — 기사의 주요 내용은 중국 정보기관의 NVIDIA CEO에 대한 스파이 활동이며, 대만은 Gigabyte와의 접촉이 곁가지로만 언급되어 있고 대만 정부/국가급 행위자가 주체적으로 참여하거나 겨냥당하지 않습니다. 조건2: 아니오 — 기사 내용은 중국의 첩보활동, 기술 탈취 시도, 제재 회피 등 갈등적·위협적 성격이 강한데, GDELT가 부여한 +6.4(협력적/긍정적) 점수와 "
+      }
+    },
+    "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Waar is Alice Huang? Vermoedelijke Chinese spionne reisde met Hongkongs paspoort naar Taiwan | VRT NWS Nieuws",
+      "text_len": 2333,
+      "paragraph_1": "Alice Huang, de Chinese vrouw die verdacht wordt van spionage terwijl ze een affaire had met Nvidia-topman Jensen Huang, heeft een Hongkongs paspoort gebruikt om naar Taiwan te reizen. Dat heeft de immigratiedienst van Taiwan bevestigd. Waar de vrouw op dit moment is, is onduidelijk.",
+      "paragraph_2": "Jensen Huang , de topman van de Amerikaanse chipreus Nvidia, zit al enkele dagen in nauwe schoentjes. Eind oktober onthulde de krant The New York Times dat hij \"een nauwe band\" had met een Chinese vrouw. Zij zou vanuit Peking de opdracht gekregen hebben om te spioneren en bewust Jensen Huang geviseerd hebben.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 중국 스파이 혐의자 Alice Huang의 개인적 스파이 활동과 Nvidia CEO와의 불륜 사건이며, 대만-중국 두 국가(정부/국가급 행위자) 간의 직접적인 상호작용이나 안보 사건(영토 침범, 무력시위, 공개 위협 등)이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 스파이 활동, 개인의 보안 위반, 국가 안보 침해 등 명백히 부정적이고 갈등적인"
+      }
+    },
+    "https://www.hani.co.kr/arti/english_edition/e_international/1286810.html|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang’s one-man rule over Nvidia could be its downfall",
+      "text_len": 2500,
+      "paragraph_1": "The recent scandal surrounding Nvidia CEO Jensen Huang has not only dealt a serious blow to major tech company stock prices around the world but also shown that the company has no one positioned to take his place.",
+      "paragraph_2": "The 63-year-old Huang’s “star quality” has played a major part in shoring up investment in the global artificial intelligence industry, not just with key infrastructure such as graphics processing units (GPUs) but also with massive outlays of capital. Now doubts are being raised about the sustainability of this framework.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO Jensen Huang의 경영 구조와 회사 내부 문제에 관한 것으로, 대만과 중국(또는 대만 정부와 중국 정부) 간의 국가급 행위자 사이의 사건을 전혀 다루고 있지 않습니다. 조건2: 해당사항 없음 — 조건1이 불충족되었으므로 검토 불필요합니다. 최종: 아니오"
+      }
+    },
+    "https://tribunaonline.com.br/internacional/chinesa-acusada-de-espionagem-usou-passaporte-de-hong-kong-para-entrar-em-taiwan-334626|112|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinesa acusada de espionagem usou passaporte de Hong Kong para entrar em Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "A executiva chinesa Alice Huang , que teve um caso amoroso com o CEO da Nvidia e é acusada pelos EUA de atuar como espiã de seu país, usou um passaporte de Hong Kong para entrar em Taiwan , país-natal de Jensen Huang .",
+      "paragraph_2": "Em Taiwan, Jensen e Alice, que não são parentes, foram vistos ao menos duas vezes em locais públicos. Em 2024, eles foram fotografados em um evento de tecnologia e, no ano seguinte, foram filmados em um restaurante.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 중국 임원 Alice Huang의 스파이 혐의와 개인적 로맨스 관계이며, 대만-중국 정부 간 직접적인 행위(군사훈련, 위협, 영해침범 등)가 아니라 개인의 입국과 이민 절차 검토에 관한 것입니다. 조건2: 예 — 기사의 논조는 스파이 혐의, 비자 취소, 보안 절차 검토 등 갈등적/부정적 요소를 담고 있어 음수 코드와 일치합니다. 조건3: 해당 없음 — 조건1"
+      }
+    },
+    "https://www.correiodopovo.com.br/jornal-com-tecnologia/chinesa-acusada-de-espionagem-contra-ceo-da-nvidia-entrou-em-taiwan-com-passaporte-de-hong-kong-1.1763729|112|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinesa acusada de espionagem contra CEO da Nvidia entrou em Taiwan com passaporte de Hong Kong",
+      "text_len": 2500,
+      "paragraph_1": "A mulher acusada de espionagem a favor da China durante um relacionamento amoroso com o CEO da Nvidia, Jensen Huang , usou um passaporte de Hong Kong para entrar em Taiwan, informou nesta quarta-feira (11) a agência de imigração da ilha.",
+      "paragraph_2": "Huang admitiu que teve um caso extraconjugal, supostamente, com a mulher identificada como Alice Huang , uma ex-executiva chinesa da empresa Megaspeed, com sede em Singapura. As autoridades dos Estados Unidos acreditam que ela trabalhava para os serviços de inteligência de Pequim.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 중국 여성의 미국 Nvidia CEO에 대한 개인적 스파이 혐의 사건이며, 대만-중국 두 국가 간의 국가급 행위(군사행동, 위협, 제재 등)가 아니라 제3국(미국) 관련 사건에 대만이 부수적으로 언급된 것입니다. 조건2: 예 — 기사의 실제 논조는 스파이 혐의, 보안 위협, 대만 입국 관리 허점 등 부정적 내용으로 일치합니다. 조건3: 해당 없음 — 조건1에"
+      }
+    },
+    "https://www.dw.com/id/perang-cip-ai-as-cina-megaspeed-jadi-sorotan-di-tengah-skandal-nvidia/a-79914195|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Megaspeed Diselidiki atas Dugaan Cip AI Nvidia Masuk ke Cina",
+      "text_len": 2500,
+      "paragraph_1": "Di tengah sorotan terhadap hubungan pribadi CEO Nvidia , Jensen Huang, dengan seorang perempuan yang diduga mata-mata Cina , perhatian kini mengarah pada perusahaan tempat perempuan tersebut bekerja.",
+      "paragraph_2": "Alice H., perempuan yang dituduh sebagai mata-mata Cina, pernah menjabat sebagai eksekutif di Megaspeed, perusahaan pusat data dan komputasi kecerdasan buatan (Artificial intelligence/AI) yang berbasis di Singapura. Perusahaan itu mengelola akses pusat data, termasuk bagi sejumlah raksasa teknologi Cina seperti Alibaba.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 대만과 중국 간의 직접적인 국가급 행위(군사행동, 위협, 충돌 등)를 다루지 않으며, 싱가포르 기반 기업 Megaspeed와 미국의 반도체 수출규제 집행이 주요 내용입니다. 조건2: 예 — 기사의 논조는 위반 혐의, 적발 조사, 제재 대상 기업이라는 부정적 내용으로 일치합니다. 조건3: 아니오 — 부정적 논조의 주체는 미국 정부(수출규제 정책, 조사 중)와 싱가포르"
+      }
+    },
+    "https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "The Godfather Of Taiwan's DRAM Industry Says CXMT Will Flood The Market With Memory Products \"In Two Years,\" As Another Expert Doubles Down On TSMC's BEOL Memory",
+      "text_len": 2500,
+      "paragraph_1": "Charles Kao (Gao Qiquan), who is widely considered the 'Godfather of Taiwan's DRAM industry,' has just pushed back on expectations that TSMC will enter the memory sphere, declaring that the world's largest contract manufacturer of chips \" cannot do 3D DRAM .\" Even so, another semiconductor expert believes it is quite possible for TSMC to come up with a novel BEOL memory .",
+      "paragraph_2": "Elsewhere, Kao warned that China's CXMT is poised to flood the market in around two years, even as he remains unconvinced of the viability of the 4F² memory cell architecture that CXMT is now apparently pursuing with admirable gusto.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 대만과 중국 정부/국가 간의 직접적인 행위(군사행동, 위협, 정책 결정 등)를 다루지 않으며, 순수하게 반도체 기업들(TSMC, CXMT)의 기술 개발 역량에 대한 산업 전문가 의견을 다루고 있습니다. 조건2: 예|아니오 — 기사의 실제 논조는 중립적 기술 논의이며, CXMT의 시장 진출 가능성에 대한 우려는 경제적 경쟁 차원이지 국가 간 갈등/위협이 아니므로, 부"
+      }
+    },
+    "https://timesofindia.indiatimes.com/relationships/jensen-huangs-old-taipei-bar-photo-with-alice-huang-goes-viral-again-whats-the-story/articleshow/135730841.cms|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia: Jensen Huang's old Taipei bar photo with Alice Huang goes viral again: What's the story? - The Times of India",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO 젠슨 황의 개인적 바 방문 사진에 관한 연예/라이프스타일 가십일 뿐, 대만과 대만-미국 두 국가(정부/국가급 행위자) 사이의 국가적 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 내용은 개인 사진이 소셜미디어에서 바이럴되고 인터넷 루머가 퍼지는 것에 관한 중립적/가십적 톤이며, 갈등적/부정적 국제관계 사건이 아닙니다. 조건3: 아니오 — 기사"
+      }
+    },
+    "https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "La liaison de Jensen Huang met en péril l'avenir de Nvidia, qui n'a pas de successeur évident pour remplacer son célèbre PDG, alors que plus de 60 cadres supérieurs relèvent directement de lui",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 젠슨 황의 개인적 스캔들(중국 보안 부처와 연결된 인물과의 관계)을 다루고 있으며, 이는 미국-대만 국가 간 행위가 아니라 한 미국 기업의 내부 보안 문제입니다. 조건2: 아니오 — 기사의 실제 논조는 Nvidia의 리더십 위기, 보안 위협, 후계자 부재 등 부정적 내용이므로 GoldsteinScale +2.8(협력적/긍정적)과 불일치합니다. 최"
+      }
+    },
+    "https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinese woman accused of Nvidia spying entered Taiwan on HK passport",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 중국 여성의 스파이 혐의와 대만 입국 경로에 관한 것으로, NVIDIA와 대만(국가 행위자) 간의 직접적 국가급 행위나 안보 충돌이 아니라 개인의 산업 스파이 혐의 사건입니다. 조건2: 예 — 기사의 논조는 중국의 스파이 활동 혐의, 위협적 행위라는 내용으로 실제로 부정적입니다. 조건3: 아니오 — 부정적 논조가 중국의 불법 스파이 행위라는 제3자(중국도 대만도 아"
+      }
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec - The Economic Times",
+      "text_len": 1717,
+      "paragraph_1": "Explore More Stories",
+      "paragraph_2": "Sass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO의 개인적 스캔들(불륜설)을 다루고 있으며, 대만과 미국(또는 대만-미국) 간의 국가급 행위나 정부 간 상호작용을 전혀 다루지 않습니다. 조건2: 아니오 — 기사의 실제 내용은 연예인·유명인 스캔들, 사망 소식, 범죄 사건 등 국제정치 갈등과 무관한 잡다한 뉘스들이며, 대만-NVIDIA 간의 국가급 갈등이나 부정적 상호작용을 전혀 담고 있지 않습니"
+      }
+    },
+    "https://patriotpost.us/articles/1002708-the-jensen-huang-scandal|040|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "The Jensen Huang Scandal | The Patriot Post",
+      "text_len": 2500,
+      "paragraph_1": "Depending on the actual facts, this could be very serious. But the hypocrisy already on display by the Left is breathtaking.",
+      "paragraph_2": "By Gary Bauer · November 11, 2026 https://patriotpost.us /articles / 1002708-the-jensen-huang-scandal",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 젠슨 황의 중국 스파이와의 관계 스캔들과 미국의 대중국 무역 정책을 다루고 있으며, 대만-미국 간의 직접적인 국가급 행위나 상호작용을 구체적으로 다루지 않고 있습니다. 조건2: 아니오 — 기사의 논조는 중국에 대한 강경한 비판, 기업의 로비 비판, 트럼프의 대중국 정책 지지 등 갈등적이고 비판적이며, GoldsteinScale +1.0(협력적/긍"
+      }
+    },
+    "http://inews24.com/view/2025060|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "\"앨리스 황의 무기는 '달콤한 미소'…남자들, 영혼까지 끌려가\"",
+      "text_len": 1073,
+      "paragraph_1": "[아이뉴스24 박정민 기자] 젠슨 황 엔비디아 최고경영자(CEO)의 불륜 상대인 앨리스 황(중국명 황러)과 관련해, 그녀의 가장 큰 무기는 '극도의 자신감'이라는 지인 인터뷰가 등장했다.",
+      "paragraph_2": "11일(현지시간) 싱가포르 매체 '8월드'는 황씨의 50대 지인 A씨의 인터뷰를 보도했다.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 엔비디아 CEO의 불륜 상대인 개인 인물(앨리스 황)에 관한 인물 논평일 뿐, 대만과 중국 정부(또는 국가급 행위자) 사이의 국가 간 사건을 다루지 않습니다. 조건2: 해당 없음 조건3: 해당 없음 최종: 아니오"
+      }
+    },
+    "https://focustaiwan.tw/business/202611110022|050|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan",
+      "text_len": 2121,
+      "paragraph_1": "Taipei, Nov. 11 (CNA) Acer Group founder and Honorary Chairman Stan Shih (施振榮) has been named Taiwan's envoy to the 2026 Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China, the Presidential Office said on Wednesday.",
+      "paragraph_2": "President Lai Ching-te (賴清德) chose Shih for his international perspective and industry expertise, hoping he would bring Taiwan's views and experience on economic and trade issues to the summit, Presidential Office spokesperson Karen Kuo (郭雅慧) said.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 대만이 APEC 정상회담에 사절을 파견하는 경제 외교 행사이며, 대만-중국 간 직접적인 안보 위협·군사 행동·영토 분쟁 등이 아니라 국제기구 참여 문제이므로 두 국가 간 직접적 국가행위 사건에 해당하지 않습니다. 조건2: 예 — 기사의 논조는 대만의 국제 경제 무대 참여, 사절 파견, 국제 지위 강화 등으로 실제로 협력적·긍정적 내용입니다. 최종: 아니오"
+      }
+    },
+    "https://www.hani.co.kr/arti/international/china/1285746.html|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "“시진핑 비판, 6년 복역” 중 역사학자, 대만에 ‘보호 요청’ 거절당해",
+      "text_len": 1458,
+      "paragraph_1": "관영 중국중앙텔레비전(CCTV)의 교양 프로그램 강연자로 활동했던 역사학자가 시진핑 중국 국가주석을 비판해 6년간 복역했다며 대만에 인도적 보호를 요청했으나 타이(태국)로 송환됐다고 밝혔다. 대만 당국의 결정에 반발한 그는 제3국으로 가 보호를 요청할 계획이다.",
+      "paragraph_2": "4일 대만 공영방송 중앙방송국(RTI) 보도를 보면, 중국 당국의 탄압을 받았다고 주장하는 역사학자이자 언론인 청완쥔은 이날 전화 인터뷰에서 “3일 밤 태국 방콕으로 송환됐다”고 밝혔다. 대만에서 제3국 망명을 준비할 계획이었던 그는 대만 당국의 결정에 “실망과 분노를 느낀다”고 말했다. 중국 인권운동가 제리젠의 소셜미디어 엑스(X) 계정에는 청완쥔의 타이 송환 소식과 함께 정강이와 손목 부위 등에 상처를 입은 사진 등이 함께 게재됐다. 그는 2019년 1월 방영된 중국중앙텔레비전의 ‘법률강당’에 강연자로 출연했고, ‘법률과 생활’ 잡지사의 편집장도 지낸 것으로 알려졌다.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 중국의 정치적 억압을 피한 개인 난민이 대만에서 보호를 요청했으나 거절당한 사건으로, 국가 간 직접적인 군사·안보 행위(미사일, 영공침범, 위협 등)가 아니라 개인의 인도적 망명 신청 거절에 관한 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 정치적 탄압, 대만의 보호 거절, 개인의 송환이라는 부정적/갈등적 내용이지만, GDELT는 Goldste"
+      }
+    },
+    "https://focustaiwan.tw/society/202611040015|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Former CCTV host seeking asylum in Taiwan deported to Thailand - Focus Taiwan",
+      "text_len": 2018,
+      "paragraph_1": "Taipei, Nov. 4 (CNA) Chinese national Cheng Wanjun (程萬軍), who remained at Taoyuan International Airport after arriving on a connecting flight from Thailand on Monday and sought asylum in Taiwan, was deported to Thailand early Wednesday, the National Immigration Agency (NIA) said.",
+      "paragraph_2": "In a video circulating on social media platform X, formerly Twitter, Cheng identified himself as a former host at China Central Television (CCTV) and said he was seeking temporary humanitarian protection in Taiwan.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사는 중국 국민의 개인적 망명 신청 사건으로, 대만 정부의 이민청이 입국 서류 부족과 증거 부족을 이유로 신청을 거부하고 제3국인 태국으로 추방한 사건이며, 중국-대만 두 국가 간의 국가급 행위(군사행동, 영토분쟁, 정치외교 갈등 등)를 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 대만이 망명 신청을 거부하고 강제 추방한 부정적/제한적 조치이므로, "
+      }
+    },
+    "https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Belize’s Foreign Policy Faces Global Pressure | Greater Belize Media Belize’s Foreign Policy Faces Global Pressure",
+      "text_len": 2500,
+      "paragraph_1": "Belize insists that its foreign policy is its own . But two developments, one involving Francis Fonseca and the other Godfrey Smith, show how difficult that independence becomes when Washington and Beijing are applying pressure. The issue is no longer simply whether Belize stands with Taiwan or turns to China. It is whether a small country can make that choice without consequences.",
+      "paragraph_2": "Paul Lopez, Reporting",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 벨리즈의 외교정책 선택에 대한 미국과 중국의 압력이며, 중국-대만 간의 직접적 상호작용이 아니라 제3국(벨리즈)을 매개로 한 간접적 영향 관계입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 제재, 자산동결, 비자 취소 등 강압적 조치와 미국의 비자 취소를 다루고 있어 명백히 부정적/갈등적이지만, CAMEO 043과 GoldsteinScale +2"
+      }
+    },
+    "https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/|011|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China - BusinessWorld Online",
+      "text_len": 2500,
+      "paragraph_1": "TAIPEI — Taiwan said on Wednesday that Stan Shih, founder of computer maker Acer, would attend next week’s Asia-Pacific Economic Cooperation (APEC) summit in China as the government’s envoy, and called for Beijing’s written assurance that Taiwan would be able to participate on an equal footing.",
+      "paragraph_2": "The APEC grouping is one of the few international bodies that include Taiwan, which China claims as its own territory. China is this year’s host, with the leaders’ summit next week in the southern city of Shenzhen.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국이 주최하는 APEC 정상회담에서 대만의 참석 권리와 평등한 지위를 둘러싼 대만과 중국 정부 간의 직접적인 분쟁을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 대만이 중국 주최국에 공식적인 초장과 평등한 대우를 요청하는 외교적 요구일 뿐, 위협·제재·군사적 충돌과 같은 명백한 갈등 행위가 아닙니다. 조건3: 예 — 부정적 논조는 중국이 대만에 공식 초장"
+      }
+    },
+    "https://www.busan.com/view/busan/view.php?code=2026111118004583176|010|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "APEC 중·일회담 무산되나 - 부산일보",
+      "text_len": 2500,
+      "paragraph_1": "다카이치 사나에 일본 총리가 지난 4일 도쿄 총리 관저에 도착하고 있다. AFP연합뉴스 오는 18~19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의에서 다카이치 사나에 일본 총리와 시진핑 중국 국가주석의 공식 회담이 무산된 것으로 보인다고 교도통신이 복수의 중일 관계 소식통을 인용해 11일 보도했다. 중국 측 소식통은 이 매체에 “주요 참가국 중 일본이 유일하게 시 주석과 회담하지 않는 국가가 될 것”이라고 전했다. 중국은 다카이치 총리가 지난해 11월 ‘대만 유사시 개입’ 시사 발언을 한 데 대해 반발하며 일본 측의 공식 대화 요구를 거부해왔고, 일본산 수산물 수입 금지 재개나 희토류 등 전략 물자 수출 통제 같은 실력 행사로 압박을 이어가고 있다. 교도통신은 시 주석이 APEC 정상회의에서 미국·러시아 등 정상을 극진히 대우할 것으로 예상되는 와중에 다카이치 총리는 냉대받을 것으로 보인다고 전망했다. 일본 당국은 중국 측에 다카이치 총리를 외교적으로 홀대하지 말고 다른 정상들과 동등하게 대우해 달라고 요청하고 있다고 블룸버그 통신이 최근 전하기도 했다. 교도통신은 일본 정부가 막판까지 시 주석과의 회담을 성사하기 위해 노력할 방침이지만, 시 주석과 간단히 악수하거나 짧게 접촉할 기회를 모색하는 것이 현재로서는 현실적이라는 관측이 지배적이라고 해설했다. 중국 외교부의 이날 반응도 중일 정상회담이 성사되기는 어려울 것이라는 해석에 힘을 싣는다. 궈자쿤 중국 외교부 대변인은 “2026년 APEC 주최국 중국은 주최국의 의무를 적극 이행하면서 각국과 함께 ‘APEC 중국의 해’가 원만한 성공을 거두도록 추진할 용의가 있다”고 말했다. 중국 외교부가 언급한 ‘여러 차례 표명한 입장’은 다카이치 총리의 대만 발언 철회를 의미하는 것으로 보인다. 왕이 중국공산당 중앙외사판공실 겸 외교부장은 지난 9월 방중한 이와야 다케시 전 일본 외무상을 만나 중일 관계의 정상화 필요성을 언급하면서도 “일본에 시급한 것은 본국 지도자가 대만 문제에 관해 했던 잘못된 언행을 조속히 시정하는 것”이라는 선결 조건을 제시한 바 있다. APEC을 계기로 중일 관계가 개선될 것이라는 일본 일각의 기대와 달리 양국 관계의 냉각 국면이 장기화할 수 있다는 관측이 제기되는 상황에서 일본 정부는 이번 APEC을 계기로 동맹국인 미국이 중국·러시아와 가까워지는 구도가 형성될 가능성도 경계하고 있다. 마이니치 신문은 일본 정부가 APEC 정상회의에서 열릴 가능성이 있는 미중러 정상회담과 관련해 미국 측에 우려를 전달했다고 보도했다. 앞서 8일 도널드 트럼프 대통령은 시 주석 및 블라디미르 푸틴 러시아 대통령과 만날 것으로 예상한다고 말했다. 일본은 다카이치 총리에 대한 중국 측 냉대가 예상되는 APEC 무대에서 최대의 외교·안보 파트너 미국과 다카이치 정권이 군사적 팽창을 견제하는 중국·러시아 간의 화기애애한 분위기가 연출될 경우 자국 '소외'가 더욱 부각될 것을 우려하는 것으로 보인다. 연합뉴스",
+      "paragraph_2": "오는 18~19일 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의에서 다카이치 사나에 일본 총리와 시진핑 중국 국가주석의 공식 회담이 무산된 것으로 보인다고 교도통신이 복수의 중일 관계 소식통을 인용해 11일 보도했다. 중국 측 소식통은 이 매체에 “주요 참가국 중 일본이 유일하게 시 주석과 회담하지 않는 국가가 될 것”이라고 전했다.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 중국-일본 간 정상회담 무산에 관한 것이며, 대만은 중국이 일본을 압박하는 명목(일본 총리의 대만 발언)으로만 언급될 뿐 중국-대만 간의 직접적인 사건이나 상호작용을 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 일본에 대한 외교적 냉대, 경제 제재(수산물 수입 금지, 희토류 수출 통제), 정상회담 거부 등 갈등적이고 압박적인 내"
+      }
+    },
+    "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644|016|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan says China is conducting ’area denial’ drills in Western Pacific  - International | Daily Mirror",
+      "text_len": 2500,
+      "paragraph_1": "Middleast Lankadeepa",
+      "paragraph_2": "(Reuters) - China is carrying out \"area denial\" drills in the Western Pacific ‌involving one of its aircraft carriers and other naval formations, Taiwan Defence Minister Wellington Koo said on Tuesday, following a reported rise in Chinese activities. China, which views democratically governed Taiwan as its own territory, regularly sends its ​warplanes and warships into the skies and waters around the island. Last week, Taiwan National Security ​Council Secretary-General Joseph Wu posted on his X account details of the ⁠deployments of more than 100 Chinese naval and Coast Guard ships operating off Taiwan, in the ​South China Sea, and into the Pacific. Taiwan's defence ministry last week also reported a large rise ​in the number of Chinese air force aircraft around Taiwan, though China has not formally declared any drills. \"China has indeed conducted area denial drills in the Western Pacific with the Liaoning carrier group and other naval training formations,\" ​Koo told reporters at parliament. Anti-access/area denial, or A2AD, refers to keeping an outside force from ​intervening in a conflict, which in the Taiwan context means stopping US or other allied forces from coming to ‌Taipei's ⁠aid should Beijing attack. China's defence ministry did not immediately respond to a request for comment. The ministry said last month that the Liaoning carrier's training in the western Pacific was an annual routine to test long-range, open-ocean combat capabilities and was not directed at any particular country. China's drills come ahead of ​both the APEC summit ​in Shenzhen next week, ⁠where US President Donald Trump is expected to meet Chinese President Xi Jinping again, and Taiwan's local elections at the end of this month. Koo ​said the military was keeping a close watch on what China was ​up to. \"We ⁠believe that this kind of military deterrence is intended to undermine peace and stability in the Indo-Pacific region,\" he added. \"We will use joint intelligence, surveillance, and reconnaissance means and exchange intelligence with allies to ⁠continuously ​monitor these activities and respond appropriately.\" China has never renounced the ​use of force to bring Taiwan under its control, though it says it would prefer \"peaceful reunification\". Taiwan's government rejects Beijing's sovereignty ​claims, saying only the Taiwanese people can decide their future.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국이 대만을 겨냥한 군사훈련(항모 연합훈련, 100척 이상의 해·공군 배치)을 실행하여 대만의 안보에 직접 영향을 주는 일방적 행위이며, 이는 두 국가 간 직접적 사건입니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련을 \"지역 거부\"(area denial) 작전으로 묘사하고, 대만 국방부 장관이 \"인도-태평양의 평화와 안정을 훼손하려는 의도\"라고 비판하며 부정적·갈등적으"
+      }
+    },
+    "https://focustaiwan.tw/politics/202611110011|160|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan representative office staff depart PNG after gov't-ordered closure - Focus Taiwan",
+      "text_len": 2368,
+      "paragraph_1": "Taipei, Nov. 11 (CNA) Taiwan's Ministry of Foreign Affairs (MOFA) said Wednesday it has begun withdrawing all diplomatic and technical mission personnel in Papua New Guinea (PNG) after being ordered to close its representative office.",
+      "paragraph_2": "Several staffers will stay in PNG to oversee the office's closure but all other diplomatic personnel and workers with the Taiwan International Cooperation and Development Fund, the government's foreign aid agency, will leave, MOFA said in a statement.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심 사건은 파푸아뉴기니(PNG) 정부가 대만 대표부 폐쇄를 명령한 것이며, 대만-중국 간의 직접적인 행위나 상호작용이 아니라 제3국(PNG)과 대만 간의 사건입니다. 조건2: 예 — 기사의 실제 논조는 대만의 외교적 손실, 인원 철수, 양자관계 재검토 등 부정적/갈등적 내용으로, GoldsteinScale -4.0과 일치합니다. 조건3: 해당 없음 — 조건1에서 "
+      }
+    },
+    "https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/po-uzdaro-seimo-komiteto-posedzio---raginimai-neskubeti-normalizuoti-santykiu-su-kinija/|111|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Po uždaro Seimo komiteto posėdžio – raginimai neskubėti normalizuoti santykių su Kinija - Respublika.lt - Naujienų ir žinių portalas",
+      "text_len": 2500,
+      "paragraph_1": "Po trečiadienį vykusio uždaro Seimo Užsienio reikalų komiteto (URK) posėdžio parlamentarai ragino neskubėti normalizuoti santykių su Kinija ir šį procesą atskirti nuo bendradarbiavimo su Taivanu. Komiteto pirmininkas Remigijus Motuzas teigė, kad užsienio reikalų ministras Kęstutis Budrys nuo šiol informuos parlamentarus apie tolesnes derybas, o opozicijos atstovai įspėjo dėl Pekino keliamų grėsmių.",
+      "paragraph_2": "„Visi mes buvome vieningos nuomonės, kad iš tikrųjų nereikėtų tų procesų skubinti. Sutarėme, kad užsienio reikalų ministras tiek prieš kiekvienas derybas, tiek po kiekvienų derybų su Taivanu ir Kinijos Liaudies Respublika informuos Seimo URK“, – trečiadienį žurnalistams teigė R. Motuzas.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 리투아니아 의회가 대만·중국과의 관계 정책에 대해 논의하는 내용이며, 대만과 중국 간의 직접적인 상호작용이나 일방적 행위(군사훈련, 위협, 침범 등)를 다루지 않습니다. 조건2: 예 — 기사의 논조는 중국과의 관계 정상화를 서두르지 말 것, 중국의 보안 위협 경고, 중국을 \"트로이 목마\"로 표현하는 등 명백히 부정적·갈등적입니다. 조건3: 아니오 — 부정적 논조는 "
+      }
+    },
+    "https://www.huffingtonpost.kr:443/article/261998|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "허프포스트코리아",
+      "text_len": 2500,
+      "paragraph_1": "아무도 아닌, 동시에 여러 명인 어떤 사람 앨리스 황.",
+      "paragraph_2": "중국 공영방송 기자, 금융인, 수십억 달러 규모의 반도체 거래를 이끈 기업 경영진, 젠슨 황 엔비디아 최고경영자(CEO)의 정부, 중국 정보기관과 연계된 스파이…. 진실과 의혹 사이 경계는 흐릿하다.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO와 중국인 여성 앨리스 황 사이의 개인적 스캔들과 NVIDIA-메가스피드 간 상업 거래를 다루고 있으며, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용을 직접 다루지 않습니다. 조건2: 예 — 기사의 실제 논조는 스캔달, 의혹, 비리(반도체 우회 공급, 중국 정보기관 연계 의심 등)를 중심으로 부정적이며, GoldsteinScale -5.0("
+      }
+    },
+    "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties|071|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne",
+      "text_len": 2107,
+      "paragraph_1": "TAIPEI — Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, the de facto US embassy said on Wednesday (Nov 11).",
+      "paragraph_2": "The US, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 미국과 대만 정부 간의 공식적인 협력 프로그램(Taiwan Fellowship Program)을 다루고 있으며, 이는 두 국가(정부급 행위자) 간의 직접적인 양자 관계 사건입니다. 조건2: 예 — 기사의 실제 논조는 미국 연방직원이 대만 정부 기관에서 근무하며 인적 교류와 협력을 강화하는 우호적이고 협력적인 내용으로, GoldsteinScale +7.4(협력적/긍정적)"
+      }
+    },
+    "https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang affair sparks Taiwan security concerns | The Straits Times",
+      "text_len": 2500,
+      "paragraph_1": "Field Notes from Taipei",
+      "paragraph_2": "Sign up now: Get insights on Asia's fast-moving developments",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 개인(Jensen Huang CEO)의 사생활 스캔들과 입국 심사 절차 문제를 다루고 있으며, 대만과 중국 정부 간의 국가급 행위나 안보 위협(군사행동, 무력시위, 영해침범 등)을 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 부정적이며(스파이 의혹, 국가안보 우려, 입국 심사 문제), 긍정적 협력 내용이 아닌데도 CAMEO 코드에 긍정적 점수(+6"
+      }
+    },
+    "https://thenextweb.com/news/nvidia-megaspeed-ban-gb300-imports-bloomberg|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia says it cut off Megaspeed in 2025, but Bloomberg found later imports",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia says it banned all sales and shipments to Megaspeed in June 2025, and that the ban is still in place, a company spokesman told The Wall Street Journal . Since then, Commerce has allowed Nvidia to send it parts and replacement components, the spokesman said.",
+      "paragraph_2": "Malaysian trade records show that Megaspeed imported at least 17,544 of Nvidia’s GB300 chips, worth about $787m, in November 2025, Mackenzie Hawkins reported for Bloomberg . Nvidia gave US officials a count of chips sold to Megaspeed through hardware partners. It was 50,000 units short, Bloomberg found. Megaspeed is still an official Nvidia Cloud Partner. TNW has not independently verified the reports.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만과 미국 간의 직접적인 국가급 행위나 상호작용을 다루지 않으며, 미국과 싱가포르 기업(Megaspeed) 간의 반도체 수출 규제, 그리고 엔비디아 임원진의 개인적 스캔들을 중심으로 전개되고 있다. 조건2: 예 — 기사의 전반적 논조는 엔비디아의 규제 회피 의혹, 칩 수출 통제 시스템의 구멍, 정부 관계자와의 비정상적 접근 등을 비판적으로 다루고 있어 부정적/갈등"
+      }
+    },
+    "https://focustaiwan.tw:443/sci-tech/202611090012|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Lai highlights Taiwan's push for independent satellite launches - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 9 (CNA) President Lai Ching-te (賴清德) said Monday that Taiwan was working toward independently launching domestically manufactured satellites, highlighting increased government investment in space technology.",
+      "paragraph_2": "Speaking at the opening of the Taiwan International Assembly of Space Science, Technology and Industry (TASTI 2026) in Tainan, Lai said the government was supporting domestic satellite and rocket development while building the \"necessary testing and launch facilities.\"",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만의 독립적 위성 발사 능력 개발이며, NASA와의 관계는 \"대만이 NASA의 아르테미스 프로그램에 참여할 것\"이라는 단순 언급에 불과하여 대만-미국 간 직접적인 양자 사건으로 보기 어렵습니다. 조건2: 예 — 기사의 실제 논조는 우호적 협력(대만의 우주 기술 투자, NASA 아르테미스 프로그램 참여)을 다루고 있으며, 긍정적 코드(+1.9)와 일치합"
+      }
+    },
+    "https://www.independent.co.uk/news/world/americas/us-politics/taiwan-us-arms-sales-koo-b3079672.html|042|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Key US ally insists its frozen 14 billion dollar military package is finally back on track | The Independent",
+      "text_len": 2500,
+      "paragraph_1": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+      "paragraph_2": "Already a member? Log in",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 대만과 미국 간의 무기 판매(군사 지원) 문제를 직접 다루고 있으며, 이는 대만의 방위 능력과 안보에 직접 영향을 주는 국가 간 사건입니다. 조건2: 예 — 기사의 논조는 대만 국방부 장관이 미국 의회의 초당적 지지와 무기 판매 계속을 긍정적으로 표현하고 있으며, 협력적·우호적 맥락으로 일관되어 있습니다. 최종: 예"
       }
     }
   }

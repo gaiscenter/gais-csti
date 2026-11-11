@@ -1,41 +1,50 @@
 {
  "date": "2026-11-11",
- "generated_at": "2026-11-11T08:23:20.438670",
+ "generated_at": "2026-11-11T16:35:54.278693",
  "codebook_fingerprint": "59636e4b3f455774",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 20,
- "n_coded": 20,
- "n_relevant": 3,
+ "n_articles": 53,
+ "n_coded": 53,
+ "n_relevant": 9,
  "stats": {
-  "api_calls": 20,
+  "api_calls": 33,
   "api_failures": 0,
   "unparseable": 0,
   "unpriced": 0,
   "cache_write": 12108,
-  "cache_read": 230052,
-  "input_uncached": 3444,
+  "cache_read": 387456,
+  "input_uncached": 6845,
   "folded": 0
  },
  "articles": {
-  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557": {
+  "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/": {
    "tags": {
-    "v1": "yes",
-    "v2": "USA",
-    "v3": "response",
-    "v4": "diplomatic",
-    "v5": "050",
-    "conf": "high"
+    "v1": "no"
    },
-   "mentions": 10,
-   "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times"
+   "mentions": 16,
+   "title": "Waar is Alice Huang? Vermoedelijke Chinese spionne reisde met Hongkongs paspoort naar Taiwan | VRT NWS Nieuws"
   },
-  "https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318": {
+  "https://patriotpost.us/articles/1002708-the-jensen-huang-scandal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "The Jensen Huang Scandal | The Patriot Post"
+  },
+  "https://tribunaonline.com.br/internacional/chinesa-acusada-de-espionagem-usou-passaporte-de-hong-kong-para-entrar-em-taiwan-334626": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Taiwan confirma entrada de alegada espiã chinesa ligada ao presidente da Nvidia"
+   "title": "Chinesa acusada de espionagem usou passaporte de Hong Kong para entrar em Taiwan"
+  },
+  "https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "La liaison de Jensen Huang met en péril l'avenir de Nvidia, qui n'a pas de successeur évident pour remplacer son célèbre PDG, alors que plus de 60 cadres supérieurs relèvent directement de lui"
   },
   "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/": {
    "tags": {
@@ -49,19 +58,52 @@
    "mentions": 10,
    "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - KSEV Radio 700"
   },
-  "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842": {
+  "https://www.correiodopovo.com.br/jornal-com-tecnologia/chinesa-acusada-de-espionagem-contra-ceo-da-nvidia-entrou-em-taiwan-com-passaporte-de-hong-kong-1.1763729": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 8,
-   "title": "Nvidia chips worth at least $7.5 billion reach China, YTN reports | EconoTimes"
+   "mentions": 10,
+   "title": "Chinesa acusada de espionagem contra CEO da Nvidia entrou em Taiwan com passaporte de Hong Kong"
   },
-  "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/": {
+  "https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 8,
-   "title": "The Nvidia Spy Scandal Was Hiding in Plain Sight"
+   "mentions": 10,
+   "title": "Taiwan confirma entrada de alegada espiã chinesa ligada ao presidente da Nvidia"
+  },
+  "https://timesofindia.indiatimes.com/relationships/jensen-huangs-old-taipei-bar-photo-with-alice-huang-goes-viral-again-whats-the-story/articleshow/135730841.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia: Jensen Huang's old Taipei bar photo with Alice Huang goes viral again: What's the story? - The Times of India"
+  },
+  "https://www.dw.com/id/perang-cip-ai-as-cina-megaspeed-jadi-sorotan-di-tengah-skandal-nvidia/a-79914195": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Megaspeed Diselidiki atas Dugaan Cip AI Nvidia Masuk ke Cina"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "050",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times"
+  },
+  "https://www.huffingtonpost.kr:443/article/261998": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "허프포스트코리아"
   },
   "https://www.hani.co.kr/arti/english_edition/e_international/1286810.html": {
    "tags": {
@@ -77,6 +119,112 @@
    "mentions": 8,
    "title": "젠슨 황, 불륜 논란에도 정상 출근…일주일 뒤 실적 발표 컨콜 등장할까"
   },
+  "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Nvidia chips worth at least $7.5 billion reach China, YTN reports | EconoTimes"
+  },
+  "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "The Nvidia Spy Scandal Was Hiding in Plain Sight"
+  },
+  "https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chinese woman accused of Nvidia spying entered Taiwan on HK passport"
+  },
+  "https://drimble.nl/binnenlands-nieuws/108564036/taiwan-onderzoekt-hoe-vermeende-chinese-spion-land-in-kon.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan onderzoekt hoe vermeende Chinese spion land in kon | Binnenlands nieuws"
+  },
+  "http://inews24.com/view/2025060": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"앨리스 황의 무기는 '달콤한 미소'…남자들, 영혼까지 끌려가\""
+  },
+  "https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan appoints Acer founder as APEC envoy, calls for written guarantees from China - BusinessWorld Online"
+  },
+  "https://www.fnnews.com/news/202611111746450059": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "APEC 中日회담 무산…\"日, APEC서 시진핑 못 만나는 유일한 국가\" - 파이낸셜뉴스"
+  },
+  "https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Jensen Huang affair sparks Taiwan security concerns | The Straits Times"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Alice Huang, who reportedly had an affair with Nvidia CEO, is a Chinese banker turned tech exec - The Economic Times"
+  },
+  "https://focustaiwan.tw/business/202611110022": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "low"
+   },
+   "mentions": 6,
+   "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan"
+  },
+  "https://www.busan.com/view/busan/view.php?code=2026111118004583176": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "APEC 중·일회담 무산되나 - 부산일보"
+  },
+  "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan says China is conducting ’area denial’ drills in Western Pacific  - International | Daily Mirror"
+  },
+  "https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Jensen Huang Loses $16 Billion as Nvidia Sheds $400 Billion in Two Days, Ex-Prosecutor Joon Kim Leads Probe"
+  },
   "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea": {
    "tags": {
     "v1": "no"
@@ -84,19 +232,17 @@
    "mentions": 5,
    "title": "Taiwan, China tap market rescue funds. Why won't Korea? - The Korea Times"
   },
-  "https://www.hani.co.kr/arti/english_edition/e_international/1286834.html": {
+  "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties": {
    "tags": {
-    "v1": "no"
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "050",
+    "conf": "high"
    },
-   "mentions": 4,
-   "title": "Alleged Nvidia spy Alice Huang courted investors with promise of coveted GPUs"
-  },
-  "https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Nvidia CEO's 'relationship' triggers wave of viral memes"
+   "mentions": 5,
+   "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne"
   },
   "http://inews24.com/view/2024793": {
    "tags": {
@@ -112,6 +258,48 @@
    "mentions": 4,
    "title": "Belize’s Foreign Policy Faces Global Pressure | Greater Belize Media Belize’s Foreign Policy Faces Global Pressure"
   },
+  "https://www.businessinsider.com/jensen-huang-scandal-nvidia-tsmc-taiwan-semiconductor-2026-11": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan's Chip Show Will Go on, With or Without Jensen Huang - Business Insider"
+  },
+  "https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia CEO's 'relationship' triggers wave of viral memes"
+  },
+  "https://www.hani.co.kr/arti/english_edition/e_international/1286834.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Alleged Nvidia spy Alice Huang courted investors with promise of coveted GPUs"
+  },
+  "https://www.alphatv.gr/kosmos/italia-sinagermos-me-apeili-vomvas-kai-paraliritika-minimata-se-300-sxoleia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Ιταλία: Συναγερμός με απειλή βόμβας και παραληρητικά μηνύματα σε 300 σχολεία | AlphaTV"
+  },
+  "https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "The Godfather Of Taiwan's DRAM Industry Says CXMT Will Flood The Market With Memory Products \"In Two Years,\" As Another Expert Doubles Down On TSMC's BEOL Memory"
+  },
+  "https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/po-uzdaro-seimo-komiteto-posedzio---raginimai-neskubeti-normalizuoti-santykiu-su-kinija/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Po uždaro Seimo komiteto posėdžio – raginimai neskubėti normalizuoti santykių su Kinija - Respublika.lt - Naujienų ir žinių portalas"
+  },
   "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553": {
    "tags": {
     "v1": "no"
@@ -119,26 +307,12 @@
    "mentions": 3,
    "title": "Guam, Taipei elementary schools sign sister-school pact - Taipei Times"
   },
-  "https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis": {
+  "http://english.hani.co.kr/arti/english_edition/e_international/1286810.html": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 2,
-   "title": "âValstieÄiÅ³â lyderis: santykiÅ³ su Kinija atkÅ«rimas â minimumas, o ne draugystÄs siekis - LRT"
-  },
-  "https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Jensen Huang's 'spy' mistress had a secret HUSBAND: Nvidia plot thickens as details emerge on lover's past with financier who fell foul of Chinese authorities | Daily Mail Online"
-  },
-  "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "All the characters being talked about in the Jensen Huang scandal - AOL"
+   "mentions": 3,
+   "title": "Jensen Huang’s one-man rule over Nvidia could be its downfall"
   },
   "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/": {
    "tags": {
@@ -166,12 +340,99 @@
    "mentions": 2,
    "title": "黄乐，她到底是谁？（中英文） - 博客 | 文学城"
   },
+  "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "All the characters being talked about in the Jensen Huang scandal - AOL"
+  },
+  "https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "âValstieÄiÅ³â lyderis: santykiÅ³ su Kinija atkÅ«rimas â minimumas, o ne draugystÄs siekis - LRT"
+  },
+  "https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Jensen Huang's 'spy' mistress had a secret HUSBAND: Nvidia plot thickens as details emerge on lover's past with financier who fell foul of Chinese authorities | Daily Mail Online"
+  },
+  "https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump briefed aboard Air Force One en route to Beijing about Nvidia chief’s ties to alleged Chinese spy: Report"
+  },
+  "https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Report: Jensen Huang's 'spy' mistress had an alleged secret husband | Daily Mail Online"
+  },
+  "https://english.aawsat.com/world/5340034-chinese-woman-accused-spying-nvidia-boss-entered-taiwan-hong-kong-passport": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinese Woman Accused of Spying on Nvidia Boss Entered Taiwan on Hong Kong Passport"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867565": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Government revokes entry permit of alleged spy in Nvidia CEO affair - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202611110011": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan representative office staff depart PNG after gov't-ordered closure - Focus Taiwan"
+  },
+  "https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Who Is Kang Wei? Alice Huang’s Husband Drawn Into Nvidia Chip Investigation - Oneindia News"
+  },
   "https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties": {
    "tags": {
     "v1": "no"
    },
    "mentions": 1,
    "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - Internazionale"
+  },
+  "https://www.ibtimes.co.uk/taiwan-alice-huang-alleged-spy-entry-permit-1831666": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan Says It Would Have Barred Woman Linked to Nvidia CEO if Officials Had Known She Was a Spy | IBTimes UK"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Inside the firm at the heart of Nvidia scandal accused of smuggling chips to China | The Independent"
   }
  }
 }

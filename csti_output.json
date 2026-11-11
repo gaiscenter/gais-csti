@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:18:52.979509",
+  "generated_at": "2026-11-11T16:32:14.428826",
   "query_date": "2026-11-11",
   "total_rows": 122,
   "dates": [
@@ -100,7 +100,7 @@
       2.2505,
       1.9817,
       0.1559,
-      -0.8444
+      -1.1111
     ],
     "CHN_response": [
       0.3935,
@@ -133,7 +133,7 @@
       -0.4007,
       0.6707,
       0.7959,
-      -1.2833
+      -0.9501
     ],
     "USA_threat": [
       -1.5429,
@@ -166,7 +166,7 @@
       -0.0081,
       0.4633,
       0.2311,
-      -1.1667
+      -0.4813
     ],
     "USA_response": [
       -1.9659,
@@ -199,14 +199,14 @@
       0.5469,
       0.6993,
       0.5163,
-      -1.3206
+      -1.333
     ]
   },
   "current": {
-    "CHN_threat": -0.8444,
-    "CHN_response": -1.2833,
-    "USA_threat": -1.1667,
-    "USA_response": -1.3206
+    "CHN_threat": -1.1111,
+    "CHN_response": -0.9501,
+    "USA_threat": -0.4813,
+    "USA_response": -1.333
   },
   "level": {
     "CHN_threat": "mod",
@@ -248,7 +248,7 @@
           2.2505,
           1.9817,
           0.1559,
-          -0.8444
+          -1.1111
         ],
         "CHN_response": [
           0.3935,
@@ -281,7 +281,7 @@
           -0.4007,
           0.6707,
           0.7959,
-          -1.2833
+          -0.9501
         ],
         "USA_threat": [
           -1.5429,
@@ -314,7 +314,7 @@
           -0.0081,
           0.4633,
           0.2311,
-          -1.1667
+          -0.4813
         ],
         "USA_response": [
           -1.9659,
@@ -347,14 +347,14 @@
           0.5469,
           0.6993,
           0.5163,
-          -1.3206
+          -1.333
         ]
       },
       "current": {
-        "CHN_threat": -0.8444,
-        "CHN_response": -1.2833,
-        "USA_threat": -1.1667,
-        "USA_response": -1.3206
+        "CHN_threat": -1.1111,
+        "CHN_response": -0.9501,
+        "USA_threat": -0.4813,
+        "USA_response": -1.333
       },
       "level": {
         "CHN_threat": "mod",
@@ -528,7 +528,7 @@
           2.2505,
           1.9817,
           0.1559,
-          0.1047
+          -0.2279
         ],
         "CHN_response": [
           0.3935,
@@ -561,7 +561,7 @@
           -0.4007,
           0.6707,
           0.7959,
-          -1.7828
+          -0.7898
         ],
         "USA_threat": [
           -1.5429,
@@ -594,7 +594,7 @@
           -0.0081,
           0.4633,
           0.2311,
-          0.0382
+          0.3935
         ],
         "USA_response": [
           -1.9659,
@@ -627,7 +627,7 @@
           0.5469,
           0.6993,
           0.5163,
-          -1.2417
+          -0.772
         ]
       }
     },
@@ -1047,8 +1047,8 @@
         ]
       },
       "carried_forward": {
-        "CHN_threat": true,
-        "USA_threat": true
+        "USA_threat": true,
+        "CHN_threat": true
       }
     },
     "supply": {
@@ -1183,20 +1183,20 @@
           0.0,
           0.0,
           -1.0667,
-          -2.1143
+          -2.775
         ]
       },
       "current": {
         "CHN_threat": -1.7338,
         "CHN_response": -1.2829,
         "USA_threat": -0.7023,
-        "USA_response": -2.1143
+        "USA_response": -2.775
       },
       "level": {
         "CHN_threat": "mod",
         "CHN_response": "mod",
         "USA_threat": "mod",
-        "USA_response": "mod"
+        "USA_response": "low"
       },
       "measured": {
         "CHN_threat": [
@@ -1364,7 +1364,7 @@
           -2.8444,
           -2.2666,
           -2.1672,
-          -1.8597
+          -1.8286
         ],
         "CHN_response": [
           -1.0667,
@@ -1397,7 +1397,7 @@
           -2.65,
           -2.65,
           -2.1143,
-          -2.1143
+          -3.0914
         ],
         "USA_threat": [
           0.0,
@@ -1463,7 +1463,7 @@
           0.0,
           0.0,
           -1.0667,
-          -2.1143
+          -2.775
         ]
       },
       "carried_forward": {
@@ -1503,7 +1503,7 @@
           -0.3498,
           -0.2177,
           -0.1338,
-          -0.0669
+          -0.0
         ],
         "CHN_response": [
           1.3052,
@@ -1536,7 +1536,7 @@
           -0.0,
           0.375,
           1.3785,
-          0.1512
+          0.653
         ],
         "USA_threat": [
           -2.2154,
@@ -1606,8 +1606,8 @@
         ]
       },
       "current": {
-        "CHN_threat": -0.0669,
-        "CHN_response": 0.1512,
+        "CHN_threat": -0.0,
+        "CHN_response": 0.653,
         "USA_threat": -0.0087,
         "USA_response": -0.0059
       },
@@ -1783,7 +1783,7 @@
           -0.3498,
           -0.2177,
           -0.1338,
-          -0.5752
+          -0.1026
         ],
         "CHN_response": [
           1.3052,
@@ -1816,7 +1816,7 @@
           -0.0,
           0.375,
           1.3785,
-          -0.7125
+          -0.1247
         ],
         "USA_threat": [
           -2.2154,
@@ -1849,7 +1849,7 @@
           0.1143,
           -1.095,
           -1.05,
-          -0.6929
+          -0.1667
         ],
         "USA_response": [
           -0.375,
@@ -1882,11 +1882,8 @@
           -0.7263,
           -1.8607,
           2.3418,
-          0.3333
+          -0.0
         ]
-      },
-      "carried_forward": {
-        "CHN_threat": true
       }
     },
     "cyber": {
@@ -2036,26 +2033,26 @@
     "window_days": 30,
     "run_date": "2026-11-11",
     "events": {
-      "total_events_matched": 3126,
-      "total_mentions_matched": 12600,
+      "total_events_matched": 3230,
+      "total_mentions_matched": 13007,
       "military_events": 108,
       "military_mentions": 537,
-      "supply_events": 107,
-      "supply_mentions": 466,
-      "diplomatic_events": 288,
-      "diplomatic_mentions": 1081,
+      "supply_events": 112,
+      "supply_mentions": 479,
+      "diplomatic_events": 309,
+      "diplomatic_mentions": 1166,
       "by_partner": {
         "CHN": {
-          "events_all": 2177,
+          "events_all": 2255,
           "events_military": 98,
-          "events_supply": 69,
-          "events_diplomatic": 206
+          "events_supply": 73,
+          "events_diplomatic": 225
         },
         "USA": {
-          "events_all": 949,
+          "events_all": 975,
           "events_military": 10,
-          "events_supply": 38,
-          "events_diplomatic": 82
+          "events_supply": 39,
+          "events_diplomatic": 84
         }
       }
     },
@@ -2069,81 +2066,94 @@
     "audit": {
       "enabled": true,
       "date_audited": "2026-11-11",
-      "checked": 64,
-      "flagged": 51,
+      "checked": 80,
+      "flagged": 65,
       "flagged_urls": [
-        "http://inews24.com/view/2024991",
-        "https://www.moneycontrol.com/world/nvidia-ceo-jensen-huang-s-woes-evoke-sympathy-disbelief-in-his-birthplace-taiwan-article-14076246.html",
+        "https://www.aol.co.uk/articles/ai-poster-boy-chinese-spy-200105000.html",
+        "https://focustaiwan.tw/politics/202611110011",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867277",
+        "https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318",
+        "http://inews24.com/view/2024793",
+        "https://www.hankookilbo.com/news/article/A2026110910250005036",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867398",
+        "https://www.bankingnews.gr/analyseis-ektheseis/articles/909735/donald-trump-may-concede-to-russia-iran-and-china-to-save-republicans-in-2028",
+        "https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/",
+        "https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/",
+        "https://www.hani.co.kr/arti/english_edition/e_international/1286810.html",
+        "https://www.hindustantimes.com/world-news/how-jensen-huang-s-affair-spiraled-into-a-national-security-nightmare-101794291438001.html",
+        "https://www.dw.com/id/perang-cip-ai-as-cina-megaspeed-jadi-sorotan-di-tengah-skandal-nvidia/a-79914195",
+        "https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/",
+        "https://timesofindia.indiatimes.com/relationships/jensen-huangs-old-taipei-bar-photo-with-alice-huang-goes-viral-again-whats-the-story/articleshow/135730841.cms",
+        "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea",
         "https://blog.wenxuecity.com/myblog/72453/202611/7617.html",
+        "https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms",
+        "https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy",
+        "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/",
+        "https://www.fnnews.com/news/202611101814537024",
+        "https://economictimes.indiatimes.com/news/international/world-news/nvidia-ceo-jensen-huangs-woes-evoke-sympathy-disbelief-in-his-birthplace-taiwan/articleshow/135705645.cms",
         "https://news.ltn.com.tw/news/focus/breakingnews/5633962",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/05/2003867217",
+        "https://www.sozcu.com.tr/dunyanin-en-zenginleri-arasinda-teknoloji-imparatorunun-sevgilisi-ajan-cikti-p376887",
+        "https://tribunaonline.com.br/internacional/chinesa-acusada-de-espionagem-usou-passaporte-de-hong-kong-para-entrar-em-taiwan-334626",
+        "http://inews24.com/view/2025060",
+        "http://www.bignewsnetwork.com/news/279423215/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference",
+        "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842",
+        "https://focustaiwan.tw/business/202611110022",
+        "https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/po-uzdaro-seimo-komiteto-posedzio---raginimai-neskubeti-normalizuoti-santykiu-su-kinija/",
+        "https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/",
+        "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/21103-chilean-navy-partners-with-cirion-gtd-and-telxius-on-subsea-cable-protection.html",
+        "https://focustaiwan.tw/society/202611080010",
+        "https://www.antaranews.com/berita/5839895/tiga-pesawat-tempur-f-16-as-kembali-tiba-di-taiwan",
+        "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detects-4-chinese-military-aircraft-8-ships-around-island-in-24-hours/articleshow/135649926.cms",
+        "https://www.taipeitimes.com/News/editorials/archives/2026/11/06/2003867236",
+        "https://www.hani.co.kr/arti/international/china/1285746.html",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867280",
+        "https://www.theepochtimes.com/us/new-senate-class-brings-china-scrutiny-and-fault-lines-on-ai-trade-6120136",
+        "https://patriotpost.us/articles/1002708-the-jensen-huang-scandal",
+        "https://focustaiwan.tw:443/sci-tech/202611090012",
+        "https://aninews.in/news/world/asia/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference20261109135712/",
+        "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129",
+        "https://www.unian.net/weapons/kitay-prodolzhaet-krupneyshee-rasshirenie-flota-v-sovremennoy-istorii-smi-13553424.html",
+        "https://home.nzcity.co.nz/news/article.aspx?id=457528",
+        "https://www.theepochtimes.com/china/ma-xingruis-indictment-exposes-systemic-corruption-and-political-risks-for-xi-analysts-6119040",
+        "https://www.koreaherald.com/article/10931215",
+        "http://inews24.com/view/2024991",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553",
+        "https://www.rtp.pt/noticias/mundo/academicos-chineses-veem-politica-de-trump-como-preludio-de-abandono-de-taiwan-pelos-eua_n1777287",
         "https://news.webindia123.com/news/Articles/World/20261109/4517593.html",
         "https://www.diariosigloxxi.com/texto-ep/mostrar/20261106120007/imputada-taiwan-diputada-acusada-recibir-fondos-pekin-crear-redes-influencia",
-        "https://www.hindustantimes.com/world-news/how-jensen-huang-s-affair-spiraled-into-a-national-security-nightmare-101794291438001.html",
-        "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129",
-        "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/21103-chilean-navy-partners-with-cirion-gtd-and-telxius-on-subsea-cable-protection.html",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867277",
-        "https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/",
-        "https://aninews.in/news/world/asia/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference20261109135712/",
-        "https://focustaiwan.tw:443/sci-tech/202611090012",
-        "https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867398",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867280",
-        "https://economictimes.indiatimes.com/news/international/world-news/nvidia-ceo-jensen-huangs-woes-evoke-sympathy-disbelief-in-his-birthplace-taiwan/articleshow/135705645.cms",
-        "https://ksevradio.com/ties-with-paraguay-unaffected-taiwan-says-after-president-resigns/",
-        "https://www.antaranews.com/berita/5839895/tiga-pesawat-tempur-f-16-as-kembali-tiba-di-taiwan",
-        "https://www.sozcu.com.tr/dunyanin-en-zenginleri-arasinda-teknoloji-imparatorunun-sevgilisi-ajan-cikti-p376887",
-        "https://www.hankookilbo.com/news/article/A2026110910250005036",
-        "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea",
-        "https://www.fnnews.com/news/202611101814537024",
-        "http://www.bignewsnetwork.com/news/279423215/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference",
-        "https://www.koreaherald.com/article/10931215",
-        "https://www.theepochtimes.com/china/ma-xingruis-indictment-exposes-systemic-corruption-and-political-risks-for-xi-analysts-6119040",
-        "https://www.aol.co.uk/articles/ai-poster-boy-chinese-spy-200105000.html",
-        "https://www.taipeitimes.com/News/editorials/archives/2026/11/06/2003867236",
-        "https://www.theepochtimes.com/us/new-senate-class-brings-china-scrutiny-and-fault-lines-on-ai-trade-6120136",
-        "https://home.nzcity.co.nz/news/article.aspx?id=457528",
+        "https://www.busan.com/view/busan/view.php?code=2026111118004583176",
         "https://thenextweb.com/news/nvidia-megaspeed-ban-gb300-imports-bloomberg",
-        "https://www.rtp.pt/noticias/mundo/academicos-chineses-veem-politica-de-trump-como-preludio-de-abandono-de-taiwan-pelos-eua_n1777287",
-        "https://www.hani.co.kr/arti/english_edition/e_international/1286834.html",
-        "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detects-4-chinese-military-aircraft-8-ships-around-island-in-24-hours/articleshow/135649926.cms",
-        "https://www.hani.co.kr/arti/international/china/1285746.html",
-        "https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes",
-        "https://www.hani.co.kr/arti/english_edition/e_international/1286810.html",
-        "https://focustaiwan.tw/society/202611080010",
-        "https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy",
-        "https://www.nzherald.co.nz/business/chip-inquiry-in-us-was-halted-after-nvidia-intervention/premium/TT5NDCLE5NDEJFWCM3ADBXZLTE/",
-        "https://www.unian.net/weapons/kitay-prodolzhaet-krupneyshee-rasshirenie-flota-v-sovremennoy-istorii-smi-13553424.html",
-        "https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318",
-        "https://www.bankingnews.gr/analyseis-ektheseis/articles/909735/donald-trump-may-concede-to-russia-iran-and-china-to-save-republicans-in-2028",
-        "https://focustaiwan.tw/society/202611040015",
-        "https://econotimes.com/AI-investment-timing-divides-Asian-investors-after-hedge-fund-exits-1773247",
-        "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842",
+        "https://www.correiodopovo.com.br/jornal-com-tecnologia/chinesa-acusada-de-espionagem-contra-ceo-da-nvidia-entrou-em-taiwan-com-passaporte-de-hong-kong-1.1763729",
+        "https://www.moneycontrol.com/world/nvidia-ceo-jensen-huang-s-woes-evoke-sympathy-disbelief-in-his-birthplace-taiwan-article-14076246.html",
+        "https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/",
         "https://www.wnp.pl/rynki/tajwan-zamyka-przedstawicielstwo-w-papui-nowej-gwinei-i-wstrzymuje-tam-zakup-lng,1117297.html",
-        "https://foreignpolicy.com/2026/11/10/jensen-huang-nvidia-spy-scandal-alice-huang-us-intelligence/",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553",
-        "http://inews24.com/view/2024793"
+        "https://econotimes.com/AI-investment-timing-divides-Asian-investors-after-hedge-fund-exits-1773247",
+        "https://www.huffingtonpost.kr:443/article/261998",
+        "https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan",
+        "https://focustaiwan.tw/society/202611040015",
+        "https://www.nzherald.co.nz/business/chip-inquiry-in-us-was-halted-after-nvidia-intervention/premium/TT5NDCLE5NDEJFWCM3ADBXZLTE/",
+        "https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/",
+        "https://ksevradio.com/ties-with-paraguay-unaffected-taiwan-says-after-president-resigns/"
       ],
       "corrections_applied": 15,
       "audit_log_file": "audit_log.json",
       "degraded": false,
-      "api_calls": 63,
+      "api_calls": 27,
       "api_failures": 0,
       "tokens": {
-        "input_tokens": 119432,
-        "output_tokens": 15754,
+        "input_tokens": 56698,
+        "output_tokens": 6967,
         "cache_write": 0,
         "cache_read": 0
       },
-      "cache_hits": 0,
+      "cache_hits": 52,
       "skipped_over_cap": 0,
       "carried_forward_fields": [
-        "diplomatic.CHN_threat",
         "military.CHN_threat",
         "military.USA_threat",
         "supply.CHN_threat"
       ],
-      "carried_forward_count": 4
+      "carried_forward_count": 3
     }
   },
   "partner_names": {
@@ -2153,6 +2163,28 @@
   "note": "CSTI = Goldstein(1992,JCR) x NumMentions weighted avg x (-1); cyber = GKG V2Tone-based proxy, no directionality",
   "top_articles": {
     "overall": {
+      "CHN_response": [
+        {
+          "url": "https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377",
+          "goldstein": 2.8,
+          "mentions": 6,
+          "actor1": "TAIWAN",
+          "actor2": "CHINESE",
+          "event_code": "043",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://drimble.nl/binnenlands-nieuws/108564036/taiwan-onderzoekt-hoe-vermeende-chinese-spion-land-in-kon.html",
+          "goldstein": -2.0,
+          "mentions": 8,
+          "actor1": "TAIWAN",
+          "actor2": "CHINESE",
+          "event_code": "090",
+          "title": null,
+          "days_ago": 0
+        }
+      ],
       "USA_threat": [
         {
           "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557",
@@ -2162,6 +2194,38 @@
           "actor2": "TAIWAN",
           "event_code": "084",
           "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times",
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.hani.co.kr/arti/english_edition/e_international/1286834.html",
+          "goldstein": -2.0,
+          "mentions": 4,
+          "actor1": "NVIDIA",
+          "actor2": "TAIWAN",
+          "event_code": "090",
+          "title": null,
+          "days_ago": 0
+        }
+      ],
+      "CHN_threat": [
+        {
+          "url": "https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377",
+          "goldstein": 1.9,
+          "mentions": 6,
+          "actor1": "CHINESE",
+          "actor2": "TAIWAN",
+          "event_code": "042",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes",
+          "goldstein": 2.8,
+          "mentions": 4,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "043",
+          "title": null,
           "days_ago": 0
         }
       ],
@@ -2177,75 +2241,51 @@
           "days_ago": 0
         },
         {
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557",
-          "goldstein": 3.4,
-          "mentions": 10,
+          "url": "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties",
+          "goldstein": 7.4,
+          "mentions": 5,
           "actor1": "TAIWAN",
-          "actor2": "THE US",
-          "event_code": "051",
-          "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times",
-          "days_ago": 0
-        }
-      ],
-      "CHN_threat": [
-        {
-          "url": "https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html",
-          "goldstein": 1.9,
-          "mentions": 2,
-          "actor1": "CHINA",
-          "actor2": "TAIPEI",
-          "event_code": "042",
-          "title": null,
-          "days_ago": 0
-        },
-        {
-          "url": "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html",
-          "goldstein": 1.9,
-          "mentions": 2,
-          "actor1": "CHINA",
-          "actor2": "TAIPEI",
-          "event_code": "042",
-          "title": null,
-          "days_ago": 0
-        }
-      ],
-      "CHN_response": [
-        {
-          "url": "https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html",
-          "goldstein": 2.8,
-          "mentions": 2,
-          "actor1": "TAIPEI",
-          "actor2": "CHINA",
-          "event_code": "043",
-          "title": null,
-          "days_ago": 0
-        },
-        {
-          "url": "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html",
-          "goldstein": 2.8,
-          "mentions": 2,
-          "actor1": "TAIPEI",
-          "actor2": "CHINA",
-          "event_code": "043",
-          "title": null,
+          "actor2": "WASHINGTON",
+          "event_code": "071",
+          "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne",
           "days_ago": 0
         }
       ]
     },
     "diplomatic": {
-      "USA_threat": [
+      "CHN_threat": [
         {
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/taiwan-us-arms-sales-koo-b3079672.html",
-          "goldstein": 2.8,
+          "url": "https://www.fnnews.com/news/202611111746450059",
+          "goldstein": 0.0,
           "mentions": 2,
-          "actor1": "COLUMBUS",
+          "actor1": "CHINA",
           "actor2": "TAIWAN",
-          "event_code": "043",
-          "title": "Key US ally insists its frozen 14 billion dollar military package is finally back on track | The Independent",
+          "event_code": "010",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/05/2003867217",
+          "goldstein": 0.0,
+          "mentions": 1,
+          "actor1": "CHINESE",
+          "actor2": "TAIWAN",
+          "event_code": "010",
+          "title": null,
           "days_ago": 6
         }
       ],
       "CHN_response": [
+        {
+          "url": "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644",
+          "goldstein": -2.0,
+          "mentions": 6,
+          "actor1": "TAIWAN",
+          "actor2": "BEIJING",
+          "event_code": "016",
+          "title": "Taiwan says China is conducting ’area denial’ drills in Western Pacific  - International | Daily Mirror",
+          "days_ago": 0
+        },
         {
           "url": "https://wiadomosci.wp.pl/pekin-prezy-muskuly-na-pacyfiku-ruchy-ponad-100-okretow-wokol-tajwanu-7348414795626944a",
           "goldstein": -10.0,
@@ -2255,16 +2295,6 @@
           "event_code": "190",
           "title": "Pekin pręży muskuły na Pacyfiku. Ruchy ponad 100 okrętów wokół Tajwanu",
           "days_ago": 4
-        },
-        {
-          "url": "https://www.newsweek.com/nvidia-investigates-chinese-spy-claims-ceo-jensen-huang-admits-affair-12684313",
-          "goldstein": 0.0,
-          "mentions": 2,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "010",
-          "title": null,
-          "days_ago": 3
         }
       ],
       "USA_response": [
@@ -2279,7 +2309,18 @@
           "days_ago": 6
         }
       ],
-      "CHN_threat": []
+      "USA_threat": [
+        {
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/taiwan-us-arms-sales-koo-b3079672.html",
+          "goldstein": 2.8,
+          "mentions": 2,
+          "actor1": "COLUMBUS",
+          "actor2": "TAIWAN",
+          "event_code": "043",
+          "title": "Key US ally insists its frozen 14 billion dollar military package is finally back on track | The Independent",
+          "days_ago": 6
+        }
+      ]
     },
     "supply": {
       "CHN_response": [
@@ -2294,6 +2335,7 @@
           "days_ago": 6
         }
       ],
+      "CHN_threat": [],
       "USA_response": [
         {
           "url": "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
@@ -2306,17 +2348,16 @@
           "days_ago": 0
         },
         {
-          "url": "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
+          "url": "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties",
           "goldstein": 7.4,
-          "mentions": 2,
+          "mentions": 5,
           "actor1": "TAIWAN",
-          "actor2": "UNITED STATES",
+          "actor2": "WASHINGTON",
           "event_code": "071",
-          "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
+          "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne",
           "days_ago": 0
         }
       ],
-      "CHN_threat": [],
       "USA_threat": [
         {
           "url": "https://news.bg/int-politics/tayvan-ne-se-pritesnyava-za-prodazhbata-na-amerikanski-orazhiya-sled-mezhdinnite-izbori-v-sasht.html",
@@ -2331,6 +2372,7 @@
       ]
     },
     "military": {
+      "USA_threat": [],
       "CHN_response": [
         {
           "url": "https://www.rtp.pt/noticias/mundo/taiwan-denuncia-exercicios-militares-chineses-de-negacao-de-area-no-pacifico-ocidental_n1778019",
@@ -2353,13 +2395,12 @@
           "days_ago": 1
         }
       ],
-      "CHN_threat": [],
-      "USA_threat": []
+      "CHN_threat": []
     }
   },
   "commentary": {
-    "ko": "대만-미국 관계에서 협력 신호가 강해졌다. 미국 연방 공무원이 대만 정부 기관에서 근무하는 펠로우십 프로그램이 오늘 발표되어 대만→미국 방향 전체 지수를 -1.32로 끌어내렸다. 대만-중국 관계는 대만→중국 방향에서 협력 쪽으로 움직였으나(-1.28), 중국의 광범위한 태평양 군사 활동 보도가 4일 전 대만의 외교 채널을 자극했고, 어제 대만이 중국의 '지역 거부' 군사 훈련을 규탄하는 발언이 군사 채널에 긴장을 더했다. 미국-대만 군사 채널과 대만-미국 군사 채널은 측정 가능한 움직임이 없었다.",
-    "en": "Cooperation signals strengthened in the Taiwan-US relationship. The announcement of a federal employee fellowship program placing US officials in Taiwanese government offices pulled the Taiwan→US direction of overall index down to -1.32. In Taiwan-China relations, the Taiwan→China direction moved toward cooperation (-1.28), though coverage of China's extensive Pacific military activities had stimulated Taiwan's diplomatic channel four days ago, and Taiwan's condemnation of China's 'area denial' exercises yesterday added tension to the military channel. No measurable movements occurred in the US-Taiwan or Taiwan-US military channels.",
+    "ko": "대만-중국 관계에서 중국→대만 방향이 협력 쪽으로 -1.27 하락했습니다. 다만 대만→중국 방향은 -1.75 하락하며 더 큰 협력 전환을 보였는데, 이는 미국 연방 직원이 대만 정부 사무소에서 근무하게 된다는 보도가 외교 채널을 압박했기 때문입니다. 대만-미국 관계에서도 대만→미국 방향이 -1.85 하락하며 협력이 심화되었으며, 같은 연방 직원 근무 프로그램과 공급망 협력 소식이 전체 지수를 하락시켰습니다. 미국→대만 방향은 -0.71 하락으로 협력 기조가 지속되고 있습니다.",
+    "en": "In Taiwan-China relations, the China→Taiwan direction fell 1.27 points toward cooperation. However, the Taiwan→China direction showed a larger 1.75-point decline, driven by reports of US federal employees working in Taiwan government offices affecting the diplomatic channel. Taiwan-US relations similarly saw Taiwan→US fall 1.85 points, with the federal employee fellowship program and supply chain cooperation driving the overall index down. The US→Taiwan direction fell 0.71 points, sustaining the cooperative trend.",
     "sources": [
       {
         "url": "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
@@ -2368,38 +2409,20 @@
         "actor2": "WASHINGTON"
       },
       {
+        "url": "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties",
+        "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne",
+        "actor1": "TAIWAN",
+        "actor2": "WASHINGTON"
+      },
+      {
         "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557",
         "title": "Taiwan, US to implement federal employee fellowship program - Taipei Times",
-        "actor1": "TAIWAN",
-        "actor2": "THE US"
-      },
-      {
-        "url": "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/",
-        "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
-        "actor1": "TAIWAN",
-        "actor2": "UNITED STATES"
-      },
-      {
-        "url": "https://wiadomosci.wp.pl/pekin-prezy-muskuly-na-pacyfiku-ruchy-ponad-100-okretow-wokol-tajwanu-7348414795626944a",
-        "title": "Pekin pręży muskuły na Pacyfiku. Ruchy ponad 100 okrętów wokół Tajwanu",
-        "actor1": "TAIWAN",
-        "actor2": "CHINESE"
-      },
-      {
-        "url": "https://www.rtp.pt/noticias/mundo/taiwan-denuncia-exercicios-militares-chineses-de-negacao-de-area-no-pacifico-ocidental_n1778019",
-        "title": "Taiwan denuncia exercícios militares chineses de \"negação de área\" no Pacífico ocidental",
-        "actor1": "TAIWAN",
-        "actor2": "CHINESE"
-      },
-      {
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-monitors-chinas-area-denial-exercises-as-naval-activity-intensifies/articleshow/135697794.cms",
-        "title": "Taiwan monitors China's 'area denial' exercises as naval activity intensifies - The Times of India",
-        "actor1": "TAIWAN",
-        "actor2": "CHINA"
+        "actor1": "THE US",
+        "actor2": "TAIWAN"
       }
     ],
     "model": "claude-haiku-4-5-20251001",
-    "generated_at": "2026-11-11T08:23:25.504291",
+    "generated_at": "2026-11-11T16:35:58.935987",
     "basis": "index values and the audited records listed in sources; no external search"
   }
 }

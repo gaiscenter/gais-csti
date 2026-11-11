@@ -1,26 +1,42 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
-2026-11-11,NVIDIA,TAIWAN,090,-2.0,4,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286834.html
-2026-11-11,TAIWAN,THE US,051,3.4,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557
-2026-11-11,THE US,TAIWAN,084,7.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557
-2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
-2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
-2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
-2026-11-11,TAIWAN,CHINESE,090,-2.0,10,False,False,False,https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318
-2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
-2026-11-11,CHINA,TAIPEI,043,2.8,2,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
-2026-11-11,TAIWAN,CHINA,042,1.9,4,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
-2026-11-11,TAIPEI,CHINA,042,1.9,2,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
-2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
-2026-11-11,CHINA,TAIWAN,043,2.8,4,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
-2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINESE,112,-2.0,10,False,False,False,https://tribunaonline.com.br/internacional/chinesa-acusada-de-espionagem-usou-passaporte-de-hong-kong-para-entrar-em-taiwan-334626
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,2,False,False,False,https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,2,False,False,False,https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,6,False,False,False,https://economictimes.indiatimes.com/news/international/world-news/alice-huang-who-reportedly-had-an-affair-with-nvidia-ceo-is-a-chinese-banker-turned-tech-exec/articleshow/135741030.cms
+2026-11-11,BEIJING,TAIWAN,050,3.5,6,False,False,False,https://focustaiwan.tw/business/202611110022
+2026-11-11,BEIJING,TAIWAN,036,4.0,2,False,False,True,https://focustaiwan.tw/business/202611110022
+2026-11-11,BEIJING,TAIWAN,125,-5.0,2,False,False,True,https://focustaiwan.tw/business/202611110022
+2026-11-11,BEIJING,TAIWAN,036,4.0,2,False,False,True,https://focustaiwan.tw/business/202611110022
+2026-11-11,BEIJING,TAIWAN,125,-5.0,2,False,False,True,https://focustaiwan.tw/business/202611110022
+2026-11-11,TAIWAN,BEIJING,036,4.0,2,False,False,True,https://focustaiwan.tw/business/202611110022
+2026-11-11,TAIPEI,UNITED STATES,042,1.9,10,False,False,False,https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/
+2026-11-11,UNITED STATES,TAIWAN,043,2.8,2,False,False,False,https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/
+2026-11-11,UNITED STATES,TAIWAN,043,2.8,2,False,False,False,https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/
+2026-11-11,UNITED STATES,TAIPEI,043,2.8,6,False,False,False,https://hardware.developpez.com/actu/388968/La-liaison-de-Jensen-Huang-met-en-peril-l-avenir-de-Nvidia-qui-n-a-pas-de-successeur-evident-pour-remplacer-son-celebre-PDG-alors-que-plus-de-60-cadres-superieurs-relevent-directement-de-lui/
+2026-11-11,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan
+2026-11-11,TAIWAN,CHINESE,090,-2.0,7,False,False,False,https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan
+2026-11-11,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan
+2026-11-11,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan
+2026-11-11,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan
+2026-11-11,TAIWAN,UNITED STATES,071,7.4,2,False,True,False,https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIPEI,CHINESE,043,2.8,8,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,TAIWAN,THE US,051,3.4,1,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties
+2026-11-11,CHINESE,TAIPEI,042,1.9,8,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINESE,TAIPEI,090,-2.0,5,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINESE,TAIPEI,090,-2.0,5,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIPEI,172,-5.0,8,False,False,False,http://inews24.com/view/2024991
+2026-11-11,TAIPEI,WASHINGTON,161,-4.0,4,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIPEI,WASHINGTON,161,-4.0,6,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIWAN,THE US,051,3.4,10,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,CHINA,TAIWAN,013,0.4,2,False,False,True,https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy
+2026-11-11,TAIWAN,WASHINGTON,071,7.4,5,False,True,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
+2026-11-11,TAIWAN,CHINA,010,0.0,1,False,False,False,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
+2026-11-11,CHINA,TAIWAN,130,-4.4,2,False,False,True,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
+2026-11-11,TAIWAN,CHINA,010,0.0,1,False,False,False,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
 2026-11-11,CHINA,TAIWAN,172,-5.0,1,False,False,False,http://inews24.com/view/2024793
 2026-11-11,CHINA,TAIWAN,172,-5.0,1,False,False,False,http://inews24.com/view/2024793
 2026-11-11,CHINA,TAIPEI,172,-5.0,4,False,False,False,http://inews24.com/view/2024793
@@ -58,22 +74,110 @@
 2026-11-11,TAIWAN,CHINA,071,7.4,4,False,True,False,https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea
 2026-11-11,TAIWAN,CHINA,073,7.4,5,False,False,False,https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea
 2026-11-11,TAIWAN,CHINA,071,7.4,1,False,True,False,https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea
-2026-11-11,TAIWAN,UNITED STATES,071,7.4,2,False,True,False,https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
-2026-11-11,TAIPEI,CHINESE,043,2.8,8,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,TAIWAN,THE US,051,3.4,1,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/11/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties
-2026-11-11,CHINESE,TAIPEI,042,1.9,8,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,CHINESE,TAIPEI,090,-2.0,5,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,CHINESE,TAIPEI,090,-2.0,5,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286810.html
-2026-11-11,CHINA,TAIPEI,172,-5.0,8,False,False,False,http://inews24.com/view/2024991
-2026-11-11,TAIPEI,WASHINGTON,161,-4.0,4,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
-2026-11-11,TAIPEI,WASHINGTON,161,-4.0,6,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
-2026-11-11,TAIWAN,THE US,051,3.4,10,False,False,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
-2026-11-11,CHINA,TAIWAN,013,0.4,2,False,False,True,https://www.freepressjournal.in/tech/nvidia-hires-top-us-law-firm-to-investigate-ceo-jensen-huangs-alleged-link-to-chinese-spy
-2026-11-11,TAIWAN,WASHINGTON,071,7.4,5,False,True,False,https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/
-2026-11-11,TAIWAN,CHINA,010,0.0,1,False,False,False,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
-2026-11-11,CHINA,TAIWAN,130,-4.4,2,False,False,True,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
-2026-11-11,TAIWAN,CHINA,010,0.0,1,False,False,False,https://blog.wenxuecity.com/myblog/72453/202611/7617.html
+2026-11-11,TAIWAN,CHINESE,090,-2.0,7,False,False,False,https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/
+2026-11-11,TAIWAN,CHINESE,112,-2.0,7,False,False,False,https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,2,False,False,False,https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,8,False,False,False,https://article.wn.com/view/2026/11/11/Chinese_woman_accused_of_Nvidia_spying_entered_Taiwan_on_HK_/
+2026-11-11,CHINA,TAIWAN,010,0.0,4,False,False,True,https://www.busan.com/view/busan/view.php?code=2026111118004583176
+2026-11-11,CHINA,TAIWAN,010,0.0,6,False,False,True,https://www.busan.com/view/busan/view.php?code=2026111118004583176
+2026-11-11,TAIWAN,CHINESE,090,-2.0,8,False,False,False,https://drimble.nl/binnenlands-nieuws/108564036/taiwan-onderzoekt-hoe-vermeende-chinese-spion-land-in-kon.html
+2026-11-11,TAIWAN,BEIJING,010,0.0,4,False,False,False,https://www.businessinsider.com/jensen-huang-scandal-nvidia-tsmc-taiwan-semiconductor-2026-11
+2026-11-11,TAIWAN,WASHINGTON,130,-4.4,2,False,False,False,https://www.businessinsider.com/jensen-huang-scandal-nvidia-tsmc-taiwan-semiconductor-2026-11
+2026-11-11,TAIWAN,WASHINGTON,130,-4.4,2,False,False,False,https://www.businessinsider.com/jensen-huang-scandal-nvidia-tsmc-taiwan-semiconductor-2026-11
+2026-11-11,TAIWAN,CHINESE,112,-2.0,10,False,False,False,https://www.correiodopovo.com.br/jornal-com-tecnologia/chinesa-acusada-de-espionagem-contra-ceo-da-nvidia-entrou-em-taiwan-com-passaporte-de-hong-kong-1.1763729
+2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,TAIWAN,CHINESE,090,-2.0,10,False,False,False,https://www.rtp.pt/noticias/mundo/taiwan-confirma-entrada-de-alegada-espia-chinesa-ligada-ao-presidente-da-nvidia_n1778318
+2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.lrt.lt/naujienos/lietuvoje/2/3111058/valstieciu-lyderis-santykiu-su-kinija-atkurimas-minimumas-o-ne-draugystes-siekis
+2026-11-11,CHINA,TAIPEI,043,2.8,2,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,TAIWAN,CHINA,042,1.9,4,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,TAIPEI,CHINA,042,1.9,2,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,2,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,CHINA,TAIWAN,043,2.8,4,False,False,False,https://arynews.tv/nvidia-ceos-relationship-triggers-wave-of-viral-memes
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/news/article-16283335/Jensen-Huang-Nvidia-spy-mistress-husband.html
+2026-11-11,CHINA,TAIPEI,172,-5.0,8,False,False,False,http://inews24.com/view/2025060
+2026-11-11,NVIDIA,TAIPEI,172,-5.0,10,False,False,False,https://timesofindia.indiatimes.com/relationships/jensen-huangs-old-taipei-bar-photo-with-alice-huang-goes-viral-again-whats-the-story/articleshow/135730841.cms
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,CHINA,TAIWAN,010,0.0,1,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,CHINA,TAIWAN,051,3.4,1,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,CHINA,TAIWAN,051,3.4,1,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,CHINA,TAIWAN,010,0.0,1,False,False,False,https://aa.com.tr/en/americas/trump-briefed-aboard-air-force-one-en-route-to-beijing-about-nvidia-chief-s-ties-to-alleged-chinese-spy-report/4119840
+2026-11-11,TAIWAN,CHINA,090,-2.0,10,False,False,False,https://www.dw.com/id/perang-cip-ai-as-cina-megaspeed-jadi-sorotan-di-tengah-skandal-nvidia/a-79914195
+2026-11-11,TAIWAN,BEIJING,016,-2.0,6,False,False,True,https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644
+2026-11-11,TAIWAN,CHINA,016,-2.0,2,False,False,True,https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644
+2026-11-11,TAIWAN,BEIJING,016,-2.0,2,False,False,True,https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644
+2026-11-11,NVIDIA,TAIWAN,090,-2.0,4,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1286834.html
+2026-11-11,TAIWAN,THE US,051,3.4,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557
+2026-11-11,THE US,TAIWAN,084,7.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867557
+2026-11-11,UNITED STATES,TAIWAN,010,0.0,4,False,False,False,https://www.alphatv.gr/kosmos/italia-sinagermos-me-apeili-vomvas-kai-paraliritika-minimata-se-300-sxoleia/
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,TAIWAN,WALL STREET JOURNAL,010,0.0,1,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/vertical-galleries/article-16284307/Jensen-Huangs-spy-mistress-alleged-secret-husband.html
+2026-11-11,TAIPEI,CHINA,042,1.9,2,False,False,False,https://english.aawsat.com/world/5340034-chinese-woman-accused-spying-nvidia-boss-entered-taiwan-hong-kong-passport
+2026-11-11,CHINA,TAIPEI,043,2.8,2,False,False,False,https://english.aawsat.com/world/5340034-chinese-woman-accused-spying-nvidia-boss-entered-taiwan-hong-kong-passport
+2026-11-11,CHINA,TAIPEI,043,2.8,2,False,False,False,https://english.aawsat.com/world/5340034-chinese-woman-accused-spying-nvidia-boss-entered-taiwan-hong-kong-passport
+2026-11-11,TAIPEI,CHINA,042,1.9,2,False,False,False,https://english.aawsat.com/world/5340034-chinese-woman-accused-spying-nvidia-boss-entered-taiwan-hong-kong-passport
+2026-11-11,TAIWAN,CHINESE,043,2.8,16,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,TAIWAN,CHINESE,043,2.8,10,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,CHINESE,TAIWAN,042,1.9,16,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,CHINESE,TAIWAN,042,1.9,8,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,CHINESE,TAIWAN,090,-2.0,8,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,CHINESE,TAIWAN,042,1.9,2,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,CHINESE,TAIWAN,090,-2.0,8,False,False,False,https://www.vrt.be/vrtnws/nl/2026/11/11/spionage-nvidia-huang-chinese-vrouw-met-hongkongs-paspoort-naar/
+2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://english.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867565
+2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867565
+2026-11-11,TAIWAN,CHINA,160,-4.0,2,False,False,True,https://focustaiwan.tw/politics/202611110011
+2026-11-11,CHINESE,TAIPEI,090,-2.0,3,False,False,False,http://english.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://english.hani.co.kr/arti/english_edition/e_international/1286810.html
+2026-11-11,TAIWAN,NVIDIA,172,-5.0,10,False,False,False,https://www.huffingtonpost.kr:443/article/261998
+2026-11-11,TAIWAN,CHINA,130,-4.4,4,False,False,False,https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/
+2026-11-11,NEW YORK,TAIWAN,040,1.0,12,False,False,True,https://patriotpost.us/articles/1002708-the-jensen-huang-scandal
+2026-11-11,TAIWAN,NEW YORK,040,1.0,12,False,False,True,https://patriotpost.us/articles/1002708-the-jensen-huang-scandal
+2026-11-11,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377
+2026-11-11,TAIWAN,CHINESE,043,2.8,6,False,False,False,https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377
+2026-11-11,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377
+2026-11-11,CHINESE,TAIWAN,042,1.9,6,False,False,False,https://www.ibtimes.com.au/nvidia-investigates-ceo-ties-alleged-chinese-spy-1878377
+2026-11-11,TAIWANESE,UNITED STATES,042,1.9,2,False,False,False,https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html
+2026-11-11,TAIWANESE,UNITED STATES,090,-2.0,2,False,False,False,https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html
+2026-11-11,UNITED STATES,TAIWANESE,043,2.8,2,False,False,False,https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html
+2026-11-11,UNITED STATES,TAIWANESE,043,2.8,2,False,False,False,https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html
+2026-11-11,TAIWANESE,UNITED STATES,042,1.9,2,False,False,False,https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html
+2026-11-11,TAIWANESE,UNITED STATES,090,-2.0,2,False,False,False,https://www.oneindia.com/international/who-is-kang-wei-alice-huang-s-husband-drawn-into-nvidia-chip-investigation-8256777.html
+2026-11-11,NEW YORK,TAIWAN,090,-2.0,1,False,False,False,https://www.ibtimes.co.uk/taiwan-alice-huang-alleged-spy-entry-permit-1831666
+2026-11-11,NEW YORK,TAIWAN,090,-2.0,1,False,False,False,https://www.ibtimes.co.uk/taiwan-alice-huang-alleged-spy-entry-permit-1831666
+2026-11-11,TAIWAN,CHINA,111,-2.0,4,False,False,True,https://www.respublika.lt/lt/naujienos/lietuva/lietuvos_politika/po-uzdaro-seimo-komiteto-posedzio---raginimai-neskubeti-normalizuoti-santykiu-su-kinija/
+2026-11-11,TAIPEI,CHINA,043,2.8,1,False,False,False,https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html
+2026-11-11,CHINA,TAIPEI,043,2.8,1,False,False,False,https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html
+2026-11-11,TAIPEI,CHINA,042,1.9,1,False,False,False,https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html
+2026-11-11,CHINA,TAIPEI,042,1.9,1,False,False,False,https://www.independent.co.uk/news/world/americas/us-politics/megaspeed-ai-nvidia-alice-jensen-huang-b3082926.html
+2026-11-11,CHINA,TAIWAN,011,-0.1,2,False,False,True,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,BEIJING,016,-2.0,4,False,False,False,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,CHINA,020,3.0,5,False,False,False,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,CHINA,036,4.0,3,False,False,True,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,CHINA,036,4.0,1,False,False,True,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,WASHINGTON,071,7.4,5,False,True,False,https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties
+2026-11-11,TAIWAN,CHINA,050,3.5,4,False,False,False,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,CHINA,050,3.5,1,False,False,False,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,CHINA,TAIWAN,011,-0.1,8,False,False,True,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,CHINA,036,4.0,1,False,False,True,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,TAIWAN,BEIJING,016,-2.0,1,False,False,False,https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/
+2026-11-11,CHINA,TAIWAN,010,0.0,2,False,False,True,https://www.fnnews.com/news/202611111746450059
+2026-11-11,CHINA,TAIWAN,010,0.0,8,False,False,True,https://www.fnnews.com/news/202611111746450059
