@@ -1,0 +1,621 @@
+{
+ "generated_at": "2026-11-12T14:45:49",
+ "primary_hypothesis": {
+  "domain": "overall",
+  "key": "CHN_threat",
+  "outcome": "abs_daily_log_return",
+  "results": [
+   {
+    "label": "lag 0일",
+    "n": 60,
+    "r": -0.2,
+    "p": 0.1266,
+    "ci95": [
+     -0.432,
+     0.057
+    ],
+    "spearman": -0.108
+   },
+   {
+    "label": "lag 1일",
+    "n": 59,
+    "r": 0.135,
+    "p": 0.3077,
+    "ci95": [
+     -0.125,
+     0.378
+    ],
+    "spearman": 0.129
+   }
+  ]
+ },
+ "exploratory": [
+  {
+   "label": "overall/CHN_threat L0 → |수익률|",
+   "n": 60,
+   "r": -0.2,
+   "p": 0.1266,
+   "ci95": [
+    -0.432,
+    0.057
+   ],
+   "spearman": -0.108
+  },
+  {
+   "label": "overall/CHN_threat L1 → |수익률|",
+   "n": 59,
+   "r": 0.135,
+   "p": 0.3077,
+   "ci95": [
+    -0.125,
+    0.378
+   ],
+   "spearman": 0.129
+  },
+  {
+   "label": "overall/CHN_response L0 → |수익률|",
+   "n": 60,
+   "r": -0.009,
+   "p": 0.9469,
+   "ci95": [
+    -0.262,
+    0.246
+   ],
+   "spearman": 0.065
+  },
+  {
+   "label": "overall/CHN_response L1 → |수익률|",
+   "n": 59,
+   "r": 0.035,
+   "p": 0.795,
+   "ci95": [
+    -0.223,
+    0.288
+   ],
+   "spearman": 0.275
+  },
+  {
+   "label": "overall/USA_threat L0 → |수익률|",
+   "n": 60,
+   "r": -0.095,
+   "p": 0.4721,
+   "ci95": [
+    -0.341,
+    0.163
+   ],
+   "spearman": -0.143
+  },
+  {
+   "label": "overall/USA_threat L1 → |수익률|",
+   "n": 59,
+   "r": -0.11,
+   "p": 0.4081,
+   "ci95": [
+    -0.356,
+    0.15
+   ],
+   "spearman": -0.129
+  },
+  {
+   "label": "overall/USA_response L0 → |수익률|",
+   "n": 60,
+   "r": 0.095,
+   "p": 0.4712,
+   "ci95": [
+    -0.163,
+    0.341
+   ],
+   "spearman": 0.218
+  },
+  {
+   "label": "overall/USA_response L1 → |수익률|",
+   "n": 59,
+   "r": -0.071,
+   "p": 0.594,
+   "ci95": [
+    -0.321,
+    0.188
+   ],
+   "spearman": 0.186
+  },
+  {
+   "label": "military/CHN_threat L0 → |수익률|",
+   "n": 54,
+   "r": 0.007,
+   "p": 0.963,
+   "ci95": [
+    -0.262,
+    0.274
+   ],
+   "spearman": -0.026
+  },
+  {
+   "label": "military/CHN_threat L1 → |수익률|",
+   "n": 53,
+   "r": 0.265,
+   "p": 0.0552,
+   "ci95": [
+    -0.006,
+    0.499
+   ],
+   "spearman": 0.253
+  },
+  {
+   "label": "military/CHN_response L0 → |수익률|",
+   "n": 54,
+   "r": -0.041,
+   "p": 0.7674,
+   "ci95": [
+    -0.306,
+    0.229
+   ],
+   "spearman": -0.072
+  },
+  {
+   "label": "military/CHN_response L1 → |수익률|",
+   "n": 53,
+   "r": -0.01,
+   "p": 0.9415,
+   "ci95": [
+    -0.28,
+    0.261
+   ],
+   "spearman": 0.208
+  },
+  {
+   "label": "military/USA_threat L0 → |수익률|",
+   "n": 54,
+   "r": -0.029,
+   "p": 0.8356,
+   "ci95": [
+    -0.295,
+    0.241
+   ],
+   "spearman": -0.086
+  },
+  {
+   "label": "military/USA_threat L1 → |수익률|",
+   "n": 53,
+   "r": -0.076,
+   "p": 0.5881,
+   "ci95": [
+    -0.34,
+    0.198
+   ],
+   "spearman": -0.063
+  },
+  {
+   "label": "military/USA_response L0 → |수익률|",
+   "n": 54,
+   "r": 0.185,
+   "p": 0.1806,
+   "ci95": [
+    -0.087,
+    0.432
+   ],
+   "spearman": 0.235
+  },
+  {
+   "label": "military/USA_response L1 → |수익률|",
+   "n": 53,
+   "r": -0.028,
+   "p": 0.8416,
+   "ci95": [
+    -0.296,
+    0.244
+   ],
+   "spearman": 0.25
+  },
+  {
+   "label": "diplomatic/CHN_threat L0 → |수익률|",
+   "n": 48,
+   "r": 0.04,
+   "p": 0.7905,
+   "ci95": [
+    -0.247,
+    0.32
+   ],
+   "spearman": 0.098
+  },
+  {
+   "label": "diplomatic/CHN_threat L1 → |수익률|",
+   "n": 47,
+   "r": -0.076,
+   "p": 0.6115,
+   "ci95": [
+    -0.356,
+    0.215
+   ],
+   "spearman": -0.053
+  },
+  {
+   "label": "diplomatic/CHN_response L0 → |수익률|",
+   "n": 48,
+   "r": 0.27,
+   "p": 0.0632,
+   "ci95": [
+    -0.015,
+    0.515
+   ],
+   "spearman": 0.242
+  },
+  {
+   "label": "diplomatic/CHN_response L1 → |수익률|",
+   "n": 47,
+   "r": 0.263,
+   "p": 0.0741,
+   "ci95": [
+    -0.026,
+    0.511
+   ],
+   "spearman": 0.279
+  },
+  {
+   "label": "diplomatic/USA_threat L0 → |수익률|",
+   "n": 48,
+   "r": -0.245,
+   "p": 0.0928,
+   "ci95": [
+    -0.495,
+    0.042
+   ],
+   "spearman": -0.301
+  },
+  {
+   "label": "diplomatic/USA_threat L1 → |수익률|",
+   "n": 47,
+   "r": -0.192,
+   "p": 0.1962,
+   "ci95": [
+    -0.454,
+    0.1
+   ],
+   "spearman": -0.131
+  },
+  {
+   "label": "diplomatic/USA_response L0 → |수익률|",
+   "n": 48,
+   "r": -0.061,
+   "p": 0.6808,
+   "ci95": [
+    -0.339,
+    0.227
+   ],
+   "spearman": 0.075
+  },
+  {
+   "label": "diplomatic/USA_response L1 → |수익률|",
+   "n": 47,
+   "r": 0.064,
+   "p": 0.6713,
+   "ci95": [
+    -0.227,
+    0.345
+   ],
+   "spearman": 0.178
+  },
+  {
+   "label": "overall/CHN_threat L0 → 수익률",
+   "n": 60,
+   "r": -0.046,
+   "p": 0.7308,
+   "ci95": [
+    -0.296,
+    0.211
+   ],
+   "spearman": -0.09
+  },
+  {
+   "label": "overall/CHN_threat L1 → 수익률",
+   "n": 59,
+   "r": -0.146,
+   "p": 0.2697,
+   "ci95": [
+    -0.388,
+    0.114
+   ],
+   "spearman": -0.177
+  },
+  {
+   "label": "overall/CHN_response L0 → 수익률",
+   "n": 60,
+   "r": 0.076,
+   "p": 0.5636,
+   "ci95": [
+    -0.181,
+    0.324
+   ],
+   "spearman": 0.046
+  },
+  {
+   "label": "overall/CHN_response L1 → 수익률",
+   "n": 59,
+   "r": 0.111,
+   "p": 0.4025,
+   "ci95": [
+    -0.149,
+    0.357
+   ],
+   "spearman": 0.13
+  },
+  {
+   "label": "overall/USA_threat L0 → 수익률",
+   "n": 60,
+   "r": 0.017,
+   "p": 0.896,
+   "ci95": [
+    -0.238,
+    0.27
+   ],
+   "spearman": -0.003
+  },
+  {
+   "label": "overall/USA_threat L1 → 수익률",
+   "n": 59,
+   "r": -0.063,
+   "p": 0.6348,
+   "ci95": [
+    -0.314,
+    0.196
+   ],
+   "spearman": -0.006
+  },
+  {
+   "label": "overall/USA_response L0 → 수익률",
+   "n": 60,
+   "r": -0.048,
+   "p": 0.7154,
+   "ci95": [
+    -0.299,
+    0.208
+   ],
+   "spearman": -0.069
+  },
+  {
+   "label": "overall/USA_response L1 → 수익률",
+   "n": 59,
+   "r": -0.001,
+   "p": 0.9926,
+   "ci95": [
+    -0.257,
+    0.255
+   ],
+   "spearman": -0.03
+  },
+  {
+   "label": "military/CHN_threat L0 → 수익률",
+   "n": 54,
+   "r": -0.199,
+   "p": 0.1487,
+   "ci95": [
+    -0.444,
+    0.072
+   ],
+   "spearman": -0.195
+  },
+  {
+   "label": "military/CHN_threat L1 → 수익률",
+   "n": 53,
+   "r": -0.055,
+   "p": 0.6945,
+   "ci95": [
+    -0.321,
+    0.218
+   ],
+   "spearman": -0.045
+  },
+  {
+   "label": "military/CHN_response L0 → 수익률",
+   "n": 54,
+   "r": 0.039,
+   "p": 0.7815,
+   "ci95": [
+    -0.231,
+    0.303
+   ],
+   "spearman": 0.045
+  },
+  {
+   "label": "military/CHN_response L1 → 수익률",
+   "n": 53,
+   "r": 0.094,
+   "p": 0.5042,
+   "ci95": [
+    -0.181,
+    0.355
+   ],
+   "spearman": 0.081
+  },
+  {
+   "label": "military/USA_threat L0 → 수익률",
+   "n": 54,
+   "r": -0.018,
+   "p": 0.9001,
+   "ci95": [
+    -0.284,
+    0.251
+   ],
+   "spearman": -0.032
+  },
+  {
+   "label": "military/USA_threat L1 → 수익률",
+   "n": 53,
+   "r": -0.087,
+   "p": 0.5374,
+   "ci95": [
+    -0.349,
+    0.188
+   ],
+   "spearman": -0.007
+  },
+  {
+   "label": "military/USA_response L0 → 수익률",
+   "n": 54,
+   "r": 0.083,
+   "p": 0.5516,
+   "ci95": [
+    -0.189,
+    0.343
+   ],
+   "spearman": 0.007
+  },
+  {
+   "label": "military/USA_response L1 → 수익률",
+   "n": 53,
+   "r": -0.104,
+   "p": 0.4611,
+   "ci95": [
+    -0.364,
+    0.171
+   ],
+   "spearman": -0.086
+  },
+  {
+   "label": "diplomatic/CHN_threat L0 → 수익률",
+   "n": 48,
+   "r": -0.196,
+   "p": 0.1832,
+   "ci95": [
+    -0.455,
+    0.094
+   ],
+   "spearman": -0.196
+  },
+  {
+   "label": "diplomatic/CHN_threat L1 → 수익률",
+   "n": 47,
+   "r": -0.204,
+   "p": 0.1694,
+   "ci95": [
+    -0.464,
+    0.088
+   ],
+   "spearman": -0.241
+  },
+  {
+   "label": "diplomatic/CHN_response L0 → 수익률",
+   "n": 48,
+   "r": -0.012,
+   "p": 0.9383,
+   "ci95": [
+    -0.295,
+    0.273
+   ],
+   "spearman": -0.064
+  },
+  {
+   "label": "diplomatic/CHN_response L1 → 수익률",
+   "n": 47,
+   "r": 0.074,
+   "p": 0.6215,
+   "ci95": [
+    -0.218,
+    0.354
+   ],
+   "spearman": 0.074
+  },
+  {
+   "label": "diplomatic/USA_threat L0 → 수익률",
+   "n": 48,
+   "r": -0.006,
+   "p": 0.9704,
+   "ci95": [
+    -0.289,
+    0.279
+   ],
+   "spearman": -0.033
+  },
+  {
+   "label": "diplomatic/USA_threat L1 → 수익률",
+   "n": 47,
+   "r": 0.025,
+   "p": 0.8659,
+   "ci95": [
+    -0.264,
+    0.31
+   ],
+   "spearman": -0.063
+  },
+  {
+   "label": "diplomatic/USA_response L0 → 수익률",
+   "n": 48,
+   "r": -0.233,
+   "p": 0.1121,
+   "ci95": [
+    -0.485,
+    0.055
+   ],
+   "spearman": -0.105
+  },
+  {
+   "label": "diplomatic/USA_response L1 → 수익률",
+   "n": 47,
+   "r": 0.074,
+   "p": 0.6238,
+   "ci95": [
+    -0.218,
+    0.353
+   ],
+   "spearman": 0.029
+  }
+ ],
+ "n_tests": 48,
+ "bonferroni_threshold": 0.0010416666666666667,
+ "event_study": [
+  {
+   "date": "2026-11-01",
+   "csti": 5.2,
+   "ret_pct": [
+    -0.65,
+    -3.66,
+    -0.83
+   ]
+  },
+  {
+   "date": "2026-09-03",
+   "csti": 3.93,
+   "ret_pct": [
+    -0.67,
+    1.5,
+    1.65
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "csti": 3.93,
+   "ret_pct": [
+    -1.14,
+    1.28,
+    -1.82
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "csti": 3.57,
+   "ret_pct": [
+    -1.43,
+    -2.53,
+    -0.65
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "csti": 3.2,
+   "ret_pct": [
+    2.49,
+    3.55,
+    -2.67
+   ]
+  },
+  {
+   "date": "2026-08-27",
+   "csti": 3.2,
+   "ret_pct": [
+    0.31,
+    0.77,
+    -0.44
+   ]
+  }
+ ],
+ "_caveat": "거래일 60여 일은 r≈0.35 미만을 가릴 검정력이 없다. 이 구간 가권지수의 큰 움직임은 AI·반도체 순환이 만든 것이고 코드북은 그 뉴스를 '무관'으로 거른다. 상관이 없는 것은 실패가 아니라 판별 타당도의 증거다."
+}
