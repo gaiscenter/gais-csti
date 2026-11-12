@@ -53,6 +53,8 @@ ANCHOR_KR = "대만"
 ANCHOR_EN = "Taiwan"
 COUNTRY_KR = {"CHN": "중국", "USA": "미국"}
 COUNTRY_EN = {"CHN": "China", "USA": "the United States"}
+ANCHOR_ZH = "臺灣"
+COUNTRY_ZH = {"CHN": "中國", "USA": "美國"}
 
 
 def _shrunk(rows):
@@ -214,6 +216,19 @@ _TERMS = [
     (re.compile(r"\bChinese Taipei\b"), "Taiwan"),
     # 해협 명칭은 중립어를 쓴다
     (re.compile(r"(?<!대만)해협 양안"), "대만해협 양안"),
+
+    # 번체중국어 — **순서가 중요하다.** 복합어를 먼저 잡지 않고 台→臺 를 먼저
+    # 돌리면 '中國台灣省' 이 '中國臺灣省' 이 되어 아래 규칙을 빠져나간다.
+    (re.compile(r"中國[台臺]灣省"), "臺灣"),
+    (re.compile(r"[台臺]灣當局"), "臺灣政府"),
+    (re.compile(r"[台臺]灣地區"), "臺灣"),
+    (re.compile(r"中華[台臺]北"), "臺灣"),
+    (re.compile(r"台灣"), "臺灣"),          # 표기 통일 (Kay 지정: 臺灣)
+    # 대만 어법으로 통일한다. 홍콩·대륙 표기가 섞이면 바로 티가 난다.
+    (re.compile(r"網絡"), "網路"),
+    (re.compile(r"信息"), "資訊"),
+    (re.compile(r"軟件"), "軟體"),
+    (re.compile(r"硬件"), "硬體"),
 ]
 
 
@@ -247,12 +262,15 @@ def thin_note(day, partner, cell):
     n = len(arts)
     if n == 0:
         nd = cell.get("n_day_coded") or 0
+        zh = COUNTRY_ZH.get(partner, partner)
         return {"ko": f"이 날 기사 {nd:,}건을 읽었고, 그중 {ANCHOR_KR}-{kr} 사이의 사건은 "
                       f"없었습니다. 지수 0 은 '자료가 없다'가 아니라 "
                       f"'사건이 확인되지 않았다'는 뜻입니다.",
                 "en": f"{nd:,} articles were read for this day and none reported an "
-                      f"event between Korea and {en}. A value of zero means no event "
-                      f"was found, not that data is missing.",
+                      f"event between {ANCHOR_EN} and {en}. A value of zero means no "
+                      f"event was found, not that data is missing.",
+                "zh": f"當日共讀取 {nd:,} 篇報導，其中沒有{ANCHOR_ZH}與{zh}之間的事件。"
+                      f"指數為 0 並非「沒有資料」，而是「未發現事件」。",
                 "model": "none (no events)",
                 "codebook_fingerprint": cell["fingerprint"],
                 "n_articles": 0, "thin": True, "empty": True,
@@ -261,10 +279,14 @@ def thin_note(day, partner, cell):
           f"이 날 지수를 만든 기사는 다음과 같습니다.\n"
           + "\n".join(f"· {a['title'][:120]}" for a in arts[:3]))
     eng = (f"Only {n} article{'s' if n != 1 else ''} — too thin to read as a movement "
-           f"in Korea–{en} relations. The article{'s' if n != 1 else ''} behind this "
-           f"day's value:\n"
+           f"in {ANCHOR_EN}–{en} relations. The article{'s' if n != 1 else ''} behind "
+           f"this day's value:\n"
            + "\n".join(f"· {a['title'][:120]}" for a in arts[:3]))
-    return {"ko": ko, "en": eng, "model": "none (thin evidence)",
+    zht = (f"佐證報導僅 {n} 篇，因此不將其解讀為{ANCHOR_ZH}與"
+           f"{COUNTRY_ZH.get(partner, partner)}關係的變動。"
+           f"構成當日指數的報導如下。\n"
+           + "\n".join(f"· {a['title'][:120]}" for a in arts[:3]))
+    return {"ko": ko, "en": eng, "zh": zht, "model": "none (thin evidence)",
             "codebook_fingerprint": cell["fingerprint"],
             "n_articles": n, "thin": True,
             "generated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
@@ -279,7 +301,7 @@ PROMPT = """아래는 대만과 {kr}({en}) 사이의 {day} 하루 긴장도 지�
 근거 기사 (영향력 순)
 {articles}
 
-이 둘만 근거로 2~4문장의 짧은 해설을 쓰십시오. 규칙:
+이 둘만 근거로 2~4문장의 짧은 해설을 **한국어·영어·번체중국어 세 가지로** 쓰십시오. 규칙:
 
 1. **주어진 기사에 없는 사실을 쓰지 마십시오.** 배경지식·추측·다른 날 사건을 끌어오지 마십시오.
 2. **어느 채널이 움직였는지 밝히고, 그 채널의 기사로만 설명하십시오.** 군사 지수를 경제 기사로 설명하는 것은 오류입니다.
@@ -291,11 +313,15 @@ PROMPT = """아래는 대만과 {kr}({en}) 사이의 {day} 하루 긴장도 지�
    한국어: '대만'·'대만 정부'를 씁니다. '대만 당국'·'중국 대만성'·'대만 지구'를 쓰지 않습니다.
    영어:   'Taiwan' / "Taiwan's government" 를 씁니다. 'Taiwan Province of China',
            'Taiwan region', 'Taiwan authorities', 'Chinese Taipei' 를 쓰지 않습니다.
+   번체중국어: **臺灣**(台灣 아님)·**臺灣政府**를 씁니다. 中國臺灣省·臺灣當局·
+           臺灣地區·中華臺北를 쓰지 않습니다. 중국은 中國, 양안은 兩岸입니다.
    통일·독립 등 정치적 지위에 대한 평가를 해설이 내리지 않습니다 — 기사가 보도한
    사건만 씁니다.
+8. **번체중국어는 대만 어법으로 씁니다.** 網路(網絡 아님), 資訊(信息 아님),
+   軟體·硬體(軟件·硬件 아님). 홍콩·중국 대륙 표기를 쓰지 마십시오.
 
 출력은 JSON 한 덩어리뿐입니다. 설명을 붙이지 마십시오.
-{{"ko": "한국어 해설", "en": "English commentary", "used": [사용한 기사 번호]}}"""
+{{"ko": "한국어 해설", "en": "English commentary", "zh": "繁體中文解說", "used": [사용한 기사 번호]}}"""
 
 
 def write_one(client, days, day, partner):
@@ -318,11 +344,12 @@ def write_one(client, days, day, partner):
         return day, partner, None, "JSON 파싱 불가"
     ko = normalize_terms((j.get("ko") or "").strip())
     en = normalize_terms((j.get("en") or "").strip())
-    if not ko and not en:
+    zh = normalize_terms((j.get("zh") or "").strip())
+    if not ko and not en and not zh:
         return day, partner, None, "본문 비어 있음"
     used = [arts[n - 1] for n in (j.get("used") or []) if 1 <= n <= len(arts)]
     return day, partner, {
-        "ko": ko, "en": en, "model": MODEL,
+        "ko": ko, "en": en, "zh": zh, "model": MODEL,
         "codebook_fingerprint": cell["fingerprint"],
         # 이 해설이 몇 건을 보고 쓰였는지. 나중에 기사가 늘면 다시 쓰기 위해서다.
         "n_articles": len(cell["articles"]),
