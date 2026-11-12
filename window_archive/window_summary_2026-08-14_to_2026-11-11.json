@@ -1,0 +1,267 @@
+{
+  "window": {
+    "start": "2026-08-14",
+    "end": "2026-11-11"
+  },
+  "query_bytes_gb": 2.531,
+  "generated_at": "2026-11-12T09:33:58.006465",
+  "note": "Two counts are reported because GDELT ingests late: rows are selected by partition time (padded) and then also classified by event date (SQLDATE). Appendix B.1 reports N = 1,847; compare against both definitions.",
+  "counts": {
+    "partition_window": {
+      "total_events": 12334,
+      "by_partner": {
+        "CHN": {
+          "events": 8262,
+          "mentions": 34224,
+          "negative_events": 3327,
+          "negative_mention_weighted_signal": 57619.5
+        },
+        "USA": {
+          "events": 4072,
+          "mentions": 16424,
+          "negative_events": 854,
+          "negative_mention_weighted_signal": 13971.4
+        }
+      }
+    },
+    "event_date_window": {
+      "total_events": 12187,
+      "by_partner": {
+        "CHN": {
+          "events": 8155,
+          "mentions": 33871,
+          "negative_events": 3281,
+          "negative_mention_weighted_signal": 57115.3
+        },
+        "USA": {
+          "events": 4032,
+          "mentions": 16252,
+          "negative_events": 836,
+          "negative_mention_weighted_signal": 13727.4
+        }
+      }
+    }
+  },
+  "china_top20_by_absolute_impact": [
+    {
+      "rank": 1,
+      "event_date": "2026-08-24",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "061",
+      "goldstein": 6.4,
+      "mentions": 48,
+      "absolute_impact": 307.2,
+      "url": "https://www.dailycamera.com/2026/08/24/taiwan-ai-server/"
+    },
+    {
+      "rank": 2,
+      "event_date": "2026-09-04",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "120",
+      "goldstein": -4.0,
+      "mentions": 70,
+      "absolute_impact": 280.0,
+      "url": "https://www.therural.com.au/story/9343557/pacific-pushback-but-no-condemnation-over-china-missile/"
+    },
+    {
+      "rank": 3,
+      "event_date": "2026-09-03",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "120",
+      "goldstein": -4.0,
+      "mentions": 64,
+      "absolute_impact": 256.0,
+      "url": "https://www.yasstribune.com.au/story/9343557/no-china-missile-test-condemnation-from-pacific-leaders/"
+    },
+    {
+      "rank": 4,
+      "event_date": "2026-09-24",
+      "actor1": "BEIJING",
+      "actor2": "TAIWAN",
+      "event_code": "046",
+      "goldstein": 7.0,
+      "mentions": 32,
+      "absolute_impact": 224.0,
+      "url": "https://fox17.com/news/nation-world/president-donald-trump-chinese-president-xi-jinping-to-face-off-over-trade-taiwan-arms-sale-and-ai-artificial-intelligence-guardrails-technology-race-at-white-house-summit-iran-war-oval-office-meeting-state-dinner"
+    },
+    {
+      "rank": 5,
+      "event_date": "2026-09-24",
+      "actor1": "TAIWAN",
+      "actor2": "BEIJING",
+      "event_code": "046",
+      "goldstein": 7.0,
+      "mentions": 32,
+      "absolute_impact": 224.0,
+      "url": "https://fox17.com/news/nation-world/president-donald-trump-chinese-president-xi-jinping-to-face-off-over-trade-taiwan-arms-sale-and-ai-artificial-intelligence-guardrails-technology-race-at-white-house-summit-iran-war-oval-office-meeting-state-dinner"
+    },
+    {
+      "rank": 6,
+      "event_date": "2026-08-21",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 20,
+      "absolute_impact": 200.0,
+      "url": "https://www.infobae.com/america/mundo/2026/08/21/taiwan-denuncio-la-incursion-de-un-buque-de-investigacion-chino-al-suroeste-de-la-isla/"
+    },
+    {
+      "rank": 7,
+      "event_date": "2026-09-01",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "194",
+      "goldstein": -10.0,
+      "mentions": 20,
+      "absolute_impact": 200.0,
+      "url": "https://japantoday.com/category/world/china-taiwan-friction-clouds-pacific-summit"
+    },
+    {
+      "rank": 8,
+      "event_date": "2026-10-22",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 20,
+      "absolute_impact": 200.0,
+      "url": "https://focustaiwan.tw:443/society/202610220005"
+    },
+    {
+      "rank": 9,
+      "event_date": "2026-10-05",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "072",
+      "goldstein": 8.3,
+      "mentions": 24,
+      "absolute_impact": 199.2,
+      "url": "http://www.arabherald.com/news/279348128/taiwan-gets-its-first-two-f-16v-fighter-jets"
+    },
+    {
+      "rank": 10,
+      "event_date": "2026-08-31",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "138",
+      "goldstein": -7.0,
+      "mentions": 28,
+      "absolute_impact": 196.0,
+      "url": "http://www.bignewsnetwork.com/news/279271864/if-china-invades-taiwan-it-could-attack-penghu-islands-first"
+    },
+    {
+      "rank": 11,
+      "event_date": "2026-09-22",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "191",
+      "goldstein": -9.5,
+      "mentions": 20,
+      "absolute_impact": 190.0,
+      "url": "https://www.bankingnews.gr/diethni/articles/900815/the-taiwan-trap-us-and-china-play-with-fire-in-asia-s-most-dangerous-flashpoint%20title="
+    },
+    {
+      "rank": 12,
+      "event_date": "2026-08-31",
+      "actor1": "CHINESE",
+      "actor2": "TAIWAN",
+      "event_code": "181",
+      "goldstein": -9.0,
+      "mentions": 21,
+      "absolute_impact": 189.0,
+      "url": "http://www.bignewsnetwork.com/news/279271864/if-china-invades-taiwan-it-could-attack-penghu-islands-first"
+    },
+    {
+      "rank": 13,
+      "event_date": "2026-08-31",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "181",
+      "goldstein": -9.0,
+      "mentions": 21,
+      "absolute_impact": 189.0,
+      "url": "http://www.bignewsnetwork.com/news/279271864/if-china-invades-taiwan-it-could-attack-penghu-islands-first"
+    },
+    {
+      "rank": 14,
+      "event_date": "2026-09-17",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 18,
+      "absolute_impact": 180.0,
+      "url": "https://www.zocalo.com.mx/taiwan-denuncia-incursion-de-aeronaves-chinas-a-una-semana-de-la-posible-cumbre-trump-xi/"
+    },
+    {
+      "rank": 15,
+      "event_date": "2026-11-09",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "090",
+      "goldstein": -2.0,
+      "mentions": 90,
+      "absolute_impact": 180.0,
+      "url": "https://eldeber.com.bo/bbc/jensen-huang-migrante-taiwanes-paso-lavar-platos-fundar-nvidia-hoy-enfrenta-investigacion-relacion-presunta-espia-china_1794230363"
+    },
+    {
+      "rank": 16,
+      "event_date": "2026-08-24",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 16,
+      "absolute_impact": 160.0,
+      "url": "https://focustaiwan.tw/society/202608240004"
+    },
+    {
+      "rank": 17,
+      "event_date": "2026-08-24",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 16,
+      "absolute_impact": 160.0,
+      "url": "https://focustaiwan.tw/society/202608240004"
+    },
+    {
+      "rank": 18,
+      "event_date": "2026-09-01",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "120",
+      "goldstein": -4.0,
+      "mentions": 40,
+      "absolute_impact": 160.0,
+      "url": "https://www.yasstribune.com.au/story/9341120/china-rages-at-taiwans-presence-at-pacific-ceremony/"
+    },
+    {
+      "rank": 19,
+      "event_date": "2026-09-13",
+      "actor1": "TAIPEI",
+      "actor2": "CHINESE",
+      "event_code": "193",
+      "goldstein": -10.0,
+      "mentions": 16,
+      "absolute_impact": 160.0,
+      "url": "https://focustaiwan.tw/society/202609130005"
+    },
+    {
+      "rank": 20,
+      "event_date": "2026-10-05",
+      "actor1": "BEIJING",
+      "actor2": "TAIWAN",
+      "event_code": "100",
+      "goldstein": -5.0,
+      "mentions": 30,
+      "absolute_impact": 150.0,
+      "url": "http://www.arabherald.com/news/279348128/taiwan-gets-its-first-two-f-16v-fighter-jets"
+    }
+  ]
+}
