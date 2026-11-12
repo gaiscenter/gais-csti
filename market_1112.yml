@@ -1,0 +1,66 @@
+name: CSTI · 가권지수 수집과 상관분석 (수동)
+
+# **LLM 호출 0건.** 證交所에서 가권지수를 받아 CSTI 와 맞춰 본다.
+#
+# 설계상 중요한 것 — 주 가설을 **미리 정해 두었다**:
+#   CSTI 전체 CHN_threat 가 높은 날, 가권지수의 변동성(|일간 수익률|)이 큰가.
+#   시차 0 과 1 만 본다.
+# 나머지 48개 조합은 탐색적이고 본페로니 기준을 함께 찍는다. 다 돌려 보고
+# 제일 예쁜 것을 고르면 가짜 발견이 된다 — 실제로 난수 시장으로 시험했을 때
+# p=0.04 짜리가 나왔다.
+#
+# 표본이 작다. 거래일 60여 일은 r≈0.35 미만을 가릴 검정력이 없다. 그래서
+# p 값만이 아니라 95% 신뢰구간을 함께 낸다.
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: '시작일 (YYYY-MM-DD). 전수코딩 구간에 맞추려면 2026-08-01'
+        required: false
+        default: '2026-08-01'
+      end:
+        description: '종료일 (YYYY-MM-DD). 비우면 오늘'
+        required: false
+        default: ''
+
+concurrency:
+  group: csti-repo-write
+  cancel-in-progress: false
+
+jobs:
+  market:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 가권지수 수집
+        env:
+          MARKET_START: ${{ inputs.start }}
+          MARKET_END: ${{ inputs.end }}
+        run: python fetch_taiex.py
+
+      - name: 상관분석
+        run: python analyze_market.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "GAIS Bot"
+          git config user.email "bot@gaiscenter.org"
+          git add market
+          git diff --staged --quiet && { echo "변경 없음"; exit 0; }
+          git commit -m "가권지수 수집·상관분석 ${{ inputs.start }} ~ $(date +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
+            # 충돌은 market/ 안에서만 날 수 있고 이 작업이 매번 다시 만든다.
+            git rebase --abort 2>/dev/null || true
+            echo "push 실패 ($i/3) — 10초 뒤 재시도"; sleep 10
+          done
+          echo "::error::push 에 실패했습니다"; exit 1
