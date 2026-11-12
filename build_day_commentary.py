@@ -447,10 +447,17 @@ def main():
             n_now = len(cell["articles"])
             # 얇은 칸이 두꺼워졌거나 그 반대면 형식이 바뀌어야 한다
             was_thin, is_thin = bool(have.get("thin")), n_now < MIN_ARTICLES
-            # 번체에 한글이 샌 칸은 다시 쓴다. 사실기록은 기사 제목을 그대로
-            # 인용하므로 한글이 정상이다 — 모델이 쓴 칸만 본다.
-            zh_bad = (not have.get("thin") and have.get("zh")
-                      and not _zh_clean(have["zh"]) and not have.get("zh_mixed"))
+            # 저장된 글이 **지금의 규칙과 어긋나면** 다시 쓴다. 두 가지를 본다.
+            #   ① 번체에 한글이 샜다 (모델이 세 언어를 낼 때 드물게 샌다)
+            #   ② 용어 규칙이 바뀌어 저장된 글이 더는 규칙을 만족하지 않는다
+            # ②가 있어야 용어 목록을 고쳤을 때 해당 칸만 자동으로 다시 쓰인다.
+            # 없으면 규칙만 바뀌고 글은 옛 표기로 남는다(2026-11-12: 大陸 2곳).
+            # 사실기록은 기사 제목을 그대로 인용하므로 둘 다 적용하지 않는다.
+            zh_now = have.get("zh") or ""
+            zh_bad = (not have.get("thin") and zh_now
+                      and ((not _zh_clean(zh_now) and not have.get("zh_mixed"))
+                           or normalize_terms(zh_now) != zh_now
+                           or normalize_terms(have.get("ko") or "") != (have.get("ko") or "")))
             if day >= today_utc or have.get("n_articles") not in (None, n_now) \
                     or was_thin != is_thin or zh_bad:
                 todo.append((day, partner))
