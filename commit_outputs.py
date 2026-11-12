@@ -38,6 +38,9 @@ PRESERVE = (os.environ.get("PRESERVE_PATHS")
             or "llm_coded llm_series.json llm_coder_cache.json").split()
 SERIES = "llm_series.json"
 CACHE = "llm_coder_cache.json"
+# 본문 샤드는 **월별 파일 하나**라 디렉터리 복사로는 못 합친다 —
+# 일일 실행과 백필이 같은 llm_text/2026-11.json 을 고친다. URL 키로 합친다.
+TEXT_DIR = "llm_text"
 TRIES = int(os.environ.get("PUSH_TRIES", "4"))
 
 
@@ -79,6 +82,29 @@ def merge_series(ours, them):
             continue
         out[k] = v
     out["_meta"] = (ours or {}).get("_meta") or them.get("_meta") or {}
+    return out
+
+
+def merge_text(ours, them):
+    """본문 샤드의 entries 를 URL 키로 합친다. **본문은 다시 못 구하므로**
+    어느 쪽도 버리지 않는다. 같은 URL 이면 본문이 있는 쪽을 쓴다."""
+    if not isinstance(them, dict) or not isinstance(ours, dict):
+        return ours
+    oe = ours.get("entries") if isinstance(ours.get("entries"), dict) else None
+    te = them.get("entries") if isinstance(them.get("entries"), dict) else None
+    if oe is None or te is None:
+        return ours
+    def body(x):
+        return bool(isinstance(x, dict) and x.get("p1"))
+
+    merged = dict(te)
+    for u, r in oe.items():
+        prev = merged.get(u)
+        # 본문이 있는 쪽을 남긴다. 둘 다 있거나 둘 다 없으면 우리 것을 쓴다
+        # (우리 쪽이 발행일 등 나중에 채운 필드를 들고 있을 수 있다).
+        if prev is None or body(r) or not body(prev):
+            merged[u] = r
+    out = dict(ours); out["entries"] = merged
     return out
 
 
@@ -135,6 +161,18 @@ def main():
             with open(CACHE, "w", encoding="utf-8") as f:
                 json.dump(merge_cache(our_cache, theirs(CACHE)), f,
                           ensure_ascii=False, indent=1)
+        # 3) 본문 샤드는 월별 파일 하나라 URL 키로 합친다.
+        if TEXT_DIR in kept and os.path.isdir(TEXT_DIR):
+            for name in sorted(os.listdir(TEXT_DIR)):
+                if not name.endswith(".json"):
+                    continue
+                rel = os.path.join(TEXT_DIR, name)
+                mine = load(rel)
+                if mine is None:
+                    continue
+                merged = merge_text(mine, theirs(rel))
+                with open(rel, "w", encoding="utf-8") as f:
+                    json.dump(merged, f, ensure_ascii=False, indent=1)
         shutil.rmtree(tmp, ignore_errors=True)
 
         sh("git", "add", "-A", *kept, check=False)
