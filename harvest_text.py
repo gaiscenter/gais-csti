@@ -34,7 +34,7 @@ import os
 import subprocess
 import sys
 
-POP_CSV = os.environ.get("POP_CSV", "")          # 비우면 paper_archive 에서 최신을 고른다
+POP_CSV = os.environ.get("POP_CSV", "")          # 비우면 window_archive 에서 최신을 고른다
 TEXT_DIR = os.environ.get("LLM_TEXT_DIR", "llm_text")
 HIST_FILES = ("audit_log.json", "audit_cache.json")
 
@@ -119,7 +119,7 @@ def population():
     """모집단 CSV 에서 url -> 최초 event_date 를 읽는다."""
     p = POP_CSV
     if not p:
-        cand = sorted(glob.glob("paper_archive/matched_events_*.csv"))
+        cand = sorted(glob.glob("window_archive/matched_events_*.csv"))
         if not cand:
             sys.exit("모집단 CSV가 없다. archive_paper_window.py 를 먼저 돌려라.")
         # 파일명이 matched_events_<시작>_to_<종료>.csv 이므로 **종료일**로 고른다.
