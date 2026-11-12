@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:39:50",
+ "generated_at": "2026-11-12T11:34:41",
  "model": "claude-haiku-4-5-20251001",
  "n_days": 90,
  "n_cells": 180,
@@ -1622,21 +1622,22 @@
     ]
    },
    "USA": {
-    "ko": "미국이 대만에 F-16 전투기 2대를 인도하면서 군사 채널에서 긴장도가 하락했다. 근거 기사는 2건으로, 미국의 군사 지원이 대만 공군 전력 강화로 보도된 사건이 주를 이룬다. 대만 측 외교 채널에서는 미-중 대립 상황이 대만에 기회를 제공한다는 전문가 평가가 나왔으나, 전체적으로 이날 양측 긴장도 변화는 제한된 근거 위에서만 포착된다.",
-    "en": "The US delivery of 2 F-16 fighter jets to Taiwan drove a decline in the military tension index. Two articles form the basis: reports focused on the transfer strengthening Taiwan's air force. On Taiwan's side, a diplomatic channel article noted that US-China differences offer Taiwan opportunity, according to an expert. Overall, today's bilateral tension shifts rest on limited evidence.",
-    "zh": "美國向臺灣交付F-16戰機2架，軍事頻道的긴장도指數隨之下降。根據2篇文章報導，軍事援助案以強化臺灣空軍戰力為主旨。臺灣方面外交頻道則有專家評論指出美中分歧為臺灣帶來機會。整體而言，本日雙邊긴장도變化基礎有限。",
+    "ko": "미국에서 대만으로의 군사 채널이 -1.71로 하락했습니다. 근거는 2건인데, 대만이 미국 제작 F-16 전투기 2대를 인수한 사건이 주요 원인입니다. 다만 근거가 제한적이어서 이것만으로 추세를 단정하기 어렵습니다.",
+    "en": "The military channel from the United States to Taiwan declined to -1.71 today. The primary driver is Taiwan's receipt of the first two US-built F-16 fighter jets. However, with only two sources of evidence, it is difficult to draw firm conclusions about the underlying trend.",
+    "zh": "美國對臺灣的軍事管道今日下降至-1.71。主要原因是臺灣接收美國製造的前兩架F-16戰鬥機。不過因為根據僅有兩則報導，難以對趨勢做出確定的判斷。",
+    "zh_mixed": null,
     "model": "claude-haiku-4-5-20251001",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 3,
-    "generated_at": "2026-11-12T10:39:27",
+    "generated_at": "2026-11-12T11:34:41",
     "sources": [
      {
       "url": "http://www.thailandnews.net/news/279348128/first-2-us-built-f-16s-boost-taiwan-air-force",
       "title": "First 2 US-built F-16s boost Taiwan air force"
      },
      {
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/05/2003865414",
-      "title": "US-China differences offer Taiwan opportunity: expert - Taipei Times"
+      "url": "https://inosmi.ru/20261004/tayvan-280482634.html",
+      "title": "\"Важная веха\": Тайвань получил первые два американских истребителя F-16V нового поколения (Le Parisien, Франция) | 04.10.2026, ИноСМИ"
      }
     ]
    }
