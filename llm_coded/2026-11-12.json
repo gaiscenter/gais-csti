@@ -1,0 +1,754 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T13:29:24.858211",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 84,
+ "n_coded": 81,
+ "n_relevant": 33,
+ "stats": {
+  "api_calls": 84,
+  "api_failures": 0,
+  "unparseable": 3,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 915988,
+  "input_uncached": 17020,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.skai.gr/news/world/si-tzinpingk-i-epanenosi-tis-taivan-me-tin-kina-tha-pragmatopoiithei-den-anakoptetai-i-ist": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 20,
+   "title": "Σι Τζινπίνγκ: Η επανένωση της Ταϊβάν με την Κίνα θα πραγματοποιηθεί - Δεν ανακόπτεται η ιστορία"
+  },
+  "https://focustaiwan.tw/politics/202611120026": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "MAC urges Beijing to recognize ROC's existence after Xi's remarks - Focus Taiwan"
+  },
+  "https://www.moneycontrol.com/world/xi-jinping-says-taiwan-reunification-must-be-realised-reiterates-china-s-one-country-two-systems-policy-article-14078374.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 14,
+   "title": "Xi Jinping says Taiwan reunification 'must be realised', reiterates China's 'one country, two systems' policy"
+  },
+  "https://www.thedailystar.net/news/world/news/chinese-woman-accused-spying-nvidia-chief-entered-taiwan-8-times-4321741": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Chinese woman accused of spying on Nvidia chief entered Taiwan 8 times | The Daily Star"
+  },
+  "https://www.samaa.tv/2087360125-xi-says-taiwan-reunification-is-inevitable-cites-tide-of-history": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Xi says Taiwan reunification is inevitable, cites 'tide of history' | SAMAA TV"
+  },
+  "https://www.dagospia.com/business/nvidia-vuole-salvare-caprez-cavoli-in-pole-per-successione-ceo-scopaiolo-493516": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia vuole salvare caprez e cavoli! in pole per la successione del ceo scopaiolo jensen huang c’e’"
+  },
+  "https://www.evrensel.net/haber/6009156/si-cinping-tayvanla-birlesme-mutlaka-gerceklesecek": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Şi Cinping: Tayvan'la birleşme mutlaka gerçekleşecek - Evrensel"
+  },
+  "https://www.courrierinternational.com/article/geopolitique-a-taiwan-des-elections-locales-sous-influence-chinoise_286179": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "À Taïwan, des élections locales sous influence chinoise | Courrier international"
+  },
+  "https://c-level.folha.uol.com.br/ia/2026/11/escandalo-na-nvidia-leva-empresas-chineses-a-buscarem-alternativas-e-fornecedores-a-reverem-planos.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia: EscÃ¢ndalo leva empresas chineses a buscarem opÃ§Ãµes - 12/11/2026 - IA - C-Level Folha"
+  },
+  "https://www.khaama.com/persian/archives/176879": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Robot Challenge Screen"
+  },
+  "https://www.dhnet.be/actu/monde/2026/11/12/jai-ete-infidele-a-ma-femme-nvidia-sapprete-a-limoger-son-pdg-jensen-huang-apres-sa-relation-avec-une-chinoise-soupconnee-despionnage-BIVD5B5F3VEDJK2IDT6VZWOMKM/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "\"J'ai été infidèle à ma femme\": Nvidia s'apprête à limoger son PDG Jensen Huang après sa relation avec une Chinoise soupçonnée d'espionnage  - La DH/Les Sports+"
+  },
+  "https://www.asiaone.com:443/money/how-nvidia-ceo-jensen-huang-got-entangled-china-chip-and-spy-scandal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "How Nvidia CEO Jensen Huang got entangled in a China chip and spy scandal, Money News - AsiaOne"
+  },
+  "https://www.etoday.co.kr/news/view/2647088": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "'젠슨황 불륜녀' 앨리스황은 어디에?…행방 오리무중 - 이투데이"
+  },
+  "http://www.china.org.cn/2026-11/12/content_118771464.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Mainland slams Taiwan's DPP for hindering cross-Strait people-to-people exchanges - China.org.cn"
+  },
+  "https://www.theepochtimes.com/opinion/what-does-democrats-midterm-victory-mean-for-taiwan-and-us-china-relations-6123098": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "What Does Democrats’ Midterm Victory Mean for Taiwan and US–China Relations? | The Epoch Times"
+  },
+  "https://timesofindia.indiatimes.com/world/rest-of-world/g7-members-raise-alarm-over-chinas-activities-near-taiwan/articleshow/135753356.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "G7 members raise alarm over China's activities near Taiwan - The Times of India"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867624": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "G7 foreign ministers say China’s actions east of Taiwan threaten stability - Taipei Times"
+  },
+  "https://www.aol.com/articles/g7-foreign-ministers-chinas-actions-021733000.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability - AOL"
+  },
+  "https://www.aljazeera.net/news/2026/11/12/%D8%AC%D8%A7%D8%B3%D9%88%D8%B3%D8%A9-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%B1%D8%B6%D8%A9-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "جاسوسة إنفيديا المفترضة تعود إلى الصين.. ماذا نعرف عن أليس هوانغ؟ | أخبار | الجزيرة نت"
+  },
+  "https://navbharattimes.indiatimes.com/world/china/xi-jinping-says-reunification-of-taiwan-with-china-is-inevitable-ahead-of-apec-summit/articleshow/135761873.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "'ताइवान का चीन में एकीकरण होना तय है', शी जिनपिंग का बड़ा ऐलान, क्या अगले साल करेंगे हमला? - xi jinping says reunification of taiwan with china is inevitable ahead of apec summit  - Navbharat Times"
+  },
+  "https://www.ticinonews.ch/estero/il-ceo-di-nvidia-avrebbe-avuto-una-relazione-anche-con-una-dirigente-dellazienda-446523": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Il Ceo di Nvidia avrebbe avuto una relazione anche con una dirigente dell'azienda"
+  },
+  "https://athina984.gr/2026/11/12/si-tzinpingk-i-epanenosi-tis-taivan-me-tin-kina-tha-pragmatopoiithei-den-anakoptetai-i-istoria/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Σι Τζινπίνγκ: Η επανένωση της Ταϊβάν με την Κίνα θα πραγματοποιηθεί – Δεν ανακόπτεται η ιστορία – Αθήνα 9,84"
+  },
+  "https://www.correiodopovo.com.br/jornal-com-tecnologia/chinesa-acusada-de-espionagem-contra-ceo-da-nvidia-entrou-em-taiwan-oito-vezes-1.1764040": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Chinesa acusada de espionagem contra CEO da Nvidia entrou em Taiwan oito vezes"
+  },
+  "https://www.quotidiano.net/esteri/nvidia-tutti-pazzi-per-il-caso-huang-in-cina-x76pv17s": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Tutti pazzi per il caso Huang in Cina. Chi giustifica il Ceo e chi sostiene lâamante spia. Spunta Musk: \"Sarebbe un onore assumere Jensenâ Â· Quotidiano Nazionale"
+  },
+  "https://asianews.network/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "Jensen Huang affair with alleged Chinese spy sparks security concerns in Taiwan – Asia News Network"
+  },
+  "https://www.capital.gr/diethni/4029378/si-tramp-kai-poutin-sto-idio-trapezi-poios-tha-apofasisei-gia-tin-tuxi-tou-kosmou/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Σι, Τραμπ και Πούτιν στο ίδιο τραπέζι: Ποιος θα αποφασίσει για την τύχη του..."
+  },
+  "https://focustaiwan.tw:443/politics/202611120022": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "MAC not sure if Taiwan received U.S. warning about Nvidia China spy - Focus Taiwan"
+  },
+  "https://www.munhwa.com:443/article/11630631": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "대만, 젠슨 황 불륜녀 대만 입국허가 취소....내정부장 “다시는 대만 못와” | 문화일보"
+  },
+  "https://iz.ru/2200309/si-tczinpin-zaiavil-o-namerenii-knr-ne-dopustit-separatizm-na-taivane-izi": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Китай и Тайвань: позиция Си Цзиньпина по сепаратизму"
+  },
+  "https://fakti.bg/world/1099977-si-dzinpin-nama-masto-za-separatistkite-deistvia-za-taivan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Си Дзинпин: Няма място за сепаратизъм за Тайван"
+  },
+  "https://www.fnnews.com/news/202611121608246647": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "시진핑, APEC 등 대형행사 앞두고 '평화통일·대화' 유화 발언 - 파이낸셜뉴스"
+  },
+  "https://actualidad-rt.com/actualidad/637367-xi-expresa-disposicion-dialogar-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Xi Jinping: La reunificación con Taiwán debe realizarse y se hará realidad - RT"
+  },
+  "https://www.obozrevatel.com/ukr/section-politics-news/news-khid-istoriyi-ne-zupynyty-si-tszinpin-dav-syhnal-shchodo-planiv-na-tayvan-12-11-2026.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Сі Цзіньпін дав сигнал щодо планів на Тайвань – чи буде вторгнення | OBOZ.UA"
+  },
+  "http://inews24.com/view/2025622": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "美 정부, 中 기업의 해외 AI 반도체 우회 사용 차단 추진"
+  },
+  "https://www.obozrevatel.com/section-politics-news/news-khid-istoriyi-ne-zupynyty-si-tszinpin-dav-syhnal-shchodo-planiv-na-tayvan-12-11-2026.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Си Цзиньпин подал сигнал о планах на Тайвань – будет ли вторжение | OBOZ.UA"
+  },
+  "https://www.standardmedia.co.ke/world/article/2001562124/honey-traps-how-spies-use-sex-and-scandal-to-steal-state-secrets": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "How spies turn love affairs into tools of blackmail and intelligence gathering  - The Standard"
+  },
+  "https://www.fnnews.com/news/202611120911487653": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "\"젠슨 황 맞춤형 스파이 가능성 99.9%\"…전문가가 의심한 이유 - 파이낸셜뉴스"
+  },
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-8-times/articleshow/135755596.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Alice Huang: Chinese woman accused of spying on Nvidia chief entered Taiwan 8 times - The Economic Times"
+  },
+  "https://www.mk.ru/politics/2026/11/12/si-czinpin-zayavil-o-neizbezhnom-vossoedinenii-s-tayvanem.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Си Цзиньпин заявил о неизбежном воссоединении с Тайванем - МК"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/china-s-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China’s Xi says Taiwan ‘reunification’ must happen as history cannot be stopped - Internazionale"
+  },
+  "https://www.therakyatpost.com/news/malaysia/2026/11/12/taiwan-freezes-investment-talks-with-malaysia-amid-us4-8-billion-nvidia-ai-chip-leak-silicon-valley-espionage-scandal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Freezes Investment Talks With Malaysia Amid US$4.8 Billion Nvidia AI Chip Leak, Silicon Valley Espionage Scandal | TRP"
+  },
+  "http://inews24.com/view/2025706": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "젠슨 황 후임에 '애플 실리콘' 주역 부상…반도체업계 \"HBM 영향 제한적\""
+  },
+  "https://whbl.com/2026/11/11/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "G7 foreign ministers say China’s actions east of Taiwan threaten stability | 1330 & 101.5 WHBL"
+  },
+  "https://dunyanews.tv/en/World/982449-g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stabi": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "G7 foreign ministers say China's actions east of Taiwan threaten stability | Dunya News"
+  },
+  "https://www.freemalaysiatoday.com/category/business/2026/11/12/taiwan-is-taking-part-in-apec-china-summit-on-an-equal-basis-says-president": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan’s Apec participation on equal basis, says president | FMT"
+  },
+  "https://www.winnipegfreepress.com/world/2026/11/12/scandal-hit-jensen-huang-loses-his-shine-in-his-birthplace-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan – Winnipeg Free Press"
+  },
+  "https://www.theepochtimes.com/china/us-delay-in-taiwan-arms-sales-risks-emboldening-beijing-undermining-allied-confidence-experts-6124003": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 4,
+   "title": "US Delay in Taiwan Arms Sales Risks Emboldening Beijing, Undermining Allied Confidence: Experts | The Epoch Times"
+  },
+  "https://www.koreatimes.co.kr/world/20261112/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped - The Korea Times"
+  },
+  "https://www.moneycontrol.com/world/jensen-huang-affair-china-spy-suspect-visited-taiwan-eight-times-in-2024-25-article-14078194.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Jensen Huang affair: China spy suspect visited Taiwan eight times in 2024-25"
+  },
+  "https://focustaiwan.tw/business/202611120006": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit - Focus Taiwan"
+  },
+  "https://www.punjabkesari.in/international/news/china-s-xi-says-taiwan--reunification--must-happen-as-history-cannot-be-stopped-2398683": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "जिनपिंग की सख्त चेतावनी: इतिहास की लहर रोकना नामुमकिन, ताइवान को चीन में मिलाकर रहेंगे - china s xi says taiwan  reunification  must happen as history cannot be stopped"
+  },
+  "https://en.apa.az/social/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped-535642": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped"
+  },
+  "https://www.newsweek.com/nvidias-jensen-huang-scandal-chips-spies-and-strategic-overreaction-12699815": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Nvidia’s Jensen Huang Scandal: Chips, Spies and Strategic Overreaction - Newsweek"
+  },
+  "https://www.gdnonline.com:443/Details/1412637": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "World News: China's Xi says Taiwan 'reunification' must happen as history cannot be stopped"
+  },
+  "https://www.aol.co.uk/articles/nvidia-prepares-oust-ceo-jensen-021847000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Billionaire Nvidia boss fighting for job amid claims of second affair - AOL"
+  },
+  "https://www.gdnonline.com:443/Details/1412637/Chinas-Xi-says-Taiwan-reunification-must-happen-as-history-cannot-be-stopped": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "World News: China's Xi says Taiwan 'reunification' must happen as history cannot be stopped"
+  },
+  "https://www.vanguardngr.com/2026/11/nvidia-board-meets-over-jensen-huangs-future-after-affair-revelations/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia board meets over Jensen Huang’s future after affair revelations - Vanguard News"
+  },
+  "http://www.goskagit.com/news/world/scandal-hit-jensen-huang-loses-his-shine-in-his-birthplace-taiwan/article_cc92e585-fc7c-51c7-bbcd-cb48b10c15e7.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan | News | goskagit.com"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/once-adored-like-a-rock-star-nvidia-ceo-jensen-huang-now-faces-awkward-questions-at-home-in-taiwan/articleshow/135767704.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Once adored like a rock star, Nvidia CEO Jensen Huang now faces awkward questions at home in Taiwan - The Economic Times"
+  },
+  "https://www.huffingtonpost.kr:443/article/262026": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "허프포스트코리아"
+  },
+  "https://www.lindependant.fr/2026/11/12/tensions-en-asie-la-reunification-totale-de-la-mere-patrie-doit-etre-realisee-et-elle-le-sera-previent-xi-jinping-qui-voit-la-reunification-de-taiwan-13648829.php": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Tensions en Asie : \"La réunification totale de la mère patrie ⁠doit être réalisée ‌et elle le sera\", prévient Xi Jinping qui voit la réunification de Taïwan à la Chine comme une \"mission historique inébranlable\" - lindependant.fr"
+  },
+  "https://www.lifo.gr/now/world/nvidia-o-syzygos-tis-eromenis-toy-ceo-gnorize-ta-panta-kai-boithise-na-erthoyn-se-epafi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia: Ο σύζυγος της ερωμένης του CEO γνώριζε τα πάντα και βοήθησε να έρθουν σε επαφή | LiFO"
+  },
+  "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Megaspeed to cooperate with U.S. probe into Nvidia CEO Jensen Huang scandal - The Hindu"
+  },
+  "https://www.standardmedia.co.ke/world/article/2001562122/what-you-need-to-know-about-nvidia-ceo-jensen-huang-s-scandal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What you need to know about Nvidia CEO Jensen Huang's scandal  - The Standard"
+  },
+  "https://www.livemint.com/companies/people/jensen-huang-salary-how-much-does-the-nvidia-ceo-get-paid-all-about-the-base-salary-bonus-stock-and-other-perks-11794463195744.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Jensen Huang Salary: How much does the Nvidia CEO get paid? All about the base salary, bonus, stock, and other perks | Company Business News"
+  },
+  "https://www.koreatimes.co.kr/world/20261112/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens - The Korea Times"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/tide-of-history-cannot-be-stopped-xi-renews-call-for-taiwan-reunification/articleshow/135755299.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "'Tide of history cannot be stopped': Xi renews call for Taiwan reunification - The Economic Times"
+  },
+  "https://www.hngn.com/articles/273796/20261111/taiwan-says-china-ran-area-denial-drills-carrier-group.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan Says China Ran 'Area Denial' Drills With Carrier Group"
+  },
+  "https://bangla.bdnews24.com/tech/ykb15xwb71": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "এনভিডিয়া সিইও হুয়াংয়ের ভাগ্য নির্ধারণে বৈঠকে বোর্ড"
+  },
+  "https://www.hindustantimes.com/world-news/chinese-woman-alice-huang-accused-of-spying-on-nvidias-jensen-huang-entered-taiwan-8-times-between-202425-101794460850616.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinese woman accused of spying on Nvidia's Jensen Huang entered Taiwan 8 times between 2024-25 | World News"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/11/12/xi-trump-putin-summit-evokes-1945-yalta-carve-up": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi-Trump-Putin summit evokes 1945 Yalta carve-up | FMT"
+  },
+  "https://www.habervitrini.com/haber/amerikada-olay-cip-devi-nvidia-ceosu-jensen-huangin-sevgilisi-cin-casusu-cikti-1794463876104": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Amerika'da olay.. Çip devi Nvidia CEO'su Jensen Huang'ın sevgilisi Çin casusu çıktı | Haber Vitrini"
+  },
+  "https://www.thehindu.com/news/international/chinese-woman-accused-of-spying-on-nvidia-chief-entered-taiwan-eight-times/article71692694.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Alice Huang, accused of spying on Nvidia chief, entered Taiwan eight times in 2024-25: Official - The Hindu"
+  },
+  "https://www.oneindia.com/international/alice-huang-former-megaspeed-executive-accused-of-china-spying-made-8-taiwan-visits-in-two-years-8257507.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Alice Huang, Former Megaspeed Executive Accused Of China Spying, Made 8 Taiwan Visits In Two Years - Oneindia News"
+  },
+  "https://pragativadi.com/nvidia-ceo-jensen-huangs-children-madison-and-spencer-earn-over-1-million-each-at-chipmaker-amid-leadership-crisis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "​Nvidia CEO Jensen Huang’s Children Madison and Spencer Earn Over $1 Million Each at Chipmaker Amid Leadership Crisis - Pragativadi I Latest Odisha News in English I Breaking News"
+  },
+  "http://www.reflector.com/news/national/scandal-hit-jensen-huang-loses-his-shine-in-his-birthplace-taiwan/article_c550dee6-46aa-5d1a-9cc3-8a1c1b6938c7.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan | National | reflector.com"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/nvidia-scandal-trump-rubio-lutnick-b3083425.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Nvidia scandal rocks White House as report reveals Trump was ‘warned’ about CEO’s affair months ago | The Independent"
+  },
+  "https://www.malaysiakini.com/news/888950-anwar-unfazed-by-taiwan-suspending-investment-talks-says-numbers-going-up": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Unfazed by Taiwan suspending investment talks, Anwar says numbers going up | Malaysiakini"
+  },
+  "https://www.lbc.co.uk/article/china-xi-jinping-taiwan-5HjdmH4_2/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China's Xi Jinping says Taiwan 'reunification' must happen as history cannot be stopped | LBC"
+  },
+  "https://www.thehindu.com/news/international/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped/article71692573.ece": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Xi says Taiwan 'reunification' must happen as history cannot be stopped - The Hindu"
+  },
+  "https://www.straitstimes.com/asia/east-asia/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China’s Xi says Taiwan ‘reunification’ must happen as history cannot be stopped | The Straits Times"
+  }
+ }
+}
