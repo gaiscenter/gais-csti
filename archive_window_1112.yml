@@ -1,0 +1,100 @@
+name: CSTI 모집단 추출 (수동)
+
+# **LLM 호출 0건.** BigQuery 조회만 한다.
+#
+# backfill_code.py 는 기사 목록(모집단 CSV)이 있어야 돌아간다. 평소에는 일일
+# 파이프라인이 하루치씩 남기지만, 저장소를 새로 연 직후에는 과거 날짜가 비어
+# 있다. 이 작업이 그 구간을 한 번에 뽑는다.
+#
+# **기사 본문은 받지 않는다.** 그다음 단계(기사 본문 수집)의 일이다.
+#
+# 순서:
+#   ① 이 작업          모집단 CSV        비용 ~0
+#   ② 기사 본문 수집    llm_text/         비용 ~0 (HTTP) · 여기서 회수율이 드러난다
+#   ③ 전수 코딩        llm_coded/        비용 발생
+#   ④ 해설 생성        llm_commentary    비용 발생
+#
+# ①은 과거로 얼마든지 간다 — 사건 레코드는 BigQuery 에 몇 년치가 있다.
+# 제약은 ②다. 그러므로 **넓게 뽑고, 회수율을 보고 ③의 범위를 정한다.**
+
+on:
+  workflow_dispatch:
+    inputs:
+      window_start:
+        description: '시작일 (YYYY-MM-DD, 포함)'
+        required: false
+        default: '2026-10-14'
+      window_end:
+        description: '종료일 (YYYY-MM-DD, 포함)'
+        required: false
+        default: '2026-11-11'
+      guard_gb:
+        description: '안전 한도(GB). 예상 스캔량이 넘으면 질의를 보내지 않고 중단'
+        required: false
+        default: '40'
+      pad_days:
+        description: '파티션을 뒤로 더 읽을 일수. 늦게 수집된 행을 놓치지 않기 위함'
+        required: false
+        default: '4'
+
+concurrency:
+  group: csti-repo-write
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: GCP 인증
+        run: |
+          echo '${{ secrets.GCP_KEY }}' > /tmp/gcp-key.json
+          echo "GOOGLE_APPLICATION_CREDENTIALS=/tmp/gcp-key.json" >> $GITHUB_ENV
+
+      - name: 모집단 추출
+        env:
+          GCP_PROJECT: ${{ secrets.GCP_PROJECT }}
+          GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp-key.json
+          WINDOW_START: ${{ inputs.window_start }}
+          WINDOW_END: ${{ inputs.window_end }}
+          ARCHIVE_GUARD_GB: ${{ inputs.guard_gb }}
+          PARTITION_PAD_DAYS: ${{ inputs.pad_days }}
+        run: python archive_window.py
+
+      - name: 날짜별 건수 요약
+        run: |
+          python - <<'PY'
+          import csv, glob, collections, os
+          f = sorted(glob.glob("window_archive/matched_events_*.csv"))[-1]
+          rows = list(csv.DictReader(open(f, encoding="utf-8-sig")))
+          by = collections.Counter(r.get("event_date") or r.get("SQLDATE","") for r in rows)
+          urls = {r.get("SOURCEURL","") for r in rows if r.get("SOURCEURL")}
+          print(f"모집단 {os.path.basename(f)} — 레코드 {len(rows):,}건 · 고유 URL {len(urls):,}건")
+          print("날짜별 레코드 수:")
+          for d in sorted(by):
+              print(f"  {d}  {by[d]:4d}")
+          PY
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "GAIS Bot"
+          git config user.email "bot@gaiscenter.org"
+          git add window_archive
+          git diff --staged --quiet && { echo "변경 없음"; exit 0; }
+          git commit -m "모집단 추출 ${{ inputs.window_start }} ~ ${{ inputs.window_end }}"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            echo "push 실패 ($i/3) — 10초 뒤 재시도"; sleep 10
+          done
+          echo "::error::push 에 실패했습니다"; exit 1
