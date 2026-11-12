@@ -1,0 +1,76 @@
+name: CSTI 장기 소급 백필 (원자료 · 수동)
+
+# **LLM 호출 0건.** GDELT 사건 레코드만 읽어 주간 계열을 만든다.
+# 기사 본문이 필요 없으므로 링크가 죽은 과거 구간도 그릴 수 있다 —
+# 전수코딩이 최근 30일에 묶이는 것과 대비된다.
+#
+# 산출물은 csti_history.json 이고, 대시보드의 3개월·6개월·1년·5년·10년
+# 버튼이 이 파일을 쓴다.
+#
+# 비용은 BigQuery 스캔뿐이다. 먼저 dry run 으로 스캔량을 재고 한도를 넘으면
+# 질의를 보내지 않고 중단한다.
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: '시작일 (YYYY-MM-DD). 3개월=2026-08-12 · 1년=2025-11-12 · 10년=2016-11-12'
+        required: false
+        default: '2026-08-12'
+      end:
+        description: '종료일 (YYYY-MM-DD, 제외). 비우면 내일'
+        required: false
+        default: ''
+      cost_guard_gb:
+        description: '안전 한도(GB). 예상 스캔량이 이 값을 넘으면 질의를 보내지 않고 중단'
+        required: false
+        default: '400'
+
+# 저장소에 쓰는 작업은 모두 같은 그룹을 쓴다 — 동시 커밋으로 결과가 날아간 적이 있다.
+concurrency:
+  group: csti-repo-write
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: GCP 인증
+        run: |
+          echo '${{ secrets.GCP_KEY }}' > /tmp/gcp-key.json
+          echo "GOOGLE_APPLICATION_CREDENTIALS=/tmp/gcp-key.json" >> $GITHUB_ENV
+
+      - name: 주간 계열 생성
+        env:
+          GCP_PROJECT: ${{ secrets.GCP_PROJECT }}
+          GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp-key.json
+          BACKFILL_START: ${{ inputs.start }}
+          BACKFILL_END: ${{ inputs.end }}
+          COST_GUARD_GB: ${{ inputs.cost_guard_gb }}
+        run: python backfill_weekly.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "GAIS Bot"
+          git config user.email "bot@gaiscenter.org"
+          git add csti_history.json
+          git diff --staged --quiet && { echo "변경 없음"; exit 0; }
+          git commit -m "장기 소급 백필 ${{ inputs.start }} ~ $(date +%Y-%m-%d)"
+          # 다른 작업과 겹치면 한 번 더 시도한다.
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            echo "push 실패 ($i/3) — 10초 뒤 재시도"; sleep 10
+          done
+          echo "::error::push 에 실패했습니다"; exit 1
