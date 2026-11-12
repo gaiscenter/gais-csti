@@ -148,7 +148,10 @@ def _codebook_text(path=CODEBOOK_FILE):
     """
     with open(path, "r", encoding="utf-8") as f:
         txt = f.read()
-    txt = re.split(r"^##\s*12\.\s*변경 이력", txt, flags=re.M)[0].rstrip()
+    # 절 번호가 아니라 **제목**으로 자른다. KBTI 에서는 변경 이력이 §12 였고
+    # CSTI 에서는 §11 이다. 번호로 고정하면 포크에서 조용히 안 잘린다 —
+    # 실제로 2026-11-11 첫 실행에서 변경 이력이 코더 프롬프트에 그대로 들어갔다.
+    txt = re.split(r"^##\s*\d+\.\s*변경 이력", txt, flags=re.M)[0].rstrip()
     txt = "\n".join(ln for ln in txt.split("\n")
                     if not (ln.startswith(">") and ("맹검" in ln or "v1.0" in ln)))
     return re.sub(r"\n{3,}", "\n\n", txt)
