@@ -150,12 +150,12 @@ html.lang-en{font-size:112%}
 </div>
 
 <script>
-const DATA_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-kbti/main/csti_output.json';
-const HISTORY_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-kbti/main/csti_history.json';
-const DAILY_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-kbti/main/daily_history.json';
+const DATA_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-csti/main/csti_output.json';
+const HISTORY_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-csti/main/csti_history.json';
+const DAILY_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-csti/main/daily_history.json';
 // LLM 전수 코딩 계열(그림자). 없으면 그냥 안 그린다 — 기존 화면은 그대로 돈다.
-const LLM_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-kbti/main/llm_series.json';
-const LLMCOM_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-kbti/main/llm_commentary.json';
+const LLM_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-csti/main/llm_series.json';
+const LLMCOM_URL = 'https://raw.githubusercontent.com/gaiscenter/gais-csti/main/llm_commentary.json';
 let LLM = null;
 let LLMCOM = null;        // 날짜 -> {ko,en} 해설. 없으면 패널이 안내문만 띄운다.
 let usingLlm = false;     // 지금 그린 선이 LLM 전수코딩인가(아니면 감사 계열)
