@@ -1,0 +1,449 @@
+{
+ "date": "2026-09-29",
+ "generated_at": "2026-11-12T10:16:29",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 70,
+ "n_articles": 61,
+ "n_no_text": 9,
+ "n_coded": 54,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 7,
+ "missing": [
+  "https://newstodaynet.com/2026/09/29/taiwan-rejects-chinas-claims-says-roc-and-prc-are-not-subordinate-to-each-other/",
+  "https://makfax.com.mk/svet/tajvan-ochekuva-amerikansko-oruzhje-sad-nashata-politika-ne-e-promeneta/",
+  "http://www.koreatimes.com/article/20260929/1631780",
+  "https://www.manilatimes.net/2026/09/30/opinion/the-one-china-principle-brooks-no-challenge/2435469",
+  "https://www.shorouknews.com/news/view.aspx?cdate=29092026&id=e2cd5822-90cb-4672-9222-e7284b0898a2",
+  "https://focustaiwan.tw/politics/202609290006",
+  "https://ksevradio.com/taiwan-says-it-is-in-continuous-talks-with-us-about-arms-sales/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.rawstory.com/trump-arms-sales-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "'Something profoundly amiss' as Trump official blurts 'mind-boggling' admission: analysis - Raw Story"
+  },
+  "https://www.koreaherald.com/article/10887436": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump disputes his ambassador's account - The Korea Herald"
+  },
+  "https://www.bostonglobe.com/2026/09/28/nation/trump-asked-chinas-president-if-he-wants-to-buy-us-arms/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump denies he asked China’s president if he wanted to buy US arms"
+  },
+  "https://wiadomosci.wp.pl/chiny-zadaja-od-japonii-korekty-stanowiska-chodzi-o-tajwan-7334645864704256a": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Chiny żądają od Japonii korekty stanowiska. Chodzi o Tajwan"
+  },
+  "https://insideretail.asia/2026/09/29/why-did-trumps-summit-with-xi-yield-so-little/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Why did Trump’s summit with Xi yield so little? - Inside Retail Asia"
+  },
+  "https://zn.ua/ukr/china/kitaj-zajaviv-pro-neobkhidnist-normalizatsiji-vidnosin-iz-japonijeju-cherez-superechku-shchodo-tajvanju.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Напруженість між Китаєм і Японією - Ван Ї закликав Токіо нормалізувати відносини після заяв Такаїчі про Тайвань – ZN.ua"
+  },
+  "https://www.manilatimes.net/2026/09/29/world/americas-emea/trump-disputes-his-ambassadors-account-that-he-asked-chinas-president-if-he-wanted-to-buy-us-arms/2434672": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms | The Manila Times"
+  },
+  "https://thediplomat.com/2026/09/trump-doesnt-need-to-be-a-prop-in-xis-political-show/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump Doesn’t Need to Be a Prop in Xi’s Political Show – The Diplomat"
+  },
+  "https://focustaiwan.tw:443/politics/202609290015": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 18,
+   "title": "U.S. arms sales to Taiwan may face further delays, but unlikely to stop: Scholar - Focus Taiwan"
+  },
+  "https://pulsoslp.com.mx/mundo/trump-propone-venta-armas-a-china-y-taiwan/2090315": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Trump propone venta armas a China y Taiwán"
+  },
+  "https://www.deccanchronicle.com/opinion/columnists/us-china-thaw-pomp-pander-india-frozen-out-1991653": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US-China Thaw: Pomp, Pander; India Frozen Out"
+  },
+  "https://www.breitbart.com/clips/2026/09/28/brennan-trump-has-no-concept-of-taiwans-importance-to-the-u-s/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Brennan: Trump 'Has No Concept' of Taiwan's Importance to the U.S."
+  },
+  "https://www.aol.com/articles/analysis-trump-xis-stalemate-summit-092535000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump and Xi's 'stalemate' summit was a glitzy gift to China - AOL"
+  },
+  "https://www.ibtimes.co.uk/trump-asked-xi-china-buy-us-weapons-1822343": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump Asked Xi If China Wanted American Weapons, US Ambassador Claims, Despite Sales Being Banned by Law | IBTimes UK"
+  },
+  "https://www.bankier.pl/wiadomosc/Pekin-grozi-palcem-Tokio-Chiny-zadaja-od-Japonii-skorygowania-blednych-dzialan-9204410.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Pekin grozi palcem Tokio. Chiny żądają od Japonii skorygowania „błędnych” działań - Bankier.pl"
+  },
+  "https://www.asiaone.com:443/world/trump-and-xis-stalemate-summit-was-glitzy-gift-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump and Xi's 'stalemate' summit was a glitzy gift to China, World News - AsiaOne"
+  },
+  "https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Neither Lula Nor Bolsonaro Has Answers for Brazil's China Problem"
+  },
+  "https://www.rappler.com/world/us-canada/trump-xi-stalemate-summit-glitzy-gift-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi 'stalemate' summit was a glitzy gift to China"
+  },
+  "https://www.sentinelassam.com/more-news/international/taiwan-presses-trump-administration-on-14-billion-arms-deal": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan presses Trump administration on $14 billion arms deal"
+  },
+  "https://www.straitstimes.com/asia/trump-and-xi-didnt-talk-much-about-taiwan-what-does-that-say-about-where-it-stands": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump and Xi summit: Taiwan policy and strategic tensions | The Straits Times"
+  },
+  "https://abc7news.com/story/us-officials-deny-are-plans-sell-weapons-china/19885086/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US officials deny there are plans to sell weapons to China - ABC7 San Francisco"
+  },
+  "https://www.theepochtimes.com/us/us-pacific-commander-says-deterrence-means-making-military-aggression-too-costly-to-benefit-from-6095711": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US Pacific Commander Says Deterrence Means Making Military Aggression Too Costly to Benefit From | The Epoch Times"
+  },
+  "http://usa.chinadaily.com.cn/a/202609/29/WS6abb0e07e4b06d4aa0560adf.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Cross-Strait trade defies political friction - Chinadaily.com.cn"
+  },
+  "https://english.aawsat.com/world/5326809-north-korea-warns-us-over-taiwan-while-kim-pledges-support-russia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "North Korea Warns US Over Taiwan While Kim Pledges Support for Russia"
+  },
+  "https://ianslive.in/beating-multi-gold-medallist-boosted-archery-teams-morale-aai-general-sec-virendra-on-neerajs-win-over-kim-je-deok--20260929100103": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "'Beating multi-gold medallist boosted archery team's morale': AAI General Secy on Neeraj's win over Kim Je-deok"
+  },
+  "https://foreignpolicy.com/2026/09/28/us-china-tariffs-soybeans-trade-war-truce-taiwan-selling-weapons/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "U.S., China Agree to Slash Tariffs While Trump Proposes Selling Arms to Beijing"
+  },
+  "https://www.globaltimes.cn/page/202609/1371581.shtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China Coast Guard patrols waters east of Taiwan island; move signals warning to separatist forces, expert says - Global Times"
+  },
+  "http://usa.chinadaily.com.cn/a/202609/29/WS6abb0e5ce4b06d4aa0560ae5.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Putting down roots grows generational success - Chinadaily.com.cn"
+  },
+  "https://www.fnnews.com/news/202609290824206337": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "中 왕이, 이와야 前외상 만나 \"다카이치 대만 발언 시정해야\" - 파이낸셜뉴스"
+  },
+  "https://www.theepochtimes.com/us/taiwan-tech-summit-draws-nearly-1000-people-in-silicon-valley-highlights-ai-and-cooperation-6096372": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Tech Summit Draws Nearly 1,000 People in Silicon Valley, Highlights AI and Cooperation | The Epoch Times"
+  },
+  "https://bitacora.com.uy/enviados-de-taiwan-se-dirigen-a-washington-para-conversaciones-sobre-comercio-e-inversion-dice-una-fuente/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Enviados de Taiwán se dirigen a Washington para conversaciones sobre comercio e inversión, dice una fuente - bitacora.com.uy"
+  },
+  "https://2paragraphs.com/2026/09/bernie-sanders-asks-why-trump-offered-china-u-s-weapons-trump-denies-it/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Bernie Sanders Asks Why Trump Offered China U.S. Weapons — Trump Denies It"
+  },
+  "https://www.elperiodico.cat/internacional/20260929/trump-oferir-xi-vendre-armes-134781267": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump va oferir a Xi vendre armes a la Xina, en contra de la llei"
+  },
+  "https://www.newslaundry.com/2026/09/29/indias-strategic-value-cannot-rest-on-us-china-hostility": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "India’s strategic value cannot rest on US-China hostility"
+  },
+  "https://www.winnipegfreepress.com/business/2026/09/29/taiwan-says-us-arms-sales-to-island-are-unchanged-but-a-14b-package-remains-on-hold": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan says US arms sales to island are unchanged, but a $14B package remains on hold – Winnipeg Free Press"
+  },
+  "https://openthemagazine.com/world/trump-xi-summit-trade-truce-holds-but-taiwan-security-divides-remain": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump–Xi Summit Extends US–China Trade Truce to 2027 as Taiwan Tensions and Security Rivalry Persist"
+  },
+  "https://focustaiwan.tw:443/politics/202609290011": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi's WWII account obscures ROC role, evokes Japan tensions: Scholars - Focus Taiwan"
+  },
+  "https://www.telegram.hr/podcastovi/xi-je-natjerao-trumpa-da-prizna-kinu-kao-ravnopravnu-silu-i-nije-dao-nista-zauzvrat/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi je natjerao Trumpa da prizna Kinu kao ravnopravnu silu i nije dao ništa zauzvrat | Telegram.hr"
+  },
+  "https://fakti.bg/world/1084637-tramp-oceni-sreshtata-sas-si-s-12-ot-10-i-otreche-za-orajia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Тръмп оцени срещата със Си с 12 от 10"
+  },
+  "https://www.livemint.com/news/world/taiwan-us-arms-pipeline-slowing-what-we-know-about-lockheed-martin-f-16-fighter-jets-14-billion-deal-and-tdome-11790681447971.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan’s US arms pipeline is slowing: What we know so far about F-16 fighter jets, $14 billion deal and T-Dome | Today News"
+  },
+  "https://www.riotimesonline.com/belize-taiwan-foreign-minister-lin-visit-allies-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Belize and Taiwan Sign Joint Communiqué, Diplomat Deal"
+  },
+  "https://news.mail.ru/society/72534023/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Тайвань увеличивает военный арсенал: программа на 6 лет, закупка снарядов и боеприпасов - Новости Mail"
+  },
+  "https://alhurra.com/42949": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump-Xi Summit: Why China Won't Pressure Iran to End War"
+  },
+  "http://www.bignewsnetwork.com/news/279340608/taiwan-debate-over-textbooks-highlights-calls-to-preserve-traditional-chinese-culture": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan's debate over textbooks highlights calls to preserve traditional Chinese culture"
+  },
+  "https://www.watoday.com.au/world/north-america/how-trump-s-grovelling-emboldens-china-and-imperils-the-asia-pacific-20260929-p6114z.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Donald Trump’s grovelling to Xi Jinping emboldens China and imperils the Asia Pacific"
+  },
+  "https://www.abc.com.py/internacionales/2026/09/28/canciller-chino-pide-a-japon-rectificar-sobre-taiwan-para-superar-la-crisis-bilateral/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Canciller chino pide a Japón rectificar sobre Taiwán para superar la crisis bilateral - Mundo - ABC Color"
+  },
+  "http://www.australiannews.net/news/279339014/taiwan-reports-3-pla-aircraft-6-plan-vessels-operating-near-island": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan reports 3 PLA aircraft, 6 PLAN vessels operating near island"
+  },
+  "https://www.manilatimes.net/2026/09/30/world/americas-emea/trump-denies-offering-to-sell-us-arms-to-xi/2435014": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump denies offering to sell US arms to Xi | The Manila Times"
+  },
+  "https://www.rfa.org:443/english/korea/2026/09/28/xi-trump-summit-north-korea-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit – Radio Free Asia"
+  },
+  "http://www.thejakartapost.com/world/2026/09/29/trump-denies-offering-to-sell-arms-to-xi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump denies offering to sell arms to Xi - Asia & Pacific - The Jakarta Post"
+  },
+  "https://www.manilatimes.net/2026/09/30/world/asia-oceania/us-arms-sales-to-taiwan-unchanged-minister/2435008": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US arms sales to Taiwan unchanged – minister    | The Manila Times"
+  },
+  "https://fakti.bg/world/1084692-taivan-poluchi-uverenia-ot-sasht-che-politikata-kam-ostrova-ne-se-promena": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Тайван получи уверения от САЩ, че политиката към острова не се променя ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.livemint.com/global/nvidias-235-billion-buyback-shows-who-is-really-winning-the-ai-boom-11790669591633.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia’s $235 billion buyback shows who is really winning the AI boom | Mint"
+  },
+  "https://www.elcolombiano.com/opinion/columnistas/beatriz-de-majo-washington-lo-que-no-quedo-resuelto-AH41640743": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Washington: lo que no quedÃ³ resuelto"
+  }
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "date": "2026-08-30",
+ "generated_at": "2026-11-12T10:05:21",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 17,
+ "n_articles": 14,
+ "n_no_text": 3,
+ "n_coded": 14,
+ "n_relevant": 2,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/front/archives/2026/08/31/2003863405": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Beware of China’s long-arm acts: MAC - Taipei Times"
+  },
+  "https://www.abc.net.au/news/2026-08-31/pacific-islands-forum-leaders-meeting-politically-charged/107095316": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Security, climate change and drugs on agenda at Pacific Islands Forum leaders meeting - ABC News"
+  },
+  "https://www.dailymail.com/news/article-16085533/america-china-defense-iran-war-strain.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30 warships diverted from the Pacific and $30bn in Taiwan weapons still undelivered | Daily Mail Online"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/08/31/2003863404": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Notes from Central Taiwan: Taiwan cannot engineer its way out of flooding - Taipei Times"
+  },
+  "https://www.theepochtimes.com/world/palau-pushes-back-against-china-as-taiwan-returns-to-pacific-forum-6081182": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Palau Pushes Back Against China as Taiwan Returns to Pacific Forum | The Epoch Times"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/09/01/2003863450": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Gudeng expecting robust revenue growth for packaging wafer carriers - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5557514": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》Beware of China’s long-arm acts: MAC - 焦點 - 自由時報電子報"
+  },
+  "https://www.newhavenindependent.org/2026/08/28/the-gwangju-biennales-taiwan-pavilion/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "The Gwangju Biennale's Taiwan Pavilion - New Haven Independent"
+  },
+  "https://www.independent.co.uk/voices/donald-trump-iran-waste-nato-weapon-stockpiles-depleted-b3041165.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Donald Trump has been humiliated in Iran – and shown how America will lose its next war | The Independent"
+  },
+  "https://dailycaller.com/2026/08/30/taiwan-penghu-islands-us-economy-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Why Small Island Chain Could Be The First Domino In A Taiwan War | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000007411&code=11142200&sid1=int": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "中 “네팔에 사전경고 어려웠다”⋯ 양국 수문 데이터 등 공유 확대 - 국민일보"
+  },
+  "https://www.focus-news.net/novini/mejdunarodni/WSJ-Voinata-s-Iran-izcherpva-zapasite-ot-oruzhie-na-SASht-koeto-porazhda-opaseniya-otnosno-zaplahite-ot-Kitai-i-Rusiya-3017646": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "WSJ: Войната с Иран изчерпва запасите от оръжие на САЩ, което поражда опасения относно заплахите от Китай и Русия"
+  },
+  "https://home.nzcity.co.nz/news/article.aspx?id=452987&fm=psp,tst": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "NZ Top NZ News Stories from NZCity"
+  },
+  "https://www.jagran.com/world/america-us-missile-stock-depletes-amid-iran-war-threatens-china-and-russia-defense-40356976.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "अमेरिका के सामने दोहरी चुनौती, ईरान से युद्ध में घटा मिसाइल स्टॉक, चीन और रूस भी बने मुसीबत\n - us missile stock depletes amid iran war threatens china and russia defense"
+  }
+ }
+}

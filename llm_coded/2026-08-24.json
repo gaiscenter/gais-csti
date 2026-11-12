@@ -1,0 +1,373 @@
+{
+ "date": "2026-08-24",
+ "generated_at": "2026-11-12T10:03:58",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 49,
+ "n_articles": 43,
+ "n_no_text": 6,
+ "n_coded": 41,
+ "n_relevant": 13,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.livemint.com/technology/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china-11787563403581.html",
+  "https://www.siliconrepublic.com/business/taiwan-indicts-nine-for-allegedly-exporting-ai-servers-to-china"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.thedailybeast.com/trumps-nepo-sister-pick-darline-graham-stays-mum-on-red-flag-topic-of-2020-presidential-election/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump's Nepo Sister Pick Darline Graham Stays Mum on Red Flag Topic of 2020 Presidential Election"
+  },
+  "https://www.radiosvoboda.org/a/yak-taivan-hotuietsia-do-mozhlyvoho-napadu-kytaiu/33834277.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Тайвань перейшов до «тотального опору» за прикладом України. Готується до можливого нападу Китаю"
+  },
+  "https://focustaiwan.tw/society/202608240004": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.asiaone.com:443/asia/peace-through-strength-taiwan-president-says-china-battle-anniversary": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Peace through strength, Taiwan president says on China battle anniversary, Asia News - AsiaOne"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863155": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Typhoon Saudel losing strength, CWA reports - Taipei Times"
+  },
+  "https://focustaiwan.tw/sci-tech/202608240014": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan can become global precision health innovation hub: Scholar - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863057": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "FDA assures safety amid Chinese cabbage formaldehyde scare - Taipei Times"
+  },
+  "https://3dnews.ru/1147358/v-kontrabande-iiuskoriteley-v-kitay-okazalsya-zameshan-topmenedger-nvidia-teper-emu-grozit-5-let-tyurmi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "В контрабанде ИИ-ускорителей в Китай оказался замешан топ-менеджер Nvidia — теперь ему грозит 5 лет тюрьмы"
+  },
+  "https://aninews.in/news/world/asia/taiwan-detects-chinese-military-activity-around-its-territory20260824084834/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects Chinese military activity around its territory"
+  },
+  "http://www.econotimes.com/Donald-Trumps-North-Korea-Outreach-Raises-Asia-Alliance-Concerns-1750244": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Donald Trump’s North Korea Outreach Raises Asia Alliance Concerns | EconoTimes"
+  },
+  "https://www.hinews.cn/page?n=2839912&m=1&s=1044": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Unlocking Haikou in 24 Hours: From the Historic Quarter to FTP Development-南海网"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863092": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "New China rules put Taiwanese at risk: source - Taipei Times"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260824/4490256.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects Chinese military activity around its territory"
+  },
+  "https://www.index.hr/vijesti/clanak/japanski-zastupnici-otputovali-u-peking-kako-bi-smirili-napetosti/2827010.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japanski zastupnici otputovali u Peking kako bi smirili napetosti - Index.hr"
+  },
+  "https://talkingpointsmemo.com/news/darline-grahams-big-blunder-creates-an-opening-for-a-far-right-congressman": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Darline Graham’s Big Blunder Creates an Opening for a Far-Right Congressman"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/25/2003863091": {
+   "tags": {
+    "v1": "yes",
+    "v2": "unjudgeable",
+    "v3": "unjudgeable",
+    "v4": "diplomatic",
+    "v5": "unjudgeable",
+    "conf": "low"
+   },
+   "mentions": 3,
+   "title": "Taiwan finding diplomatic space in Europe: report - Taipei Times"
+  },
+  "https://warontherocks.com/the-risks-of-downplaying-chinas-military/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Risks of Downplaying China’s Military"
+  },
+  "https://english.aawsat.com/technology/5310438-taiwan-indicts-nine-over-alleged-illegal-export-ai-servers-china": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan Indicts Nine Over Alleged Illegal Export of AI Servers to China"
+  },
+  "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan Reportedly Indicted NVIDIA Employees For Exporting Prohibited AI Servers To China"
+  },
+  "https://patriotpost.us/articles/130142-whats-the-impact-on-taiwans-security-from-india-china-hostility-2026-08-24": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "What’s the Impact on Taiwan’s Security From India-China Hostility? | The Patriot Post"
+  },
+  "https://telecom.economictimes.indiatimes.com/news/devices/taiwan-indicts-nine-over-alleged-illegal-export-of-ai-servers-to-china/133455744": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan Indicts Nvidia and Super Micro Employees for Illegal AI Server Exports to China, ETTelecom"
+  },
+  "https://metro.co.uk/2026/08/24/tourist-dies-death-valley-car-gets-stuck-mud-29450053/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tourist dies in Death Valley after car gets stuck in the mud | News World | Metro News"
+  },
+  "https://patriotpost.us/articles/130142-what-s-the-impact-on-taiwan-s-security-from-india-china-hostility-2026-08-24": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "What’s the Impact on Taiwan’s Security From India-China Hostility? | The Patriot Post"
+  },
+  "https://www.newsweek.com/trump-backed-darline-grahams-chances-of-losing-to-ralph-norman-final-odds-12359747": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham’s Chances of Losing to Ralph Norman—Final Odds, Polls - Newsweek"
+  },
+  "https://dailycaller.com/2026/08/24/us-navy-spy-plane-taiwan-strait-rare-flight/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "US Navy Spy Plane Makes Rare Taiwan Strait Flight Ahead Of Xi White House Visit | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/08/24/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff – Winnipeg Free Press"
+  },
+  "https://www.dailycamera.com/2026/08/24/taiwan-ai-server/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 48,
+   "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff"
+  },
+  "https://www.chiangraitimes.com/news-asia/us-taiwan-defense/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US and Taiwan Build Defense Against a China Invasion"
+  },
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-indicts-nine-over-alleged-illegal-export-of-ai-servers-to-china/articleshow/133456490.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan indicts nine over alleged illegal export of AI servers to China - The Economic Times"
+  },
+  "https://www.freemalaysiatoday.com/category/opinion/2026/08/24/important-to-get-the-right-message-across": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Important to get the right message across | FMT"
+  },
+  "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Nvidia says Groq racks will be online this year after $20 billion deal"
+  },
+  "https://tribuneonlineng.com/taiwan-indicts-nine-over-alleged-illegal-ai-chip-exports/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan indicts nine over alleged illegal AI chip exports - Tribune Online"
+  },
+  "https://english.news.cn/20260824/73332bd75e1949be83d249276725e147/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinese premier meets Jordan's king-Xinhua"
+  },
+  "https://www.sbctv.gr/2026/08/%CF%80%CE%B1%CF%81%CE%B1%CE%BD%CE%BF%CE%BC%CE%B7-%CE%B5%CE%BE%CE%B1%CE%B3%CF%89%CE%B3%CE%B7/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Παράνομη εξαγωγή AI servers από Ταϊβάν προς Κίνα"
+  },
+  "https://abc11.com/story/french-tourist-dies-death-valley-116-degree-day-vehicle-gets-stuck/19728506/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "French tourist dies in Death Valley on 116-degree day after vehicle gets stuck - ABC11 Raleigh-Durham"
+  },
+  "https://focustaiwan.tw:443/politics/202608240020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "AT-3 trainer completes final missions, replaced by Brave Eagle: Source - Focus Taiwan"
+  },
+  "https://www.nbcphiladelphia.com/news/national-international/french-tourist-dies-death-valley-heat-vehicle-stuck-mud/4452688/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Tourist dies in Death Valley heat after vehicle gets stuck in mud – NBC10 Philadelphia"
+  },
+  "https://www.latimes.com/california/story/2026-08-23/french-visitor-dies-vehicle-breaks-down-116-degrees-death-valley": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Man dies after vehicle gives out in triple-digit Death Valley heat - Los Angeles Times"
+  },
+  "https://www.wtae.com/article/french-tourist-dies-death-valley-22400056/73513472": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Tourist dies in Death Valley National Park on 113-degree day after vehicle gets stuck - WTAE"
+  },
+  "https://www.nbcnews.com/news/us-news/french-tourist-dies-death-valley-heat-rcna594043": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "French tourist dies in Death Valley heat after vehicle gets stuck in mud"
+  },
+  "https://www.kcra.com/article/french-tourist-dies-death-valley-car-breaks-down/73505724": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "French tourist dies in Death Valley after car breaks down - KCRA"
+  }
+ }
+}

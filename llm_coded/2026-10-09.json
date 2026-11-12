@@ -1,0 +1,308 @@
+{
+ "date": "2026-10-09",
+ "generated_at": "2026-11-12T10:20:05",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 44,
+ "n_articles": 38,
+ "n_no_text": 6,
+ "n_coded": 36,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.timeslive.co.za/news/africa/2026-10-09-watch-eswatinis-king-mswati-pledges-to-boost-enduring-friendship-with-taiwan/",
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/09/2003865694"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "http://www.pauldavisoncrime.com/search/label/Wanying%20Zhang%20AKS%20Heather%20Zhang": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 24,
+   "title": "Paul Davis On Crime: Wanying Zhang AKS Heather Zhang"
+  },
+  "https://www.theepochtimes.com/china/targeting-taiwans-political-circles-arms-beijings-annexation-drive-analysts-6101796": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Targeting Taiwan’s Political Circles Arms Beijing’s Annexation Drive: Analysts | The Epoch Times"
+  },
+  "https://www.nbcsvg.com/2026/10/09/taiwan-to-donate-us100000-in-flood-relief-assistance-to-st-vincent-and-the-grenadines/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan to donate US$100,000 in flood relief assistance to St. Vincent and the Grenadines – NBC Radio SVG"
+  },
+  "https://focustaiwan.tw/politics/202610090011": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Lai's National Day address to focus on Taiwan's economy, global role - Focus Taiwan"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/09/eswatini-s-king-pledges-to-strengthen-enduring-friendship-with-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Eswatini’s king pledges to strengthen ‘enduring friendship’ with Taiwan | FMT"
+  },
+  "https://www.obozrevatel.com/ukr/section-novosti-mir/news-rosiya-navchaye-kytay-zastosovuvaty-reaktyvni-drony-yaki-atakuyut-ukrayinu-shcho-vidomo-09-10-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Росія навчає військових Китаю використовувати реактивні дрони за досвідом війни в Україні – подробиці | OBOZ.UA"
+  },
+  "https://www.theepochtimes.com/china/eswatini-king-reaffirms-taiwan-ties-backs-un-participation-during-state-visit-6101780": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Eswatini King Reaffirms Taiwan Ties, Backs UN Participation During State Visit | The Epoch Times"
+  },
+  "https://focustaiwan.tw:443/politics/202610090011": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Lai's National Day address to focus on Taiwan's economy, global role - Focus Taiwan"
+  },
+  "http://internetua.com/rosiya-navcsaye-kitai-zastosovuvati-reaktivni-droni-yaki-atakuuat-ukrayinu-sxo-vidomo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ð Ð¤ Ð½Ð°Ð²ÑÐ°Ñ ÐÐ¸ÑÐ°Ð¹ Ð·Ð°ÑÑÐ¾ÑÐ¾Ð²ÑÐ²Ð°ÑÐ¸ ÑÐµÐ°ÐºÑÐ¸Ð²Ð½Ñ Ð´ÑÐ¾Ð½Ð¸, ÑÐºÑ Ð°ÑÐ°ÐºÑÑÑÑ Ð£ÐºÑÐ°ÑÐ½Ñ: ÑÐ¾ Ð²ÑÐ´Ð¾Ð¼Ð¾"
+  },
+  "https://focustaiwan.tw/society/202610090002": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/09/2003865687": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "US urges China to stop pressuring Taiwan after militia vessel spotted - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202610090003": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "U.S. urges China to stop pressure on Taiwan after militia vessel spotted - Focus Taiwan"
+  },
+  "https://www.obozrevatel.com/section-novosti-mir/news-rosiya-navchaye-kytay-zastosovuvaty-reaktyvni-drony-yaki-atakuyut-ukrayinu-shcho-vidomo-09-10-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Россия обучает китайских военных использованию реактивных дронов, опираясь на опыт войны в Украине – подробности | OBOZ.UA"
+  },
+  "https://focustaiwan.tw/politics/202610090010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Japanese lawmakers visit Taiwan for National Day celebrations - Focus Taiwan"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5602248": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》Dialogue welcome, but do not distort history: Lai - 焦點 - 自由時報電子報"
+  },
+  "https://newsroomamerica.com/?before=113753": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "newsroomamerica.com — newsroomamerica.com"
+  },
+  "https://newsroomamerica.com/?before=113807": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "newsroomamerica.com — newsroomamerica.com"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/09/2003865688": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Ministry confirms US presence at Han Kuang exercises - Taipei Times"
+  },
+  "https://newsroomamerica.com/?before=113784": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "newsroomamerica.com — newsroomamerica.com"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/11/2003865764": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Dialogue welcome, but do not distort history: Lai - Taipei Times"
+  },
+  "https://www.moneycontrol.com/world/trump-honours-satya-nadella-with-top-us-tech-award-amid-microsoft-h-1b-visa-row-article-14048103.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump honours Satya Nadella with top US tech award amid Microsoft H-1B visa row"
+  },
+  "https://www.thenewdawnliberia.com/gongloe-demands-account-of-boakais-u-s-trip/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Gongloe Demands Account of Boakai’s U.S. Trip - Liberia news The New Dawn Liberia, premier resource for latest news"
+  },
+  "https://focustaiwan.tw/culture/202610090009": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Czech, Taiwanese writers explore democracy, history at Frankfurt Book Fair - Focus Taiwan"
+  },
+  "https://bdnews24.com/the-long-read/x9uqpiftez": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say"
+  },
+  "https://www.cnbcafrica.com/2026/eswatini-king-pledges-to-strengthen-enduring-friendship-with-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Eswatini king pledges to strengthen ‘enduring friendship’ with Taiwan | CNBC Africa"
+  },
+  "https://insideretail.asia/2026/10/09/why-rapidus-chip-ambitions-matter-for-electronics-supply-chains/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Why Rapidus’ chip ambitions matter for electronics supply chains - Inside Retail Asia"
+  },
+  "http://en.people.cn/n3/2026/1009/c90000-20506449.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 23,
+   "title": "Tsai Ing-wen's provocative trip to the US: an outright sellout of Taiwan - People's Daily Online"
+  },
+  "https://www.infobae.com/america/mundo/2026/10/09/taiwan-denuncio-la-incursion-de-19-aeronaves-chinas-antes-de-las-celebraciones-por-su-dia-nacional/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwán denunció la incursión de 19 aeronaves chinas antes de las celebraciones por su Día Nacional - Infobae"
+  },
+  "https://www.diariolasamericas.com/florida/taiwan-advierte-miami-que-presion-pekin-amenaza-estabilidad-regional-n5403434": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwán advierte desde Miami que presión de Pekín amenaza estabilidad regional"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/10/2003865703": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan’s Double Ten reckoning - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/taiwan-to-raise-defense-spending-to-5-percent-of-gdp-by-2030-president-says-6101383": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan to Raise Defense Spending to 5 Percent of GDP by 2030, President Says | The Epoch Times"
+  },
+  "https://thedailyblog.co.nz/ben-morgan-pacific-brief-president-xi-visits-the-us-a-pacific-perspective/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Ben Morgan: Pacific Brief – President Xi visits the US – A Pacific perspective? – The Daily Blog"
+  },
+  "http://www.pauldavisoncrime.com/search/label/charged%20as%20agent%20of%20China": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Paul Davis On Crime: charged as agent of China"
+  },
+  "https://www.hindustantimes.com/trending/us/6-leaders-received-awards-as-america-s-greatest-living-innovators-from-donald-trump-only-1-is-usborn-101791518842443.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "6 leaders received awards as ‘America’s greatest living innovators’ from Donald Trump. Only 1 is US-born | Hindustan Times"
+  },
+  "http://www.pauldavisoncrime.com/search/label/spied%20on%20Tawinese%20relaitives": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Paul Davis On Crime: spied on Tawinese relaitives"
+  },
+  "https://wccftech.com/intel-again-tipped-for-major-foundry-business-win-as-nvidia-might-use-foveros-chip-technology-in-h2-2028-says-analyst/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Intel Again Tipped For Major Foundry Business Win As NVIDIA Might Use Foveros Chip Technology In H2 2028, Says Analyst"
+  }
+ }
+}

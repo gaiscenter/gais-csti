@@ -1,0 +1,459 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-11-12T10:19:08",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 71,
+ "n_articles": 62,
+ "n_no_text": 9,
+ "n_coded": 53,
+ "n_relevant": 12,
+ "complete": false,
+ "n_missing": 9,
+ "missing": [
+  "https://www.winnipegfreepress.com/business/2026/10/05/arizona-opens-new-taiwan-representative-office-rejecting-warning-from-china",
+  "https://phayul.com/chinese-national-arrested-in-us-for-spying-on-taiwan-presidents-son/",
+  "https://news.ltn.com.tw/news/focus/breakingnews/5597808",
+  "https://www.journal-advocate.com/2026/10/05/taiwan-china-spying-arrest/",
+  "https://asia.nikkei.com/politics/international-relations/taiwan-s-top-diplomat-launches-new-mission-in-arizona",
+  "https://www.newsday.com/news/nation/arizona-phoenix-taiwan-china-objection-tsmc-t60217",
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865534",
+  "https://article.wn.com/view/2026/10/06/US_Citizen_Accused_of_Surveilling_Taiwanese_Family_on_China_/",
+  "https://www.ksbw.com/article/arizona-taiwan-representative-office-china/74044799"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://finchannel.com/california-woman-arrested-on-charges-alleging-she-acted-as-agent-of-china/137155/crime/2026/10/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "California Woman Arrested on Charges Alleging She Acted as Agent of China - FINCHANNEL"
+  },
+  "https://focustaiwan.tw/politics/202610060021": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Shen, Chiang open to debate over drug policy in Taipei mayoral race - Focus Taiwan"
+  },
+  "https://economictimes.indiatimes.com/news/defence/taiwan-says-us-defence-commitment-unchanged-as-14-billion-arms-sale-hangs/articleshow/134721089.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan says US defence commitment unchanged as $14 billion arms sale hangs - The Economic Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865539": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Shen, Chiang open to debate over drug policy in Taipei mayoral race - Taipei Times"
+  },
+  "https://www.straitstimes.com/asia/taiwans-new-f-16v-fighter-jets-have-landed-what-now": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan’s new F-16V fighter jets have landed – what now? | The Straits Times"
+  },
+  "https://aninews.in/news/world/asia/taiwan-moves-to-strengthen-laws-after-suspected-chinese-surveillance-case-in-us20261006182627/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan moves to strengthen laws after suspected Chinese surveillance case in US"
+  },
+  "https://sl.china-embassy.gov.cn/eng/fyrth/202610/t20261006_12035790.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Foreign Ministry Spokesperson Guo Jiakunâs Remarks on October 6, 2026"
+  },
+  "https://whbl.com/2026/10/05/taiwan-says-it-has-not-heard-new-us-arms-sales-will-be-carved-into-smaller-chunks/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan says it has not heard new US arms sales will be carved into smaller chunks | 1330 & 101.5 WHBL"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/14/2003865913": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "EDITORIAL: Price to pay - Taipei Times"
+  },
+  "https://www.koreaherald.com/article/10894918": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "North Korea warns US over Taiwan while Kim pledges support for Russia - The Korea Herald"
+  },
+  "https://focustaiwan.tw:443/politics/202610060008": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "U.S. vows to protect individuals after alleged surveillance of Lai's son - Focus Taiwan"
+  },
+  "https://www.rtp.pt/noticias/mundo/taiwan-diz-nao-ter-informacoes-de-que-eua-poderao-dividir-vendas-de-armas_n1769839": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan diz não ter informações de que EUA poderão dividir vendas de armas"
+  },
+  "https://tucson.com/news/state-regional/government-politics/elections/article_9d7cb4ee-ea31-4f59-8e0b-071a341cadd2.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Hobbs, Biggs exchange barbs at AZ opening of Taiwan office"
+  },
+  "https://www.thehindu.com/news/morning-digest-october-6-2026/article71548693.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "The Hindu Morning Digest: October 6, 2026 - The Hindu"
+  },
+  "https://chihuahua.quadratin.com.mx/internacionales/arrestan-a-presunta-agente-china-acusada-de-espionaje-federal-en-la/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Arrestan a presunta agente china acusada de espionaje federal en LA - Noticias Quadratín Chihuahua"
+  },
+  "https://lenta.ru/news/2026/10/06/xi3/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Раскрыто отношение Китая к формату «большой двойки» с США: Политика: Мир: Lenta.ru"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865543": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Nobel winner Deisseroth to visit in March next year - Taipei Times"
+  },
+  "https://laist.com/news/criminal-justice/fbi-arrests-irvine-woman-accused-of-spying-on-taiwan-leaders-family-for-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "FBI arrests Irvine woman accused of spying on Taiwan leader’s family for China | LAist"
+  },
+  "https://mynewsla.com/crime/2026/10/05/irvine-woman-charged-with-acting-as-unregistered-agent-of-china-4/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Fed Prosecutors Accuse Irvine Woman of Acting as Unregistered Agent of China - MyNewsLA.com"
+  },
+  "https://www.chinatechnews.com/2026/10/06/130418-oc-woman-accused-of-spying-on-taiwanese-presidents-family-for-china-appears-in-court": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "OC woman accused of spying on Taiwanese president's family for China appears in court - ChinaTechNews.com"
+  },
+  "https://abc7.com/post/wanying-zhang-oc-real-estate-agent-appears-court-accused-spying-taiwanese-presidents-family-china/19912500/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Wanying Zhang: OC real estate agent appears in court, accused of spying on Taiwanese president's family for China - ABC7 Los Angeles"
+  },
+  "https://www.infobae.com/estados-unidos/2026/10/06/como-la-detencion-de-wanying-zhang-expuso-la-red-de-espias-de-china-y-su-maquinaria-de-represion-transnacional/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Cómo la detención de Wanying Zhang expuso la red de espías de China y su maquinaria de represión transnacional - Infobae"
+  },
+  "https://www.rawstory.com/trump-china-2678007601/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "WSJ editors warn Trump of signs China is undermining his fawning review: 'Nice aspiration' - Raw Story"
+  },
+  "http://www.bignewsnetwork.com/news/279355073/china-firmly-opposes-us-arms-sales-to-china-taiwan-region-spokesperson": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China firmly opposes U.S. arms sales to China's Taiwan region: spokesperson"
+  },
+  "https://nypost.com/2026/10/05/us-news/alleged-chinese-spy-in-taiwan-leader-plot-appears-in-la-court/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Alleged Chinese spy behind plot against Taiwan leader appears in LA court"
+  },
+  "https://www.cbsnews.com/news/suspected-chinese-agent-taiwan-president-son-los-angeles-federal-court/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Alleged Chinese agent accused of surveilling Taiwanese president's son appears in federal court - CBS News"
+  },
+  "https://www.theepochtimes.com/us/taiwanese-americans-welcome-former-president-tsai-ing-wen-to-northern-california-6100145": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwanese Americans Welcome Former President Tsai Ing-Wen to Northern California | The Epoch Times"
+  },
+  "https://www.zerohedge.com/geopolitical/fbi-arrests-chinese-woman-lax-surveilling-son-taiwanese-president": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "FBI Arrests Chinese Woman At LAX For Surveilling Son Of Taiwanese President<!-- --> | ZeroHedge"
+  },
+  "https://asianews.network/fbi-arrests-california-realtor-over-alleged-china-spy-mission-targeting-taiwan-presidents-son/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "FBI arrests California realtor over alleged China spy mission targeting Taiwan president’s son – Asia News Network"
+  },
+  "https://focustaiwan.tw/politics/202610060012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Ex-President Tsai arrives in San Francisco to warm welcome - Focus Taiwan"
+  },
+  "https://www.statepress.com/article/2026/10/asu-double-ten-day": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Thousands celebrate Taiwanese culture at ASU West Valley during Double Ten Day event - The Arizona State Press"
+  },
+  "https://pjmedia.com/david-manney/2026/10/05/taiwans-president-had-a-son-in-america-china-allegedly-found-his-home-n4958001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan’s President Had a Son in America — China Allegedly Tracked Down His Home – PJ Media"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/06/2003865497": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "MAC vows legal reform after US arrests suspected Chinese spy - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/07/2003865525": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Tsai receives warm welcome in San Francisco - Taipei Times"
+  },
+  "https://www.kjzz.org/the-show/2026-10-05/arizonas-governor-is-getting-warnings-from-china-about-developing-political-ties-with-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Arizona's governor is getting warnings from China about developing political ties with Taiwan"
+  },
+  "https://focustaiwan.tw/politics/202610060005": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "U.S. Senator Michael Bennet visits Taiwan - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/06/2003865492": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "No word from US on piecemeal arms sales: Koo - Taipei Times"
+  },
+  "https://www.businesstimes.com.sg/opinion-features/are-americans-really-warming-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Are Americans really warming to China? - The Business Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865557": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Three US House members visit Taiwan ahead of National Day - Taipei Times"
+  },
+  "https://focustaiwan.tw/society/202610060014": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Potatoes from U.S. intercepted over excessive glycoalkaloids - Focus Taiwan"
+  },
+  "http://www.koreatimes.com/article/20261006/1632734": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "머스크, TSMC와 테라팹 협력 논의 언급…인텔 주가 ‘흔들’"
+  },
+  "https://www.theepochtimes.com/china/california-realtor-accused-of-spying-for-china-appears-in-court-6099554": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "California Realtor Accused of Spying for China Appears in Court | The Epoch Times"
+  },
+  "https://ichannela.com/news/detail/000000553869.do": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "미국서 잡힌 中 여간첩…극렬 저항 끝 체포 | 채널A 뉴스"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865547": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taiwan News Quick Take - Taipei Times"
+  },
+  "https://www.outinperth.com/police-raid-popular-gay-bar-in-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Police raid popular gay bar in Taiwan"
+  },
+  "https://www.fool.com/coverage/better-buy/2026/10/05/nvidia-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? | The Motley Fool"
+  },
+  "https://foreignpolicy.com/2026/10/06/china-taiwan-political-peaceful-reunification/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Washington Should Prepare for a Chinese Political Takeover of Taiwan"
+  },
+  "https://www.themorningsun.com/2026/10/06/irvine-realtor-arrested-at-lax-on-suspicion-of-spying-for-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "California real estate agent arrested at LAX on suspicion of spying for China – The Morning Sun"
+  },
+  "https://www.diariolibre.com/usa/actualidad/2026/10/05/fbi-eeuu-no-es-patio-de-recreo-de-enemigos-tras-arresto-por-espionaje/3679598": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "FBI: EEUU no es patio de recreo de enemigos tras arresto por espionaje - Diario Libre"
+  },
+  "https://bnonews.com/index.php/2026/10/california-woman-accused-of-spying-on-taiwanese-officials-family-for-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "California woman accused of spying on Taiwanese official’s family for China - BNO News"
+  },
+  "https://www.theoaklandpress.com/2026/10/06/irvine-realtor-arrested-at-lax-on-suspicion-of-spying-for-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "California real estate agent arrested at LAX on suspicion of spying for China – The Oakland Press"
+  },
+  "https://www.theepochtimes.com/us/trump-to-tout-6-6-billion-defense-investment-during-baltimore-visit-6100116": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Announces $6.6 Billion Naval Shipyard Investment During Baltimore Visit | The Epoch Times"
+  },
+  "https://planoinformativo.com/1173717/fbi-dice-que-eu-no-es-patio-de-recreo-tras-arresto-de-espia-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "FBI dice que EU 'no es patio de recreo' tras arresto de espía china"
+  }
+ }
+}

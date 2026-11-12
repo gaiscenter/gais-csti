@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-12T10:25:22",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 26,
+ "n_articles": 23,
+ "n_no_text": 3,
+ "n_coded": 22,
+ "n_relevant": 13,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.taipeitimes.com/News/front/archives/2026/11/02/2003866988"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.shorouknews.com/news/view.aspx?cdate=01112026&id=de08cbb9-e8b6-4a27-b8c5-56290d87fd10": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "تايبيه تتهم بكين بمضايقتها بعد دخول سفينة صينية إلى مياه محظورة في بحر الصين الجنوبي - \r\n        بوابة الشروق"
+  },
+  "https://ianslive.in/yiguandao-followers-among-taiwanese-nationals-detained-missing-restricted-in-china-report--20261101180254": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Yiguandao followers among Taiwanese nationals detained, missing, restricted in China: Report"
+  },
+  "https://www.asiaone.com:443/asia/chinas-coast-guard-conducts-patrols-east-taiwan-cctv-reports": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China's coast guard conducts patrols east of Taiwan, CCTV reports, Asia News - AsiaOne"
+  },
+  "https://econotimes.com/Taiwan-Sends-Ships-to-Monitor-Chinese-Coast-Guard-Patrol-Off-East-Coast-1767891": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan Sends Ships to Monitor Chinese Coast Guard Patrol Off East Coast | EconoTimes"
+  },
+  "https://www.miragenews.com/hku-seminar-uses-pisa-insights-to-shape-hong-1770018/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "HKU Seminar Uses PISA Insights to Shape Hong Kong Education | Mirage News"
+  },
+  "https://nypost.com/2026/11/01/world-news/taiwan-calls-out-china-for-pointless-harassment/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan calls out China for 'pointless' harassment"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/02/2003867004": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Chinese ships suspected of spying - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/02/2003866987": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Notes from Central Taiwan: An island grab, a Strait-wide crisis - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/02/2003866989": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China harassing shipping with east coast patrol: CGA - Taipei Times"
+  },
+  "https://www.cope.es/programas/lo-que-viene/audios/rafael-loring-economista-tema-taiwan-no-dejar-generacion-generacion-arreglar-20261101_3465510.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Rafael Loring, economista: \"El tema de Taiwán no se puede dejar de generación en generación, se tiene que arreglar en esta\""
+  },
+  "https://fakti.bg/world/1096317-taivan-moje-da-pocherpi-ot-voennia-opit-na-ukraina": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Тайван може да почерпи от военния опит на Украйна ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.shorouknews.com/news/view.aspx?cdate=01112026&id=dfeab726-9312-4d63-a465-6af3b9563d00": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "تايوان تشكر حلفاءها على دعمهم للسلام في مضيق تايوان - \r\n        بوابة الشروق"
+  },
+  "https://digg.com/world-business/sb7ooil0": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan accuses China of harassing shipping off Taiwan’s east coast · Digg"
+  },
+  "https://alquds.com/ar/posts/267993": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "تايوان تتهم الصين بمحاولة فرض ولاية وهمية عبر مضايقة السفن قبالة ساحلها الشرقي | جريدة القدس"
+  },
+  "https://www.prokerala.com/news/articles/a1831656.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Yiguandao followers among Taiwanese nationals detained, missing, restricted in China: Report"
+  },
+  "https://www.wbaltv.com/article/taiwan-accuses-china-harassment-standoff-coast-guard-ships/74304938": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Taiwan accuses China of harassment after standoff between coast guard ships - WBAL"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/02/2003866981": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "John J. Tkacik On Taiwan: “First Island Chain” means “Taiwan” - Taipei Times"
+  },
+  "https://www.hankookilbo.com/news/article/A2026110110450001355": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "\"중국 선박, 대만 해역서 수상한 움직임\"… 해저케이블 파괴 공작?-국제ㅣ한국일보"
+  },
+  "https://www.hani.co.kr/arti/international/china/1285217.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "중국 해경, 대만 동부서 ‘상시 법 집행’ 주장…“정치전의 연장” 비판"
+  },
+  "https://www.cp24.com/news/world/2026/11/01/taiwan-accuses-china-of-harassment-after-standoff-between-coast-guard-ships/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan: China accused of harassment after ship standoff"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/03/2003867062": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "2026 Elections: Support for Shen surpasses 52%, poll shows - Taipei Times"
+  },
+  "https://www.insight.co.kr/news/580120": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "“설마 끊으려고?” 중국 조사선 4척, 대만 해저케이블 주변서 ‘비정상적 움직임’"
+  }
+ }
+}

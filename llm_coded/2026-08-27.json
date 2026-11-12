@@ -1,0 +1,279 @@
+{
+ "date": "2026-08-27",
+ "generated_at": "2026-11-12T10:04:53",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 35,
+ "n_articles": 33,
+ "n_no_text": 2,
+ "n_coded": 32,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.manilatimes.net/2026/08/28/world/asia-oceania/taiwanese-lawmakers-ok-76b-budget-for-drones/2413338"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863274": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "KMT caucus accuses MAC of politicizing pomelo trade - Taipei Times"
+  },
+  "https://cimsec.org/asymmetric-spending-taiwans-opportunities-to-defend-against-economic-warfare/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Asymmetric Spending: Taiwan’s Opportunities to Defend Against Economic Warfare | Center for International Maritime Security"
+  },
+  "https://www.insight.co.kr/news/570532": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "대만, 美 최신 공격·정찰 드론 2032대 도입…1조2000억 규모"
+  },
+  "https://www.hindustantimes.com/world-news/ukrainian-military-balloons-may-spoil-russia-s-party-101787821918672.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ukrainian military balloons may spoil Russia’s party | World News"
+  },
+  "https://foreignpolicy.com/2026/08/27/nepal-tibet-flash-floods-death-toll-missing-glacier-global-warming/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Nepal-Tibet Flash Flood Death Toll: Hundreds Feared Dead, Thousands Missing"
+  },
+  "https://indonesiatribune.com/indonesia-china-naval-drill-raises-concerns-over-normalizing-beijings-presence-east-of-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Indonesia-China Naval Drill Raises Concerns Over Normalizing Beijing's Presence East of Taiwan - Indonesia Tribune"
+  },
+  "https://news.antiwar.com/2026/08/27/us-ability-to-fight-china-in-question-as-iran-war-has-drained-stockpiles/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US Ability to Fight China in Question as Iran War Has Drained Stockpiles - News From Antiwar.com"
+  },
+  "https://www.segye.com:443/newsView/20260820525062": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "[세계와우리] 서태평양 긴장 파고, 한반도 흔든다 | 세계일보"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/08/27/taiwan-lawmakers-approve-us-7-6bil-drone-budget-as-china-threat-grows": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan lawmakers approve US$7.6bil drone budget as China threat grows | FMT"
+  },
+  "https://www.enca.com/news/china-tells-citizens-leave-taiwan-allied-eswatini": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China tells citizens to leave Taiwan-allied Eswatini - eNCA"
+  },
+  "https://www.independent.co.uk/asia/east-asia/taiwan-military-drone-programme-budget-b3040267.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan’s lawmakers reject government’s £5bn plan to expand military drone fleet | The Independent"
+  },
+  "https://koran-jakarta.com/2026-08-28/komunikasi-konstruktif-as-dan-tiongkok-harus-kelola-perbedaan-dengan-baik": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Komunikasi Konstruktif, AS dan Tiongkok Harus Kelola Perbedaan dengan Baik"
+  },
+  "https://www.ledevoir.com/monde/asie/1004504/pekin-resserre-etau-autour-taiwan-deploiement-record-navires": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "La Chine a déployé le mois dernier un nombre record de 244 navires autour de Taïwan en juillet | Le Devoir"
+  },
+  "https://www.tayyar.org/News/World/738676/_guid=738676": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "tayyar.org - تحرك صيني قياسي يطوق تايوان.. هل تبدأ حرب الغواصات؟"
+  },
+  "https://www.manilatimes.net/2026/08/28/world/asia-oceania/china-deploys-record-number-of-ships-around-taiwan/2413337": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China deploys record number of ships around Taiwan | The Manila Times"
+  },
+  "https://dailycaller.com/2026/08/27/taiwan-parliament-approves-drone-plan-china-threat/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan Passes Massive $7,560,000,000 Drone Plan As China Threat Looms | \r\n\t\tThe Daily Caller"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5555980": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 Groups urge accuracy at US museum - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/29/2003863327": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Groups urge accuracy at US museum - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/29/2003863330": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "TPP-KMT ties strained by Jhubei mayoral contest - Taipei Times"
+  },
+  "https://www.thedailybeast.com/pentagon-pete-hegseths-staggering-iran-missile-crisis-infuriates-allies/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pentagon Pete Hegsethâs Staggering Iran Missile Crisis Infuriates Allies"
+  },
+  "https://www.computerweekly.com/news/366649661/Nvidia-results-highlight-30-gap-in-order-fulfilment": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia results highlight 30% gap in order fulfilment | Computer Weekly"
+  },
+  "https://www.lrt.lt/naujienos/nuomones/3/3032409/vytautas-pleckaitis-kam-rupi-taika-ukrainoje": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Vytautas PleÄkaitis. Kam rÅ«pi taika Ukrainoje? - LRT"
+  },
+  "https://www.azfamily.com/2026/08/27/proposed-103k-h-1b-visa-fee-puts-north-phoenix-tech-boom-taiwanese-community-edge/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Proposed $103K H-1B visa fee puts north Phoenix tech boom, Taiwanese community on edge"
+  },
+  "https://www.madhyamam.com/world/x-suspends-account-organisers-rss-hief-mohan-bhagwat-new-york-rally-1549409": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "മോഹൻ ഭാഗവതിന്‍റെ ന്യൂയോർക്ക് സന്ദർശനം: സംഘാടകരുടെ അക്കൗണ്ട് പൂട്ടി എക്സ് | x suspends  account organisers rss hief mohan bhagwat-new-york-rally | Madhyamam"
+  },
+  "https://www.adn.com/alaska-news/military/2026/08/26/us-weapons-shortage-from-iran-war-alarms-allies-confronting-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US weapons shortage from Iran war alarms allies confronting China - Anchorage Daily News"
+  },
+  "https://www.businesstoday.in/world/story/global-military-spending-hits-record-3-trillion-europe-re-arms-china-expands-india-spends-92-billion-551855-2026-08-27": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Global military spending hits record $2.89 trillion: Europe re arms, China expands, India spends $92.1 billion - BusinessToday"
+  },
+  "http://www.em.com.br/internacional/2026/08/7488296-china-intensifica-pressao-sobre-taiwan-com-mobilizacao-recorde-de-navios.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "China intensifica pressÃ£o sobre Taiwan com mobilizaÃ§Ã£o recorde de navios"
+  },
+  "https://aninews.in/news/world/asia/chinese-maritime-activity-around-taiwan-reaches-unprecedented-scale20260827144658/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Chinese maritime activity around Taiwan reaches unprecedented scale"
+  },
+  "https://lanouvelletribune.info/2026/08/taiwan-la-chine-hausse-le-ton-face-a-un-pays-africain-qui-se-defend/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taïwan : la Chine hausse le ton face à un pays africain qui se défend – La Nouvelle Tribune"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863292": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Scam cases fall after Xiaohongshu ban: MAC - Taipei Times"
+  },
+  "https://attackofthefanboy.com/social-media/french-tourist-gets-stranded-116f-heat-in-death-valley-but-his-heroic-walk-across-the-salt-flats-ended-in-sorrow/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "French tourist gets stranded 116F heat in Death Valley but his heroic walk across the salt flats ended in sorrow | Attack of the Fanboy"
+  },
+  "https://www.washingtonexaminer.com/daily-memo/4702622/what-darline-grahams-win-means-for-the-gop/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "What Darline Graham's win means for the GOP"
+  }
+ }
+}

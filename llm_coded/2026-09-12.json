@@ -1,0 +1,198 @@
+{
+ "date": "2026-09-12",
+ "generated_at": "2026-11-12T10:08:25",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 27,
+ "n_articles": 24,
+ "n_no_text": 3,
+ "n_coded": 20,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://aninews.in/news/world/asia/taiwan-rejects-beijing8217s-interference-in-vice-president-hsiao8217s-italy-visit-defends-european-parliament-engagement20260912173913/",
+  "https://www.thevermilion.com/the-vice-president-of-taiwan-arrives-in-ventotene-in-secret-piciernos-invitation-infuriates-china/article_20505/",
+  "https://news.webindia123.com/news/Articles/World/20260912/4497867.html",
+  "https://www.shorouknews.com/news/view.aspx?cdate=12092026&id=dc2f6f26-639e-44a1-b039-12aad3487650"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.aol.com/articles/china-threatens-cancel-xi-trump-154203000.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China threatens to cancel Xi-Trump summit - AOL"
+  },
+  "https://www.zerohedge.com/geopolitical/pla-purge-may-be-driving-china-rely-more-military-pressure-against-taiwan-analysts": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "PLA Purge May Be Driving China To Rely More On Military Pressure Against Taiwan: Analysts<!-- --> | ZeroHedge"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/13/2003864185": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwanese culture painful for China: culture minister - Taipei Times"
+  },
+  "https://www.straitstimes.com/world/china-threatens-to-cancel-summit-if-us-approves-new-arms-sales-to-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China threatens to cancel summit if US approves new arms sales to Taiwan | The Straits Times"
+  },
+  "http://www.taiwansun.com/news/279302996/taiwan-party-leaders-criticize-lai-distorting-historical-facts": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan party leaders criticize Lai's distorting historical facts"
+  },
+  "https://focustaiwan.tw/politics/202609120002": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan has right to make friends despite Chinese pressure: VP Hsiao - Focus Taiwan"
+  },
+  "https://www.zerohedge.com/geopolitical/beijing-threatens-cancel-trump-summit-if-us-approves-new-arms-sale-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Beijing Threatens To Cancel Trump-Xi Summit If US Approves New Arms Sales To Taiwan <!-- --> | ZeroHedge"
+  },
+  "http://arabic.peopledaily.com.cn/n3/2026/0912/c31664-20498817.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Ø§ÙØµÙÙ ØªØ­ØªØ¬ ÙØ¯Ù Ø¥ÙØ·Ø§ÙÙØ§ ÙØ§ÙØ§ØªØ­Ø§Ø¯ Ø§ÙØ£ÙØ±ÙØ¨Ù Ø¨Ø´Ø£Ù Ø²ÙØ§Ø±Ø© Ø³ÙØ§Ø³ÙÙÙ Ø¨Ø§ÙØ­Ø²Ø¨ Ø§ÙØ¯ÙÙÙØ±Ø§Ø·Ù Ø§ÙØªÙØ¯ÙÙ ÙÙ ØªØ§ÙÙØ§Ù Ø¥ÙÙ Ø¥ÙØ·Ø§ÙÙØ§"
+  },
+  "https://www.huffingtonpost.gr/diethnes/giati-i-provoli-mias-sovietikis-tainias-81-eton-apo-rosous-axiomatouchous-stin-taipei-echei-simanei-synagermo-stin-taivan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Γιατί η προβολή μιας σοβιετικής ταινίας 81 ετών σε περιορισμένο ρωσικό κοινό έχει προκαλέσει ανησυχία στην Ταϊβάν"
+  },
+  "https://www.thenews.com.pk/latest/1415928-elon-musk-says-one-factor-could-decide-who-wins-ai-race": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Elon Musk says one factor could decide who wins AI race"
+  },
+  "https://www.abc.com.py/ciencia/2026/09/11/pena-dice-que-paraguay-busca-ser-protagonista-de-la-revolucion-de-la-ia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Peña dice que Paraguay busca \"ser protagonista de la revolución\" de la IA - Ciencia - ABC Color"
+  },
+  "https://www.ansa.it/europa/notizie/rubriche/voceeurodeputati/2026/09/12/tajani-siamo-per-politica-della-cina-unica-e-status-quo-a-taiwan_42bbef3a-1204-4029-b21e-598aca7dd2b9.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tajani, 'siamo per politica della Cina unica e status quo a Taiwan' - La voce degli Eurodeputati - Ansa.it"
+  },
+  "https://www.asiaone.com/digital/how-anthropic-says-claude-was-used-weapons-spying-and-cyber-operations": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "How Anthropic says Claude was used for weapons, spying and cyber operations, Digital News - AsiaOne"
+  },
+  "http://www.calcuttanews.net/news/279303207/xi-modi-conduct-in-depth-exchange-of-views-agree-china-india-should-be-partners": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Xi, Modi conduct in-depth exchange of views, agree China, India should be partners"
+  },
+  "https://www.theguardian.com/culture/2026/sep/12/last-seen-to-angine-de-poitrine-the-week-in-rave-reviews": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Last Seen to Angine de Poitrine: the week in rave reviews | Culture | The Guardian"
+  },
+  "https://www.chronicle.lu/category/international-news/63477-defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 14,
+   "title": "Defence Firm Anduril Says US Delay on Taiwan Arms Sales Affecting Its Business"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/19/defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business - Internazionale"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/13/2003864183": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "China threatens US meeting over arms sales - Taipei Times"
+  },
+  "https://www.bankingnews.gr/diethni/articles/898986/aifnidia-riksi-i-kina-apeilei-na-akyrosei-ti-synantisi-trump-kai-xi-ean-oi-ipa-egkrinoun-nees-poliseis-oplon-stin-taivan%20title=": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Αιφνίδια ρήξη  – Η Κίνα απειλεί να ακυρώσει τη συνάντηση Trump και Xi εάν οι ΗΠΑ εγκρίνουν νέες πωλήσεις όπλων στην Ταϊβάν"
+  },
+  "https://www.smh.com.au/culture/books/a-giant-mao-looms-over-hong-kong-welcome-to-2030-20260907-p60v1v.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Badiucao and Melissa Chan: New graphic novel examines the trauma of surveillance and the struggle for freedom in China"
+  }
+ }
+}

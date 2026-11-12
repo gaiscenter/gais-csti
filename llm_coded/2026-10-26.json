@@ -1,0 +1,185 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-11-12T10:24:13",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 30,
+ "n_articles": 21,
+ "n_no_text": 9,
+ "n_coded": 21,
+ "n_relevant": 4,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://en.gmw.cn/2026-10/26/content_39064993.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China Focus: China marks anniversary of Taiwan's recovery with events across Taiwan Strait\r\n_Guangming Online"
+  },
+  "https://dailycaller.com/2026/10/26/american-chinese-aircraft-carriers-could-cross-paths/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "American And Chinese Aircraft Carriers Could Cross Paths As Tensions Rise Near Taiwan | \r\n\t\tThe Daily Caller"
+  },
+  "https://econotimes.com/Taipei-Candidates-Defend-TV-Host-s-Campaign-Visits-Amid-China-Criticism-1763688": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taipei Candidates Defend TV Host’s Campaign Visits Amid China Criticism | EconoTimes"
+  },
+  "http://en.people.cn/n3/2026/1026/c90000-20512011.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China marks anniversary of Taiwan's recovery with events across Taiwan Strait - People's Daily Online"
+  },
+  "http://russian.news.cn/20261026/96a2f5ec6f2e4abd91fdd3cf7e4d953e/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "/В фокусе внимания Китая/ Китай отметил 81-ю годовщину освобождения Тайваня от японской оккупации мероприятиями на двух берегах Тайваньского пролива_Russian.news.cn"
+  },
+  "https://focustaiwan.tw:443/politics/202610260009": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Chiang, Shen speak out after entertainer's 'Taiwan independence' statement - Focus Taiwan"
+  },
+  "http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16496218.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China marks anniversary of Taiwan's recovery with events across Taiwan Strait - China Military"
+  },
+  "http://arabic.news.cn/20261026/2a3dc1a0303e4cf5b243f9c35483e712/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "مقالة خاصة: الصين تحتفل بالذكرى السنوية الـ81 لاستعادة تايوان بفعاليات تذكارية عبر مضيق تايوان"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/26/WS6ade52dce4b06d4aa0564ae0.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "One-China principle emphasized - Chinadaily.com.cn"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/27/2003866686": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "2026 Elections: China trying to isolate Puma Shen: source - Taipei Times"
+  },
+  "http://www.china.org.cn/2026-10/26/content_118749187.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China marks anniversary of Taiwan's recovery with events across Taiwan Strait - China.org.cn"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/27/2003866665": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Beijing is boosting ‘Ocean Wave’ - Taipei Times"
+  },
+  "http://www.britainnews.net/news/279398741/japan-labor-paradox-it-wants-the-workers-not-the-immigrants": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Japan's Labor Paradox: It Wants the Workers, Not the Immigrants?"
+  },
+  "https://asianews.network/author/chew_hui_minasianews-network/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chew Hui Min – Asia News Network"
+  },
+  "https://www.trud.ru/article/26-10-2026/1848441_kitaj_otmetil_osvobozhdenija_tajvanja_ot_japonskoj_okkupatsii.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Труд: Китай отметил освобождения Тайваня от японской оккупации"
+  },
+  "https://www.highlandernews.org/97441/taiwan-cannot-be-treated-as-trumps-bargaining-chip/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan cannot be treated as Trump’s bargaining chip - The Highlander Newspaper"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/27/2003866685": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Chip capacity an asset for Taiwan, researcher says - Taipei Times"
+  },
+  "https://www.dailymail.com/news/article-16239269/taiwanese-tsmc-arizona-microchip-families-schools.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwanese families lured to Arizona by new microchip factory say they're worried by how easy their children's high school classes are | Daily Mail Online"
+  },
+  "https://www.digitaltrends.com/phones/xiaomi-17t-review/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 13,
+   "title": "Xiaomi 17T review: The most practical phone I've used in a while that's also a rare bargain - Digital Trends"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/10/27/2003866672": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Donovan’s Deep Dives: Taiwan’s defense buildup needs more than shiny new toys - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/as-michael-dell-thanks-jensen-huang-with-a-bunch-of-history-nvidia-ceo-calls-him-pride-of-/articleshow/135209389.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "As Michael Dell thanks Jensen Huang âwith a bunch of historyâ, Nvidia CEO calls him pride of â¦ | - The Times of India"
+  }
+ }
+}

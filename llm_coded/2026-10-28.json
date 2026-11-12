@@ -1,0 +1,210 @@
+{
+ "date": "2026-10-28",
+ "generated_at": "2026-11-12T10:24:38",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 27,
+ "n_articles": 26,
+ "n_no_text": 1,
+ "n_coded": 26,
+ "n_relevant": 2,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.wsws.org/en/articles/2026/10/28/pdse-o28.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "New Zealand election: Labour’s fraudulent “non-aligned” posturing in the US-China confrontation - World Socialist Web Site"
+  },
+  "https://thevoiceslu.com/2026/10/a-mission-to-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "A Mission to Taiwan - The Voice St. Lucia News"
+  },
+  "https://www.winnipegfreepress.com/business/2026/10/28/pakistan-approves-flights-by-taiwanese-airlines-after-reported-restrictions": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Pakistan approves flights by Taiwanese airlines after reported restrictions – Winnipeg Free Press"
+  },
+  "https://propakistani.pk/2026/10/29/pakistan-reverses-airspace-ban-on-taiwanese-airlines-within-hours/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Pakistan Reopens Airspace to Taiwanese Airlines Till March 2027"
+  },
+  "https://www.northernpublicradio.org/illinois/2026-10-28/a-guide-to-voting-accessibility-for-illinois-voters-with-disabilities-the-elderly-and-non-english-speakers": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "A guide to voting accessibility for Illinois voters with disabilities, the elderly and non-English speakers | Northern Public Radio: WNIJ and WNIU"
+  },
+  "https://www.scoop.co.nz/stories/PO2610/S00199/new-zealand-election-labours-fraudulent-non-aligned-posturing-in-the-us-china-confrontation.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "New Zealand Election: Labour’s Fraudulent “Non-Aligned” Posturing In The US-China Confrontation | Scoop News"
+  },
+  "https://www.euronews.com/2026/10/28/germany-and-japan-strengthen-economic-ties-as-global-tensions-rise": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Germany and Japan strengthen economic ties as global tensions rise | Euronews"
+  },
+  "https://thefrontierpost.com/one-china-policy-pakistan-bars-taiwan-carriers-from-airspace-report/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "One-China policy: Pakistan bars Taiwan carriers from airspace: report – The Frontier Post"
+  },
+  "https://www.moneycontrol.com/world/pakistan-takes-beijing-s-side-bars-taiwanese-airlines-from-its-airspace-what-its-one-china-policy-means-article-14062671.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pakistan tries to impress Beijing, bars Taiwanese airlines from its skies even as China stops short of such a ban"
+  },
+  "https://www.suryaa.com/telugu-news/international/taivaan-aaropanalanu-khmdimchina-chaina": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "తైవాన్ ఆరోపణలను ఖండించిన చైనా | Suryaa News"
+  },
+  "https://foreignpolicy.com/2026/10/28/young-people-southeast-asia-underemployment/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Youth Underemployment Surges in Southeast Asia"
+  },
+  "https://thediplomat.com/2026/10/how-would-china-actually-govern-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "How Would China Actually Govern Taiwan? – The Diplomat"
+  },
+  "https://inosmi.ru/20261028/tramp-280859402.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Китай, Россия и США демонстрируют беспрецедентную близость: \"разворот на 180 градусов\" Трампа ставит под вопрос успешность дипломатической стратегии Такаити (Shūkan Gendai, Япония) | 28.10.2026, ИноСМИ"
+  },
+  "https://universitytimes.ie/2026/10/competent-but-not-brilliant/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Competent but not Brilliant – The University Times"
+  },
+  "https://en.dailypakistan.com.pk/28-Oct-2026/pakistan-closes-airspace-to-taiwan-flights-in-strong-show-of-support-for-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pakistan closes Airspace to Taiwan flights in strong show of support for China"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/28/2003866769": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taipei Zoo’s newest mountain bongo arrives from Texas - Taipei Times"
+  },
+  "https://tribune.com.pk/story/2637407/in-support-of-one-china-policy-pakistan-bans-taiwanese-airlines-from-using-its-airspace-report": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "In support of One-China policy, Pakistan bans Taiwanese airlines from using its airspace: report"
+  },
+  "https://timesofindia.indiatimes.com/india/they-will-fly-mea-on-direct-india-taiwan-flights-after-pak-blocks-airspace-over-one-china-policy/articleshow/135269470.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "'They will fly': MEA on direct India-Taiwan flights after Pakistan blocks airspace over 'One-China' policy | India News - The Times of India"
+  },
+  "https://aninews.in/news/world/asia/majority-of-taiwanese-reject-ccp-as-distrust-of-china-remains-widespread20261028201323/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Majority of Taiwanese reject CCP as distrust of China remains widespread"
+  },
+  "https://www.moneycontrol.com/world/india-signals-possible-direct-flights-to-taiwan-as-pakistan-bars-taiwanese-airlines-from-its-airspace-article-14062806.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "India signals possible direct flights to Taiwan as Pakistan bars Taiwanese airlines from its airspace"
+  },
+  "https://www.delfi.lt/news/ringas/politics/raimundas-lopata-kokia-lietuvos-susitaikymo-su-kinija-kaina-120325850": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Raimundas Lopata. Kiek kainuotų „susitaikymas“ su Kinija? - Delfi"
+  },
+  "https://www.prnewswire.com/news-releases/global-health-forum-brings-cross-industry-experts-together-to-advance-trust-centric-digital-care-302922206.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Global Health Forum Brings Cross-Industry Experts Together to Advance Trust-Centric Digital Care"
+  },
+  "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech - Ars Technica"
+  },
+  "https://formiche.net/2026/10/il-paradosso-di-pechino-xi-rafforza-il-partito-ma-a-taiwan-cresce-la-distanza-politica/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Il paradosso di Pechino: Xi rafforza il Partito, ma a Taiwan cresce la distanza politica - Formiche.net"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/28/2003866774": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Indiana treasurer affirms Taiwan ties despite China’s warning - Taipei Times"
+  },
+  "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/meesho-loss-narrows-sanjeev-bikhchandani-back-as-info-edge-ceo/articleshow/135267059.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Meesho loss narrows; Sanjeev Bikhchandani back as Info Edge CEO"
+  }
+ }
+}

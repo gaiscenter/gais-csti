@@ -1,0 +1,334 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-11-12T10:20:41",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 41,
+ "n_articles": 39,
+ "n_no_text": 2,
+ "n_coded": 36,
+ "n_relevant": 12,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://news.ltn.com.tw/news/focus/breakingnews/5603075",
+  "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865858",
+  "https://www.taipeitimes.com/News/biz/archives/2026/10/12/2003865784"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/11/washingtons-transactional-taiwan-policy-puts-indo-pacific-at-risk-ex-us-officials-warn": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Washington’s transactional Taiwan policy puts Indo-Pacific at risk, ex-US officials warn | The Star"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/12/2003865811": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "DPP depriving Taiwan of future: KMT head - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/12/2003865793": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "‘Winning without a fight’ could spark war - Taipei Times"
+  },
+  "http://www.taiwansun.com/news/279365745/mainland-experts-lai-speech-reveals-unchanged-separatist-agenda": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Mainland experts: Lai's speech reveals unchanged separatist agenda"
+  },
+  "https://www.wbtv.com/2026/10/11/andrews-graham-whitener-face-off-long-awaited-south-carolina-senate-debate/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Andrews, Graham and Whitener to face off in long-awaited South Carolina Senate debate"
+  },
+  "http://usa.chinadaily.com.cn/a/202610/11/WS6acb3b96e4b06d4aa0562295.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Mainland experts say Taiwan leader's speech shows separatist agenda unchanged, undiminished - Chinadaily.com.cn"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/12/2003865790": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "EDITORIAL: Chiang’s ship is taking on water - Taipei Times"
+  },
+  "http://www.china.org.cn/2026-10/11/content_118728957.shtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Mainland slams Lai Ching-te's secessionist narrative - China.org.cn"
+  },
+  "https://english.news.cn/20261011/d875ae6cb4a74684b7fb428e3d1a7131/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Mainland experts say Taiwan leader's speech shows separatist agenda unchanged, undiminished-Xinhua"
+  },
+  "https://www.eurasiareview.com/11102026-china-expands-its-presence-in-perus-critical-electricity-infrastructure-analysis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China Expands Its Presence In Peru’s Critical Electricity Infrastructure - Analysis - Eurasia Review"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/12/2003865791": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Michael Mazza On Taiwan: Taiwan Will Fight - Taipei Times"
+  },
+  "https://www.straitstimes.com/asia/east-asia/city-upon-a-hill-why-taiwans-president-quoted-the-bible-in-his-national-day-speech": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taiwan national day speech and US message to Washington | The Straits Times"
+  },
+  "http://en.ce.cn/main/latest/202610/t20261011_3253669.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xinhua Commentary: Taiwan leader's repackaged rhetoric cannot conceal his secessionist agenda--China Economic Net"
+  },
+  "http://eng.chinamil.com.cn/2025xb/O_251451/16492095.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan leader's repackaged rhetoric cannot conceal his secessionist agenda - China Military"
+  },
+  "http://en.people.cn/n3/2026/1011/c90000-20507092.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Commentary: Taiwan leader's repackaged rhetoric cannot conceal his secessionist agenda - People's Daily Online"
+  },
+  "http://en.people.cn/n3/2026/1011/c90000-20507090.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Mainland slams Lai Ching-te's secessionist narrative - People's Daily Online"
+  },
+  "https://focustaiwan.tw:443/society/202610110002": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://english.news.cn/20261011/1ea110ba46a54075b3738cc8ec7264fe/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan leader's speech exposes him as threat to peace: mainland defense spokesperson-Xinhua"
+  },
+  "https://arabic.euronews.com/2026/10/10/taiwan-defense-spending-2027-lai-deterrence-not-provocation": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "وسط التوتر مع الصين.. تايوان تؤكد أن زيادة إنفاقها الدفاعي تهدف إلى \"منع نشوب حرب\" | يورونيوز"
+  },
+  "https://www.arkansasonline.com/news/2026/oct/11/taiwan-holiday-marked-with-call-for-freedom/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan holiday marked with call for freedom | The Arkansas Democrat-Gazette - Arkansas' Best News Source"
+  },
+  "http://www.bignewsnetwork.com/news/279365339/taiwan-leader-speech-exposes-him-as-threat-to-peace-mainland-defense-spokesperson": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan leader's speech exposes him as threat to peace: mainland defense spokesperson"
+  },
+  "https://informer.rs/planeta/vesti/1159363/kina-tajvan-rat-blumberg-procena": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "SAD tvrde da je rizik od rata sa Kinom oko Tajvana precenjen, Blumberg procenjuje moguću štetu na 10.600 milijardi dolara - Informer.rs"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/12/2003865798": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Stop hostile talk, Taiwan urges China - Taipei Times"
+  },
+  "http://www.newzealandstar.com/news/279365560/taiwan-president-lai-welcomes-us-china-dialogue-warns-against-distorting-wwii-history": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 40,
+   "title": "Taiwan President Lai welcomes US-China dialogue, warns against distorting WWII history"
+  },
+  "https://focustaiwan.tw/society/202610110009": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Songshan: The ups and downs of Taipei's 'other airport' - Focus Taiwan"
+  },
+  "https://www.irishtimes.com/world/asia-pacific/2026/10/11/taiwan-fears-for-us-support-as-trump-and-xi-prepare-for-fresh-talks/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan fears for US support as Trump and Xi prepare for fresh talks – The Irish Times"
+  },
+  "https://zdnet.co.kr/view/?no=20261011084533": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "엔비디아, 美 리플렉션 AI에 추가 투자·인수 협상 중 - ZDNet korea"
+  },
+  "https://www.fool.com/investing/2026/10/11/meet-the-only-ai-stock-id-buy-over-nvidia-in-octob/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Meet the Only AI Stock I'd Buy Over Nvidia in October | The Motley Fool"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865879": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Official reaffirms drug prevention policy - Taipei Times"
+  },
+  "https://en.apa.az/asia/taiwan-wont-give-up-freedom-lai-says-beijing-slams-ulterior-motives-529349": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan won't give up freedom, Lai says; Beijing slams 'ulterior motives'"
+  },
+  "https://www.theepochtimes.com/us/taiwan-us-celebrate-shared-democratic-values-tech-partnership-at-taiwanese-national-day-event-in-bay-area-6102089": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan, US Celebrate Shared Democratic Values, Tech Partnership at Taiwanese National Day Event in Bay Area | The Epoch Times"
+  },
+  "http://usa.chinadaily.com.cn/a/202610/11/WS6acb9f4ee4b06d4aa05622fa.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Talks highlight deepening of cooperation - Chinadaily.com.cn"
+  },
+  "http://arabic.news.cn/20261011/7a83d3272ec04a27803cfad2a22d7c5d/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "متحدث عسكري صيني: خطاب زعيم تايوان يكشفه باعتباره تهديداً للسلام"
+  },
+  "https://www.hindustantimes.com/world-news/nvidia-ceo-jensen-huang-loses-7-4-million-single-day-slips-out-top-10-billionaire-list-who-is-alice-huang-affair-probe-101794285495535.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "$7.4 billion gone in 30 minutes: Nvidia CEO Jensen Huang's massive wealth wipeout amid affair probe | World News"
+  },
+  "https://www.theamericanconservative.com/chinas-gray-zone-options-against-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China’s Gray-Zone Options Against Taiwan - The American Conservative"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5603082": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 US launches probe into Taiwan firms - 焦點 - 自由時報電子報"
+  }
+ }
+}

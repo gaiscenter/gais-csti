@@ -1,0 +1,373 @@
+{
+ "date": "2026-08-19",
+ "generated_at": "2026-11-12T10:02:39",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 58,
+ "n_articles": 51,
+ "n_no_text": 7,
+ "n_coded": 48,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "http://arabic.news.cn/20260819/428505643bd54aafb7e577636fcab9e9/c.html",
+  "https://www.chronicle.lu/category/international/62947-china-completes-1st-stage-of-work-at-disputed-south-china-sea-reef-images-show",
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/19/2003862764"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.nbcsvg.com/2026/08/19/taiwan-to-provide-assistance-to-government-with-establishment-of-national-development-bank/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan to provide assistance to Government with establishment of National Development Bank – NBC Radio SVG"
+  },
+  "https://www.postandcourier.com/politics/graham-norman-debate-2026-newberry-senate-runoff/article_9708a03d-1d22-42cb-a976-ccf9231629f8.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Darline Graham, Ralph Norman face off in last Senate debate"
+  },
+  "https://pch24.pl/wiadomosci/the-atlantic-zachod-nie-ma-planu-na-wypadek-jednoczesnej-wojny-z-chinami-i-rosja,731048": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "„The Atlantic”: Zachód nie ma planu na wypadek jednoczesnej wojny z Chinami i Rosją"
+  },
+  "https://www.nydailynews.com/2026/08/19/darlene-graham-debate-south-carolina-senate/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darlene Graham stumbles badly in South Carolina Senate debate"
+  },
+  "https://www.asiaone.com:443/china/china-completes-first-stage-work-disputed-south-china-sea-reef-images-show": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China completes first stage of work at disputed South China Sea reef, images show, China News - AsiaOne"
+  },
+  "https://www.wjcl.com/article/trump-rally-myrtle-beach-south-carolina/73474549": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump to hold rally in South Carolina with Senator Darline Graham - WJCL"
+  },
+  "https://tyzhden.ua/chy-realno-strymaty-podalshe-zblyzhennia-kytaiu-ta-rosii/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Чи реально стримати подальше зближення Китаю та Росії"
+  },
+  "https://dmnews.com/dmn-the-real-u-s-china-ai-contest-is-diffusion-not-superintelligence-and-china-is-already-ahead/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The real U.S.-China AI contest is diffusion, not superintelligence — and China is already ahead"
+  },
+  "https://www.newsbomb.gr/kosmos/story/1757525/washington-time-to-pentagono-eksetazei-epiloges-gia-xrisi-pyrinikon-oplon": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Washington Times: Το Πεντάγωνο εξετάζει επιλογές για χρήση πυρηνικών όπλων - Newsbomb"
+  },
+  "https://mkd.mk/svet/koshmarot-na-nato/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Кошмарот на НАТО - МКД.МК"
+  },
+  "https://economictimes.indiatimes.com/news/defence/taiwan-records-heightened-chinese-military-activity-around-its-territory/articleshow/133337647.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan records heightened Chinese military activity around its territory - The Economic Times"
+  },
+  "https://bworldonline.com/world/2026/08/19/771159/china-completes-first-stage-of-work-at-disputed-south-china-sea-reef-images-show/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China completes first stage of work at disputed South China Sea reef, images show - BusinessWorld Online"
+  },
+  "https://www.in.gr/2026/08/19/world/tramp-to-adeiasma-tis-notias-koreas-kai-oi-apeiles-sto-oman-skeptikismos-stous-symmaxous-ton-ipa-stin-asia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Τραμπ: Το «άδειασμα» της Νότιας Κορέας και οι απειλές στο Ομάν - Σκεπτικισμός στους συμμάχους των ΗΠΑ στην Ασία | in.gr"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/08/20/2003862790": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Notes from Central Taiwan: The blockade Taiwan is not ready for - Taipei Times"
+  },
+  "https://english.news.cn/20260819/2f68862ae44742d28d48ec5b36cd655b/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Malaysian PM reaffirms one-China principle-Xinhua"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/08/19/china-completes-first-stage-of-work-at-disputed-south-china-sea-reef": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China completes first stage of work at disputed South China Sea reef | FMT"
+  },
+  "https://nypost.com/2026/08/19/us-news/sen-darline-graham-fumbles-basic-national-security-question-in-debate-flop-im-not-that-informed/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Darline Graham fumbles basic question in debate flop"
+  },
+  "https://www.yahoo.com/news/politics/articles/woefully-underprepared-graham-critics-seize-211254132.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "‘Woefully underprepared’: Graham critics seize on her foreign policy misstep"
+  },
+  "http://www.prnewswire.com/news-releases/20252026-asian-american-engineer-of-the-year-aaeoy-award-and-conference-to-convene-ai-leaders-stem-visionaries-and-youth-mentors-in-silicon-valley-302855645.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "2025-2026 Asian American Engineer of the Year (AAEOY) Award and Conference to Convene AI Leaders, STEM Visionaries, and Youth Mentors in Silicon Valley"
+  },
+  "https://vanguardia.com.mx/opinion/la-nueva-fisica-del-poder-FK22933745": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "La nueva fÃ­sica del poder"
+  },
+  "https://www.artforum.com/news/taiwanese-artists-accuse-gwangju-biennale-censorship-1234757357/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Artists Accuse Gwangju Biennale of Censorship Over Renaming of Pavilion"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260819/4488631.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Several global lawmakers slam Uganda over reported demand for Chinese passports from Taiwanese travellers"
+  },
+  "https://abcnews.com/Politics/darline-graham-raises-eyebrows-after-debate-shes-informed/story?id=135772981": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham raises eyebrows after she says in debate she's 'not that informed on national security' - ABC News"
+  },
+  "https://www.techtimes.com/articles/324993/20260819/darline-graham-backs-chinese-ai-data-center-ban-says-national-security-not-her-thing.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham Backs Chinese AI Data Center Ban; Says National Security Not Her Thing"
+  },
+  "https://ria.ru/20260819/grem-2111923625.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Сестра покойного Линдси Грэма* оконфузилась на дебатах по вопросу Тайваня - РИА Новости, 19.08.2026"
+  },
+  "https://us.cnn.com/2026/08/18/politics/darline-graham-debate-national-security-not-my-thing": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Sen. Darline Graham admits in debate: ‘National security is not my thing’ | CNN Politics"
+  },
+  "https://www.brasil247.com/america-latina/xi-pede-maior-relacao-com-equador-e-parceria-por-desenvolvimento/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Xi pede maior relação com Equador e parceria por desenvolvimento – Brasil 247"
+  },
+  "https://www.yahoo.com/news/politics/articles/lindsey-graham-sister-stumbles-badly-202600340.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Lindsey Graham’s sister stumbles badly in South Carolina Senate debate"
+  },
+  "https://www.live5news.com/2026/08/19/graham-norman-clash-only-scheduled-runoff-debate-ahead-early-voting/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Graham, Norman clash in only scheduled runoff debate ahead of early voting"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/08/20/2003862795": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 15,
+   "title": "First two of 66 F-16Vs from US may arrive soon - Taipei Times"
+  },
+  "https://english.elpais.com/opinion/2026-08-19/us-strategy-in-crisis-in-the-asia-pacific.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "US strategy in crisis in the Asia-Pacific | Opinion | EL PAÍS English"
+  },
+  "https://news.mail.ru/politics/72053173/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Сестра Линдси Грэма оконфузилась на дебатах по вопросу Тайваня - Новости Mail"
+  },
+  "https://www.ibtimes.co.uk/harvard-dropouts-challenge-nvidia-ai-chip-startup-1815026": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia Is Losing Top Talent to $21B AI Chip Rival: Michael Burry Sees 'Serious Competition' | IBTimes UK"
+  },
+  "https://www.punjabkesari.in/international/news/taiwan-records-heightened-chinese-military-activity-around-its-territory-2370365": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "ताइवान पर हमले की तैयारीः चीन ने चारों तरफ से घेरा,  20 सैन्य विमानों व 7 युद्धपोतों ने ADIZ में की एंट्री - taiwan records heightened chinese military activity around its territory"
+  },
+  "https://www.southcarolinapublicradio.org/sc-news/2026-08-19/darline-graham-and-ralph-norman-throw-jabs-make-cases-to-voters-in-us-senate-debate": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham and Ralph Norman exchange jabs, make cases to voters in US Senate debate | South Carolina Public Radio"
+  },
+  "https://www.malaysiakini.com/news/782530": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "PM backs China's right to use force on Taiwan, Taipei hits back with trade threat | Malaysiakini"
+  },
+  "https://www.wrdw.com/2026/08/19/graham-norman-clash-runoff-debate-ahead-early-voting/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Graham, Norman clash in runoff debate ahead of early voting"
+  },
+  "https://attackofthefanboy.com/news/south-carolina-sen-darline-graham-was-asked-about-taiwan-and-china-during-a-debate-she-replied-national-security-is-not-my-thing/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "What Did Sen. Darline Graham Say About Taiwan and China?"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/darline-graham-debate-national-security-b3035741.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lindsey Graham’s sister roasted over epic debate fail: ‘I’m not that informed on national security’ | The Independent"
+  },
+  "https://edition.cnn.com/2026/08/18/tech/asia-tech-frenemy-intl-hnk": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "From heated rivalry to frenemies: Inside the cutthroat business of ruling tech in Asia | CNN Business"
+  },
+  "https://katv.com/news/connect-to-congress/south-carolina-republican-senator-darline-graham-admits-shes-not-that-informed-on-national-security-debate-primay-runoff-election": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham admits she's 'not that informed' on national security"
+  },
+  "https://us.cnn.com/2026/08/19/politics/trump-candidates-primary-losses": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump-backed candidates keep losing | CNN Politics"
+  },
+  "https://www.thedailybeast.com/south-carolina-runoff/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nepo Sister Barely Clinches Runoff Despite Trump Backing"
+  },
+  "https://www.newsweek.com/darline-graham-debate-comment-raises-red-flags-for-republican-strategists-12340294": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham Trips Up On National Security, Population Number In Debate - Newsweek"
+  },
+  "https://afr.net:443/podcasts/todays-issues-with-tim-wildmon-and-company/2026/august/meta-faces-multistate-trial-over-social-media-harm-to-children/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Meta Faces Multistate Trial Over Social Media Harm to Children"
+  },
+  "https://www.rawstory.com/darline-graham-2677728974/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "CNN pours salt on wound after GOP senator's 'cringe-inducing' gaffe - Raw Story"
+  },
+  "https://www.fool.com/coverage/etfs/2026/08/19/vanguard-vea-vs-ishares-ixus-which-international-etf-promises-better-performance-in-2026/?source=iedfolrf0000001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Vanguard VEA vs iShares IXUS: Which International ETF Promises Better Performance in 2026? | The Motley Fool"
+  },
+  "https://960weli.iheart.com/featured/the-clay-travis-and-buck-sexton-show/content/2026-08-19-1119-the-clay-travis-and-buck-hour-3-the-woman-behind-the-conservative-cosm/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Hour 3 - The Woman Behind the Conservative Cosmo | 960 WELI | The Clay Travis and Buck Sexton Show"
+  }
+ }
+}

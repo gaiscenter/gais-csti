@@ -1,0 +1,338 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-11-12T10:19:45",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 41,
+ "n_articles": 38,
+ "n_no_text": 3,
+ "n_coded": 36,
+ "n_relevant": 13,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://aninews.in/news/world/asia/beijing-accused-of-expanding-pressure-campaign-against-taiwan-media-and-entertainers20261008193002/",
+  "https://focustaiwan.tw/politics/202610080010"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://focustaiwan.tw:443/politics/202610080010": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "EU lawmakers vote to reject Chinese pressure on Taiwan's global role - Focus Taiwan"
+  },
+  "https://www.straitstimes.com/asia/puma-shens-debut-in-taipei-mayoral-election-creates-more-than-waves-but-can-it-translate-to-votes": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Puma Shen’s debut in Taipei mayoral election creates more than waves. But can it translate to votes? | The Straits Times"
+  },
+  "https://www.asiaone.com/asia/former-taiwan-president-tsai-tells-us-audience-sustained-chinese-pressure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Former Taiwan President Tsai tells US audience of 'sustained' Chinese pressure, Asia News - AsiaOne"
+  },
+  "https://www.techradar.com/pro/eroaming-esim-review": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "eRoaming eSIM review | TechRadar"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/08/japan-tells-china-to-show-respect-in-addressing-pm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Japan tells China to show ‘respect’ in addressing PM | FMT"
+  },
+  "https://www.pakistantoday.com.pk/2026/10/08/china-firmly-opposes-us-arms-sales-to-chinas-taiwan-region-spokesperson": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China firmly opposes US arms sales to China's Taiwan region - Pakistan Today"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5600421": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 EU lawmakers reject China’s pressure on Taiwan - 焦點 - 自由時報電子報"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/10/08/former-taiwan-president-tsai-tells-us-audience-of-sustained-chinese-pressure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Former Taiwan President Tsai tells US audience of ‘sustained’ Chinese pressure - Internazionale"
+  },
+  "https://news.mail.ru/politics/72646681/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Требования делегации КНР на саммите в США: отдых Си Цзиньпина, отказ от рабочего обеда, перерывы - Новости Mail"
+  },
+  "http://www.zerohedge.com/technology/youve-got-mail-china-got-its-hands-f-35-stealth-parts-because-ups-worker-missed-email": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "\"You've Got Mail\": China Got Its Hands On F-35 Stealth Parts Because A UPS Worker Missed An Email<!-- --> | ZeroHedge"
+  },
+  "https://www.asiaone.com/asia/taiwans-us-envoy-says-ties-robust-after-trump-xi-summit": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan's US envoy says ties robust after Trump-Xi summit, Asia News - AsiaOne"
+  },
+  "http://www.jpost.com/international/article-911014": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Chinese militia seen off east coast of Taiwan | The Jerusalem Post"
+  },
+  "https://timesofindia.indiatimes.com/world/china/from-fishing-nets-to-grey-zone-tactics-chinese-militia-boat-enter-taiwans-sensitive-east-coast-report/articleshow/134784370.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "From fishing nets to grey-zone tactics: Chinese militia boat enter Taiwanâs sensitive east coast - report - The Times of India"
+  },
+  "https://focustaiwan.tw/politics/202610080005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan cooperation key to Indo-Pacific stability: Ex-President Tsai - Focus Taiwan"
+  },
+  "https://www.rtp.pt/noticias/mundo/ex-lider-de-taiwan-denuncia-nos-estados-unidos-crescente-pressao-chinesa_n1770207": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Ex-líder de Taiwan denuncia nos Estados Unidos crescente pressão chinesa"
+  },
+  "https://focustaiwan.tw:443/politics/202610080005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan cooperation key to Indo-Pacific stability: Ex-President Tsai - Focus Taiwan"
+  },
+  "https://nypost.com/2026/10/07/us-news/california-real-estate-agent-accused-of-spying-for-china-allegedly-had-secret-crypto-account/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "California real estate agent accused of spying for China allegedly had secret crypto account"
+  },
+  "https://www.digitimes.com/news/a20261008PD212/taiwan-market-government-equipment-supply-chain.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan bans imports of China-made fiberglass silicone sleeves"
+  },
+  "https://focustaiwan.tw/politics/202610080019": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "MAC slams Beijing over threats tied to Kevin Tsai's campaign appearance - Focus Taiwan"
+  },
+  "https://telegrafi.com/per-here-te-pare-zbulohet-nje-anije-e-milicise-detare-kineze-prane-bregdetit-lindor-te-tajvanit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Për herë të parë zbulohet një anije e milicisë detare kineze pranë bregdetit lindor të Tajvanit - Telegrafi"
+  },
+  "https://www.tivi.fi/uutiset/a/4898cd8d-6908-4971-9ee5-e1249d840a93": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Toimitusjohtajaa uhkaa 20 vuoden linnatuomio â SyyttÃ¤jien mukaan rahtasi 300 miljoonan edestÃ¤ Nvidian palvelimia Kiinaan | Tivi"
+  },
+  "https://maritime-executive.com/article/taiwan-plans-to-invest-4-4b-in-alaska-lng-subject-to-negotiations": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan Plans to Invest $4.4B in Alaska LNG, Subject to Negotiations"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/09/2003865664": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Lai urges US to shift toward joint arms research, production - Taipei Times"
+  },
+  "https://www.cosmopolitan.com/uk/beauty-hair/makeup/a74051707/best-autumn-lipstick-for-skin-tone/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "The 9 best lipstick colours for every skin tone that work for autumn and winter, according to a makeup artist"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/10/09/2003865648": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "The folk artistry and architecture of dreams - Taipei Times"
+  },
+  "https://www.ibtimes.com/china-escalates-taiwan-threat-militia-boat-spotted-off-islands-east-coast-first-time-3808376": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China Escalates Taiwan Threat: Militia Boat Spotted Off Island's East Coast for First Time | IBTimes"
+  },
+  "https://www.hankookilbo.com/news/article/A2026110713470001396": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "FT \"美, 젠슨 황 '중국 스파이 의심' 여성과 연인 관계 판단\"-국제ㅣ한국일보"
+  },
+  "https://www.hellenicshippingnews.com/descartes-releases-october-global-shipping-report-u-s-container-imports-reach-highest-september-volume-on-record/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Descartes Releases October Global Shipping Report: U.S. Container Imports Reach Highest September Volume on Record | Hellenic Shipping News Worldwide"
+  },
+  "https://www.voanews.com/a/chinese-military-facility-in-laos-raises-questions-about-beijings-indo-pacific-reach/8209292.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Chinese military facility in Laos raises questions about Beijing’s Indo-Pacific reach"
+  },
+  "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Microsoft's new Surface Laptop Ultra finally has a starting price (you should sit down) - ZDNET"
+  },
+  "https://www.ocregister.com/2026/10/08/two-mayors-one-citys-future-tustin-picks-its-next-leader/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Two mayors, one city’s future: Tustin picks its next leader – Orange County Register"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/08/2003865623": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "Envoy says Taiwan-US ties robust after Trump-Xi summit - Taipei Times"
+  },
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-says-exports-hit-record-in-september-on-ai-demand/articleshow/134785874.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan says exports hit record in September on AI demand - The Economic Times"
+  },
+  "https://www.naturalnews.com/2026-10-08-how-beijing-weaponizes-confusion-to-erode-democracy-without-firing-a-shot.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Chinaâs âgray zoneâ assault on Taiwan: How Beijing weaponizes confusion to erode democracy without firing a shot   â NaturalNews.com"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5600423": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》 Lai urges US to shift toward joint arms research, production - 焦點 - 自由時報電子報"
+  },
+  "https://www.standardmedia.co.ke/asia/article/2001559687/taiwan-says-exports-hit-record-in-september-on-ai-demand": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan says exports hit record in September on AI demand  - The Standard"
+  }
+ }
+}

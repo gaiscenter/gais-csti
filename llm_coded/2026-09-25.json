@@ -1,0 +1,972 @@
+{
+ "date": "2026-09-25",
+ "generated_at": "2026-11-12T10:14:04",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 142,
+ "n_articles": 127,
+ "n_no_text": 15,
+ "n_coded": 121,
+ "n_relevant": 20,
+ "complete": false,
+ "n_missing": 6,
+ "missing": [
+  "https://www.zerohedge.com/geopolitical/xi-presses-trump-taiwan-policy-shift-14-billion-weapons-deal-hangs-limbo",
+  "http://www.jpost.com/international/article-909681",
+  "https://www.rnz.co.nz/news/world/1576751/taiwan-cries-foul-after-xi-presses-trump-to-change-stance-on-island",
+  "https://g1.globo.com/mundo/noticia/2026/09/25/taiwan-acusa-xi-distorcer-fatos-encontro-trump-china-perturba-paz-estabilidade.ghtml",
+  "https://www.jpost.com/international/article-909681",
+  "https://zn.ua/ukr/POLITICS/perehovori-trampa-z-si-zavershilisja-bez-prorivu-u-kljuchovikh-pitannjakh-reuters.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.wvtm13.com/article/trump-lavishes-china-xi-state-visit-what-summit-accomplish/73882735": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump lavishes China's Xi. What did the summit accomplish? - WVTM"
+  },
+  "https://www.nbcconnecticut.com/news/national-international/trump-xi-china-white-house-visit/3778316/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump hails ‘truly great friendship’ with China’s Xi Jinping – NBC Connecticut"
+  },
+  "https://www.dw.com/mk/tramp-i-si-vo-vasington-poracaa-deka-sad-i-kina-imaat-dobri-odnosi-i-pokraj-brojnite-sporovi/a-79422771": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Трамп и Ши во Вашингтон: блискост и покрај спорните теми"
+  },
+  "https://lestimes.com/?p=91661": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China reaffirms commitment to Lesotho ties - Lesotho Times"
+  },
+  "https://www.thehindubusinessline.com/news/world/trump-xi-summit-china-presses-for-changes-on-taiwan-and-trade/article71510305.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi seeks gains on Taiwan and trade as US-China ties enter new phase - The HinduBusinessLine"
+  },
+  "https://www.bankingnews.gr/diethni/articles/901480/the-king-is-naked-trump-loses-control-of-the-international-stage%20title=": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "\"The King is naked\" – Trump loses control of the international stage"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/25/taiwan-cries-foul-after-xi-presses-trump-to-change-stance-on-island": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Taiwan cries foul after Xi presses Trump to change stance on island | The Star"
+  },
+  "https://bdnews24.com/world/03q6edcyg8": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What is 'Taiwan independence' and what does that mean for Trump and Xi?"
+  },
+  "https://tribune.com.pk/story/2631394/trump-xi-wrap-up-summit-with-tea-and-tour-of-us-archives": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi wrap up summit with tea and tour of US archives"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/09/26/2003864911": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Donovan’s Deep Dives: The Changhua race gets stranger: Wang, Cheng and the mystery of Wei - Taipei Times"
+  },
+  "https://www.business-standard.com/world-news/xi-jinping-pushes-trump-to-oppose-taiwan-independence-in-rare-call-126092500120_1.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Xi Jinping pushes Trump to 'oppose' Taiwan independence in rare call | World News - Business Standard"
+  },
+  "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump-Xi summit: Four key takeaways from the Washington, DC, meeting | Donald Trump News | Al Jazeera"
+  },
+  "https://ksevradio.com/explainer-what-is-taiwan-independence-and-is-taiwan-already-independent/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Explainer-What is ‘Taiwan independence’ and is Taiwan already independent? - KSEV Radio 700"
+  },
+  "https://www.dailymail.com/news/article-16159585/Xi-Jinping-Trump-Joe-Biden-autopen-China-US.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Moment China's President Xi bursts into laughter as Trump shows him mocking 'autopen' portrait of Biden | Daily Mail Online"
+  },
+  "https://www.naftemporiki.gr/kosmos/2166480/tramp-si-poly-kokkino-chali-ligi-oysia-ta-5-minymata-tis-megalis-synantisis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Τραμπ - Σι: Πολύ κόκκινο χαλί, λίγη ουσία - Τα 5 μηνύματα της μεγάλης συνάντησης"
+  },
+  "https://www.laestrella.com.pa/mundo/trump-y-xi-bajan-la-tension-y-buscan-un-nuevo-equilibrio-entre-estados-unidos-y-china-NJ25970379": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump y Xi bajan la tensiÃ³n y buscan un nuevo equilibrio entre Estados Unidos y China"
+  },
+  "https://www.rte.ie/news/world/2026/0925/1592914-taiwan-xi-comments/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan denounces Xi's comments to Trump in Washington"
+  },
+  "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi Jinping got the red carpet treatment from Trump - but not everything he wanted - BBC News"
+  },
+  "https://www.hani.co.kr/arti/international/america/1279458.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "시진핑 “대만 독립 반대하라”…트럼프에게 첫 공개 요구"
+  },
+  "https://naslovi.net/2026-09-25/insajder/tramp-i-si-djinping-razgovarali-o-trgovini-i-vestackoj-inteligenciji-peking-pozvao-sad-na-oprez-zbog-tajvana/42404256": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tramp i Si Đinping razgovarali o trgovini i veštačkoj inteligenciji, Peking pozvao SAD na oprez zbog Tajvana - Naslovi.net"
+  },
+  "https://www.moneycontrol.com/world/what-is-the-thucydides-trap-why-xi-brought-an-ancient-war-warning-to-the-white-house-article-14037904.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "What is the Thucydides Trap? Why Xi brought an ancient war warning to the White House"
+  },
+  "https://defimedia.info/blog-xi-trump-discussions-view-bbc": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "[Blog] Xi-Trump discussions: A view from the BBC | Defimedia"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/25/us-democrats-criticize-lavish-trump-xi-summit-as-lacking-substance": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US Democrats criticize lavish Trump-Xi summit as lacking substance | FMT"
+  },
+  "https://www.spotlightnepal.com/2026/09/25/trump-xi-wrap-summit-washington/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi wrap up summit in Washington | New Spotlight Magazine"
+  },
+  "https://www.diariolibre.com/mundo/estados-unidos/2026/09/24/xi-a-trump-una-relacion-sin-conflicto-en-fastuosa-visita-a-eeuu/3669293": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi a Trump: una relación \"sin conflicto\" en fastuosa visita a EE.UU. - Diario Libre"
+  },
+  "https://pajhwok.com/2026/09/25/trump-xi-meeting-trade-truce-extended-key-differences-remain/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump-Xi meeting: Trade truce extended, key differences remain – Pajhwok Afghan News"
+  },
+  "https://www.theguardian.com/us-news/2026/sep/25/key-takeaways-trump-xi-summit-whitehouse-china-ai-trade": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Diplomacy or ‘diplotainment’? Key takeaways from the Trump-Xi summit in Washington | Donald Trump | The Guardian"
+  },
+  "https://www.kotaradio.com/2026/09/25/trump-and-xi-extend-trade-truce-as-taiwan-and-ai-remain-key-issues/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump and Xi Extend Trade Truce as Taiwan and AI Remain Key Issues | NEWS RADIO KOTA-AM 1380AM/100.7FM"
+  },
+  "https://rg.ru/2026/09/25/tramp-i-si-dogovorilis-prodolzhit-dialog-no-ne-sniali-glavnye-raznoglasiia.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Как прошла встреча Трампа и Си Цзиньпина в Белом доме. Обзор \"РГ\" - Российская газета"
+  },
+  "https://www.dw.com/bs/xi-i-trump-u-javnosti-o-tajvanu-ni-rije%C4%8Di/a-79427133": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi i Trump: u javnosti o Tajvanu ni riječi"
+  },
+  "https://thediplomat.com/2026/09/trump-xi-summit-heavy-of-vibes-light-on-substance/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump-Xi Summit: Heavy of Vibes, Light on Substance – The Diplomat"
+  },
+  "https://www.etoday.co.kr/news/view/2629350": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "트럼프·시진핑, 무역휴전 연장…AI·대만 놓고는 신경전 [미·중정상회담] - 이투데이"
+  },
+  "https://www.africanews.com/2026/09/24/trade-truce-taiwan-and-iran-top-trump-xi-agenda-in-washington/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trade truce, Taiwan and Iran top Trump-Xi agenda in Washington | Africanews"
+  },
+  "https://asianews.network/semiconductor-sector-poised-to-take-off-in-india-more-singapore-firms-show-interest/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "‘Semiconductor sector poised to take off in India’: More Singapore firms show interest – Asia News Network"
+  },
+  "https://aninews.in/news/world/us/xi-jinping-urges-us-to-oppose-8216taiwan-independence8217-calls-for-china-us-ai-cooperation-during-talks-with-trump20260925093351/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi Jinping urges US to oppose &#8216;Taiwan Independence&#8217;, calls for China-US AI Cooperation during talks with Trump"
+  },
+  "https://www.globaltimes.cn/page/202609/1371323.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi-Trump summit brings bilateral ties to a new historical starting point - Global Times"
+  },
+  "https://www.arkansasonline.com/news/2026/sep/25/trump-xi-hold-talks-amid-high-tensions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Trump, Xi hold talks amid high tensions | The Arkansas Democrat-Gazette - Arkansas' Best News Source"
+  },
+  "https://www.lessentiel.lu/fr/story/visite-d-etat-xi-jinping-plaide-la-coexistence-pacifique-face-a-trump-103638592": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Visite d'État: Xi Jinping plaide la coexistence pacifique face à Trump - L'essentiel"
+  },
+  "http://www.econotimes.com/What-Taiwan-Independence-Means-as-Xi-Presses-Trump-on-US-Policy-1753051": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "What ‘Taiwan Independence’ Means as Xi Presses Trump on US Policy | EconoTimes"
+  },
+  "https://crhoy.com:443/mundo/xi-jinping-pide-a-trump-una-relacion-sin-conflicto-en-vistosa-gira-por-ee-uu/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi Jinping pide a Trump una relación “sin conflicto” en vistosa gira por EE. UU. | CR Hoy"
+  },
+  "https://www.moneycontrol.com/world/trump-xi-summit-trade-truce-taiwan-ai-and-iran-among-10-key-takeaways-article-14037908.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump-Xi summit: Trade truce, Taiwan, AI and Iran among 10 key takeaways"
+  },
+  "https://www.otempo.com.br/mundo/2026/9/25/trump-e-xi-jinping-discutem-taiwan-ia-e-tregua-comercial": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Trump e Xi Jinping discutem Taiwan, IA e trégua comercial"
+  },
+  "https://www.dw.com/sr/susret-si-%C4%91inpinga-i-donalda-trampa-u-va%C5%A1ingtonu-protekao-je-uz-poruke-prijateljstva-ali-je-pitanje-tajvana-ostalo-klju%C4%8Dno-sporno-pitanje/a-79424207": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Si Đinping i Donald Tramp izbegli temu Tajvana"
+  },
+  "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump praises US-China friendship at state dinner with Xi Jinping | Donald Trump News | Al Jazeera"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/peng-liyuan-a-soft-power-superweapon/articleshow/134491918.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Peng Liyuan: A Soft power superweapon - The Economic Times"
+  },
+  "https://english.news.cn/20260925/757b11a412874986b3902f80f63a9a82/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Mid-Autumn Festival brings families together across Taiwan Strait-Xinhua"
+  },
+  "http://www.bignewsnetwork.com/news/279331784/mid-autumn-festival-brings-families-together-across-taiwan-strait": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Mid-Autumn Festival brings families together across Taiwan Strait"
+  },
+  "https://musavat.com/news/abs-cin-dostlugu-ile-bagli-ilginc-proqnoz_1291698.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "ABŞ-Çin dostluğu ilə bağlı İLGİNC PROQNOZ"
+  },
+  "https://www.clarin.com/mundo/donald-trump-reunio-gigantes-inteligencia-artificial-xi-jinping-casa-blanca_0_5njMyCe49W.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Donald Trump reunió a los gigantes de la inteligencia artificial con Xi Jinping en la Casa Blanca"
+  },
+  "http://www.koreatimes.com/article/20260924/1631259": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "[미중정상회담] ‘충돌 경고’ 4개월만에 ‘대만독립 반대’ 요구한 시진핑"
+  },
+  "https://english.elpais.com/international/2026-09-25/trumps-state-dinner-and-a-bald-eagle-to-honor-xi-jinping.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Trump’s state dinner (and a bald eagle) to honor Xi Jinping  | International | EL PAÍS English"
+  },
+  "https://www.thehindu.com/news/international/trump-xi-wrap-up-summit-with-tea-and-tour-of-us-archives/article71510159.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi wrap up summit with tea and tour of U.S. archives - The Hindu"
+  },
+  "https://www.news247.gr/kosmos/apo-ton-si-mexri-to-iran-oi-kriseis-pou-dokimazoun-tin-isxi-tou-trab/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Από τον Σι μέχρι το Ιράν: Οι κρίσεις που δοκιμάζουν την ισχύ του Τραμπ"
+  },
+  "https://www.asiaone.com:443/asia/taiwan-denounces-xis-comments-trump-distortion-facts": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan denounces Xi's comments to Trump as 'distortion of facts', Asia News - AsiaOne"
+  },
+  "http://www.jpost.com/international/article-909676": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Is Taiwan already independent from China, what is the US position on it? | The Jerusalem Post"
+  },
+  "https://whbl.com/2026/09/25/taiwan-denounces-xis-comments-to-trump-as-distortion-of-facts/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan cries foul after Xi presses Trump to change stance on island | 1330 & 101.5 WHBL"
+  },
+  "https://www.dw.com/ro/xi-la-trump-nicio-declara%C8%9Bie-public%C4%83-despre-taiwan/a-79424668": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nimic despre Taiwan la întâlnirea Trump-Xi la Casa Albă"
+  },
+  "https://www.dw.com/en/pakistans-sharif-rails-against-india-praises-trump-at-unga/live-79366211": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Germany's FM Wadephul meets Lavrov on UNGA sidelines"
+  },
+  "https://nbcmontana.com/news/nation-world/expert-says-us-china-dialogue-on-ai-risks-is-still-in-early-stages-summit-president-donald-trump-xi-jinping-taiwan-iran-rare-earth": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "Expert says US-China dialogue on AI risks is still in early stages"
+  },
+  "http://www.newstomato.com/ReadNews.aspx?no=1314746": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "미·중 정상회담 종료…트럼프 \"좋은 회담했다\""
+  },
+  "https://focustaiwan.tw:443/politics/202609250003": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump, Xi mum when asked if Taiwan discussed in White House talks - Focus Taiwan"
+  },
+  "https://foreignpolicy.com/2026/09/24/trump-xi-white-house-ai-trade-tariffs-taiwan-critical-minerals/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi Hold White House Talks on AI, Trade, Taiwan"
+  },
+  "https://www.the-star.co.ke/news/world/2026-09-25-trump-and-xi-exchange-warm-words-at-state-dinner-but-little-progress-on-key-issues": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues"
+  },
+  "https://morningstaronline.co.uk/article/china-president-xi-jinping-washington-state-visit-trump": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s President Xi Jinping arrives in Washington for state visit | Morning Star"
+  },
+  "https://www.athensvoice.gr/epikairotita/diethni/987643/apo-ton-si-mehri-to-iran-pou-sunada-ta-oria-tis-i-politiki-trab/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Από τον Σι μέχρι το Ιράν: Πού συναντά τα όριά της η πολιτική Τραμπ | Athens Voice"
+  },
+  "https://www.theepochtimes.com/china/xi-presses-trump-to-oppose-taiwan-independence-as-taipei-challenges-beijings-account-6094966": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi Presses Trump to Oppose Taiwan Independence, While Taipei Challenges Beijing’s Account | The Epoch Times"
+  },
+  "https://dailytrust.com/xi-trump-call-for-peace-in-white-house-state-visit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi, Trump call for peace in White House state visit – Daily Trust"
+  },
+  "https://www.pakistantoday.com.pk/2026/09/25/trump-xi-and-the-world-at-stake": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Climate makes the imbalance of power and responsibility - Pakistan Today"
+  },
+  "http://www.prnewswire.com/news-releases/taiwan-tourism-administration-kicks-off-taiwan-tourism-workshops-in-new-york-chicago-and-los-angeles-302890481.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Tourism Administration Kicks Off Taiwan Tourism Workshops in New York, Chicago and Los Angeles"
+  },
+  "https://www.thedailybeast.com/trumps-big-xi-meeting-produces-single-laughable-takeaway/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trumpâs Big Xi Meeting Produces Single Laughable Takeaway"
+  },
+  "http://www.soester-anzeiger.de/politik/xi-beendet-usa-besuch-viel-pomp-und-demonstrative-harmonie-zr-94509491.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Xi beendet USA-Besuch: Viel Pomp und demonstrative Harmonie"
+  },
+  "https://torontosun.com/news/world/key-takeaways-from-trump-xi-talks-in-the-u-s": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Key takeaways from Trump-Xi talks in the U.S. | Toronto Sun"
+  },
+  "https://960weli.iheart.com/featured/the-clay-travis-and-buck-sexton-show/content/2026-09-25-1119-the-clay-travis-and-buck-the-tudor-dixon-podcast-trumps-un-speech-iran/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The Tudor Dixon Podcast: Trump’s UN Speech, Iran, China and a Changing World with James Carafano | 960 WELI | The Clay Travis and Buck Sexton Show"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/26/2003864909": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s purges spur doubt about its military might - Taipei Times"
+  },
+  "https://www.abc.com.py/internacionales/2026/09/25/taipei-acusa-a-pekin-de-distorsionar-los-hechos-tras-la-reunion-entre-xi-y-trump-en-eeuu/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwán acusa a Pekín de “distorsionar los hechos” tras reunión entre Xi y Trump en EE.UU. - Mundo - ABC Color"
+  },
+  "https://www.channelnewsasia.com/commentary/trump-xi-summit-washington-trade-snap-insight-6410591": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Snap Insight: Though Trump-Xi summit achieves little, 2026 is a high point in US-China relations - CNA"
+  },
+  "https://vermelho.org.br/2026/09/25/china-e-eua-prorrogam-tregua-tarifaria-por-dois-meses/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China e EUA prorrogam trégua tarifária por dois meses - Vermelho"
+  },
+  "https://www.skai.gr/news/world/si-tzinpingk-ethese-ston-tramp-tous-orous-gia-apofygi-stratiotikis-sygkrousis-ipa-kinas": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Σι Τζινπίνγκ: Έθεσε στον Τραμπ τους όρους για αποφυγή στρατιωτικής σύγκρουσης ΗΠΑ-Κίνας | ΣΚΑΪ"
+  },
+  "https://wgospodarce.pl/informacje/158339-xi-chce-zajac-niepodlegly-tajwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi chce zająć niepodległy Tajwan - wGospodarce.pl"
+  },
+  "https://www.thenews.com.pk/latest/1417618-intels-14a-chips-draw-interest-from-apple-nvidia-amazon": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Intel's 14A chips draw interest from Apple, Nvidia, Amazon"
+  },
+  "https://www.shz.de/deutschland-welt/politik/artikel/zoelle-und-taiwan-so-lief-xi-jinpings-besuch-im-weissen-haus-51494898": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Zölle und Taiwan: So lief Xi Jinpings Besuch im Weißen Haus"
+  },
+  "https://www.pressian.com/pages/articles/2026092509013573591": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "美 민주당 '공산주의자'로 몰아 붙이던 트럼프, 시진핑엔 '역대급' 환영"
+  },
+  "https://www.rp.pl/dyplomacja/art45190751-donald-trump-podjal-xi-jinpinga-kolacja-w-bialym-domu-chiny-i-usa-musza-zachowywac-sie-odpowiedzialnie": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Donald Trump przyjął Xi Jinpinga w Białym Domu. Co mówili obaj przywódcy? - rp.pl"
+  },
+  "http://www.prnewswire.com/news-releases/taiwan-tourism-workshop-returns-to-chicago-after-seven-years-connecting-taiwan-with-local-travel-industry-302890550.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Tourism Workshop Returns to Chicago After Seven Years, Connecting Taiwan with Local Travel Industry"
+  },
+  "http://www.prnewswire.com/news-releases/taiwan-tourism-workshop-in-la-highlights-taiwans-247-experiences-and-100-ways-to-wonder-302890549.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Tourism Workshop in LA Highlights Taiwan's 24/7 Experiences and 100 Ways to Wonder"
+  },
+  "https://zn.ua/ukr/WORLD/tajvan-oburivsja-zaklikom-si-do-trampa-zminiti-pozitsiju-ssha-shchodo-ostrova.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Саміт Трампа з Сі Цзіньпіном - Тайвань висловив обурення словами китайського лідера – ZN.ua"
+  },
+  "http://www.econotimes.com/Tsai-Ing-wen-to-Visit-US-for-Stanford-Security-Conference-1753776": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Tsai Ing-wen to Visit US for Stanford Security Conference | EconoTimes"
+  },
+  "https://www.chinatechnews.com/2026/10/02/130209-former-taiwan-president-tsai-to-visit-us-next-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Former Taiwan president Tsai to visit US next week - ChinaTechNews.com"
+  },
+  "https://news.bg/int-politics/pet-izvoda-ot-sreshtata-na-tramp-i-si-dzinpin.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Пет извода от срещата на Тръмп и Си Дзинпин - News.bg"
+  },
+  "https://asia.nikkei.com/spotlight/trump-xi-summit/taiwan-says-xi-distorted-facts-to-trump-as-analysts-read-between-lines": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan says Xi 'distorted facts' to Trump as analysts read between lines - Nikkei Asia"
+  },
+  "https://focustaiwan.tw/politics/202610020015": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Ex-President Tsai Ing-wen to visit U.S., deliver speech at Stanford - Focus Taiwan"
+  },
+  "https://www.newspim.com/news/view/20260925000058": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "트럼프·시진핑, AI 경쟁 전면화…\"개발 자유\" vs \"인간 통제\""
+  },
+  "https://www.bbc.com/urdu/articles/cmx2zv2jxveno": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "سُرخ قالین اور مہمان نوازی: صدر شی کا استقبال تو خوب ہوا مگر وہ سب نہ ملا جو وہ چاہتے تھے - BBC News اردو"
+  },
+  "https://www.channelnewsasia.com/watch/trump-xi-summit-us-and-chinese-presidents-hold-closed-door-talks-in-washington-dc-6411071": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Trump-Xi summit: US and Chinese presidents hold closed-door talks in Washington DC - CNA"
+  },
+  "https://www.thehindubusinessline.com/news/world/taiwans-status-explained-what-china-the-us-and-taiwan-say-about-independence/article71506950.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan independence explained: China, US and Taiwan positions - The HinduBusinessLine"
+  },
+  "https://www.huffingtonpost.it/esteri/2026/09/25/news/stritolata_dallabbraccio_trump-xi_taiwan_teme_di_essere_sacrificabile-22787981/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Stritolati dall'abbraccio Trump-Xi. Taiwan teme di essere sacrificabile - HuffPost Italia"
+  },
+  "https://www.digi24.ro/stiri/externe/mapamond/xi-jinping-ii-cere-lui-donald-trump-sa-se-opuna-independentei-taiwanului-taipei-china-distorsioneaza-realitatea-3964379": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Xi Jinping îi cere lui Donald Trump să se opună independenței Taiwanului. Taipei: „China distorsionează realitatea” | Digi24"
+  },
+  "https://www.zerohedge.com/geopolitical/more-signaling-less-substance-barclays-pours-cold-water-trump-xi-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "\"More Signaling, Less Substance\": Barclays Pours Cold Water On Trump-Xi Summit<!-- --> | ZeroHedge"
+  },
+  "http://www.reporter.gr/diethnh/diethneis-eidhseis/686470-pente-vasika-symperasmata-apo-ti-synodo-tramp-si-stin-ouasigkton": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Πέντε βασικά συμπεράσματα από τη σύνοδο Τραμπ–Σι στην Ουάσιγκτον"
+  },
+  "https://ianslive.in/us-senators-flag-chinas-new-island-push--20260925053903": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "US senators flag China’s new island push"
+  },
+  "https://www.blisty.cz/art/136357-trump-si-stezuje-na-nedostatecne-televizni-pokryti-ktere-je-dusledkem-jeho-vlastniho-usili-o-zakaz-cnn.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump si stěžuje na nedostatečné televizní pokrytí, které je důsledkem jeho vlastního úsilí o zákaz CNN  | 25. 9. 2026 | Britské listy"
+  },
+  "https://www.news4jax.com/news/politics/2026/09/25/in-china-the-xi-trump-summit-is-seen-as-projecting-image-of-the-countrys-rise/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise"
+  },
+  "https://www.rts.rs/vesti/svet/6048138/od-tukididove-zamke-do-vestacke-inteligencije--sta-je-doneo-susret-trampa-i-sija.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Од Тукидидове замке до вештачке интелигенције – шта је донео сусрет Трампа и Сија | Свет | РТС"
+  },
+  "https://www.tt.com/artikel/30943053/trump-empfaengt-xi-zu-staatsbesuch-im-weissen-haus": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump empfängt Xi zu Staatsbesuch im Weißen Haus | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt.com"
+  },
+  "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial | The Guardian"
+  },
+  "https://mansheet.net/News/2202/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "قمة ترامب وشي.. صفقة بين مضيقين تفصل بينهما آلاف الأميال - جريدة مانشيت"
+  },
+  "https://focustaiwan.tw:443/politics/202609250005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Retired U.S. admiral urges Taiwan arms sales after Trump-Xi summit - Focus Taiwan"
+  },
+  "https://www.straitstimes.com/asia/east-asia/why-the-trump-xi-summit-in-washington-could-be-considered-a-win-for-beijing": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Why the Trump-Xi summit is seen as a win for Beijing | The Straits Times"
+  },
+  "https://www.jagranjosh.com/general-knowledge/xi-jinpingdonald-trump-summit-key-takeaways-from-uschina-meeting-from-trade-taiwan-more-what-it-signifies-for-india-1820012509-1": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi Summit: Trade, Taiwan, AI and Key Takeaways Explained"
+  },
+  "https://kfiz.com/foxconn-says-it-plans-to-add-700-jobs-in-mount-pleasant-by-mid-2027/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Foxconn says it plans to add 700 jobs in Mount Pleasant by mid-2027 - KFIZ News-Talk 1450 AM"
+  },
+  "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Pomp over progress in Xi’s US summit with Trump is a win for China | China | The Guardian"
+  },
+  "http://www.texasguardian.com/news/279330178/us-tech-titans-attend-trump-xi-dinner-who-wasnt-invited": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US tech titans attend Trump-Xi dinner. Who wasnt invited"
+  },
+  "https://news.telegraf.com.ua/ukr/politika/5950902-peregovori-trampa-i-si-tszinpinya-chomu-ukraina-ta-evropa-zalishilisya-za-bortom": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Зустріч Трампа та Сі Цзіньпіня не принесла тиску на Путіна з метою завершити війну, як на це сподівалась Україна - Телеграф"
+  },
+  "https://www.abc.net.au/news/2026-09-26/what-happened-when-xi-jinping-and-donald-trump-met/107185512": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "From foes to 'great friends' in a year — has China's Xi Jinping tamed Donald Trump? - ABC News"
+  },
+  "https://www.straitstimes.com/world/united-states/pandas-are-cute-but-us-needs-rare-earth-magnets-trump-xi-meet-so-far-leaves-analysts-wanting-more": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "âPandas are cute but US needs rare earth magnetsâ: Trump-Xi meet so far leaves analysts wanting more | The Straits Times"
+  },
+  "https://timesofindia.indiatimes.com/world/us/lets-race-not-wrestle-5-takeaways-as-trump-xi-navigate-trade-taiwan-and-ai/articleshow/134473480.cms": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 1,
+   "title": "'Let's race, not wrestle': 5 takeaways as Trump-Xi navigate trade, Taiwan and AI - The Times of India"
+  },
+  "https://www.sudouest.fr/international/etats-unis/visite-de-xi-jinping-aux-etats-unis-que-faut-il-retenir-du-sommet-entre-donald-trump-et-le-president-chinois-a-washington-30775740.php": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Visite de Xi Jinping aux États-Unis : que faut-il retenir du sommet entre Donald Trump et le président chinois à Washington ?"
+  },
+  "https://www.al-monitor.com/originals/2026/09/trump-xi-end-summit-tea-tour-us-archives-and-little-sign-progress": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012"
+  },
+  "https://tn.com.ar/internacional/2026/09/25/tras-una-cumbre-en-washington-sin-grandes-acuerdos-donald-trump-anticipo-otros-dos-encuentros-con-xi-jinping-antes-de-fin-de-ano/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Tras una cumbre en Washington sin grandes acuerdos, Donald Trump anticipó otros dos encuentros con Xi Jinping antes de fin de año | TN"
+  },
+  "https://dunyanews.tv/en/World/974616-trump-to-wrap-up-xi-summit-with-a-tour-of-us-archives": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump to wrap up Xi summit with a tour of US archives | Dunya News"
+  },
+  "https://economictimes.indiatimes.com/news/international/global-trends/pandas-then-pandas-now-trump-and-xi-are-well-past-nixon-era-magic/articleshow/134487848.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Pandas then, pandas now: Trump and Xi are well past Nixon-era magic - The Economic Times"
+  }
+ }
+}

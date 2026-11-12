@@ -1,0 +1,486 @@
+{
+ "date": "2026-09-27",
+ "generated_at": "2026-11-12T10:15:01",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 71,
+ "n_articles": 58,
+ "n_no_text": 13,
+ "n_coded": 54,
+ "n_relevant": 17,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://focustaiwan.tw:443/politics/202609270008",
+  "https://whbl.com/2026/09/26/us-very-much-understands-taiwans-defence-needs-taipei-official-says/",
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/27/us-very-much-understands-taiwan-s-defence-needs-taipei-official-says",
+  "https://uk.news.yahoo.com/us-very-much-understands-taiwans-024356196.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/28/2003865012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 24,
+   "title": "Four more Taiwanese are missing or have been detained in China: report - Taipei Times"
+  },
+  "https://dunyanews.tv/en/World/974880-us-very-much-understands-taiwans-defence-needs-taipei-official-say": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "US 'very much' understands Taiwan's defence needs, Taipei official says | Dunya News"
+  },
+  "https://www.padovanews.it/2026/09/26/usa-cina-jianchi-e-lopera-di-xi-per-la-persuasione-a-lungo-termine-di-trump/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Usa-Cina, ‘jianchi’ e l’opera di Xi per la persuasione a lungo termine di Trump – Padovanews"
+  },
+  "http://bworldonline.com/world/2026/09/27/782140/us-very-much-understands-taiwans-defense-needs-taipei-official-says/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US ‘very much’ understands Taiwan’s defense needs, Taipei official says - BusinessWorld Online"
+  },
+  "https://www.chinatechnews.com/2026/09/27/129879-from-new-delhi-to-washington-the-new-geometry-of-global-power": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "From New Delhi to Washington: The new geometry of global power - ChinaTechNews.com"
+  },
+  "https://www.fnnews.com/news/202609270959204082": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "트럼프가 \"中은 옛 동맹\" 꺼내자..다카이치 \"신뢰하는 동맹은 日·美\" - 파이낸셜뉴스"
+  },
+  "http://www.newstomato.com/ReadNews.aspx?no=1314809": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "빅딜은 없었다…대만부터 희토류까지 '평행선'"
+  },
+  "https://www.thedailybeast.com/this-is-how-idiot-trump-is-being-played-by-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "This Is How Idiot Trump Is Being Played by China"
+  },
+  "https://www.tdg.ch/neutralite-la-suisse-choisit-la-flexibilite-pas-la-rigidite-592705869236": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "NeutralitÃ©: la Suisse choisit la flexibilitÃ©, pas la rigiditÃ©"
+  },
+  "https://larazon.pe/por-lin-chia-lung-frente-a-los-riesgos-que-plantea-china-taiwan-es-un-socio-para-preservar-la-paz-y-fortalecer-la-resiliencia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Por Lin Chia-lung / Frente a los riesgos que plantea China, Taiwán es un socio para preservar la paz y fortalecer la resiliencia - La Razón"
+  },
+  "https://podrobnosti.ua/2520707-tramp-zasipav-s-komplmentami-ale-provaliv-peregovori-scho-prihovu-pompeznij-samt.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Помпезний саміт Трампа і Сі: чим насправді завершилися переговори | podrobnosti.ua"
+  },
+  "https://www.theepochtimes.com/china/us-says-taiwan-policy-unchanged-after-xi-visit-6095693": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US Says Taiwan Policy Unchanged After Xi Visit | The Epoch Times"
+  },
+  "https://www.livemint.com/politics/us-policy-on-taiwan-is-unchanged-after-xi-s-visit-perdue-says-11790539281898.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US Policy on Taiwan Is Unchanged After Xi’s Visit, Perdue Says | Mint"
+  },
+  "http://inews24.com/view/2009245": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "美, 시진핑 '대만 독립 반대' 요구에도 기존 정책 유지"
+  },
+  "https://www.interfax.ru/world/1118781": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Посол США в КНР рассказал о предложении Трампа Си Цзиньпину покупать американское оружие"
+  },
+  "https://www.chicagotribune.com/2026/09/26/trump-xi-summit-yields-coal-pledge/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi summit yields coal pledge as tariff talks extend"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/28/2003865009": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Trump-Xi meeting: Xi made little progress in summit: official - Taipei Times"
+  },
+  "https://www.24heures.ch/neutralite-la-suisse-choisit-la-flexibilite-pas-la-rigidite-592705869236": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "NeutralitÃ©: la Suisse choisit la flexibilitÃ©, pas la rigiditÃ©"
+  },
+  "https://fakti.bg/world/1084048-eksperti-sreshtata-trampsi-celi-da-darji-naprejenieto-okolo-taivan-pod-kontrol": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Експерти: Срещата Тръмп–Си цели да държи напрежението около Тайван под контрол ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.cbsnews.com/news/alexander-yui-taiwan-representative-face-the-nation-transcript-09-27-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Transcript: Alexander Yui, Taiwan's representative to the U.S., on \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026 - CBS News"
+  },
+  "https://www.abc.com.py/internacionales/2026/09/27/taiwan-defiende-que-avanzar-en-la-venta-de-armas-es-de-interes-vital-para-estados-unidos/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán defiende que avanzar en la venta de armas es de \"interés vital\" para Estados Unidos - Mundo - ABC Color"
+  },
+  "https://ipc.digital/O-Jap%C3%A3o-e-os-Estados-Unidos-s%C3%A3o-aliados-confi%C3%A1veis--mantendo-la%C3%A7os-fortes-desde-o-fim-da-Segunda-Guerra-Mundial.---Takaichi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Japão e Estados Unidos são aliados confiáveis ​​com fortes laços desde a Segunda Guerra Mundial (Takaichi) - IPC Digital"
+  },
+  "https://www.westhawaiitoday.com/2026/09/27/nation-world-news/at-summit-xi-sought-to-tilt-trumps-stance-on-americas-place-in-asia/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "At summit, Xi sought to tilt Trump’s stance on America’s place in Asia | West Hawaii Today"
+  },
+  "https://focustaiwan.tw/politics/202609270003": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Foreign minister departs for Belize, Guatemala with business delegation - Focus Taiwan"
+  },
+  "https://www.naftemporiki.gr/kosmos/2167222/i-pagida-toy-thoykydidi-mporoyn-pragmati-na-tin-apofygoyn-ipa-kai-kina/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Η παγίδα του Θουκυδίδη: Μπορούν πράγματι να την αποφύγουν ΗΠΑ και Κίνα;"
+  },
+  "https://news.bg/int-politics/tayvan-dovolen-che-sasht-razbirat-mnogo-dobre-nuzhdite-mu-ot-otbrana.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Тайван доволен, че САЩ разбират \"много добре\" нуждите му от отбрана - News.bg"
+  },
+  "https://fakti.bg/world/1084055-taivan-prizova-za-po-tasno-satrudnichestvo-s-aponia-v-poluprovodnicite-i-izkustvenia-intelekt": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Тайван призова за по-тясно сътрудничество с Япония в полупроводниците и изкуствения интелект ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.fnnews.com/news/202609271132069257": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "'대만 구매' F-16V 이달 도착하나…미중회담 영향 가늠자 - 파이낸셜뉴스"
+  },
+  "https://www.lanacion.com.ar/conversaciones-de-domingo/andrea-oelsner-la-onu-no-es-un-club-de-democracias-su-espiritu-no-es-el-espiritu-de-las-democracias-nid27092026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Andrea Oelsner: “La ONU no es un club de democracias; su espíritu no es el espíritu de las democracias liberales” - LA NACION"
+  },
+  "https://www.elnortedecastilla.es/opinion/javier-fernandez-arribas-reparten-mundo-20260926000705-ntrc.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Javier Fernández Arribas: Se reparten el mundo | El Norte de Castilla"
+  },
+  "https://fakti.bg/world/1084049-taivan-obvini-pekin-v-izopachavane-na-faktite-sled-sreshtata-trampsi": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Тайван обвини Пекин в изопачаване на фактите след срещата Тръмп–Си ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.fnnews.com/news/202609270620139102": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"트럼프-시진핑, 올해 두 번 더 만난다\" - 파이낸셜뉴스"
+  },
+  "https://life.ru/p/tramp-predlagal-si-tszinpinu-zakupit-amerikanskoe-oruzhie": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Трамп предлагал Си Цзиньпину закупить американское оружие"
+  },
+  "https://www.latimes.com/california/story/2026-09-27/wrightwood-fights-century-long-mine-it-never-saw-coming": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Wrightwood residents fight a quarry they never saw coming - Los Angeles Times"
+  },
+  "https://dailycaller.com/2026/09/27/mike-waltz-defends-donald-trump-administration-stalled-arms-deal-taiwan-china-xi-jinping-cnn-state-union-jake-tapper/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Trump’s UN Rep Mike Waltz Spotlights Taiwan Arms Sale Following China State Visit | \r\n\t\tThe Daily Caller"
+  },
+  "https://nypost.com/2026/09/27/us-news/trump-asked-chinas-xi-jinping-if-hed-like-to-buy-american-weapons-us-ambassador-reveals/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump asked China's Xi Jinping if he'd 'like to buy' American weapons, US ambassador reveals"
+  },
+  "https://www.hani.co.kr/arti/international/america/1279690.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "주중 미 대사 “트럼프, 시진핑에 ‘미국 무기 살 생각 있나’ 물어봐”"
+  },
+  "https://www.lavozdemichoacan.com.mx/economia/empresarios-japoneses-viajan-a-china-con-la-aspiracion-de-reparar-vinculos-bilaterales/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Empresarios japoneses viajan a China con la aspiración de reparar vínculos bilaterales"
+  },
+  "https://biz.heraldcorp.com/article/10885443": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "中 ‘대만독립 반대’ 압박에 美 선긋기…“트럼프, 대만 문제에 단호” - 헤럴드경제"
+  },
+  "https://www.zf.ro/business-international/intalnirea-istorica-dintre-presedintele-sua-donald-trump-secretarul-general-partidului-comunist-china-xi-jinping-adus-pacea-intre-cele-doua-superputeri-mondiale-arata-deschisa-cea-importanta-linie-23247781": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Întâlnirea istorică dintre preşedintele SUA, Donald Trump, şi secretarul general..."
+  },
+  "https://ksevradio.com/us-very-much-understands-taiwans-defence-needs-taipei-official-says/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "US ‘very much’ understands Taiwan’s defence needs, Taipei official says - KSEV Radio 700"
+  },
+  "https://www.sott.net/article/508616-The-day-after-at-the-White-House-USA-and-Xi-Jinping": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "The day-after at the White House: USA and Xi Jinping — Puppet Masters — Sott.net"
+  },
+  "https://fakti.bg/world/1084289-tramp-popital-si-dali-iska-da-kupi-amerikansko-orajie": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Тръмп попитал Си дали иска американско оръжие"
+  },
+  "https://www.businesstimes.com.sg/international/global/pandas-are-cute-us-needs-rare-earth-magnets-trump-xi-meet-so-far-leaves-analysts-wanting-more": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "'Pandas are cute but US needs rare earth magnets': Trump-Xi meet so far leaves analysts wanting more - The Business Times"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=01754806645584384&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "“中이 더 강해졌다”…트럼프 환대 속 달라진 미·중 힘의 균형"
+  },
+  "https://biz.heraldcorp.com/article/10885408": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "무역휴전 두 달 연장한 美中…11월 APEC서 협상 ‘2라운드 - 헤럴드경제"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/28/2003864991": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Guermantes Lailari On Taiwan: Taiwan’s Sweet Potato Roots of Defiance: Shattering China’s Post-Invasion Blueprint - Taipei Times"
+  },
+  "https://korrespondent.net/world/4915296-taivan-ssha-ponymauit-voennoe-davlenye-kytaia": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Тайвань: США понимают военное давление Китая - Korrespondent.net"
+  },
+  "https://www.alternet.org/trump-china-2677946176/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Biographer: Foreign dictators play Trump 'like A fiddle' exploiting weakness - Alternet.org"
+  },
+  "https://news.bigmir.net/ua/world/10438322-tajvan-ssha-rozumiyut-vijskovij-tisk-kitayu": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Тайвань: США розуміють військовий тиск Китаю- Новини bigmir)net"
+  },
+  "https://pch24.pl/wiadomosci/chiny-zakupia-amerykanska-bron-trump-zapytal-o-to-xi-jinpinga,736258": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chiny zakupią amerykańską broń? Trump zapytał o to Xi Jinpinga"
+  },
+  "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-says-us-understands-defence-needs-as-14-billion-arms-package-remains-on-hold/articleshow/134514839.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan says US understands defence needs as $14 billion arms package remains on hold - The Times of India"
+  },
+  "https://www.unian.net/world/tramp-i-si-czinpin-prezident-ssha-rasskazal-o-chem-on-besedoval-s-liderom-kitaya-13511340.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Трамп и Си Цзиньпин: президент США рассказал, о чем он беседовал с лидером Китая"
+  },
+  "https://www.dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan not openly discussed at Xi and Trump meeting"
+  }
+ }
+}

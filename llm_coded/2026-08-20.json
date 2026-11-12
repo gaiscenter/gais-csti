@@ -1,0 +1,302 @@
+{
+ "date": "2026-08-20",
+ "generated_at": "2026-11-12T10:02:56",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 43,
+ "n_articles": 38,
+ "n_no_text": 5,
+ "n_coded": 35,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://www.winnipegfreepress.com/world/2026/08/20/taiwan-proposes-a-record-35b-defense-budget-for-2027-as-chinas-military-pressure-grows",
+  "https://www.yahoo.com/news/politics/articles/taiwan-proposes-boosting-2027-defence-044841602.html",
+  "https://www.theepochtimes.com/china/taiwan-proposes-35-billion-in-defense-spending-as-drone-funding-fight-continues-6077706"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.winnipegfreepress.com/world/2026/08/20/ap-reporter-christopher-bodeen-a-tenacious-chronicler-of-chinas-rise-dies-at-55": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "AP reporter Christopher Bodeen, a tenacious chronicler of China’s rise, dies at 55 – Winnipeg Free Press"
+  },
+  "https://www.bostonherald.com/2026/08/20/taiwan-south-china-sea-darline-graham/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Why Taiwan and the South China Sea matter to the US and the world"
+  },
+  "https://economictimes.indiatimes.com/news/international/global-trends/why-taiwan-and-the-south-china-sea-are-two-sides-of-the-same-strategic-coin/articleshow/133373753.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Why Taiwan and the South China Sea are two sides of the same strategic coin - The Economic Times"
+  },
+  "https://www.winnipegfreepress.com/world/2026/08/20/why-taiwan-and-the-south-china-sea-matter-to-the-us-and-the-world": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Why Taiwan and the South China Sea matter to the US and the world – Winnipeg Free Press"
+  },
+  "https://www.channelnewsasia.com/asia/china-malaysia-anwar-ibrahim-taiwan-force-6330456": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Beijing ‘commends’ Malaysia PM Anwar’s ‘One China’ stance following Taiwan’s rebuke - CNA"
+  },
+  "http://arabic.people.com.cn/n3/2026/0820/c31664-20490441.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Ø§ÙØ¨Ø± Ø§ÙØ±Ø¦ÙØ³Ù Ø§ÙØµÙÙÙ ÙØ¯ÙÙ Ø³ÙØ·Ø§Øª ØªØ§ÙÙØ§Ù ÙØ¹Ø±ÙÙØªÙØ§ Ø§ÙØªØ¨Ø§Ø¯ÙØ§Øª Ø¨ÙÙ Ø¬Ø§ÙØ¨Ù ÙØ¶ÙÙ ØªØ§ÙÙØ§Ù"
+  },
+  "https://www.rfa.org/english/pacific/2026/08/20/china-pacific-five-year-plan-tafi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China ‘likely’ ran targeted campaign to align Pacific with its latest five-year plan – Radio Free Asia"
+  },
+  "https://www.postandcourier.com/news/trump-graham-rally-myrtle-beach-frame-charleston-sc/article_72d0956c-fe6b-43f1-8056-7de0f0950d8b.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump hosts Myrtle Beach rally; FRAME opening in Charleston"
+  },
+  "https://dailycaller.com/2026/08/20/taiwan-unveils-record-defense-budget-china-threat/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan Unveils Record Defense Budget As China Threat Grows | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Chinese soldiers filmed counting gold bars and dollar bundles dropped by drone in bizarre Taiwan-linked wartime drill | TechRadar"
+  },
+  "https://inosmi.ru/20260820/iran-279772873.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Физика власти по-новому (The New York Times, США) | 01.09.2026, ИноСМИ"
+  },
+  "https://www.koreaherald.com/article/10846880": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Gwangju Biennale denies censorship in 'Taiwan Pavilion' row - The Korea Herald"
+  },
+  "https://www.mercurynews.com/2026/08/19/darlene-graham-debate-south-carolina-senate/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lindsey Graham’s sister stumbles badly in South Carolina Senate debate – The Mercury News"
+  },
+  "https://www.hani.co.kr/arti/economy/marketing/1273776.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "중국·대만산 가성소다에 최대 38.89% 잠정 덤핑방지관세"
+  },
+  "https://www.newsday.com/news/nation/us-election-2026-darline-graham-taiwan-china-m19360": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Why Taiwan and the South China Sea matter to the US and the world - Newsday"
+  },
+  "https://www.artnews.com/art-news/news/taiwan-national-pavilion-controversy-2026-gwangju-biennale-1234795375/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan Calls Renaming of National Pavilion at Gwangju Biennale ‘Political Censorship’"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/08/20/taiwan-proposes-boosting-2027-defence-spending-18": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan proposes boosting 2027 defence spending by 18%  | FMT"
+  },
+  "https://asianews.network/china-condemns-taiwans-military-drills-cites-disruption-to-residents-lives/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China condemns Taiwan’s military drills, cites disruption to residents’ lives – Asia News Network"
+  },
+  "https://www.newser.com/story/394955/graham-says-national-security-is-not-my-thing-in-debate.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Republicans Fret After Darline Graham's Admission"
+  },
+  "https://www.interfax.ru/world/1110153": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Японист РАН: Токио \"наказывает\" Россию за Украину, но в уме держит Китай"
+  },
+  "https://www.pcmag.com/news/your-next-pc-is-about-to-cost-way-more-and-microsoft-is-secretly-to-blame": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Your Next PC Is About to Cost Way More (And Microsoft Is Secretly to Blame) | PCMag"
+  },
+  "https://www.businessinsider.com/china-victory-taiwan-single-river-tamsui-taipei-trianing-defend-2026-8": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "China's Victory on Taiwan Could Hinge on a Single River - Business Insider"
+  },
+  "https://www.therakyatpost.com/news/malaysia/2026/08/20/anwar-said-taiwan-is-part-of-china-taiwan-said-that-will-cost-malaysia-money/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Anwar Said Taiwan Is Part Of China, Taiwan Said That Will Cost Malaysia Money | TRP"
+  },
+  "https://focustaiwan.tw/politics/202608200016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "70% in Taiwan view Chinese coast guard patrols as 'ill will': MAC poll - Focus Taiwan"
+  },
+  "https://www.thenationalnews.com/opinion/comment/2026/08/20/us-pivot-to-asia-donald-trump-barack-obama-joe-biden-south-korea-japan-iran/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Donald Trump may have ended America's 'pivot to Asia', but with a twist | The National"
+  },
+  "https://www.mzamin.com/article/35231": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "প্রশংসা করলো চীন: আনোয়ার ইব্রাহিমের এক-চীন নীতির প্রতি দৃঢ় অবস্থানের ঘোষণা - MZamin"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/21/2003862878": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "70% in Taiwan view Chinese coast guard patrols as ‘ill will’: MAC poll - Taipei Times"
+  },
+  "https://www.rollingstone.com/politics/politics-news/darline-graham-bungling-senate-debate-question-1235612110/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham Tries to Defend Bungling Senate Debate Question"
+  },
+  "https://www.alternet.org/trump-judge-2677730235/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Army veteran tears apart Darline Graham as 'dangerously unqualified' - Alternet.org"
+  },
+  "https://www.skai.gr/news/world/taivan-anevazei-se-epipeda-rekor-ton-amyntiko-proypologismo-gia-to-2027-ypo-ti-skia-tis-ki": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Ταϊβάν: Ανεβάζει σε επίπεδα ρεκόρ τον αμυντικό προϋπολογισμό για το 2027 υπό τη σκιά της Κίνας | ΣΚΑΪ"
+  },
+  "https://www.nydailynews.com/2026/08/20/s-e-cupp-has-donald-trump-lost-his-golden-touch/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "S.E. Cupp: Has Donald Trump lost his golden touch?"
+  },
+  "https://lb.ua/world/2026/08/20/760286_kabinet_ministriv_tayvanyu.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Уряд Тайваню схвалив рекордні 351 млрд на оборону у 2027 році - новини LB.ua"
+  },
+  "https://www.wapt.com/article/trump-endorsed-candidates-lost-primary/73475655": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "10 Trump-backed candidates have lost this primary season - WAPT"
+  },
+  "https://www.wyff4.com/article/ralph-norman-darline-graham-debate/73480218": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Political expert reacts to debate between US Senate runoff candidates - WYFF"
+  },
+  "https://www.foxnews.com/politics/darline-grahams-embarrassing-inexcusable-national-security-stumble-spotlights-break-late-brother": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "SC Senate candidate Darline Graham slammed over Taiwan debate gaffe | Fox News"
+  }
+ }
+}

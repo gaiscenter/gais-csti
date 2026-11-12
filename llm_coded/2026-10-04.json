@@ -1,0 +1,155 @@
+{
+ "date": "2026-10-04",
+ "generated_at": "2026-11-12T10:17:50",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 19,
+ "n_articles": 16,
+ "n_no_text": 3,
+ "n_coded": 16,
+ "n_relevant": 5,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://aninews.in/news/world/us/us-senator-warns-china8217s-pressure-on-taiwan-could-threaten-global-travel20261004142656/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "US Senator warns China&#8217;s pressure on Taiwan could threaten global travel"
+  },
+  "https://inosmi.ru/20261004/tayvan-280482634.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "\"Важная веха\": Тайвань получил первые два американских истребителя F-16V нового поколения (Le Parisien, Франция) | 04.10.2026, ИноСМИ"
+  },
+  "http://bworldonline.com/opinion/2026/10/01/783678/the-one-china-principle-brooks-no-challenge/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The One-China Principle brooks no challenge - BusinessWorld Online"
+  },
+  "https://foreignpolicy.com/2026/10/02/sea-cucumbers-illicit-trade-crime-china-mexico-japan/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "How Sea Cucumbers Drive Crime From China to Mexico"
+  },
+  "https://www.larazon.es/actualidad/barco-chino-niega-abandonar-aguas-disputadas-taiwan-responde-canon-agua-b50m_202610046ac22cf6f7f8f566d14ce0e4.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua"
+  },
+  "https://magyarhirlap.hu/kulfold/20261004-a-vilag-egyik-legveszelyesebb-konfliktusa-robbanhatna-ki-tajvan-korul": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A világ egyik legveszélyesebb konfliktusa robbanhatna ki Tajvan körül | Magyar Hírlap"
+  },
+  "http://www.thailandnews.net/news/279348128/first-2-us-built-f-16s-boost-taiwan-air-force": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "First 2 US-built F-16s boost Taiwan air force"
+  },
+  "https://allafrica.com/stories/202610040087.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "East Africa: What Washington Agreed to Last Month [Somaliland] - allAfrica.com"
+  },
+  "https://www.cbsnews.com/news/chinese-agent-arrested-lax-taiwan-president-son/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "FBI arrests alleged Chinese agent at LAX after she allegedly surveilled son of Taiwanese president - CBS News"
+  },
+  "https://www.asiaone.com:443/asia/rare-police-raid-taipei-gay-bar-sparks-angry-protest": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Rare police raid of Taipei gay bar sparks angry protest, Asia News - AsiaOne"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/05/2003865424": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan tourism event in California draws praise for culture, food and safety - Taipei Times"
+  },
+  "http://bworldonline.com/technology/2026/10/02/784016/french-supercomputer-maker-bull-doubles-output-to-boost-europes-ai-ambitions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "French supercomputer maker Bull doubles output to boost Europe's AI ambitions - BusinessWorld Online"
+  },
+  "https://focustaiwan.tw/politics/202610040007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Laos air base part of China's Indian Ocean ambitions: Expert - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/05/2003865414": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 5,
+   "title": "US-China differences offer Taiwan opportunity: expert - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/politics/202610040007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Laos air base part of China's Indian Ocean ambitions: Expert - Focus Taiwan"
+  },
+  "https://www.justsecurity.org/159662/early-edition-october-5-2026/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Early Edition: October 5, 2026"
+  }
+ }
+}

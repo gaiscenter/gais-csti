@@ -1,0 +1,437 @@
+{
+ "date": "2026-09-03",
+ "generated_at": "2026-11-12T10:06:35",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 61,
+ "n_articles": 55,
+ "n_no_text": 6,
+ "n_coded": 53,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://navabharat.com/?p=561633",
+  "https://hu.euronews.com/2026/09/03/tajvan-nem-adja-olcson-a-fuggetlenseget-dronfal-epul-egy-esetleges-invazio-ellen"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/04/2003863674": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Security concerns at Taiwan Night in Palau - Taipei Times"
+  },
+  "https://www.postcourier.com.pg/australias-shameful-cocaine-habit-prompts-600m-pacific-package/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Australia’s ‘shameful’ cocaine habit prompts $600m Pacific package - Post Courier"
+  },
+  "https://www.yasstribune.com.au/story/9343557/no-china-missile-test-condemnation-from-pacific-leaders/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 64,
+   "title": "Pacific pushback but no condemnation over China missile | Yass Tribune | Yass, NSW"
+  },
+  "https://www.rnz.co.nz/news/politics_election-2026/1243565/no-change-to-taiwan-observer-status-winston-peters-says": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "No change to Taiwan observer status, Winston Peters says | RNZ"
+  },
+  "http://www.econotimes.com/Pacific-Islands-Forum-Seeks-Unified-Condemnation-of-China-Missile-Test-1751161": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Pacific Islands Forum Seeks Unified Condemnation of China Missile Test | EconoTimes"
+  },
+  "https://www.hngn.com/articles/273055/20260903/taiwans-frontline-islands-troops-train-chinese-first-strike.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "On Taiwan's Frontline Islands, Troops Train for a Chinese First Strike"
+  },
+  "https://www.yahoo.com/news/articles/chair-pacific-leaders-meeting-urges-021802639.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Beijing accuses Pacific forum host Palau of 'hype' over its missile test"
+  },
+  "https://www.asiaone.com/world/chair-pacific-leaders-meeting-urges-united-front-china-missile-test": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chair of Pacific leaders meeting urges united front on China missile test, World News - AsiaOne"
+  },
+  "https://fijisun.com.fj:443/news/nation/pm-rabuka-defends-forum-absence": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "PM Rabuka defends Forum absence | Fiji Sun"
+  },
+  "https://www.asiaone.com:443/china/beijing-accuses-pacific-forum-host-palau-hype-over-its-missile-test": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Beijing accuses Pacific forum host Palau of 'hype' over its missile test, China News - AsiaOne"
+  },
+  "http://www.bruneinews.net/news/279283318/2nd-ld-writethru-china-focus-typhoon-saudel-makes-third-landfall-along-east-china-coast": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "2nd LD-Writethru-China Focus: Typhoon Saudel makes third landfall along east China coast"
+  },
+  "https://www.newstalkzb.co.nz/news/politics/taiwan-says-it-wants-to-come-to-auckland-summit-creating-a-big-headache-for-christopher-luxon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan says it wants to come to Auckland summit, creating a big headache for Christopher Luxon"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/04/2003863669": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "MAC approves China travel for APEC - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202609030019": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Amnesty Taiwan slams China over questioning of former worker - Focus Taiwan"
+  },
+  "https://www.abc.net.au/news/2026-09-04/pacific-leaders-criticise-china-missile-test/107114182": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Pacific leaders 'push back' on China's conduct with 'unifying' criticism of ballistic missile test - ABC News"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5562508": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 Palau urges ‘unified’ China response - 焦點 - 自由時報電子報"
+  },
+  "https://www.examiner.com.au/story/9343557/no-china-missile-test-condemnation-from-pacific-leaders/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Pacific pushback but no condemnation over China missile | The Examiner | Launceston, TAS"
+  },
+  "https://observer.com/2026/09/why-elon-musk-is-giving-zelenskyy-the-silent-treatment-over-ukraines-starlink-plea/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Why Elon Musk Is Silent on Zelenskyy’s Starlink Plea for Ukraine | Observer"
+  },
+  "https://www.wnp.pl/bezpieczenstwo/ogromne-napiecie-i-ruchy-wojsk-tutaj-zacznie-sie-iii-wojna-swiatowa,1093074.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Ogromne napięcie i ruchy wojsk. Tutaj zacznie się III wojna światowa"
+  },
+  "https://3dnews.ru/1147905/kitay-pilesosit-tayvan-v-poiskah-ingenerov-v-hod-idut-ogromnie-zarplati-i-maskirovka-pod-kompanii-iz-ssha": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Китай «пылесосит» Тайвань в поисках инженеров — в ход идут огромные зарплаты и маскировка под компании из США"
+  },
+  "https://www.samoanews.com/regional/leaders-missing-and-china-furious-pacific-islands-forum-decidedly-shaky-start": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Leaders missing and China ‘furious’: the Pacific Islands Forum off to a decidedly shaky start | American Samoa | Samoa News"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/04/2003863655": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Palau urges ‘unified’ China response - Taipei Times"
+  },
+  "http://www.econotimes.com/Australia-US-Move-to-Expand-Defence-Ties-in-Indo-Pacific-1751157": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Australia, US Move to Expand Defence Ties in Indo-Pacific | EconoTimes"
+  },
+  "https://www.washingtonexaminer.com/in_focus/4703299/rearm-military-needs-more-than-money/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "To rearm, the military needs much more than money"
+  },
+  "https://timesofindia.indiatimes.com/india/chinas-grey-zone-game-why-india-must-prepare-for-armed-coexistence/articleshow/133733358.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chinaâs grey-zone game: Why India must prepare for âarmed coexistenceâ | India News - The Times of India"
+  },
+  "https://organiser.org/2026/09/03/378619/world/annexing-taiwan-china-revises-defence-law-to-seize-assets-tech-tightens-exit-entry-rules/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Annexing Taiwan? China revises defence law to seize assets"
+  },
+  "https://whbl.com/2026/09/02/australia-us-to-boost-defence-ties-as-chinas-pacific-influence-grows/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Australia, US to boost defence ties as China’s Pacific influence grows | 1330 & 101.5 WHBL"
+  },
+  "https://www.onlinekhabar.com/2026/09/2009931/why-did-the-malaysian-prime-ministers-statement-on-taiwan-become-controversial": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "à¤à¤¿à¤¨ à¤µà¤¿à¤µà¤¾à¤¦à¤®à¤¾ à¤ªà¤°à¥âà¤¯à¥ à¤®à¤²à¥à¤¸à¤¿à¤¯à¤¾à¤à¤¾ à¤ªà¥à¤°à¤§à¤¾à¤¨à¤®à¤¨à¥à¤¤à¥à¤°à¥à¤²à¥ à¤¤à¤¾à¤à¤µà¤¾à¤¨ à¤µà¤¿à¤·à¤¯à¤®à¤¾ à¤¦à¤¿à¤à¤à¥ à¤à¤­à¤¿à¤µà¥à¤¯à¤à¥à¤¤à¤¿ ? – Online Khabar"
+  },
+  "http://en.people.cn/n3/2026/0903/c90000-20495864.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China firmly opposes wrong Taiwan-related practices at South Korean art exhibition, and curatorial team announces withdrawal: embassy - People's Daily Online"
+  },
+  "https://www.artasiapacific.com/news/china-withdraws-from-gwangju-biennale-over-taiwan-designation/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China Withdraws from Gwangju Biennale over Taiwan Designation"
+  },
+  "https://www.koreatimes.co.kr/foreignaffairs/20260903/china-to-withdraw-from-gwangju-biennale-in-protest-of-taiwan-pavilion": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "[EXCLUSIVE] China to withdraw from Gwangju Biennale in protest of Taiwan Pavilion - The Korea Times"
+  },
+  "https://aninews.in/news/world/asia/china-tightens-border-rules-as-taiwan-warns-travellers-of-rising-risks20260903174340/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China tightens border rules as Taiwan warns travellers of rising risks"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/03/chair-of-pacific-leaders-meeting-urges-united-front-on-china-missile-test": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chair of Pacific leaders meeting urges united front on China missile test | FMT"
+  },
+  "https://www.theepochtimes.com/china/beijings-suppression-network-puts-taiwanese-travelers-at-risk-globally-analysts-6082901": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Beijing’s Suppression Network Puts Taiwanese Travelers at Risk Globally: Analysts | The Epoch Times"
+  },
+  "https://www.theepochtimes.com/world/pacific-leaders-call-for-24-hour-notice-of-missile-tests-after-china-launch-6083092": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Pacific Leaders Call for 24-Hour Notice of Missile Tests After China Launch | The Epoch Times"
+  },
+  "https://focustaiwan.tw/politics/202609030014": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Taiwan closely monitoring Chinese coast guard vessels in overlapping EEZs - Focus Taiwan"
+  },
+  "https://www.asiaone.com/china/china-says-it-conducted-survey-waters-east-taiwan-last-month": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China says it conducted survey of waters east of Taiwan last month, China News - AsiaOne"
+  },
+  "https://economictimes.indiatimes.com/news/defence/china-says-it-conducted-survey-of-waters-east-of-taiwan-last-month/articleshow/133724986.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China says it conducted survey of waters east of Taiwan last month - The Economic Times"
+  },
+  "https://www.arkansasonline.com/news/2026/sep/03/taiwan-plans-20b-of-investment-in-us-driven-by-ai/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan plans $20B of investment in US driven by AI boom | The Arkansas Democrat-Gazette - Arkansas' Best News Source"
+  },
+  "https://www.933thedrive.com/2026/09/03/solvay-to-more-than-double-taiwan-chip-peroxide-capacity-targets-tripling-electronic-grade-business/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Solvay to more than double Taiwan chip peroxide capacity, targets tripling electronic-grade business | 93.3 The Drive"
+  },
+  "https://www.yahoo.com/news/articles/taiwan-proposes-extra-4-6-075437793.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan proposes extra $4.6 billion in defence spending for this year"
+  },
+  "https://www.prensalibre.com/ahora/internacional/china-intensifica-patrullas-maritimas-al-este-de-taiwan-pese-a-protestas-de-taipei/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China intensifica patrullas marítimas al este de Taiwán pese a protestas de Taipéi"
+  },
+  "https://aninews.in/news/world/asia/taiwan-detects-chinese-military-activity-around-its-territory20260903095213/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan detects Chinese military activity around its territory"
+  },
+  "https://www.moneycontrol.com/world/solvay-to-more-than-double-taiwan-chip-peroxide-capacity-targets-tripling-electronic-grade-business-article-14021701.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Solvay to more than double Taiwan chip peroxide capacity, targets tripling electronic-grade business"
+  },
+  "https://whbl.com/2026/09/02/chair-of-pacific-leaders-meeting-urges-united-front-on-china-missile-test/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Chair of Pacific leaders meeting urges united front on China missile test | 1330 & 101.5 WHBL"
+  },
+  "https://www.manilatimes.net/2026/09/04/world/asia-oceania/taiwan-monitors-china-coast-guard-ships-off-east-coast/2418189": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan monitors China Coast Guard ships off east coast | The Manila Times"
+  },
+  "https://www.hawaiipublicradio.org/local-news/2026-10-02/another-change-of-plans-for-honolulus-chinatown": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Another change of plans for Honolulu's Chinatown | Hawai'i Public Radio"
+  },
+  "https://en.antaranews.com/news/429749/the-pinnacle-of-clarity-agon-by-aoc-unveils-worlds-first-5k-nvidia-g-sync-pulsar-gaming-monitor": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "The Pinnacle of Clarity: AGON by AOC Unveils World's First 5K NVIDIA G-SYNC® Pulsar Gaming Monitor - ANTARA News"
+  },
+  "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US"
+  },
+  "https://www.mediafax.ro/economic/boomul-ai-muta-alte-20-de-miliarde-de-dolari-spre-sua-companiile-taiwaneze-isi-extind-investitiile-in-tehnologie-23800887": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Boomul AI mută alte 20 de miliarde de dolari spre SUA: companiile taiwaneze își extind investițiile în tehnologie"
+  },
+  "https://www.siliconrepublic.com/business/nvidia-expand-ai-capabilities-12-9bn-hugging-face-acquisition": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia to acquire Hugging Face for $12.9bn"
+  },
+  "https://www.electronicsweekly.com/news/business/google-increases-tpu-roll-out-cadence-by-4x-2026-09/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Google increases TPU roll-out cadence by 4x ⋆ Electronics Weekly"
+  },
+  "https://www.capital.ro/companiile-taiwaneze-pregatesc-investitii-de-20-de-miliarde-de-dolari-in-sua-pe-fondul-boomului-ai.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Companiile taiwaneze pregătesc investiții de 20 de miliarde de dolari în SUA, pe fondul boomului AI"
+  }
+ }
+}

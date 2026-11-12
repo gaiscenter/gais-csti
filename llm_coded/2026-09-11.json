@@ -1,0 +1,250 @@
+{
+ "date": "2026-09-11",
+ "generated_at": "2026-11-12T10:08:16",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 36,
+ "n_articles": 32,
+ "n_no_text": 4,
+ "n_coded": 29,
+ "n_relevant": 5,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://newstodaynet.com/2026/09/11/taiwan-calls-for-meaningful-participation-in-un-system/",
+  "http://arabic.news.cn/20260911/23e9202e5afd451895e1d5ce3ef049e1/c.html",
+  "https://www.dw.com/en/china-angered-by-taiwan-vps-visit-to-eu-democracy-forum/a-79226311"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/12/2003864120": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "EDITORIAL: Taiwan would not give up easily - Taipei Times"
+  },
+  "https://www.dailykos.com/stories/2026/9/11/800096888/community/9-11-america-cant-let-the-war-lies-go-down-the-memory-hole-again/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "9/11: America Can’t Let the War Lies Go Down the Memory Hole Again - Daily Kos"
+  },
+  "https://sana.sy/international/2578359/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "الصين تحتج على زيارة سياسيين من تايوان إلى إيطاليا ‏"
+  },
+  "http://www.econotimes.com/Taiwan-Flags-Russian-Film-Screening-as-China-Japan-Influence-Push-1751821": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan Flags Russian Film Screening as China-Japan Influence Push | EconoTimes"
+  },
+  "https://aninews.in/news/world/asia/japan-taiwan-must-strengthen-defences-against-growing-chinese-threat-japanese-lawmaker20260911150917/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Japan, Taiwan must strengthen defences against growing Chinese threat: Japanese lawmaker"
+  },
+  "https://aa.com.tr/en/asia-pacific/beijing-urges-italy-eu-to-honor-one-china-principle-with-real-actions-lodges-protest-over-taiwan/4054099": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Beijing urges Italy, EU to 'honor one-China principle with real actions,' lodges protest over Taiwan"
+  },
+  "https://focustaiwan.tw:443/politics/202609110013": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "low"
+   },
+   "mentions": 14,
+   "title": "NSC adviser urges caution on travel to China amid new rules - Focus Taiwan"
+  },
+  "https://focustaiwan.tw:443/politics/202609110018": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Beijing has no right to interfere in vice president's visit to Italy: MOFA - Focus Taiwan"
+  },
+  "https://www.independent.co.uk/news/world/europe/smashing-militarist-japan-russia-film-taiwan-b3048412.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Why a Russian screening of an 81-year-old film has alarmed Taiwan | The Independent"
+  },
+  "https://korrespondent.net/world/4910922-vytse-prezydent-taivania-taino-posetyla-ytalyui": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Вице-президент Тайваня тайно посетила Италию - Korrespondent.net"
+  },
+  "https://www.yahoo.com/news/world/articles/taiwans-vice-president-secretly-visits-061846257.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan's vice president secretly visits Italy"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/12/2003864148": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Russian screening of film on Japan raises questions - Taipei Times"
+  },
+  "https://www.shfanews.net/post/322923": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "الصين تحتج لدى إيطاليا والاتحاد الأوروبي بشأن زيارة سياسيين بالحزب الديمقراطي التقدمي في تايوان إلى إيطاليا - شبكة فلسطين للأنباء - شفا"
+  },
+  "https://www.pakistantoday.com.pk/2026/09/12/when-power-writes-the-rules": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "US-Venezuela Oil Deal and the New Power Politics - Pakistan Today"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/11/factbox-how-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations - Internazionale"
+  },
+  "https://www.al-monitor.com/originals/2026/09/factbox-how-anthropic-says-claude-was-used-weapons-spying-and-cyber-operations": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Factbox-How Anthropic says Claude was used for weapons, spying and cyber operations - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/12/2003864142": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Taiwan Academy in Houston to host Taiwan arts event - Taipei Times"
+  },
+  "https://noticias.r7.com/internacional/empresa-aponta-uso-de-ia-em-projetos-militares-espionagem-e-fraudes-globais-11092026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Empresa aponta uso de IA em projetos militares, espionagem e fraudes globais – Noticias R7"
+  },
+  "https://www.uol.com.br/tilt/noticias/reuters/2026/09/11/como-anthropic-dizque-claude-foi-manipulado-para-armas-espionagem-e-golpes.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Anthropic: como Claude foi manipulado para armas, espionagem e golpes"
+  },
+  "http://www.hongkongherald.com/news/279301449/hong-kong-sentences-tiananmen-activists-to-between-5-and-7-years-in-prison": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Hong Kong sentences Tiananmen activists to between 5 and 7 years in prison"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260911/4497342.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Japan, Taiwan must strengthen defences against growing Chinese threat: Japanese lawmaker"
+  },
+  "https://glavcom.ua/world/world-politics/vitseprezidentka-tajvanju-tajemno-prijikhala-do-jevropi-na-tli-pohroz-kitaju-1142306.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "050",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "Віцепрезидентка Тайваню таємно приїхала до Європи на тлі погроз Китаю - Главком"
+  },
+  "https://www.dw.com/es/taiw%C3%A1n-condena-a-dos-hombres-por-crear-una-red-vinculada-al-partido-comunista-chino/a-79224240": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwán condena a dos hombres por red vinculada al PC chino"
+  },
+  "https://www.fox5vegas.com/2026/09/11/county-says-chinatown-crime-down-businesses-are-still-staying-alert/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chinatown businesses combat car break-ins"
+  },
+  "https://rpp.pe/mundo/asia/taiwan-denuncia-la-cuarta-incursion-de-guardacostas-chinos-esta-semana-en-kinmen-noticia-1706857": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán denuncia la cuarta incursión de guardacostas chinos esta semana en Kinmen"
+  },
+  "https://www.aljazeera.net/news/2026/9/11/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%B1%D8%B5%D8%AF-%D8%B7%D9%84%D8%B9%D8%A7%D8%AA-%D8%AC%D9%88%D9%8A%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "تايوان ترصد طلعات جوية صينية وتحركات سفن حربية حولها | أخبار | الجزيرة نت"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/11/washingtons-transactional-taiwan-policy-puts-indo-pacific-at-risk-ex-us-officials-warn": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Washington’s transactional Taiwan policy puts Indo-Pacific at risk, ex-US officials warn | The Star"
+  },
+  "https://www.theepochtimes.com/china/chinas-export-surge-fuels-global-backlash-over-trade-imbalance-analysts-6086068": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China’s Export Surge Fuels Global Backlash Over Trade Imbalance: Analysts | The Epoch Times"
+  },
+  "https://carnegieendowment.org/research/2026/09/america-walks-away-from-global-democracy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "America Walks Away from Global Democracy | Carnegie Endowment for International Peace"
+  }
+ }
+}

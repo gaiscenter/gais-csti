@@ -1,0 +1,181 @@
+{
+ "date": "2026-10-03",
+ "generated_at": "2026-11-12T10:17:42",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 20,
+ "n_articles": 19,
+ "n_no_text": 1,
+ "n_coded": 18,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.taipeitimes.com/News/front/archives/2026/10/04/2003865355"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://tribune.net.ph/2026/10/03/taiwan-coast-guard-also-monitoring-chinese-research-vessel-off-batanes": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwan Coast Guard also monitoring Chinese research vessel off Batanes"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261003/4506646.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan reportedly expels Chinese fishing boats from Pratas Waters"
+  },
+  "https://aninews.in/news/world/asia/taiwan-reportedly-expels-chinese-fishing-boats-from-pratas-waters20261003161137/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan reportedly expels Chinese fishing boats from Pratas Waters"
+  },
+  "https://www.eurasiareview.com/03102026-trump-xi-summit-a-test-of-stability-and-a-legacy-for-peace-oped/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump-Xi Summit: A Test Of Stability And A Legacy For Peace - OpEd - Eurasia Review"
+  },
+  "https://www.infobae.com/america/mundo/2026/10/03/la-guardia-costera-de-taiwan-expulso-con-canones-de-agua-a-un-pesquero-chino-cerca-de-las-islas-pratas/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "La Guardia Costera de Taiwán expulsó con cañones de agua a un pesquero chino cerca de las islas Pratas - Infobae"
+  },
+  "https://www.business-standard.com/world-news/us-china-tensions-persist-despite-trump-xi-summit-s-rare-warmth-trump-aide-126100300641_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US-China tensions persist despite Trump-Xi summit's rare warmth: Trump aide | World News - Business Standard"
+  },
+  "https://targetednews.com/pr_disp.php?pr_id=9768215": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Targeted News Service"
+  },
+  "https://www.freemalaysiatoday.com/category/business/2026/10/03/taiwan-s-foreign-minister-to-visit-arizona-to-deepen-economic-ties": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan’s foreign minister to visit Arizona to deepen economic ties | FMT"
+  },
+  "https://focustaiwan.tw:443/politics/202610030005": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "U.S. senator warns China's flight restrictions threaten international travelers - Focus Taiwan"
+  },
+  "https://aninews.in/news/world/asia/china-accused-of-new-form-of-transnational-repression-in-taiwan20261003173323/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China accused of new form of transnational repression in Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/04/2003865371": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "US senator warns against China’s isolation tactics - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202610030015": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Taiwan confirms its patrol vessels monitoring Chinese ships near Philippines - Focus Taiwan"
+  },
+  "http://eng.chinamil.com.cn/2025xb/W/A_251464/16490997.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "US reportedly to deploy NMESIS to Japan's westernmost island for first time - China Military"
+  },
+  "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94182": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Starnieuws - Xi benadrukt vertrouwen in China en herhaalt harde lijn over Taiwan"
+  },
+  "https://www.interest.co.nz/business/140530/malaysias-expansion-manufacturing-highlights-its-increasingly-important-role-global": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Malaysia’s trade growth is increasingly manufacturing-led | interest.co.nz"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5594672": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》 Foreign minister to attend Phoenix office opening - 焦點 - 自由時報電子報"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5594678": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》 Manila, Taipei monitor China’s ships - 焦點 - 自由時報電子報"
+  },
+  "https://thenextweb.com/news/greg-lui-earthmade-ai-server-smuggling-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "US charges California man with smuggling $300mn of AI servers to China"
+  }
+ }
+}

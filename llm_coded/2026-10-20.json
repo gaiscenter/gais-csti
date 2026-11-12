@@ -1,0 +1,274 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-11-12T10:22:53",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 40,
+ "n_articles": 34,
+ "n_no_text": 6,
+ "n_coded": 31,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://hotnews.ro/china-sustine-ca-o-nava-de-razboi-americana-a-intrat-ilegal-in-apele-sale-si-trimite-forte-navale-in-intampinarea-sa-2381051",
+  "https://www.techtimes.com/articles/329202/20261019/taiwan-criminalize-unauthorized-ai-chip-exports-china-smugglers-lose-safe-harbor.htm",
+  "https://www.onalert.gr/eksoplismoi/v-bat-i-taivan-parelave-to-proto-mi-epandromeno-aeroskafos-tis-shield-ai/827235/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/21/2003866327": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Deportation too lenient for threats to president - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/china-using-coast-guard-patrols-to-assert-authority-east-of-taiwan-us-commission-chair-says-6106647": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China Using Coast Guard Patrols to Assert Authority East of Taiwan, US Commission Chair Says | The Epoch Times"
+  },
+  "https://dailycaller.com/2026/10/20/china-tightens-grip-south-china-sea/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Beijing Tightens Grip On South China Sea As Uncle Sam’s Eyes Gaze Toward Middle East | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.berliner-zeitung.de:443/article/china-laesst-us-kriegsschiff-verfolgen-streit-um-umkaempftes-riff-10514504": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China lässt US-Kriegsschiff USS Charleston verfolgen – Streit um umkämpftes Riff"
+  },
+  "https://www.interest.co.nz/public-policy/140766/nationals-christopher-luxon-and-labours-chris-hipkins-clash-over-opportunity": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "'Ridiculous question': Luxon won’t say if he’d quit over ruling out talking to Opportunity | interest.co.nz"
+  },
+  "https://www.militarytimes.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon"
+  },
+  "https://inosmi.ru/20261020/tramp-280736012.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Трамп настроен на сделки с Россией и все больше злится на Украину (The New York Times, США) | 20.10.2026, ИноСМИ"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866305": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Chinese patrols to Taiwan’s east ‘destabilizing,’ US commission chair says - Taipei Times"
+  },
+  "https://www.theepochtimes.com/opinion/chinas-military-studies-russias-war-with-implications-for-taiwan-6102956": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China’s Military Studies Russia’s War, With Implications for Taiwan | The Epoch Times"
+  },
+  "https://economictimes.indiatimes.com/news/defence/us-commission-chair-warns-china-coast-guard-patrols-east-of-taiwan-are-highly-destabilising/articleshow/135063992.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan security concerns: US Commission chair warns China Coast Guard patrols East of Taiwan are 'Highly Destabilising' - The Economic Times"
+  },
+  "https://www.lindependant.fr/2026/10/20/tensions-en-asie-le-navire-americain-uss-charleston-sest-approche-trop-pres-dun-banc-de-sable-convoite-par-la-chine-pekin-deploie-ses-forces-navales-13611442.php": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Tensions en Asie : le navire américain USS Charleston s’est approché trop près d’un banc de sable convoité par la Chine, Pékin déploie ses forces navales - lindependant.fr"
+  },
+  "https://www.samaa.tv/2087358802-china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China sends naval forces to monitor US warship near disputed shoal | SAMAA TV"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/20/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China sends naval forces to monitor US warship near disputed shoal | FMT"
+  },
+  "https://gcaptain.com/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China Sends Naval Forces to Monitor US Warship Near Disputed Shoal"
+  },
+  "https://www.hoy.com.py/nacionales/2026/10/19/taiwan-acusa-a-china-de-injerencia-tras-sanciones-contra-el-ministro-villate": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Diario HOY | Taiwán acusa a China de injerencia tras sanciones contra el ministro Villate"
+  },
+  "https://www.bankingnews.gr/diethni/articles/906127/global-alarm-chinese-forces-confront-us-warship-new-tension-with-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Global alarm - Chinese forces confront US warship - New tension with Taiwan"
+  },
+  "https://econotimes.com/U-S-Commission-Chair-Says-Patrols-East-of-Taiwan-Extend-China-s-Claim-1757578": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "U.S. Commission Chair Says Patrols East of Taiwan Extend China's Claim | EconoTimes"
+  },
+  "https://www.theepochtimes.com/china/beijing-claims-us-warship-illegally-intruded-in-south-china-sea-6106421": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US Refutes Beijing’s Claim That US Warship Illegally Entered South China Sea | The Epoch Times"
+  },
+  "https://aninews.in/news/world/asia/us-commission-chair-warns-china-coast-guard-patrols-east-of-taiwan-are-8216highly-destabilising821720261020125322/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US Commission chair warns China Coast Guard patrols East of Taiwan are &#8216;Highly Destabilising&#8217;"
+  },
+  "https://econotimes.com/Micron-Taiwan-Workers-Plan-Strike-Over-Bonus-Dispute-Raising-AI-Chip-Supply-Concerns-1757308": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Micron Taiwan Workers Plan Strike Over Bonus Dispute, Raising AI Chip Supply Concerns | EconoTimes"
+  },
+  "https://www.thestar.com.my/tech/tech-news/2026/10/20/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Micron union in Taiwan to launch strike as bonus dispute escalates | The Star"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/21/2003866326": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Beijing was watching diesel deal - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/politics/202610200020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Academic advocates Taiwan-Philippines-Japan defense cooperation - Focus Taiwan"
+  },
+  "https://wccftech.com/nvidias-gtc-berlin-2026-event-this-week-might-do-more-for-intel-than-for-itself/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "NVIDIA's GTC Berlin 2026 Event This Week Might Do More For Intel Than For Itself"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/21/2003866349": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Group criticizes celebrities over pro-China statements - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/22/2003866414": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan and Kansas sign trade MOU - Taipei Times"
+  },
+  "https://www.dailypolitical.com/2026/10/20/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sold-by-prime-capital-investment-advisors-llc.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Sold by Prime Capital Investment Advisors LLC - Daily Political"
+  },
+  "https://thenextweb.com/news/arda-bob-mcgrew-232m-1-5bn-ai-manufacturing": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Ex-OpenAI research chief Bob McGrew’s Arda raises $232M for US factories"
+  },
+  "https://www.businesstimes.com.sg/wealth/wealth-investing/upcycle-intact-singapore-semiconductor-stocks-despite-sharp-sell": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Upcycle is intact for Singapore semiconductor stocks despite sharp sell-off - The Business Times"
+  },
+  "https://www.irishtimes.com/world/europe/2026/10/20/trumps-pressure-campaign-on-zelenskiy-enters-a-decisive-phase/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump’s pressure campaign on Zelenskiy enters a decisive phase – The Irish Times"
+  },
+  "https://focustaiwan.tw/business/202610200025": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Starlux expands routes amid AI, chip industry demand - Focus Taiwan"
+  }
+ }
+}

@@ -1,0 +1,456 @@
+{
+ "date": "2026-09-30",
+ "generated_at": "2026-11-12T10:16:51",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 67,
+ "n_articles": 52,
+ "n_no_text": 15,
+ "n_coded": 50,
+ "n_relevant": 17,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.philstar.com/opinion/2026/10/01/2560081/one-china-principle-brooks-no-challenge",
+  "https://whbl.com/2026/09/29/republican-senator-wicker-says-us-security-commitments-to-taiwan-must-be-upheld/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.aljazeera.net/politics/2026/9/30/%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D9%88%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%AF%D8%A7%D8%AE%D9%84-%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "اليابان وتايوان.. تداخل الذاكرة التاريخية وإعادة التسلح | سياسة | الجزيرة نت"
+  },
+  "https://english.news.cn/20260930/86fa82258021423eb4446c50832280aa/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Chinese mainland welcomes public suggestions on \"two systems\" solution to Taiwan question: spokesperson-Xinhua"
+  },
+  "https://www.shfanews.net/post/327191": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "متحدثة: البر الرئيسي الصيني يرحب بمقترحات الجمهور بشأن حل مسألة تايوان في إطار \"دولة واحدة ونظامان\" - شبكة فلسطين للأنباء - شفا"
+  },
+  "https://english.news.cn/20260930/ba8e18a581da4ae79d3b58719b066539/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Firm opposition to \"Taiwan independence\" serves common interests of China, U.S.: mainland spokesperson-Xinhua"
+  },
+  "http://arabic.news.cn/20260930/6f4cb8c59774402f8b0b821a24e0fb8a/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "متحدثة: البر الرئيسي الصيني يرحب بمقترحات الجمهور بشأن حل مسألة تايوان في إطار \"دولة واحدة ونظامان\""
+  },
+  "https://www.foxnews.com/world/taiwan-analysts-say-trump-xi-summit-produced-no-policy-shift-real-test-lies-ahead": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan analysts: Trump-Xi summit shows no policy shift, but real test lies ahead | Fox News"
+  },
+  "http://www.orlandoecho.com/news/279338243/taipei-pushes-back-on-beijing-s-world-war-ii-narrative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taipei pushes back on Beijing’s World War II narrative"
+  },
+  "https://www.theepochtimes.com/china/wicker-calls-for-us-to-uphold-taiwan-security-commitments-after-trump-xi-meeting-6096817": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Wicker Calls for US to Uphold Taiwan Security Commitments After Trump–Xi Meeting | The Epoch Times"
+  },
+  "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-september-30-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 11,
+   "title": "Asia Intelligence Brief for Wednesday, September 30, 2026"
+  },
+  "https://www1.folha.uol.com.br/mundo/2026/09/o-que-xi-sinalizou-para-trump-sobre-taiwan-em-washington.shtml": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "China: O que Xi sinalizou para Trump sobre Taiwan - 30/09/2026 - Mundo - Folha"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/01/2003865216": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Xi warns against Taiwan independence in National Day speech - Taipei Times"
+  },
+  "https://asianews.network/china-taiwan-cross-strait-trade-defies-political-friction/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China-Taiwan cross-strait trade defies political friction – Asia News Network"
+  },
+  "https://www.deccanchronicle.com/world/north-korea-criticises-us-support-for-taiwan-pledges-backing-for-russia-1993786": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "North Korea Criticises US Support for Taiwan, Pledges Backing for Russia"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/02/2003865257": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Xi’s rhetoric on Taiwan not new: official - Taipei Times"
+  },
+  "https://www.asiaone.com/china/china-says-taiwan-desecrating-martyrs-its-world-war-two-history-criticism": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China says Taiwan is 'desecrating the martyrs' with its World War Two history criticism, China News - AsiaOne"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/01/2003865172": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump and Xi’s ‘stalemate’ summit was a glitzy gift to China - Taipei Times"
+  },
+  "http://www.t-g.com/premium/stacker/stories/the-cannabis-industryrsquos-trafficked-workforce,232625": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The cannabis industry’s trafficked workforce - Shelbyville Times-Gazette"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/01/2003865191": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Senator says that the US must honor Taiwan deals - Taipei Times"
+  },
+  "https://www.breitbart.com/politics/2026/09/28/brennan-trump-has-no-concept-of-taiwans-importance-to-the-u-s/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Brennan: Trump 'Has No Concept' of Taiwan's Importance to the U.S."
+  },
+  "https://www.record-bee.com/2026/09/30/chairman-xi-goes-to-washington/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chairman Xi goes to Washington – Lake County Record-Bee"
+  },
+  "https://www.investegate.co.uk/announcement/rns/hon-hai-precision-industry-co-ltd--hhpd/subsidiary-factory-right-of-use-acquisition/9799162": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Subsidiary Factory Right-of-Use Acquisition | Company Announcement | Investegate"
+  },
+  "https://arynews.tv/chinas-xi-calls-for-progress-towards-unification-with-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China's Xi calls for progress towards unification with Taiwan"
+  },
+  "https://novini.bg/article/2026093006413952188": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Пекин обвини Тайван в предателство и оскверняване на историята за Втората световна война | Новини.бг"
+  },
+  "https://www.whmi.com/news/fox/taiwan-analysts-say-trump-xi-summit-produced-no-policy-shift-real-test-lies-ahead": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Radio Station WHMI 93.5 FM — Livingston County Michigan News, Weather, Traffic, Sports, School Updates, and the Best Classic Hit"
+  },
+  "https://www.recorder.ca/press-releases/newsfile/talent-gathers-in-fujian-xiamen-attracts-the-world-2026-global-innovation-and-entrepreneurship-competition-finals-and-award-ceremony-held-in-xiamen-114-innovative-projects-competed-for-the-crown/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "'Talent Gathers in Fujian - Xiamen Attracts the World' 2026 Global Innovation and Entrepreneurship Competition Finals and Award Ceremony Held in Xiamen, 114 Innovative Projects Competed for the Crown - Brockville Recorder and Times"
+  },
+  "https://reason.com/2026/09/30/nancy-pelosi-championed-a-hong-kong-dissident-she-may-have-doomed-him/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Nancy Pelosi championed a Hong Kong dissident. She may have doomed him."
+  },
+  "https://www.rfa.org:443/english/china/2026/09/29/taiwan-philippines-trade-office/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China pressure accelerates Philippines-Taiwan ties, analysts say – Radio Free Asia"
+  },
+  "http://www.greekherald.com/news/279338243/taipei-pushes-back-on-beijing-s-world-war-ii-narrative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 40,
+   "title": "Taipei pushes back on Beijing’s World War II narrative"
+  },
+  "https://korrespondent.net/world/4916097-kytai-obnovyl-zakon-o-mobylyzatsyy-vpervye-za-16-let": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Китай обновил закон о мобилизации впервые за 16 лет - Korrespondent.net"
+  },
+  "https://www.negocios.com/articulo/geopolitica/xi-endurece-mensaje-taiwan-que-combatir-separatismo/20260930141433494802.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Xi endurece el mensaje sobre Taiwán: «Hay que combatir el separatismo»"
+  },
+  "https://asianews.network/us-president-trump-and-china-president-xi-didnt-talk-much-about-taiwan-what-does-that-say-about-where-it-stands/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "US President Trump and China President Xi didn’t ‘talk much’ about Taiwan. What does that say about where it stands? – Asia News Network"
+  },
+  "https://fakti.bg/world/1085007-kitai-obvini-taivan-che-oskvernava-pametta-na-machenicite-taipe-tvardi-che-pekin-vazhvalava-pogreshnata-kitaiska-darjava": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Китай обвини Тайван, че осквернява паметта на мъчениците. Тайпе твърди, че Пекин възхвалява погрешната китайска държава ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.sbctv.gr/2026/09/%CE%B1%CE%BD%CE%B5%CE%BE%CE%B1%CF%81%CF%84%CE%B7%CF%83%CE%B9%CE%B1-%CF%84%CE%B1%CE%B9%CE%B2%CE%B1%CE%BD/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Σι Τζινπίνγκ προειδοποιεί για Ανεξαρτησία Ταϊβάν"
+  },
+  "https://focustaiwan.tw/politics/202609300016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan, Belize sign agreements to enhance collaboration during FM's visit - Focus Taiwan"
+  },
+  "https://anlatilaninotesi.com.tr/20260930/tayvanin-olmadigi-bir-mutabakat-listesi-cinin-isteklerini-karsilamaz-1109161137.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "“Tayvan’ın olmadığı bir mutabakat listesi, Çin’in isteklerini karşılamaz” - 30.09.2026, Sputnik Türkiye"
+  },
+  "https://www.inewsgr.com/97/kokkini-grammi-i-taivan-gia-ton-si-nea-proeidopoiisi-pros-osous-stirizoun-tin-anexartisia-tou-nisiou-apo-tin-kina.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "«Κόκκινη γραμμή» η Ταϊβάν για τον Σι: Νέα προειδοποίηση προς όσους στηρίζουν την ανεξαρτησία του νησιού από την Κίνα - «kokkini grammi» i taivan gia ton si: nea proeidopoiisi pros osous stirizoun tin anexartisia tou nisiou apo tin kina"
+  },
+  "http://arabic.news.cn/20260930/fab220503bf643dda0657cd093590d13/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "متحدثة باسم البر الرئيسي: المعارضة الحازمة لما يسمى \"استقلال تايوان\" تخدم المصالح المشتركة للصين والولايات المتحدة"
+  },
+  "http://www.taiwansun.com/news/279343325/mainland-taiwan-question-is-foundation-of-china-us-relations": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Mainland: Taiwan question is foundation of China-US relations"
+  },
+  "http://www.econotimes.com/Wicker-Urges-US-to-Uphold-Taiwan-Security-Commitments-1753516": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Wicker Urges US to Uphold Taiwan Security Commitments | EconoTimes"
+  },
+  "https://www.infobae.com/america/mundo/2026/09/30/taiwan-realizara-diez-dias-de-maniobras-militares-en-el-norte-de-la-isla-ante-un-hipotetico-ataque-del-regimen-chino/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwán realizará diez días de maniobras militares en el norte de la isla ante un hipotético ataque del régimen chino - Infobae"
+  },
+  "http://en.people.cn/n3/2026/0930/c90000-20505113.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan's debate over textbooks highlights calls to preserve traditional Chinese culture - People's Daily Online"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/30/2003865155": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "US senator says security commitments to Taiwan must be upheld - Taipei Times"
+  },
+  "https://www.inewsgr.com/441/si-tzinpingk-tha-katasteiloume-tis-dynameis-yper-tis-anexartisias-tis-taivan.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Σι Τζινπίνγκ: «Θα καταστείλουμε τις δυνάμεις υπέρ της ανεξαρτησίας της Ταϊβάν» - si tzinpingk: «tha katasteiloume tis dynameis yper tis anexartisias tis taivan»"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/02/2003865259": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Man operating an illegal Chinese chip firm charged - Taipei Times"
+  },
+  "https://news.republika.co.id/berita/tm6qtf451/xi-jinping-kebangkitan-china-tak-bisa-dibendung-sosialisme-terbukti-unggul": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi Jinping: Kebangkitan China Tak Bisa Dibendung, Sosialisme Terbukti Unggul | Republika Online"
+  },
+  "https://newrepublic.com/article/216005/five-trump-scandals-deserve-investigation": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Five Trump Scandals That Deserve Thorough Investigation   | The New Republic"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/08/2003865604": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Delivery of F-16s boosts air combat capabilities: expert - Taipei Times"
+  },
+  "https://www.theepochtimes.com/opinion/the-60-billion-us-china-summit-6096279": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "The $60 Billion US–China Summit | The Epoch Times"
+  },
+  "http://www.washingtonexaminer.com/policy/energy-and-environment/4748176/south-korea-commit-54b-build-alaska-lng-pipeline/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "South Korea commits $54 billion for Alaska LNG pipeline in boost for Sullivan"
+  },
+  "https://www.manilatimes.net/2026/09/30/tmt-newswire/pr-newswire/arasan-to-demonstrate-the-industrys-first-mipi-swi3s-ip-at-the-mipi-member-meet-in-taipei/2435673": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Arasan to demonstrate the industry's first MIPI SWI3S™ IP at the MIPI Member meet in Taipei\n\n | The Manila Times"
+  }
+ }
+}

@@ -1,0 +1,303 @@
+{
+ "date": "2026-09-17",
+ "generated_at": "2026-11-12T10:09:40",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 46,
+ "n_articles": 38,
+ "n_no_text": 8,
+ "n_coded": 36,
+ "n_relevant": 6,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/17/2003864441",
+  "https://focustaiwan.tw:443/politics/202609170007"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.koreatimes.co.kr/foreignaffairs/others/20260917/ieodo-intl-seminar-highlights-need-for-practical-cooperation-amid-gray-zone-threats": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Ieodo Int'l Seminar highlights need for practical cooperation amid gray zone threats - The Korea Times"
+  },
+  "https://www.thedailybeast.com/trump-finds-new-way-to-shamelessly-suck-up-to-foreign-dictator/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Finds New Way to Shamelessly Suck Up to Foreign Dictator"
+  },
+  "https://www.moneycontrol.com/world/trump-s-rare-gesture-to-xi-jinping-us-president-to-personally-welcome-chinese-leader-at-airport-article-14032320.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump’s rare gesture to Xi Jinping: US President to personally welcome Chinese leader at airport"
+  },
+  "https://news.mail.ru/politics/72389750/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Reuters узнал об опасениях в Азии из-за «соблазна» Трампа на встрече с Си - Новости Mail"
+  },
+  "https://www.bhaskar.com/international/news/japan-south-korea-taiwan-concern-trump-jinping-china-deal-139059873.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump-Jinping Meeting | Japan-South Korea Concern Over Taiwan Trade Deal"
+  },
+  "https://spacewar.com/xi-trump-vow-cooperation-on-diplomatic-anniversary-state-media-999/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi, Trump vow cooperation on diplomatic anniversary: state media"
+  },
+  "https://nypost.com/2026/09/17/us-news/invite-jockeying-underway-for-trump-xi-chinese-state-dinner-with-ai-tech-titans/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Invite jockeying underway for Trump-Xi Chinese state dinner with AI tech titans"
+  },
+  "https://dailycaller.com/2026/09/17/senior-us-official-shoots-down-trump-xi-summit-threat/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s Supposed Trump-Xi Summit Threat Gets Shot Down By Senior US Official | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.xataka.com/magnet/pretenderlo-japon-ha-conseguido-que-todos-paises-turistificados-mundo-anhelan-perder-turistas": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Japón deseaba poner límites al turismo masivo. Ahora está descubriendo con temor que sus deseos se han hecho realidad"
+  },
+  "https://www.aljazeera.net/politics/2026/9/17/%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%A7%D9%83%D9%88%D9%86%D8%AF%D8%A7-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%A8%D9%84%D8%A7-%D8%B1%D8%B5%D8%A7%D8%B5": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "معركة بلا رصاص.. هل سقطت تايوان في فخ الأناكوندا؟ | سياسة | الجزيرة نت"
+  },
+  "https://www.digitimes.com/news/a20260916PD219/taiwan-supply-chain-taiwan-materials-equipment-2025.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Column: China tightens rare earth controls, exposing hidden vulnerabilities in Taiwan's supply chain"
+  },
+  "https://www.bhaskar.com/g/international/news/japan-south-korea-taiwan-concern-trump-jinping-china-deal-139059873.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump-Jinping Meeting | Japan-South Korea Concern Over Taiwan Trade Deal"
+  },
+  "http://www.china.org.cn/2026-09/17/content_118699899.shtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Mainland says Taiwan's DPP shifts blame for halt of cross-Strait dialogue - China.org.cn"
+  },
+  "https://dunyanews.tv/en/World/973303-us-allies-fret-over-how-trump-might-play-his-taiwan-hand-with-xi": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "US allies fret over how Trump might play his Taiwan hand with Xi | Dunya News"
+  },
+  "https://www.straitstimes.com/asia/what-will-trump-and-xi-discuss-in-washington-next-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Key issues for this week's Trump-Xi summit in Washington | The Straits Times"
+  },
+  "https://kvia.com/for/2026/09/16/abc-7-xtra-investigation-el-paso-county-commissioners-spent-almost-a-quarter-million-dollars-on-travel-in-recent-years/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "ABC-7 Xtra Investigation - El Paso County Commissioners spent almost a quarter-million dollars on travel in recent years - KVIA"
+  },
+  "https://wtvbam.com/2026/09/17/factbox-what-will-trump-and-xi-discuss-in-washington-next-week/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Factbox-What will Trump and Xi discuss in Washington next week? | WTVB | 1590 AM · 95.5 FM | The Voice of Branch County"
+  },
+  "https://www.15min.lt/naujiena/aktualu/lietuva/ministras-jav-supranta-lietuvos-poreiki-atkurti-santykius-su-pekinu-siekiant-ekonominio-saugumo-56-2766434": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Ministras: JAV „supranta“ Lietuvos poreikį atkurti santykius su Pekinu, siekiant ekonominio saugumo | 15min.lt"
+  },
+  "http://www.jpost.com/international/article-908859": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 4,
+   "title": "US allies fear Donald Trump may trade Taiwan support in summit with Xi Jinping | The Jerusalem Post"
+  },
+  "https://www.infobae.com/america/mundo/2026/09/17/taiwan-denuncio-la-incursion-de-15-aviones-de-guerra-del-regimen-chino-a-una-semana-de-la-cumbre-entre-donald-trump-y-xi-jinping/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán denunció la incursión de 15 aviones de guerra del régimen chino a una semana de la cumbre entre Donald Trump y Xi Jinping - Infobae"
+  },
+  "http://www.fhtimes.com/stories/feng-e,706888": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Feng E - Fountain Hills Times"
+  },
+  "https://www.epikaira.gr/taivan-i-technologiki-dynami-pou-vrisketai-sto-epikentro-tis-neas-geopolitikis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Ταιβάν: Η τεχνολογική δύναμη που βρίσκεται στο επίκεντρο της νέας γεωπολιτικής - ΕΠΙΚΑΙΡΑ"
+  },
+  "https://www.skai.gr/news/world/i-taivan-os-diapragmateytiko-xarti-prin-apo-ti-synantisi-tramp-si-stis-24-septemvriou": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Η Ταϊβάν ως «διαπραγματευτικό χαρτί» πριν από τη συνάντηση Τραμπ – Σι στις 24 Σεπτεμβρίου | ΣΚΑΪ"
+  },
+  "https://www.zocalo.com.mx/taiwan-denuncia-incursion-de-aeronaves-chinas-a-una-semana-de-la-posible-cumbre-trump-xi/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 18,
+   "title": "Taiwán denuncia incursión de aeronaves chinas a una semana de la posible cumbre Trump-Xi – Periódico Zócalo"
+  },
+  "https://www.lrt.lt/naujienos/pasaulyje/6/3055488/budrys-sako-vasingtone-detaliai-apie-baltarusija-nekalbejes-aptares-sankcijas-anksciau": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Budrys sako VaÅ¡ingtone detaliai apie BaltarusijÄ nekalbÄjÄs, aptarÄs sankcijas anksÄiau - LRT"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/17/us-allies-worry-over-how-trump-may-handle-taiwan-with-xi": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "US allies worry over how Trump may handle Taiwan with Xi | FMT"
+  },
+  "https://www.asiaone.com/world/us-allies-fret-over-how-trump-might-play-his-taiwan-hand-xi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "US allies fret over how Trump might play his Taiwan hand with Xi, World News - AsiaOne"
+  },
+  "https://focustaiwan.tw/politics/202609170022": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "MAC plays down Taipei-Shanghai forum after entry-permit criticism - Focus Taiwan"
+  },
+  "https://kvia.com/for/2026/09/17/travel-tab/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From Austin to Hawaii, El Paso County commissioners' travel tab nears a quarter-million dollars - KVIA"
+  },
+  "https://tribuneonlineng.com/trump-pressure-taiwan-xi-meeting/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 4,
+   "title": "Trump faces pressure over Taiwan ahead of Xi meeting - Tribune Online"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/17/factbox-what-will-trump-and-xi-discuss-in-washington-next-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Factbox-Key issues for this week’s Trump-Xi summit in Washington - Internazionale"
+  },
+  "https://divyamarathi.bhaskar.com/international/news/taiwan-fear-trump-xi-jinping-trade-deal-japan-south-korea-concern-139060083.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Trump-Xi Jinping Meeting 2026; Taiwan Fear Japan South Korea Concern"
+  },
+  "https://www.chinafile.com/conversation/what-watch-xi-trump-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What to Watch at the Xi-Trump Summit | ChinaFile"
+  },
+  "https://www.theyeshivaworld.com/news/general/2599891/taiwan-concerns-u-s-allies-worry-trump-could-shift-policy-as-high-stakes-xi-summit-approaches.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "TAIWAN CONCERNS: U.S. Allies Worry Trump Could Shift Policy As High-Stakes Xi Summit Approaches – The Yeshiva World"
+  },
+  "https://www.pressian.com/pages/articles/2026091708133722912": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "트럼프·시진핑 정상회담, 우리는 왜 남의 승패를 묻고 있는가?"
+  },
+  "https://www.wsws.org/en/articles/2026/09/17/uhab-s17.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Top US Republican says Australia would join war with China - World Socialist Web Site"
+  }
+ }
+}

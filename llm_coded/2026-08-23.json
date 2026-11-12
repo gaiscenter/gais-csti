@@ -1,0 +1,212 @@
+{
+ "date": "2026-08-23",
+ "generated_at": "2026-11-12T10:03:41",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 27,
+ "n_articles": 22,
+ "n_no_text": 5,
+ "n_coded": 22,
+ "n_relevant": 8,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.theepochtimes.com/china/taiwan-court-sentences-2-former-military-sergeants-in-china-spy-case-6078644": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Court Sentences 2 Former Military Sergeants in China Spy Case | The Epoch Times"
+  },
+  "https://aninews.in/news/world/asia/taiwan-detects-heightened-chinese-military-activity-around-its-territory20260823103626/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects heightened Chinese military activity around its territory"
+  },
+  "https://www.theepochtimes.com/china/beijing-unlikely-to-attack-taiwan-in-the-near-term-despite-closing-window-analyst-6078600": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Beijing Unlikely to Attack Taiwan in the Near Term Despite Closing Window: Analyst | The Epoch Times"
+  },
+  "https://www.freepressjournal.in/world/taiwan-tracks-chinese-military-activity-as-7-plan-vessels-detected-around-island": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan Tracks Chinese Military Activity As 7 PLAN Vessels Detected Around Island"
+  },
+  "https://www.zerohedge.com/commodities/taiwan-tech-insiders-warn-beijings-germanium-squeeze-hitting-production": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan Tech Insiders Warn Beijing's Germanium Squeeze Is Hitting Production<!-- --> | ZeroHedge"
+  },
+  "https://moderntokyotimes.com/japan-and-geopolitics-china-and-the-russian-federation/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Japan and Geopolitics: China and the Russian Federation – Modern Tokyo Times"
+  },
+  "https://www.yahoo.com/news/world/articles/taiwan-warns-off-shadows-chinese-073333132.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan warns off, shadows Chinese research ship sailing to its west"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863026": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "KMT head touts rapport at 823 memorial - Taipei Times"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260823/4489978.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects heightened Chinese military activity around its territory"
+  },
+  "https://bworldonline.com/world/2026/08/23/771751/peace-through-strength-taiwan-president-says-on-china-battle-anniversary/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Peace through strength, Taiwan president says on China battle anniversary - BusinessWorld Online"
+  },
+  "https://whbl.com/2026/08/23/peace-through-strength-taiwan-president-says-on-china-battle-anniversary/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Peace through strength, Taiwan president says on China battle anniversary | 1330 & 101.5 WHBL"
+  },
+  "https://www.albayan.ae/news/1547652": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "جزيرة في فم التنين.. كينمن تعيد إلى الواجهة حرباً لم تنتهِ بين الصين وتايوان"
+  },
+  "https://www.thehindu.com/news/international/peace-through-strength-taiwan-president-says-on-china-battle-anniversary/article71381852.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 5,
+   "title": "Peace through strength, Taiwan president says on China battle anniversary - The Hindu"
+  },
+  "https://focustaiwan.tw/society/202608230002": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.yahoo.com/news/us/articles/us-navy-aircraft-transited-taiwan-004254091.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/24/2003863007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "At 50, we can become ourselves again - Taipei Times"
+  },
+  "https://www.dailymail.com/money/markets/article-16070215/How-IQE-boss-Jutta-Meier-defied-critics-bring-semiconductor-champion-brink.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "How IQE boss Jutta Meier defied the critics to bring the semiconductor champion back from the brink | Daily Mail Online"
+  },
+  "https://www.globaltimes.cn/page/202608/1368834.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "F-16Vs headed to Taiwan region; expert says incapable of shifting cross-Straits air power balance - Global Times"
+  },
+  "https://fakti.bg/world/1076294-budjetat-za-otbrana-na-taivan-za-2027-g-nadhvarla-3-ot-bvp-na-stranata": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Бюджетът за отбрана на Тайван за 2027 г. надхвърля 3% от БВП на страната ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.tamilmurasu.com.sg/singapore/singapore-should-not-become-single-language-society-prime-minister-wong": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "சிங்கப்பூர் மொழி: பிரதமர் வோங் எச்சரிக்கை"
+  },
+  "https://travel.yahoo.com/advice/safety/articles/tourist-dies-death-valley-being-172157857.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Tourist dies at Death Valley after being stranded in high heat"
+  },
+  "https://www.yahoo.com/news/politics/articles/president-makes-final-push-darline-010243885.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "President makes final push for Darline Graham in trip to ‘Trump country’"
+  }
+ }
+}

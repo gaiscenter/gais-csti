@@ -1,0 +1,261 @@
+{
+ "date": "2026-09-09",
+ "generated_at": "2026-11-12T10:07:47",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 35,
+ "n_articles": 29,
+ "n_no_text": 6,
+ "n_coded": 28,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.breitbart.com/asia/2026/09/09/china-seethes-over-creation-of-panama-taiwan-lawmakers-friendship-group/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/10/2003864010": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "Taiwan not on right drone track: ex-official - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5568827": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "《TAIPEI TIMES》Taiwan not on right drone track: ex-official - 焦點 - 自由時報電子報"
+  },
+  "https://www.shfanews.net/post/322215": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 14,
+   "title": "متحدث: البر الرئيسي الصيني يرحب بالنقاش المتزايد في تايوان بشأن مبدأ \"دولة واحدة ونظامان\" - شبكة فلسطين للأنباء - شفا"
+  },
+  "https://www.miragenews.com/china-slams-un-watchdog-over-100k-payment-1741371/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China Slams UN Watchdog Over $100K Payment Inquiry | Mirage News"
+  },
+  "https://www.businesstimes.com.sg/startups-tech/technology/kioxia-dismisses-sk-hynix-tie-vows-ease-chip-price-rises": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Kioxia dismisses SK Hynix tie-up, vows to ease chip price rises - The Business Times"
+  },
+  "https://aninews.in/news/world/asia/alleged-chinese-documents-show-beijing-put-price-on-efforts-to-block-taiwan-from-wha20260909180746/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Alleged Chinese documents show Beijing put price on efforts to block Taiwan from WHA"
+  },
+  "https://www.postcourier.com.pg/china-piles-pressure-on-taiwan-with-new-patrols-off-pacific-coast/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China piles pressure on Taiwan with new patrols off Pacific coast - Post Courier"
+  },
+  "http://arabic.news.cn/20260909/0cd9ed58d0514efd99444363db991655/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "متحدث: البر الرئيسي الصيني يرحب بالنقاش المتزايد في تايوان بشأن مبدأ \"دولة واحدة ونظامان\""
+  },
+  "https://www.euronews.com/2026/09/09/china-reiterates-its-one-china-principle-on-taiwan-over-un-resolution": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China reiterates its One China principle on Taiwan over UN resolution | Euronews"
+  },
+  "https://www.cnbc.com/2026/10/09/taiwan-trump-china-militia-boat-tsmc-.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk"
+  },
+  "https://focustaiwan.tw/politics/202609090018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Japan, Taiwan bound by Chinese threat: China-born Japanese lawmaker - Focus Taiwan"
+  },
+  "https://spacedaily.com/k-between-1989-and-1997-the-united-states-shipped-more-than-50-million-pet-turtles-abroad-and-enough-of-the-red-eared-sliders-were-later-dumped-in-ponds-and-rivers-when-they-grew-too-big-that-the-spec/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Between 1989 and 1997 the United States shipped more than 50 million pet turtles abroad, and enough of the red-eared sliders were later dumped in ponds and rivers when they grew too big that the species now outcompetes native turtles on every continent but Antarctica, listed among the 100 worst invaders on Earth."
+  },
+  "http://usa.chinadaily.com.cn/a/202609/09/WS6aa0b0abe4b06d4aa055d06f.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "DPP attempts to rewrite colonial history - Chinadaily.com.cn"
+  },
+  "https://www.yahoo.com/news/articles/conflict-over-taiwan-disastrous-facto-020727997.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/10/2003864011": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan’s defense efforts sending signal to US, not China, security expert says - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/10/2003863996": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Brace for new AI threats ahead of elections, AIT head says - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/politics/202609090009": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan defense buildup may assure US more than deter Beijing: Scholar - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/09/2003863966": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "Eight fighter jets, commercial flight diverted after drone intrudes on Taichung air base - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/politics/202609090024": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwan, U.S. must counter China gray-zone pressure: Stanford scholar - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/10/2003863998": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Drone intrusion temporarily shuts Taichung air base - Taipei Times"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/taiwan-conflict-us-diplomat-warns-of-economic-catastrophe-greater-than-wwii/articleshow/133951977.cms": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Taiwan Strait conflict could eclipse World War Two economic impact: US - The Economic Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/10/2003863985": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "The US now learns what Taiwan knew before - Taipei Times"
+  },
+  "https://www.spokanepublicradio.org/2026-09-09/buddhist-groups-help-spokane-families-recover-from-wildfires": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Buddhist groups help Spokane families recover from wildfires"
+  },
+  "https://bworldonline.com/world/2026/09/09/775712/conflict-over-taiwan-would-be-disastrous-de-facto-us-ambassador-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Conflict over Taiwan would be disastrous, de facto US ambassador says - BusinessWorld Online"
+  },
+  "https://www.theepochtimes.com/china/us-envoy-warns-taiwan-conflict-would-inflict-greater-economic-toll-than-world-war-ii-6085132": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "US Envoy Warns Taiwan Conflict Would Inflict Greater Economic Toll Than World War II | The Epoch Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5568825": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "《TAIPEI TIMES》Drone intrusion temporarily shuts Taichung air base - 焦點 - 自由時報電子報"
+  },
+  "https://focustaiwan.tw:443/politics/202609090014": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Economic impact of Taiwan Strait conflict could exceed WWII's: AIT chief - Focus Taiwan"
+  },
+  "https://www.prensa.com/politica/china-reacciona-y-expresa-fuerte-rechazo-al-grupo-de-diputados-panama-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China reacciona y expresa ‘fuerte rechazo’ al grupo de diputados Panamá-Taiwán | La Prensa Panamá"
+  }
+ }
+}

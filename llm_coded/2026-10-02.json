@@ -1,0 +1,549 @@
+{
+ "date": "2026-10-02",
+ "generated_at": "2026-11-12T10:17:34",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 63,
+ "n_articles": 57,
+ "n_no_text": 6,
+ "n_coded": 53,
+ "n_relevant": 31,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://economictimes.indiatimes.com/news/defence/taiwan-bolster-defences-against-china-as-first-batch-of-f-16v-fighter-jets-to-arrive/articleshow/134630446.cms",
+  "https://www.straitstimes.com/asia/east-asia/first-new-f-16v-fighter-jets-to-arrive-in-taiwan-to-bolster-defences-against-china",
+  "https://hu.euronews.com/2026/10/02/tajvan-f-16-vadaszgepeket-vasarol-mert-trump-baratsagara-nem-lehet-vedelmet-epiteni",
+  "https://bangla.bdnews24.com/world/r6c3awvg26"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.chinatechnews.com/2026/10/02/130209-former-taiwan-president-tsai-to-visit-us-next-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Former Taiwan president Tsai to visit US next week - ChinaTechNews.com"
+  },
+  "http://www.econotimes.com/Tsai-Ing-wen-to-Visit-US-for-Stanford-Security-Conference-1753776": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tsai Ing-wen to Visit US for Stanford Security Conference | EconoTimes"
+  },
+  "https://thediplomat.com/2026/10/philippines-rejects-chinese-claim-to-sovereign-rights-over-waters-around-batanes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Philippines Rejects Chinese Claim to ‘Sovereign Rights’ Over Waters Around Batanes – The Diplomat"
+  },
+  "https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan: first new F-16V fighters arrive amid China threat"
+  },
+  "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China | Weapons News | Al Jazeera"
+  },
+  "https://foreignpolicy.com/2026/10/02/sea-cucumbers-illicit-trade-crime-china-mexico-japan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "How Sea Cucumbers Drive Crime From China to Mexico"
+  },
+  "https://www.chiangraitimes.com/news-asia/philippines-cost-guard-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Philippine Coast Guard Confronts Chinese Research Vessel"
+  },
+  "https://www.politika.rs/scc/clanak/790323/tajvanska-obalska-straza-vodenim-topom-gadala-kineski-brod": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Тајванска обалска стража воденим топом гађала кинески брод"
+  },
+  "https://www.aljazeera.net/politics/2026/10/2/%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AD%D8%AF%D8%AB-%D8%A5%D8%B0%D8%A7-%D8%AD%D8%A7%D8%B1%D8%A8%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%A7%D9%84%D8%B5%D9%8A%D9%86": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "محاكاة لما قد يحدث في 2030.. تايوان تشعل حربا بين أمريكا والصين وكوريا الشمالية | سياسة | الجزيرة نت"
+  },
+  "https://www.militarytimes.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "low"
+   },
+   "mentions": 3,
+   "title": "Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion"
+  },
+  "https://www.dailymirror.lk/international/Trump-Xi-and-the-Indo-Pacifics-Uncertain-Equation/107-351627": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi and the Indo-Pacific’s Uncertain Equation  - International | Daily Mirror"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/03/2003865301": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Sea drones a Taiwan game changer - Taipei Times"
+  },
+  "https://tech.wp.pl/usa-ruszyly-z-wielka-dostawa-chinom-sie-to-nie-spodoba,7335695715543328a": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "USA ruszyły z wielką dostawą. Chinom się to nie spodoba"
+  },
+  "https://www.dailymail.com/news/article-16177555/tony-abbott-taiwan-china-war-threat.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Australia is 'sleepwalking' towards disaster as war threat over Taiwan grows: Former PM on scenario that could cripple Australia | Daily Mail Online"
+  },
+  "https://tert.am/en/news/2026/10/02/Taiwan/4285616": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan's first new F-16V fighter jets arrive to bolster defences against China"
+  },
+  "https://www.dailymaverick.co.za/article/2026-10-02-taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defences-against-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwanâs first two F-16V fighter jets arrive to bolster defences against China"
+  },
+  "https://www.bankingnews.gr/diethni/articles/902877/taiwan-receives-first-new-f-16v-jets-to-counter-j-20": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan receives first new F-16V jets to counter J-20"
+  },
+  "https://labass.net/93791-taiwan-recoit-ses-deux-premiers-avions-de-combat-americains-f-16v.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taïwan reçoit ses deux premiers avions de combat américains F-16V – Labass.net"
+  },
+  "https://www.defensenews.com/global/asia-pacific/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defenses-against-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China - Defense News"
+  },
+  "https://ecfr.eu/article/faction-fight-how-europeans-can-better-influence-american-foreign-policy-battles/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Faction fight: How Europeans can better influence American foreign policy battles – European Council on Foreign Relations"
+  },
+  "https://www.aljazeera.net/news/2026/10/2/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%AA%D8%B3%D9%84%D9%85-%D8%A3%D9%88%D9%84-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%AA%D9%8A%D9%86-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%AA%D9%8A%D9%86": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "تايوان تتسلم أول مقاتلتين أمريكيتين من طراز \"إف-16 في\" ضمن صفقة بـ8 مليارات دولار | أخبار | الجزيرة نت"
+  },
+  "https://bdnews24.com/world/asia-pacific/cmu4dxb5ch": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "First new F-16V fighter jets to arrive in Taiwan to bolster defences against China"
+  },
+  "https://whbl.com/2026/10/01/first-new-f-16v-fighter-jets-to-arrive-in-taiwan-to-bolster-defences-against-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan’s first new F-16V fighter jets arrive to bolster defences against China | 1330 & 101.5 WHBL"
+  },
+  "https://www.asiaone.com:443/asia/first-new-f-16v-fighter-jets-arrive-taiwan-bolster-defences-against-china": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "First new F-16V fighter jets to arrive in Taiwan to bolster defences against China, Asia News - AsiaOne"
+  },
+  "https://news.mail.ru/politics/72584847/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Bloomberg узнал о первой установке противокорабельных ракет США у Тайваня - Новости Mail"
+  },
+  "https://www.newindianexpress.com/world/2026/Oct/02/taiwan-receives-its-first-us-made-f-16v-fighter-jets": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan receives its first US-made F-16V fighter jets"
+  },
+  "https://koran-jakarta.com/2026-10-02/as-kirim-dua-jet-tempur-f-16v-baru-ke-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "AS Kirim Dua Jet Tempur F-16V Baru ke Taiwan"
+  },
+  "https://betakit.com/alberta-municipalities-juggle-data-centre-development-gold-rush-with-public-pushback/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Alberta municipalities juggle data centre development gold rush with public pushback | BetaKit"
+  },
+  "https://news.mail.ru/politics/72583146/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "США передали Тайваню новые истребители F-16V через неделю после визита Си Цзиньпина в Вашингтон. - Новости Mail"
+  },
+  "http://www.bgnes.com/politics/taiwan-receives-first-two-f-16vs-from-the-us": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan Receives First Two F-16Vs From the US | BGNES"
+  },
+  "https://www.hawaiipublicradio.org/the-conversation/2026-10-01/after-the-trump-xi-summit-where-do-things-stand-with-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "After the Trump-Xi summit, where do things stand with Taiwan? | Hawai'i Public Radio"
+  },
+  "https://whbl.com/2026/10/02/taiwans-first-two-f-16v-fighter-jets-arrive-to-bolster-defences-against-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defences against China | 1330 & 101.5 WHBL"
+  },
+  "https://www.federalna.ba/bivsa-predsjednica-tajvana-tsai-ing-wen-sljedece-sedmice-putuje-u-sad-ohhzy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Bivša predsjednica Tajvana Tsai Ing-wen sljedeće sedmice putuje u SAD"
+  },
+  "https://sana.sy/international/2595389/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "تايوان تتسلم أول مقاتلتين \"إف-16 في\" ضمن صفقة قيمتها 8 مليارات دولار"
+  },
+  "https://bworldonline.com/technology/2026/10/02/784016/french-supercomputer-maker-bull-doubles-output-to-boost-europes-ai-ambitions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "French supercomputer maker Bull doubles output to boost Europe's AI ambitions - BusinessWorld Online"
+  },
+  "https://www.manilatimes.net/2026/10/03/opinion/columns/teodoro-on-one-china-policy-the-making-of-a-fourth-reich/2438081": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "​Teodoro on One-China policy: The making of a Fourth Reich | The Manila Times"
+  },
+  "https://www.bnnbloomberg.ca/ticker-take/2026/10/02/7-ai-stocks-on-sale-jon-erlichman/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Jon Erlichman: 7 AI stocks on sale?"
+  },
+  "https://www.independent.co.uk/asia/east-asia/taiwan-advanced-fighter-jets-us-china-b3060218.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan receives first advanced F16V fighter jets in milestone moment for its defence against Chinese invasion | The Independent"
+  },
+  "https://www.sudouest.fr/international/asie/taiwan/a-taiwan-l-arrivee-des-deux-premiers-avions-de-combat-americains-f-16v-de-nouvelle-generation-est-salue-comme-une-etape-majeure-pour-la-defense-aerienne-de-l-ile-30883302.php": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "À Taïwan, l’arrivée des deux premiers avions de combat américains F-16V de nouvelle génération est salué comme « une étape majeure » pour la défense aérienne de l’île"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/03/2003865308": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan receives first 2 F-16V Block 70s - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/taiwan-receives-first-2-f-16-block-70-fighters-after-years-of-delay-6098848": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan Receives First 2 F-16 Block 70 Fighters After Years of Delay | The Epoch Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5593808": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》Taiwan receives first 2 F-16V Block 70s - 焦點 - 自由時報電子報"
+  },
+  "https://focustaiwan.tw:443/politics/202610020007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "F-16Vs vital for Taiwan despite rise of drones: Experts - Focus Taiwan"
+  },
+  "https://www.telegraf.rs/vesti/svet/4406617-da-li-ce-kina-2027-napasti-tajvan-ovo-je-procena-americkih-zvanicnika-mnogo-toga-zavisi-o-jednoj-stvari": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Da li će Kina 2027. napasti Tajvan? Ovo je procena američkih zvaničnika, mnogo toga zavisi o jednoj stvari! - Vesti - Telegraf.rs"
+  },
+  "https://www.cinaradio.com/2026/10/02/taiwan-receives-first-us-made-f-16v-fighter-jets-amid-china-threat/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan Receives First US-Made F-16V Fighter Jets Amid China Threat | 1650 AM (Bollywood Hits)"
+  },
+  "https://www.winnipegfreepress.com/world/2026/10/02/taiwan-receives-2-long-delayed-us-f-16vs-and-awaits-additional-fighter-jets": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Taiwan receives 2 long-delayed US F-16Vs and awaits additional fighter jets – Winnipeg Free Press"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/02/beijing-slams-harassment-after-manila-challenges-research-ship-near-batanes": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Beijing slams ‘harassment’ after Manila challenges research ship near Batanes | The Star"
+  },
+  "https://www.hurriyetdailynews.com/taiwan-receives-its-first-us-made-f-16v-fighter-jets-227630": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan receives its first US-made F-16V fighter jets - World News"
+  },
+  "https://punchng.com/taiwan-receives-first-us-made-f-16v-fighter-jets/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan receives first US-made F-16V fighter jets - Punch Newspapers"
+  },
+  "https://english.aawsat.com/world/5325055-taiwan-receives-its-first-us-made-f-16v-fighter-jets": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan Receives Its First US-made F-16V Fighter Jets"
+  },
+  "https://www.manilatimes.net/2026/10/03/world/asia-oceania/taiwan-receives-first-f-16v-fighter-planes-made-by-us/2438059": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan receives first F-16V fighter planes made by US | The Manila Times"
+  },
+  "https://www.themarketsdaily.com/2026/10/02/boltwood-capital-management-purchases-new-position-in-ishares-msci-taiwan-etf-ewt.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Boltwood Capital Management Purchases New Position in iShares MSCI Taiwan ETF $EWT - Markets Daily"
+  },
+  "https://magyarhirlap.hu/kina/20261002-megerkeztek-tajvan-elso-uj-vadaszgepei": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Megérkeztek Tajvan első új vadászgépei | Magyar Hírlap"
+  }
+ }
+}

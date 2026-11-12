@@ -1,0 +1,67 @@
+{
+ "date": "2026-09-06",
+ "generated_at": "2026-11-12T10:07:07",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 9,
+ "n_articles": 7,
+ "n_no_text": 2,
+ "n_coded": 7,
+ "n_relevant": 0,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://bworldonline.com/the-nation/2026/09/06/774925/firm-response-to-chinas-batanes-claims-sought/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Firm response to China’s Batanes claims sought - BusinessWorld Online"
+  },
+  "https://www.zerohedge.com/military/new-images-reveal-chinas-stealth-drone-secretive-area-51-base": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "New Images Reveal China's Stealth Drone At Secretive \"Area 51\" Base<!-- --> | ZeroHedge"
+  },
+  "https://www.eurasiareview.com/04092026-great-power-competition-in-the-caribbean-and-south-pacific-islands-analysis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Great Power Competition In The Caribbean And South Pacific Islands - Analysis - Eurasia Review"
+  },
+  "https://www.manilatimes.net/2026/09/06/news/stratbase-warns-vs-chinas-manufactured-dispute-over-batanes/2419386": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Stratbase warns vs China’s ‘manufactured dispute’ over Batanes | The Manila Times"
+  },
+  "https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "FSP Mega GM 1200W power supply review: An in-house FSP platform that quietly overshoots its own Gold label | Tom's Hardware"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/07/2003863795": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "John J. Tkacik, Jr. On Taiwan: Happy 75th Birthday, Taiwan! - Taipei Times"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260906/4495384.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chinas Pacific influence campaign threatens regional unity, Taiwan official warns"
+  }
+ }
+}

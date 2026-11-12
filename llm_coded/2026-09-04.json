@@ -1,0 +1,340 @@
+{
+ "date": "2026-09-04",
+ "generated_at": "2026-11-12T10:06:58",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 50,
+ "n_articles": 44,
+ "n_no_text": 6,
+ "n_coded": 42,
+ "n_relevant": 5,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.asiaone.com/asia/taiwan-condemns-chinas-wolf-warrior-behaviour-pacific-forum",
+  "http://kr.xinhuanet.com/20260904/c4d607167bd34ef198b533cd4924bc94/c.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/04/2003863684": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Lawyer for China’s Zion Church seeks resettlement help in Taiwan - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863725": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan assists Chinese lawyer who fled country - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/05/2003863724": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Agency warns of Chinese scams targeting the youth - Taipei Times"
+  },
+  "https://waateanews.com/2026/09/04/wahs-or-tahs-pacific-power-plays-a-damning-disability-report-and-luxon-backs-the-wrong-wahs/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "#Politics: Wahs or Tahs? Pacific Power Plays, a Damning Disability Report — and Luxon Backs the Wrong Wahs - Waatea News: Māori Radio Station"
+  },
+  "https://www.manilatimes.net/2026/09/04/world/asia-oceania/china-is-boycotting-a-major-asian-art-festival-over-the-naming-of-a-taiwanese-exhibition/2418802": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China is boycotting a major Asian art festival over the naming of a Taiwanese exhibition | The Manila Times"
+  },
+  "https://www.theepochtimes.com/china/chinas-growing-military-presence-could-strain-us-defenses-in-south-china-sea-analysts-6083496": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China’s Growing Military Presence Could Strain US Defenses in South China Sea: Analysts | The Epoch Times"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/04/pacific-summit-backs-concerns-over-china-missile-test-despite-nauru-dissent": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pacific summit backs concerns over China’s missile test despite Nauru dissent | FMT"
+  },
+  "http://www.econotimes.com/Pacific-Leaders-Raise-Alarm-Over-China-Missile-Test-as-Nauru-Dissents-1751281": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Pacific Leaders Raise Alarm Over China Missile Test as Nauru Dissents | EconoTimes"
+  },
+  "https://www.yahoo.com/news/articles/taiwan-condemns-chinas-wolf-warrior-031408973.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan condemns China's 'wolf warrior' behaviour at Pacific forum"
+  },
+  "https://whbl.com/2026/09/03/pacific-summit-backs-concerns-over-china-missile-test-despite-nauru-dissent/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pacific summit backs concerns over China missile test despite Nauru dissent | 1330 & 101.5 WHBL"
+  },
+  "http://usa.chinadaily.com.cn/a/202609/03/WS6a999856e4b06d4aa055c403.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China lodges complaint with ROK over Taiwan designation - Chinadaily.com.cn"
+  },
+  "https://www.therural.com.au/story/9343557/pacific-pushback-but-no-condemnation-over-china-missile/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 70,
+   "title": "Pacific pushback but no condemnation over China missile | The Rural | Wagga Wagga, NSW"
+  },
+  "http://europe.chinadaily.com.cn/a/202609/03/WS6a999856e4b06d4aa055c403.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China lodges complaint with ROK over Taiwan designation - Chinadaily.com.cn"
+  },
+  "https://www.arkansasonline.com/news/2026/sep/04/electronics-other-imports-see-us-trade-gap-hit-16/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Electronics, other imports see US’ trade gap hit 16-month high in July | The Arkansas Democrat-Gazette - Arkansas' Best News Source"
+  },
+  "https://www.portnews.com.au/story/9343557/pacific-pushback-but-no-condemnation-over-china-missile/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Pacific pushback but no condemnation over China missile | Port Macquarie News | Port Macquarie, NSW"
+  },
+  "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260904/gwangju-biennale-chief-calls-for-separating-china-taiwan-politics-from-art": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Gwangju Biennale chief calls for separating China-Taiwan politics from art - The Korea Times"
+  },
+  "https://www.brandonsun.com/entertainment/2026/09/04/china-is-boycotting-a-major-asian-art-festival-over-the-naming-of-a-taiwanese-exhibition": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China is boycotting a major Asian art festival over the naming of a Taiwanese exhibition – Brandon Sun"
+  },
+  "https://jp.ibtimes.com/taiwans-frontline-islands-troops-train-chinese-first-strike-104136": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "On Taiwan's Frontline Islands, Troops Train for a Chinese First Strike | IBTimes JP"
+  },
+  "https://www.slobodna-bosna.ba/vijest/503643/kina_poslala_diplomatsku_notu_bih_zbog_posjete_tajvanu_upozorili_na_posljedice_po_odnose_dvije_zemlje.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "KINA POSLALA DIPLOMATSKU NOTU BiH: Zbog posjete Tajvanu upozorili na posljedice po odnose dvije zemlje | Slobodna Bosna"
+  },
+  "https://chinaaid.org/news/lawyer-for-detained-zion-church-leaders-flees-china-seeks-protection-in-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lawyer for detained Zion Church leaders flees China, seeks protection in Taiwan - ChinaAid"
+  },
+  "https://islandsbusiness.com/news-break/palau-reaffirms-taiwan-ties-amid-china-pressure/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Palau reaffirms Taiwan ties amid China pressure"
+  },
+  "https://www.odt.co.nz/news/world/pacific-summit-backs-concerns-over-china-missile-test-i4n5bypl": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Pacific summit backs concerns over China missile test"
+  },
+  "https://www.sanpedrosun.com/government/2026/09/04/new-four-year-project-to-strengthen-belizes-disaster-response/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "New Four-Year Project to Strengthen Belize’s Disaster Response - The San Pedro Sun"
+  },
+  "https://focustaiwan.tw/politics/202609040016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Domestic needs to drive next Trump-Xi meeting: Scholar - Focus Taiwan"
+  },
+  "https://www.marinelink.com/news/china-conducted-survey-waters-east-taiwan-542719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China Conducted Survey Of Waters East Of Taiwan"
+  },
+  "https://www.artforum.com/news/china-withdraws-from-gwangju-biennale-1234758880/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China Withdraws From Gwangju Biennale Over Taiwan Pavilion Dispute"
+  },
+  "https://www.manilatimes.net/2026/09/05/opinion/columns/seeing-through-the-davidson-deceit/2418823": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Seeing through the Davidson deceit | The Manila Times"
+  },
+  "https://www.yahoo.com/news/world/articles/china-boycotting-major-asian-art-111304099.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China is boycotting a major Asian art festival over the naming of a Taiwanese exhibition"
+  },
+  "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Australia appears confused about its place in the global world order - ABC News"
+  },
+  "https://newsregister.com/article?articleTitle=mel-gurtov-president-rsquo-s-threats-sowing-discord-around-the-globe--1788539162--56365--commentary": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Mel Gurtov: President’s threats sowing  discord around the globe"
+  },
+  "https://www.theglobeandmail.com/business/commentary/article-the-trans-pacific-partnership-is-increasingly-serving-as-canadas/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Trans-Pacific partnership is increasingly serving as Canada’s insurance policy against Trump’s trade tumult - The Globe and Mail"
+  },
+  "https://www.theepochtimes.com/china/pla-purge-may-be-driving-china-to-rely-more-on-military-pressure-against-taiwan-analysts-6083302": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "PLA Purge May Be Driving China to Rely More on Military Pressure Against Taiwan: Analysts | The Epoch Times"
+  },
+  "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/sugars-valuation-slump-slice-takes-a-hit/articleshow/133749383.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Sugar’s valuation slump; Slice takes a hit"
+  },
+  "https://www.ddaily.co.kr:443/page/view/2026090411013144573": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "‘대만관’ 갈등 中전시팀 철수 속 제 16회 광주 비엔날레 개막 - 디지털데일리"
+  },
+  "https://www.malatyaguncel.com/pasifik-ulkeleri-cin-konusunda-ortak-tutumda-uzla-3110069h.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Pasifik ülkeleri, Çin konusunda ortak tutumda uzlaşamadı"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5563676": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 Agency warns of Chinese scams targeting the youth - 焦點 - 自由時報電子報"
+  },
+  "https://www.navytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US"
+  },
+  "https://tvi.iol.pt/noticias/taiwan/pequim/taiwan-acusa-pequim-de-perseguicao-politica-contra-joshua-wong/20260904/6a9a5c95d34ed0733ba834d1": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan acusa Pequim de \"perseguição política\" contra Joshua Wong - TVI Notícias"
+  },
+  "http://www.thejakartapost.com/opinion/2026/09/04/rowing-between-two-reefs-why-indonesia-wont-pick-a-side": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Rowing between two reefs: Why Indonesia won't pick a side - Academia - The Jakarta Post"
+  },
+  "https://morungexpress.com/fault-lines-that-matter": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Fault Lines That Matter | MorungExpress | morungexpress.com"
+  },
+  "https://finance.yahoo.com/markets/article/nvidia-stock-extends-gains-to-hover-close-to-new-all-time-high-193309793.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Nvidia stock moves closer to all-time high"
+  },
+  "https://www.techtimes.com/articles/326625/20260904/tsmc-equipment-demand-doubled-fab-construction-workers-are-running-out.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "TSMC Equipment Demand Doubled, But Fab Construction Workers Are Running Out"
+  }
+ }
+}

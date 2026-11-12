@@ -1,0 +1,79 @@
+{
+ "date": "2026-08-15",
+ "generated_at": "2026-11-12T10:01:32",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 16,
+ "n_articles": 8,
+ "n_no_text": 8,
+ "n_coded": 8,
+ "n_relevant": 1,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://moderntokyotimes.com/taiwan-china-and-the-dangerous-geometry-of-deterrence-statecraft-is-needed/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan, China and the Dangerous Geometry of Deterrence: Statecraft Is Needed – Modern Tokyo Times"
+  },
+  "https://www.manilatimes.net/2026/08/16/world/asia-oceania/japan-defense-minister-visits-war-shrine-pm-stays-away/2406219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japan defense minister visits war shrine, PM stays away | The Manila Times"
+  },
+  "http://www.shanghainews.net/news/279242569/taiwan-detects-four-pla-aircraft-sorties-eight-plan-vessels-around-its-territory": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detects four PLA aircraft sorties, eight PLAN vessels around its territory"
+  },
+  "https://portlandtribune.com/2026/08/14/vegan-pan-asian-restaurant-jade-rabbit-moves-to-hawthorne-boulevard/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Vegan Pan-Asian restaurant Jade Rabbit moves to Hawthorne Boulevard | The Portland Tribune"
+  },
+  "https://www.tomshardware.com/pc-components/dram/nanya-engineer-used-360-degree-cam-hidden-in-snacks-in-attempt-to-steal-dram-process-tech-for-china-it-security-team-pinpointed-perp-due-to-cameras-leaky-wireless-signals": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Engineer used 360-degree cam hidden in bag of snacks in attempt to steal DRAM process tech for China — IT security team pinpointed perp due to camera's leaky wireless signals | Tom's Hardware"
+  },
+  "https://www.mzamin.com/article/34408": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "যে ভুলে শেষ হতে পারে চীনা প্রেসিডেন্ট শি’র রাজত্ব? - MZamin"
+  },
+  "https://targetednews.com/pr_disp.php?pr_id=9710311": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 7,
+   "title": "Targeted News Service"
+  },
+  "https://www.thestar.com.my/tech/tech-news/2026/08/15/sec-filing-shows-softbank-initiates-stake-in-capital-one-sells-715-of-its-taiwan-semi-holdings": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings | The Star"
+  }
+ }
+}

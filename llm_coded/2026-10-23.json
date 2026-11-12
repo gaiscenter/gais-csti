@@ -1,0 +1,217 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-11-12T10:23:42",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 32,
+ "n_articles": 27,
+ "n_no_text": 5,
+ "n_coded": 27,
+ "n_relevant": 2,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://carnegieendowment.org/research/2026/10/the-end-of-primacy-without-pain": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The End of Primacy Without Pain: Why the Domestic Foundation of American Power Is Crumbling | Carnegie Endowment for International Peace"
+  },
+  "https://www.rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China’s sanctions on Taiwan allies project its power, but with limited effect – Radio Free Asia"
+  },
+  "https://www.the-star.co.ke/news/2026-10-23-china-uses-nairobi-event-to-renew-push-for-taiwan-reunification": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China uses Nairobi event to renew push for Taiwan reunification"
+  },
+  "https://www.defensenews.com/land/2026/10/19/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon - Defense News"
+  },
+  "https://www.asiaone.com/world/daily-roundup-pub-completes-upper-bukit-timah-canal-upgrade-boosting-stormwater-capacity-30": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Daily roundup: PUB completes Upper Bukit Timah Canal upgrade, boosting stormwater capacity by 30% — and other top stories today, World News - AsiaOne"
+  },
+  "https://thediplomat.com/2026/10/the-china-taiwan-diplomatic-war-is-more-about-politics-than-economics/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "The China-Taiwan Diplomatic War Is More About Politics Than Economics – The Diplomat"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/24/2003866531": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Beijing targeting family of ‘separatists’: US report - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/23/2003866501": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US think tank report highlights Chinese interference in Taipei race - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/23/2003866493": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "MAC monitoring situation after Tibet quake - Taipei Times"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/23/WS6ada8ca1e4b06d4aa05644a1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Opportunities thrive at Fujian's Taiwan Town - Chinadaily.com.cn"
+  },
+  "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China’s first aircraft carrier forms ‘evolving pattern’ of voyages in disputed Asian seas - Defense News"
+  },
+  "https://mynewsla.com/crime/2026/10/23/arraignment-due-for-irvine-woman-charged-with-espionage/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Irvine Woman Charged with Espionage Due for Arraignment - MyNewsLA.com"
+  },
+  "https://www.chennaionline.com/news/chinese-ships-spotted-near-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Chinese Ships Spotted Near Taiwan – Chennaionline"
+  },
+  "https://www.chronicle.lu/category/international/64191-taiwan-shuts-down-ahead-of-typhoon-champi-nearly-1k-flights-cancelled": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan Shuts Down Ahead of Typhoon Champi, Nearly 1k Flights Cancelled"
+  },
+  "https://focustaiwan.tw:443/society/202610230018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Typhoon Champi disrupts flights, ferry services across Taiwan - Focus Taiwan"
+  },
+  "http://www.prnewswire.com/news-releases/kkl-deepens-us-market-expansion-through-partnership-with-no-1-asian-american-distributor-diamond-hong-302917690.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "KKL Deepens U.S. Market Expansion Through Partnership with No. 1 Asian-American Distributor Diamond Hong"
+  },
+  "https://arynews.tv/taiwan-shuts-down-ahead-of-typhoon-champi-hundreds-of-flights-cancelled": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan shuts down ahead of Typhoon Champi, hundreds of flights cancelled"
+  },
+  "https://www.sentinelassam.com/more-news/international/china-accused-of-six-tactics-to-interfere-in-taiwans-local-elections": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China accused of six tactics to interfere in Taiwan’s local elections"
+  },
+  "https://www.ksl.com:443/article/51639939/taiwan-shuts-down-ahead-of-typhoonchampi-hundreds-of-flights-cancelled": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled | KSL.com"
+  },
+  "https://sana.sy/international/2614900/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "الصين: لا \"منطقة رمادية\" في مسألة تايوان"
+  },
+  "https://hot96.com/2026/10/22/taiwan-shuts-down-ahead-of-weakening-typhoon-champi-hundreds-of-flights-cancelled/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan shuts down ahead of Typhoon Champi, nearly 1,000 flights cancelled | HOT 96 | The Tri State's #1 Hit Music Station | Evansville, IN"
+  },
+  "https://thediplomat.com/2026/10/xis-military-purges-make-us-deterrence-more-urgent/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi’s Military Purges Make US Deterrence More Urgent – The Diplomat"
+  },
+  "https://www.militarytimes.com/flashpoints/china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China - Military Times"
+  },
+  "https://mynewsla.com/crime/2026/10/23/irvine-woman-charged-with-espionage-pleads-not-guilty/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Irvine Woman Pleads Not Guilty to Espionage - MyNewsLA.com"
+  },
+  "https://www.fool.com/investing/2026/10/23/as-the-us-pulls-chip-making-back-home-toolmakers/?source=iedfolrf0000001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "As the U.S. Pulls Chip Making Back Home, the Toolmakers Win First | The Motley Fool"
+  },
+  "https://www.themarketsdaily.com/2026/10/23/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sold-by-pinnacle-associates-ltd.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Sold by Pinnacle Associates Ltd. - Markets Daily"
+  },
+  "https://news.harianjogja.com/r-1276100/topan-champi-lumpuhkan-taiwan-ratusan-penerbangan-batal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Topan Champi Lumpuhkan Taiwan, Ratusan Penerbangan Batal"
+  }
+ }
+}

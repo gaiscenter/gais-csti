@@ -1,0 +1,223 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-12T10:25:55",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 30,
+ "n_articles": 28,
+ "n_no_text": 2,
+ "n_coded": 26,
+ "n_relevant": 4,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.hani.co.kr/arti/international/china/1285746.html",
+  "https://www.globaltimes.cn/page/202611/1373615.shtml"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/05/2003867198": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Man who tried to smuggle in eight turtles and a marmot indicted: CGA - Taipei Times"
+  },
+  "https://www.postandcourier.com/politics/annie-andrews-darline-graham-us-senate-election-results/article_e6093b3a-e15e-4313-a592-b92681579f96.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Annie Andrews wins South Carolina Senate election"
+  },
+  "https://focustaiwan.tw/society/202611040015": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 24,
+   "title": "Former CCTV host seeking asylum in Taiwan deported to Thailand - Focus Taiwan"
+  },
+  "https://www.riotimesonline.com/china-military-purge-explained-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China's Military Purge Explained for US Readers"
+  },
+  "https://www.independent.co.uk/news/world/australasia/china-papua-new-guinea-shell-wine-bottle-b3078760.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China says object resembling artillery shell found in Papua New Guinea is just a harmless ‘wine bottle’ | The Independent"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5629786": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 Ex-CCTV host seeking asylum deported - 焦點 - 自由時報電子報"
+  },
+  "https://maritime-executive.com/article/xi-jinping-completes-his-military-purge-including-pla-navy-s-top-admirals": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi Jinping Completes His Military Purge, Including PLA Navy's Top Admirals"
+  },
+  "https://www.aol.com/articles/characters-being-talked-jensen-huang-050652000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "All the characters being talked about in the Jensen Huang scandal - AOL"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867154": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Former CCTV host seeking asylum deported to Thailand - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/05/2003867186": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ex-CCTV host seeking asylum deported - Taipei Times"
+  },
+  "https://time.com/article/2026/11/04/south-carolina-senate-results-darline-graham-democrat-annie-andrews-republican/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Annie Andrews Defeats Darline Graham in South Carolina Senate Race"
+  },
+  "http://www.china.org.cn/2026-11/04/content_118760810.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Forum held in Taipei to mark 160th birth anniv. of Sun Yat-sen - China.org.cn"
+  },
+  "https://english.news.cn/20261104/1f343218bc7648b2819ee26987a7193d/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan has no right to join Interpol: mainland spokesperson-Xinhua"
+  },
+  "https://engineeringevil.com/2013/10/06/china-warns-u-s-japan-australia-not-to-gang-up-in-sea-disputes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China warns U.S., Japan, Australia not to gang up in sea disputes – Engineering Evil"
+  },
+  "https://executivedigest.sapo.pt/taiwan-denuncia-presenca-de-mais-de-cem-navios-militares-chineses-no-pacifico-ocidental/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan denuncia presença de mais de cem navios militares chineses no Pacífico ocidental"
+  },
+  "https://www.eurasiareview.com/04112026-china-could-erode-taiwans-hold-on-remote-pratas-island-without-invasion-analysis/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China Could Erode Taiwan’s Hold On Remote Pratas Island Without Invasion - Analysis - Eurasia Review"
+  },
+  "https://www.chinatechnews.com/2026/11/04/132048-could-china-invade-taiwan-in-2027-a-top-u-s-general-says-the-timeline-still-matters": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Could China Invade Taiwan In 2027? A Top U.S. General Says The Timeline Still Matters. - ChinaTechNews.com"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/05/2003867180": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Donovan’s Deep Dives: Puma Shen’s unlikely rise and the mystery of the Ocean Wave - Taipei Times"
+  },
+  "https://news.mail.ru/politics/72968897/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Госсовет КНР отверг возможность переговоров с сепаратистами Тайваня - Новости Mail"
+  },
+  "https://www.hindustantimes.com/world-news/us-news/china-to-uk-and-russia-how-world-leaders-reacted-to-donald-trump-s-us-midterms-defeat-101793798216912.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China to UK and Russia: How world leaders reacted to Donald Trump’s US midterms defeat | Hindustan Times"
+  },
+  "https://www.thedailybeast.com/panicked-fox-news-panel-admits-donald-trump-picked-weak-candidate-in-darline-graham": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Panicked Fox News Panel Admits Donald Trump Picked âWeak Candidateâ in Darline Graham"
+  },
+  "http://global.chinadaily.com.cn/a/202611/04/WS6aea6971e4b06d4aa0566df5.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Young voices carry Mazu's legacy - Chinadaily.com.cn"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867553": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Guam, Taipei elementary schools sign sister-school pact - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867245": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China targeted 131 Taiwanese: MAC - Taipei Times"
+  },
+  "https://www.moneycontrol.com/world/total-defeat-how-china-reacted-to-trump-s-midterm-election-loss-article-14070294.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "‘Total Defeat’: How China reacted to Trump's midterm election loss"
+  },
+  "https://instinctmagazine.com/taiwan-pride-mayor-gay-bar-police-raid/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taiwan Mayor Shows Up for Pride, but the Crowd Has Other Plans | Instinct Magazine"
+  }
+ }
+}

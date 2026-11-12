@@ -1,0 +1,283 @@
+{
+ "date": "2026-08-22",
+ "generated_at": "2026-11-12T10:03:31",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 33,
+ "n_articles": 30,
+ "n_no_text": 3,
+ "n_coded": 30,
+ "n_relevant": 11,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "http://www.chinanationalnews.com/news/279257559/taiwan-detects-surge-in-chinese-military-activity-around-its-territory": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects surge in Chinese military activity around its territory"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862978": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Etihad apologizes for in-flight broadcast - Taipei Times"
+  },
+  "https://www.nbcnews.com/politics/2026-election/trump-fans-torn-darline-graham-republican-runoff-south-carolina-primar-rcna592848": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump’s super fans are torn on Darline Graham ahead of key GOP Senate contest"
+  },
+  "https://www.businesstoday.in/world/story/us-navy-p-8a-poseidon-transits-taiwan-strait-as-china-tracks-aircraft-report-550738-2026-08-22": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US Navy P 8A Poseidon transits Taiwan Strait as China tracks aircraft: Report - BusinessToday"
+  },
+  "https://www.advocate.com/politics/national/trump-reverse-transgender-surgery": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump makes wild claim about ordering 'reverse surgery' | Advocate.com"
+  },
+  "https://www.aol.co.uk/articles/boeings-fatal-disasters-mid-air-060319000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Boeing's fatal disasters from mid-air disintegration to 'deadliest crash in history' - AOL"
+  },
+  "https://ichannela.com/news/detail/000000546444.do": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "中·대만 긴장 고조 와중에…美 초계기 대만해협 통과 | 채널A 뉴스"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260822/4489573.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects surge in Chinese military activity around its territory"
+  },
+  "https://www.cp24.com/news/world/2026/08/22/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "U.S. Navy aircraft transits Taiwan Strait before Xi-Trump meeting"
+  },
+  "https://www.alternet.org/standards-have-changed-cnn-exposes-the-hideous-hypocrisy-of-darlene-graham-cleanup/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "'Standards have changed': Hypocrisy of Trump's Graham cleanup exposed by CNN - Alternet.org"
+  },
+  "https://larazon.pe/taiwan-denuncio-nueva-incursion-de-buque-chino/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "Taiwán denunció nueva incursión de buque chino - La Razón"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/7-people-including-2-police-officers-die-following-head-on-collision-in-northeast-england/articleshow/133425703.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "7 people, including 2 police officers, die following head-on collision in northeast England - The Economic Times"
+  },
+  "https://focustaiwan.tw/society/202608220009": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China-born U.S. priest obtains Taiwan ID after overcoming red tape - Focus Taiwan"
+  },
+  "https://www.infobae.com/america/mundo/2026/08/22/tension-en-asia-un-avion-militar-estadounidense-sobrevolo-el-estrecho-de-taiwan-y-el-regimen-chino-vigilo-la-operacion/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Tensión en Asia: un avión militar estadounidense sobrevoló el estrecho de Taiwán y el régimen chino vigiló la operación - Infobae"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/23/2003862956": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "EDITORIAL: The devil in the omissions - Taipei Times"
+  },
+  "https://fakti.bg/world/1076028-samolet-na-sasht-preleta-nad-taivanskia-protok-pekin-reagira": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Самолет на САЩ прелетя над Тайванския проток, Пекин реагира ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.yahoo.com/news/politics/articles/trump-tries-push-sen-darline-090029048.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "South Carolina Republicans split over Darline Graham’s ‘eyebrow-raising’ debate performance"
+  },
+  "https://economictimes.indiatimes.com/news/defence/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting/articleshow/133415731.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting - The Economic Times"
+  },
+  "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting - Nikkei Asia"
+  },
+  "https://aninews.in/news/world/asia/taiwan-accuses-china-of-silencing-political-dissent20260822173944/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan accuses China of silencing political dissent"
+  },
+  "https://confirmado.com.ve/taiwan-denuncia-la-incursion-de-un-buque-de-investigacion-chino-al-suroeste-de-la-isla/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán denuncia la incursión de un buque de investigación chino al suroeste de la isla"
+  },
+  "https://www.cbsnews.com/news/trump-darline-graham-south-carolina-runoff/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump campaigns with Darline Graham ahead of runoff: \"Say that I'm on the ballot one more time\" - CBS News"
+  },
+  "https://www.rawstory.com/erin-burnett-sean-hannity/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Hannity shamed in damning supercut by CNN's Erin Burnett over curious contradiction - Raw Story"
+  },
+  "https://www.southcarolinapublicradio.org/sc-news/2026-08-21/trump-to-rally-support-for-graham-in-myrtle-beach-in-heated-gop-senate-runoff-against-norman": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump rallies for Graham in Myrtle Beach before GOP Senate runoff against Norman | South Carolina Public Radio"
+  },
+  "https://www.yahoo.com/news/politics/articles/trump-heads-south-carolina-boost-122844154.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump defends Darline Graham debate gaffe ahead of South Carolina rally"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862980": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Defense budget proposal sending US signals: expert - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/world/us/pretend-please-that-im-on-the-ballot-trumps-appeal-to-voters-ahead-of-midterms/articleshow/133427431.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "âPretend, please, that Iâm on the ballotâ: Trump's appeal to voters ahead of midterms - The Times of India"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/23/2003862988": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Ex-Chinese priest gets naturalized after decades - Taipei Times"
+  },
+  "https://2paragraphs.com/2026/08/ralph-norman-blames-democrats-for-propping-up-darline-graham-trumps-pick/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Ralph Norman Blames Democrats for “Propping Up” Darline Graham, Trump’s Pick"
+  },
+  "https://timesofindia.indiatimes.com/world/us/us-death-valley-tragedy-french-tourist-dies-after-vehicle-gets-stuck-in-47c-heat/articleshow/133427103.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US Death Valley tragedy: French tourist dies after vehicle gets stuck in 47Â°C heat - The Times of India"
+  }
+ }
+}

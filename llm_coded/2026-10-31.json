@@ -1,0 +1,100 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-11-12T10:25:13",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 14,
+ "n_articles": 11,
+ "n_no_text": 3,
+ "n_coded": 10,
+ "n_relevant": 2,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.taipeitimes.com/News/front/archives/2026/11/02/2003866988"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/front/archives/2026/11/01/2003866944": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "MAC details stark Taiwan-China divide - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5625329": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "《TAIPEI TIMES》 China’s military purge reduces war risk: experts - 焦點 - 自由時報電子報"
+  },
+  "https://www.hngn.com/articles/273643/20261030/taiwan-maps-53-chinese-ships-calls-three-front-threat-obvious.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan Maps 53 Chinese Ships, Calls Three-Front Threat 'Obvious'"
+  },
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280224&PAGE_CD=N0002&CMPT_CD=M0118": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "한동훈, 조희대 국조 추진에 \"백주대낮에 바지 벗는 정권\" - 오마이뉴스"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/01/2003866956": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China’s military purge reduces war risk: experts - Taipei Times"
+  },
+  "https://www.athensvoice.gr/epikairotita/diethni/994531/pos-i-hello-kitty-blehtike-se-kataskopeutiko-thriler-kai-prokalese-orgi-stin-kina/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Πώς η Hello Kitty μπλέχτηκε σε κατασκοπευτικό θρίλερ και προκάλεσε οργή στην Κίνα | Athens Voice"
+  },
+  "https://focustaiwan.tw:443/society/202610310009": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan Pride parade attendees call for visibility, freedom and an end to stigma - Focus Taiwan"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/taiwan-looks-to-autonomous-swarms-to-counter-beijings-grey-zone-pressure": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure | The Star"
+  },
+  "https://informer.rs/planeta/vesti/1165469/tajvan-kina-vestacka-inteligencija-kina": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Kina bi mogla da napadne Tajvan zbog AI: Upozorenje iz SAD - Informer.rs"
+  },
+  "https://www.npr.org/2026/09/05/nx-s1-5954203/taiwans-breakfast-king-why-the-chewy-savory-dan-bing-rules-the-morning": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan dan bing crepes fold in Asia Cold War history : NPR"
+  }
+ }
+}

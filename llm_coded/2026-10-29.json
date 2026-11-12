@@ -1,0 +1,306 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-11-12T10:24:55",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 39,
+ "n_articles": 35,
+ "n_no_text": 4,
+ "n_coded": 32,
+ "n_relevant": 12,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://www.straitstimes.com/asia/east-asia/taiwan-suspects-china-behind-brief-pakistan-airspace-ban",
+  "https://propakistani.pk/2026/10/29/taiwan-claims-china-involved-in-brief-pakistan-airspace-ban/",
+  "https://news.webindia123.com/news/Articles/World/20261029/4513240.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.theepochtimes.com/china/indiana-treasurer-says-beijing-does-not-dictate-state-officials-work-6110571": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Indiana Treasurer Says Beijing ‘Does Not Dictate’ State Officials’ Work | The Epoch Times"
+  },
+  "http://www.bignewsnetwork.com/news/279403391/japan-a-real-threat-to-regional-security-chinese-spokesperson": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japan a real threat to regional security: Chinese spokesperson"
+  },
+  "https://www.rfa.org:443/english/china/2026/10/28/china-taiwan-sun-yat-sen/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China leverages Taiwan’s reverence for Sun Yat-sen to promote ‘reunification’ – Radio Free Asia"
+  },
+  "https://theshillongtimes.com/2026/10/29/pakistans-taiwan-airspace-u-turn-exposes-diplomatic-balancing-act/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Pakistan’s Taiwan airspace U-turn exposes diplomatic balancing act | The Shillong Times"
+  },
+  "https://www.eurasiareview.com/29102026-china-leverages-taiwans-reverence-for-sun-yat-sen-to-promote-reunification-analysis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China Leverages Taiwan’s Reverence For Sun Yat-Sen To Promote ‘Reunification’ - Analysis - Eurasia Review"
+  },
+  "https://whbl.com/2026/10/28/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Taiwan flags ‘obvious’ threat from 50 Chinese vessels in wide sweep of waters | 1330 & 101.5 WHBL"
+  },
+  "https://www.business-standard.com/world-news/taiwan-suspects-china-behind-pakistan-s-brief-airspace-ban-for-its-airlines-126102900461_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan suspects China behind Pakistan's brief airspace ban for its airlines | World News - Business Standard"
+  },
+  "https://news.mail.ru/politics/72898501/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Угроза Тайваню от Китая: 53 корабля и авианосец «Ляонин», заявление Совбеза Тайваня - Новости Mail"
+  },
+  "http://eng.chinamil.com.cn/2025xb/V_251452/16496970.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Japan's Obstinate Push for Bloc Confrontation Finds No Support: Defense Spokesperson - China Military"
+  },
+  "https://www.independent.co.uk/asia/south-asia/pakistan-shut-airspace-taiwain-one-china-policy-b3074778.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Pakistan overturns ban on Taiwanese airlines in dramatic U-turn after less than 24 hours | The Independent"
+  },
+  "https://www.lindependant.fr/2026/10/29/tensions-en-asie-la-menace-est-evidente-la-chine-deploie-plus-de-50-navires-de-guerre-taiwan-donne-lalerte-13626194.php": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Tensions en Asie : \"La menace est évidente\", la Chine déploie plus de 50 navires de guerre, Taïwan donne l’alerte - lindependant.fr"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/29/taiwan-flags-obvious-threat-from-53-chinese-vessels-in-wide-sweep-of-waters": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan flags ‘obvious’ threat from 53 Chinese vessels in wide sweep of waters | FMT"
+  },
+  "https://www.business-standard.com/world-news/us-intelligence-links-nvidia-ceo-contact-to-china-spying-concerns-report-126102901145_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia chief Jensen Huang reportedly targeted in Chinese spy plot | World News - Business Standard"
+  },
+  "https://www.zerohedge.com/ai/nvidia-ceo-jensen-huang-reportedly-targeted-chinese-spy-plot": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Nvidia CEO Jensen Huang Reportedly Targeted In Chinese Spy Plot<!-- --> | ZeroHedge"
+  },
+  "https://gcaptain.com/taiwan-flags-obvious-threat-from-50-chinese-vessels-in-wide-sweep-of-waters/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan Flags 'Obvious' Threat From 50 Chinese Vessels in Wide Sweep of Waters"
+  },
+  "https://www.asiaone.com/asia/taiwan-flags-obvious-threat-50-chinese-vessels-wide-sweep-waters": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters, Asia News - AsiaOne"
+  },
+  "https://www.lbc.co.uk/article/taiwan-china-vessels-threat-5HjdkcP_2/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters | LBC"
+  },
+  "https://focustaiwan.tw:443/politics/202610290015": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "Taiwan considers penalties for transnational repression: Cabinet - Focus Taiwan"
+  },
+  "https://www.armstrongeconomics.com/world-news/war/pakistans-taiwan-airspace-dispute-reveals-chinas-growing-influence/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Pakistan's Taiwan Airspace Dispute Reveals China's Growing Influence | Armstrong Economics"
+  },
+  "https://www.voanews.com/a/us-war-secretary-seeks-stronger-asean-ties-as-china-indonesia-begin-joint-training-20261029/8216573.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "US War Secretary seeks stronger ASEAN ties as China, Indonesia begin joint training"
+  },
+  "https://www.sfexaminer.com/nvidia-chief-seen-as-target-of-chinese-spy-plot/article_6fba4b3b-f186-58bc-8373-373ab9e2e27f.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia chief seen as target of Chinese spy plot |  | sfexaminer.com"
+  },
+  "https://www.teraz.sk/zahranicie/taiwan-vini-cinu-z-uzavretia-pakistan/1003624-clanok.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan viní Čínu z uzavretia pakistanského vzdušného priestoru"
+  },
+  "https://www.ibtimes.co.uk/google-ai-search-biden-2020-election-answer-1828748": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump Boasted Google 'Kisses My Ass'—11 Days Later, Its AI Refused to Name Biden as 2020 Election Winner | IBTimes UK"
+  },
+  "https://aninews.in/news/world/asia/indiana-treasurer-rejects-china8217s-criticism-over-attendance-at-taiwan-national-day-reception20261029165737/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Indiana Treasurer rejects China&#8217;s criticism over attendance at Taiwan National Day reception"
+  },
+  "https://www.indiablooms.com/world/pakistans-airspace-u-turn-bans-taiwanese-airlines-in-support-of-one-china-policy-then-reverses-decision/details": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Pakistan’s airspace U-turn: Bans Taiwanese airlines in support of 'One-China' policy, then reverses decision | Indiablooms - First Portal on Digital News Management"
+  },
+  "https://www.expressen.se/nyheter/varlden/helvetesvaggen-ska--stoppa-kinas-militar/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Försvarssystemet Hellscape ska stoppa Kinas invasion av Taiwan"
+  },
+  "https://www.insurancebusinessmag.com/us/news/risk-compliance-legal/three-insurers-sue-cosco-over-647k-in-missing-acer-laptops-595520.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Three insurers sue COSCO over $647K in missing Acer laptops | Insurance Business"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/30/2003866844": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Polls do not dictate the winners - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5623299": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》US Army outlines Pacific deployments for possible 2027 China-Taiwan conflict - 焦點 - 自由時報電子報"
+  },
+  "http://thepeninsulaqatar.com/article/29/10/2026/taiwan-says-pakistan-briefly-closed-airspace-to-taiwanese-flights": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan says Pakistan briefly closed airspace to Taiwanese flights | The Peninsula Qatar"
+  },
+  "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang: report"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/30/2003866870": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "AI rise could fuel China invasion threat: Palantir - Taipei Times"
+  }
+ }
+}

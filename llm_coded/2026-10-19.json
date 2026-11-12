@@ -1,0 +1,166 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-11-12T10:22:36",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 26,
+ "n_articles": 23,
+ "n_no_text": 3,
+ "n_coded": 19,
+ "n_relevant": 2,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866292",
+  "https://aninews.in/news/world/asia/taiwan-reports-458-missing-detained-or-restricted-in-china-religious-group-members-face-arrests20261019134519/",
+  "https://aninews.in/news/world/asia/china-sanctions-paraguay-belize-ministers-over-support-for-taiwan20261019134229/",
+  "https://openthemagazine.com/world/taiwan-says-458-nationals-missing-detained-or-restricted-in-china-this-year"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866294": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "2026 Elections: Taichung mayoral candidates propose divergent policies - Taipei Times"
+  },
+  "http://www.shanghainews.net/news/279384432/taiwan-reports-458-missing-detained-or-restricted-in-china-religious-group-members-face-arrests": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan reports 458 missing, detained or restricted in China; religious group members face arrests"
+  },
+  "https://www.nbcnews.com/news/us-news/california-woman-indicted-charges-spying-china-rcna604242": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "California woman indicted on charges she was spying for China"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866291": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Agencies flouting China travel ban, sources say - Taipei Times"
+  },
+  "https://www.el-balad.com/17059044": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Typhoon Champi regains level 16 as Taiwan forecast diverges - El-Balad.com"
+  },
+  "https://www.thetimes.com/comment/columnists/article/world-cant-ignore-escalation-over-taiwan-dzdqkw376": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Verifying Device"
+  },
+  "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon - Defense News"
+  },
+  "http://www.haberport.com/haber/denizlide-turizm-profili-degisiyor-avrupa-ve-amerika-one-cikti/52593": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Denizli’de turizm profili değişiyor: Avrupa ve Amerika öne çıktı | Haberport"
+  },
+  "https://www.cfr.org/global-conflict-tracker/conflict/confrontation-over-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Confrontation Over Taiwan | Global Conflict Tracker"
+  },
+  "https://www.straitstimes.com/asia/east-asia/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan says it drove away 16 Chinese ships involved in ‘maritime harassment’ | The Straits Times"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/19/WS6ad57e57e4b06d4aa0563808.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Zhu Xi's legacy fosters cross-cultural exchanges - Chinadaily.com.cn"
+  },
+  "https://www.rustourismnews.com/2026/10/19/china-airlines-offers-15-off-premium-economy-and-10-off-business-class/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China Airlines Offers 15% Off Premium Economy and 10% Off Business Class"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866252": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Group calls for act to revitalize native languages - Taipei Times"
+  },
+  "https://www.aol.com/articles/taiwans-stock-pickers-walking-bet-170700000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 15,
+   "title": "Taiwan's Stock Pickers Are Walking Out to Bet Their Own Money - AOL"
+  },
+  "https://aninews.in/news/world/asia/taiwan-experts-urge-ai-filters-media-literacy-to-counter-chinese-election-disinformation20261019190220/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan experts urge AI filters, media literacy to counter Chinese election disinformation"
+  },
+  "https://cruiseindustrynews.com/cruise-news/2026/10/the-world-makes-inaugural-visit-to-port-of-sokcho/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "The World Makes Inaugural Visit to Port of Sokcho - Cruise Industry News | Cruise News"
+  },
+  "https://www.theyeshivaworld.com/news/general/2611524/putins-proposal-russian-president-seeks-summit-with-trump-and-xi-to-decide-ukraines-future-without-zelensky.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "PUTIN’S PROPOSAL: Russian President Seeks Summit With Trump And Xi To Decide Ukraine’s Future Without Zelensky – The Yeshiva World"
+  },
+  "https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/tlc590-achieves-statistically-significant-reductions-in-pain-and-opioid-use-versus-both-placebo-and-liposomal-bupivacaine-in-pivotal-phase-3-trial/2448497": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "TLC590 Achieves Statistically Significant Reductions in Pain and Opioid Use Versus Both Placebo and Liposomal Bupivacaine in Pivotal Phase 3 Trial\n\n | The Manila Times"
+  },
+  "https://www.fool.com/investing/2026/10/19/not-nvidia-not-micron-this-artificial-intelligence/?source=iedfolrf0000001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Not Nvidia. Not Micron. This Artificial Intelligence (AI) Chip Stock Has the Most Upside Through 2030. | The Motley Fool"
+  }
+ }
+}

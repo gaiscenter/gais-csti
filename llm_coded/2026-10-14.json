@@ -1,0 +1,426 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-11-12T10:21:41",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 55,
+ "n_articles": 49,
+ "n_no_text": 6,
+ "n_coded": 48,
+ "n_relevant": 14,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.theepochtimes.com/epochtv/china-holds-drills-in-5-seas-after-taiwan-national-day-6103297"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.greaterbelize.com/taiwan-foreign-minister-warns-eu-dependence-on-china-is-a-threat-to-european-freedom/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan Foreign Minister Warns EU: Dependence on China Is a Threat to European Freedom | Greater Belize Media"
+  },
+  "https://focustaiwan.tw:443/politics/202610140023": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Belize PM vows stronger support for Taiwan after China sanctions - Focus Taiwan"
+  },
+  "https://www.newdelhitimes.com/taiwans-lai-says-the-island-will-not-give-up-its-freedom-in-national-day-speech/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan’s Lai says the island will not give up its freedom in National Day speech - New Delhi Times"
+  },
+  "https://www.greaterbelize.com/chinas-sanction-note-points-to-taiwans-visit-fonseca-calls-it-interference/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China’s Sanction Note Points to Taiwan’s Visit; Fonseca Calls it “Interference”"
+  },
+  "https://focustaiwan.tw:443/politics/202610140010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Ex-U.S. national intelligence director praises Han Kuang reforms - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/15/2003865998": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Former US official praises Taiwan’s drills transformation - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/world/china/research-ships-seabed-surveys-inside-chinas-grey-zone-tactics-against-taiwan/articleshow/134944662.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Research ships & seabed surveys: Inside Chinaâs grey-zone tactics against Taiwan - The Times of India"
+  },
+  "https://www.theepochtimes.com/china/china-announces-5-days-of-live-fire-military-drills-6102872": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China Announces 5 Days of Live Fire Military Drills | The Epoch Times"
+  },
+  "https://www.orissapost.com/taiwan-plans-to-buy-lng-from-alaska-pipeline-project/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan plans to buy LNG from Alaska pipeline project - OrissaPOST"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/15/2003866008": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Legislator calls for tighter agricultural import rules - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/15/2003866021": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Chinese naval carrier group enters western Pacific - Taipei Times"
+  },
+  "https://www.infobae.com/america/mundo/2026/10/14/china-amenazo-a-taiwan-por-usar-canones-de-agua-para-expulsar-a-un-pesquero-de-una-zona-restringida-del-mar-meridional/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China amenazó a Taiwán por usar cañones de agua para expulsar a un pesquero de una zona restringida del mar Meridional - Infobae"
+  },
+  "https://www.wral.com/news/ap/35e41-taiwan-plans-to-buy-liquefied-natural-gas-from-alaska-pipeline-project/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project :: WRAL.com"
+  },
+  "https://alaskapublic.org/news/economy/energy/2026-10-14/taiwan-plans-to-buy-liquefied-natural-gas-from-alaska-pipeline-project": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan plans to buy liquefied natural gas from Alaska pipeline project"
+  },
+  "http://www.econotimes.com/China-Warns-Taiwan-Over-South-China-Sea-Coast-Guard-Incident-1754883": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China Warns Taiwan Over South China Sea Coast Guard Incident | EconoTimes"
+  },
+  "https://www.theepochtimes.com/china/taiwan-plans-up-to-4-4-billion-investment-in-alaska-lng-project-6103796": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Plans up to $4.4 Billion Investment in Alaska LNG Project | The Epoch Times"
+  },
+  "https://udaipurkiran.com/taiwan-to-buy-30-of-alaska-lng-for-20-years-invest-4-4-billion-trump/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan to Buy 30% of Alaska LNG for 20 Years, Invest $4.4 Billion: Trump | Udaipur Kiran"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/10/14/taiwan-must-bear-the-consequences-of-water-cannon-incident-china-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan must ‘bear the consequences’ of water cannon incident, China says - Internazionale"
+  },
+  "https://news.mail.ru/politics/72724957/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 18,
+   "title": "Посольство КНР в США: Тайваню нужно строить отношения по принципу единого Китая - Новости Mail"
+  },
+  "https://amandala.com.bz/news/belize-protests-guatemalas-violation-of-our-airspace/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Belize protests Guatemala’s violation of our airspace | Amandala Newspaper"
+  },
+  "https://www.koreatimes.co.kr/world/20261015/trump-claims-again-s-korea-to-invest-in-alaska-lng-project-under-trade-deal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump claims again Korea to invest in Alaska LNG project under trade deal - The Korea Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/14/2003865957": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Nurse recalls questioning by Chinese state security in Tibet - Taipei Times"
+  },
+  "https://dunyanews.tv/en/World/977706-taiwan-must-bear-the-consequences-of-water-cannon-incident-china-sa": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan must 'bear the consequences' of water cannon incident, China says | Dunya News"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/10/15/2003865982": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Notes from Central Taiwan: Annexation could sever Taiwan’s chip lifeline - Taipei Times"
+  },
+  "https://allafrica.com/stories/202610130683.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Liberia: The Same Questions Unity Party Asked Weah Must Now Be Answered By Boakai - allAfrica.com"
+  },
+  "https://gcaptain.com/trump-touts-taiwan-alaska-lng-deal-taipei-hasnt-finalized/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump Touts Taiwan-Alaska LNG Deal Taipei Hasn’t Finalized"
+  },
+  "https://link.springer.com/book/10.1007/978-3-032-28175-3": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Theory and Practice in Reconstructive and Oncoplastic Breast Surgery: Technical approaches and conceptual advances | Springer Nature Link"
+  },
+  "https://www.wxii12.com/article/president-trump-arizona-montana-today-voters-midterms/74128849": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump in Arizona, Montana today to speak with voters ahead of the midterms - WXII"
+  },
+  "https://www.aol.com/articles/kentucky-woman-still-had-her-134427000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Kentucky Woman Still Had Her Credit Card as Fraudulent Charges Appeared. Suspect Arrested Before Taiwan Flight - AOL"
+  },
+  "https://www.naroomanewsonline.com.au/story/9368562/taiwan-agrees-to-buy-lng-from-alaska-project-trump/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 18,
+   "title": "Taiwan agrees to buy LNG from Alaska project: Trump | Narooma News | Narooma, NSW"
+  },
+  "https://newsroomamerica.com/a/BXkj81sIjUTHL9VqJJLyXERpIYN/newsweek_reports_democrats_lead_national_polls_ahead_of_the_midterms_kimberly_guilfoyle_resigns_as_ambassador_to_greece_and_president_trump_rallies_in_alaska_for_republican_candidates.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Media Monitor: Newsweek Reports Democratic Momentum Ahead of Midterms, Guilfoyle Resignation and Trump's Alaska Rally — newsroomamerica.com"
+  },
+  "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says"
+  },
+  "https://www.spokesman.com/stories/2026/oct/13/trump-says-taiwan-agrees-to-buy-30-of-lng-from-ala/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Trump says Taiwan agrees to buy 30% of LNG from Alaska pipeline project"
+  },
+  "https://www.prokerala.com/news/articles/a1824142.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan to buy 30 per cent of Alaska LNG: Trump"
+  },
+  "https://www.dailymail.com/news/article-16207255/trump-taiwan-deal-alaska-pipeline.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump says Taiwan agrees to buy 30% of LNG from Alaska... | Daily Mail Online"
+  },
+  "https://aa.com.tr/en/americas/trump-says-taiwan-agreed-to-buy-30-of-lng-from-alaska-pipeline-project-for-20-years/4087953": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump says Taiwan agreed to buy 30% of LNG from Alaska pipeline project for 20 years"
+  },
+  "https://aninews.in/news/world/asia/taiwan-foreign-minister-warns-eu-against-dependence-on-china-ahead-of-brussels-summit20261014165708/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Foreign Minister warns EU against dependence on China ahead of Brussels Summit"
+  },
+  "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Internet’s undersea backbone is slipping into the danger zone - Ars Technica"
+  },
+  "https://www.newsbomb.gr/kosmos/story/1769779/lefkos-oikos-anakoinose-mega-protzekt-stin-energeia-kataskevi-neou-agogoy-54-dis-stin-alaska": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Λευκός Οίκος: Ανακοίνωσε μέγα πρότζεκτ στην ενέργεια – Κατασκευή νέου αγωγού 54 δισ. στην Αλάσκα - Newsbomb"
+  },
+  "https://www.taipeitimes.com/News/world/archives/2026/10/15/2003866016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Chinese in US accused of poisoning - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/15/2003865979": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "A Pacific pivot ahead for Taiwan? - Taipei Times"
+  },
+  "https://english.news.cn/20261014/6a91066bae194ce6a95dd2f678253c52/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Macao honors sea goddess Mazu with rituals, procession-Xinhua"
+  },
+  "https://www.anewsa.com/detail.php?number=3207815": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "키라스, 데뷔 후 첫 대만行! 12월 타이베이 팬미팅 개최 확정"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5606565": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》Former US official praises Taiwan’s drills transformation - 焦點 - 自由時報電子報"
+  },
+  "https://www.asiaone.com:443/china/taiwan-must-bear-consequences-water-cannon-incident-china-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan must 'bear the consequences' of water cannon incident, China says, China News - AsiaOne"
+  },
+  "https://thepointsguy.com/news/delta-alaska-airlines-turf-war-seattle": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Delta and Alaska's Seattle showdown not a 'battle,' CEO says - The Points Guy"
+  },
+  "https://www.thehindu.com/news/international/trump-says-taiwan-to-buy-30-of-gas-from-alaska-pipeline/article71582181.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Trump says Taiwan to buy 30% of gas from Alaska pipeline - The Hindu"
+  },
+  "https://www.aol.com/articles/worlds-first-michelin-starred-ice-064500000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Is The World's First Michelin-Starred Ice Cream Shop Truly Destination-Worthy? - AOL"
+  }
+ }
+}

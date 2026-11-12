@@ -1,0 +1,208 @@
+{
+ "date": "2026-09-08",
+ "generated_at": "2026-11-12T10:07:33",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 27,
+ "n_articles": 25,
+ "n_no_text": 2,
+ "n_coded": 24,
+ "n_relevant": 4,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://aninews.in/news/world/asia/competition-intensifies-to-stop-china-turning-the-blue-pacific-red20260908155104/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://thediplomat.com/2026/09/is-china-really-a-cyber-threat-to-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Is China Really a Cyber Threat to Taiwan?  – The Diplomat"
+  },
+  "https://cbn.com/news/world/lawyer-chinas-zion-church-targeted-communist-regime-seeks-resettlement-help": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lawyer for China's Zion Church Targeted by Communist Regime, Seeks Resettlement Help | CBN News"
+  },
+  "https://www.livemint.com/global/why-seeing-china-as-a-normal-rising-power-misses-the-point-11788867893301.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Why seeing China as a normal rising power misses the point | Mint"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260908/4496199.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 13,
+   "title": "Competition intensifies to stop China turning the Blue Pacific Red"
+  },
+  "https://warontherocks.com/chinas-warrior-scientists-insights-from-recent-operations-around-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China’s Warrior Scientists: Insights from Recent Operations Around Taiwan"
+  },
+  "https://www.columbian.com/news/2026/sep/07/china-piles-pressure-on-taiwan-with-new-patrols/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China piles pressure on Taiwan with new patrols - The Columbian"
+  },
+  "https://www.chiangraitimes.com/thailand-news/cambodia-is-poking-a-tiger/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Cambodia is Poking a Tiger with Thailand as Border Conflict Escalates"
+  },
+  "https://www.winnipegfreepress.com/canada/2026/09/08/china-reveals-military-talks-with-canadian-officials-after-years-of-strain": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China reveals military talks with Canadian officials after years of strain – Winnipeg Free Press"
+  },
+  "https://en.shafaqna.com/475848/taiwan-is-ready-to-share-ai-benefits-with-its-allies/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taiwan is ready to share AI benefits with its allies - Shafaqna English | International Shia News & Fatwas"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5568827": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "《TAIPEI TIMES》Taiwan not on right drone track: ex-official - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/10/2003864010": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Taiwan not on right drone track: ex-official - Taipei Times"
+  },
+  "https://punchng.com/china-rejects-taiwan-independence-claim-defends-un-resolution/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "low"
+   },
+   "mentions": 6,
+   "title": "China Rejects Taiwan Independence Claim, Defends UN Resoluti"
+  },
+  "https://fortune.com/2026/09/08/people-aged-65-and-over-than-children-under-5-america-demographics/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Census Bureau: Over-65s now larger share than children under 5, but U.S. will get relatively younger | Fortune"
+  },
+  "https://focustaiwan.tw/society/202609080010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "U.S. frozen beef tongues blocked at border over parasite detection - Focus Taiwan"
+  },
+  "https://www.munhwa.com:443/article/11615415": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "삼성 파운드리 ‘대반격’ 시작됐다… 본격가동도 전에 ‘풀케파’ | 문화일보"
+  },
+  "https://artdaily.com/news/199777/Asia-Week-New-York-announces-a-spectacular-fall-line-up-of-gallery-exhibitions": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Asia Week New York announces a spectacular fall line-up of gallery exhibitions"
+  },
+  "https://www.jns.org/feature/no-longer-passing-through-jewish-life-takes-root-across-asia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "No longer passing through: Jewish life takes root across Asia - Israel & Jewish News - JNS"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/09/09/2003863927": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Environmental Impact Assessment: From ‘Die-wan’ to a lifeboat? - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/09/2003863940": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "New Chinese sub missiles could hit the US - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/08/2003863898": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Over NT$900m seized in crackdown on election inference  - Taipei Times"
+  },
+  "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/09/08/japon-evalua-el-impacto-de-aranceles-antidumping-chinos-a-un-quimico-clave-para-los-chips.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "JapÃ³n evalÃºa el impacto de aranceles antidumping chinos a un quÃ­mico clave para los chips | EconomÃ­a | BioBioChile"
+  },
+  "https://aninews.in/news/business/asml-to-partner-with-major-chipmakers-for-next-generation-tools-for-larger-data-center-chips20260908142344/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "ASML to partner with major chipmakers for next-generation tools for larger data center chips"
+  },
+  "https://www.thestar.com.my/news/nation/2026/09/08/tourists-held-over-santubong-flora-theft": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Tourists held over Santubong flora theft | The Star"
+  },
+  "https://www.theepochtimes.com/china/us-chip-controls-could-push-china-to-seek-ai-computing-power-overseas-analyst-6084209": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US Chip Controls Could Push China to Seek AI Computing Power Overseas: Analyst | The Epoch Times"
+  }
+ }
+}

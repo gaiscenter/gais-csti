@@ -1,0 +1,472 @@
+{
+ "date": "2026-09-21",
+ "generated_at": "2026-11-12T10:10:46",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 77,
+ "n_articles": 64,
+ "n_no_text": 13,
+ "n_coded": 59,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 5,
+ "missing": [
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864745",
+  "https://bworldonline.com/opinion/2026/09/22/780183/supporting-taiwans-un-participation-does-not-contradict-phls-one-china-policy/",
+  "https://www.freemalaysiatoday.com/category/world/2026/09/21/taiwan-minister-makes-rare-trip-to-china-for-apec-event",
+  "https://focustaiwan.tw/politics/202609210024",
+  "https://www.newser.com/story/397157/trump-asked-xi-if-china-wants-to-buy-us-arms-ambassador.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.breitbart.com/news/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump asked China's president if he wanted to buy US arms, ambassador says - Breitbart"
+  },
+  "https://www.albayan.ae/news/world/1553401": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "ترامب وشي على طاولة واحدة.. هل تغيّرت موازين القوة قبل القمة؟"
+  },
+  "http://www.econotimes.com/Trump-Xi-Summit-Puts-Trade-Truce-and-Taiwan-in-Focus-1752550": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump-Xi Summit Puts Trade Truce and Taiwan in Focus | EconoTimes"
+  },
+  "https://www.asiaone.com:443/asia/taiwan-minister-makes-rare-trip-china-apec-event": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan minister makes rare trip to China for APEC event, Asia News - AsiaOne"
+  },
+  "https://focustaiwan.tw/politics/202609210015": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Taiwan will not yield to China's growing coercion: VP Hsiao - Focus Taiwan"
+  },
+  "https://focustaiwan.tw/culture/202609210019": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Over 2,700 attend banquet for infidelity-themed arts festival opera show - Focus Taiwan"
+  },
+  "https://timesofindia.indiatimes.com/world/us/trumps-14-billion-bargaining-chip-taiwan-arms-sale-looms-over-xi-summit/articleshow/134385513.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump's $14 billion 'bargaining chip': Taiwan arms sale looms over Xi summit - The Times of India"
+  },
+  "https://www.dailysabah.com/business/economy/xi-brings-roaring-chinese-trade-engine-to-trump-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Xi brings roaring Chinese trade engine to Trump summit | Daily Sabah"
+  },
+  "https://aninews.in/news/world/us/trump8217s-14-billion-bargaining-chip-taiwan-arms-sale-looms-over-xi-summit-nyt-report20260921181810/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Trump&#8217;s $14 billion \"bargaining chip\", Taiwan arms sale looms over Xi summit: NYT report"
+  },
+  "https://revistaforum.com.br/global/china-em-foco/xi-jinping-e-trump-encontro-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi Jinping e Trump se reencontram seis meses após visita histórica à China: o que esperar do encontro - Revista Fórum"
+  },
+  "https://www.tickerreport.com/banking-finance/13591377/mid-cap-stocks-to-keep-an-eye-on-september-21st.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Mid Cap Stocks To Keep An Eye On – September 21st - Ticker Report"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5581653": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》The US’ Taiwan policy will not change, official says - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/22/2003864684": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwan labor minister’s APEC meeting in China goes smoothly: MOL - Taipei Times"
+  },
+  "https://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The U.S. Should Untangle Its Taiwan Policy"
+  },
+  "https://calgarysun.com/opinion/columnists/while-the-world-burns-the-un-looks-away/wcm/60ec1de8-c2a5-4382-8708-5f85edba3013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "LILLEY: While the world burns, the UN looks away | Calgary Sun"
+  },
+  "https://www.bbc.com/urdu/articles/cme8xp9wz31jo": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "چین کے ’قومی دفاعی‘ قانون میں تبدیلی کو جنگی تیاریوں سے کیوں جوڑا جا رہا ہے؟ - BBC News اردو"
+  },
+  "https://www.freepressjournal.in/world/chinese-president-xi-jinping-to-visit-us-from-september-23-25-for-high-level-talks-with-donald-trump-on-trade-tariffs-ai-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinese President Xi Jinping To Visit US From September 23-25 For High-Level Talks With Donald Trump On Trade, Tariffs, AI & Taiwan"
+  },
+  "https://www.theepochtimes.com/china/more-chinese-political-figures-could-be-purged-at-key-meeting-taiwanese-official-warns-6092751": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "More Chinese Political Figures Could Be Purged at Key Meeting, Taiwanese Official Warns | The Epoch Times"
+  },
+  "https://www.theepochtimes.com/opinion/chinas-quad-g-plan-for-global-hegemony-involves-the-un-and-ai-6088094": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s Quad-G Plan for Global Hegemony Involves the UN and AI | The Epoch Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/22/2003866415": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "MAC and TAO spar over actor’s entry into Taiwan - Taipei Times"
+  },
+  "https://whbl.com/2026/09/20/new-zealand-naval-ships-transit-contested-taiwan-strait/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "New Zealand naval ships transit contested Taiwan Strait | 1330 & 101.5 WHBL"
+  },
+  "https://www.durangoherald.com/articles/associated-press/trump-asked-chinas-president-if-he-wanted-to-buy-us-arms-ambassador-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump disputes his ambassador’s account that he asked China’s president if he wanted to buy US arms"
+  },
+  "https://www.newindianexpress.com/world/2026/Sep/28/trump-rejects-us-envoys-claim-that-he-offered-to-sell-arms-to-chinas-xi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump rejects US envoy's claim that he offered to sell arms to China's Xi"
+  },
+  "https://www.ksat.com/news/politics/2026/09/28/the-latest-trump-administration-lowers-fuel-economy-standards/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Latest: Trump administration lowers fuel economy standards"
+  },
+  "https://www.newsday.com/news/nation/trump-xi-china-arms-sales-weapons-i73863": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump disputes his ambassador's account that he asked China's president if he wanted to buy US arms - Newsday"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/trump-asked-xi-if-china-wanted-to-buy-us-weapons-ambassador-says/articleshow/134529180.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump asked Xi if China wanted to buy US weapons, ambassador says - The Economic Times"
+  },
+  "https://www.clickorlando.com/news/politics/2026/09/28/the-latest-trump-administration-lowers-fuel-economy-standards/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "The Latest: Trump administration lowers fuel economy standards"
+  },
+  "https://outsidethebeltway.com/trump-offered-to-sell-weapons-to-red-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump Offered to Sell Weapons to Red China – Outside the Beltway"
+  },
+  "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says - The Hindu"
+  },
+  "https://www.winnipegfreepress.com/world/2026/09/28/the-latest-trump-administration-set-to-roll-out-lower-fuel-economy-standards": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Latest: Trump administration lowers fuel economy standards – Winnipeg Free Press"
+  },
+  "https://fortune.com/2026/09/28/trump-xi-summit-taiwan-weapons-sale/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "White House jokes that Trump could sell weapons to China and Taiwan at the same time | Fortune"
+  },
+  "https://macaudailytimes.com.mo/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Trump asked China’s president if he wants to buy US arms, ambassador says – MACAU DAILY TIMES 澳門每日時報"
+  },
+  "https://www.thehindubusinessline.com/news/world/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518158.ece": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Trump asked China's president if he wants to buy US arms, ambassador says - The HinduBusinessLine"
+  },
+  "https://focustaiwan.tw/politics/202609210016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan, democracies must build resilience against China, Russia: Scholar - Focus Taiwan"
+  },
+  "https://www.theepochtimes.com/china/taiwan-launches-world-alliance-for-disaster-management-6092736": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Launches World Alliance for Disaster Management | The Epoch Times"
+  },
+  "https://www.asiaone.com:443/world/trump-asked-chinas-president-if-he-wants-buy-us-arms-ambassador-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Trump asked China's president if he wants to buy US arms, ambassador says, World News - AsiaOne"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/21/new-zealand-naval-ships-transit-contested-taiwan-strait": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "New Zealand naval ships transit contested Taiwan Strait - Internazionale"
+  },
+  "https://www.aol.co.uk/articles/trump-tries-sell-us-weapons-171700000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump tries to sell US weapons to Xi despite China-Taiwan invasion fears - AOL"
+  },
+  "https://ianslive.in/taiwan-condemns-china-for-dangerous-manoeuvres-against-fishing-vessel-near-palawan--20260921170533": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan condemns China for dangerous manoeuvres against fishing vessel near Palawan"
+  },
+  "https://rsf.org/fr/propaganda-monitor-rsf-exposes-china-s-global-campaign-distort-journalism-worldwide": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "“The Propaganda Monitor” : comment la Chine de Xi Jinping réduit au silence le journalisme indépendant et exporte sa propagande | RSF"
+  },
+  "https://lufkindailynews.com/news_reuters/top_news/rubio-meets-japanese-and-korean-allies-ahead-of-trump-china-summit/article_7f4be34e-4c94-54ea-a30a-41fc5330e375.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Rubio meets Japanese and Korean allies ahead of Trump China summit | Top News | lufkindailynews.com"
+  },
+  "https://www.eurasiareview.com/21092026-trump-set-to-host-xi-for-historic-state-visit-amid-trade-ai-iran-tensions/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 5,
+   "title": "Trump Set To Host Xi For Historic State Visit Amid Trade, AI, Iran Tensions - Eurasia Review"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/22/2003864668": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Three indicted over ‘cross-border surrogacy ring’ - Taipei Times"
+  },
+  "https://www.eurasiareview.com/21092026-xi-jinpings-us-visit-will-be-a-test-of-his-power-among-chinas-elite-analysis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Xi Jinping’s US Visit Will Be A Test Of His Power Among China’s Elite - Analysis - Eurasia Review"
+  },
+  "https://www.nin.rs/svet/vesti/123806/trampov-zaokret-prema-tajvanu-stavio-na-test-uticaj-glavnog-savetnika-za-kinu": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Trampov zaokret prema Tajvanu stavio na test uticaj glavnog savetnika za Kinu"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5581671": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》Three indicted over ‘cross-border surrogacy ring’ - 焦點 - 自由時報電子報"
+  },
+  "https://bitacora.com.uy/la-armada-china-pasa-rozando-las-islas-de-okinawa-mientras-aumentan-las-tensiones-con-japon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "La armada china pasa rozando las islas de Okinawa mientras aumentan las tensiones con Japón - bitacora.com.uy"
+  },
+  "https://www.asiaone.com/asia/new-zealand-naval-ships-transit-contested-taiwan-strait": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "New Zealand naval ships transit contested Taiwan Strait, Asia News - AsiaOne"
+  },
+  "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/new-zealand-naval-ships-transit-contested-taiwan-strait": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "New Zealand naval ships transit contested Taiwan Strait - Nikkei Asia"
+  },
+  "https://nypost.com/2026/09/27/opinion/nhjs-ignorance-on-education-defining-helping-as-hazardous-and-other-commentary/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "NHJ’s ignorance on education, Defining ‘helping’ as hazardous and other commentary"
+  },
+  "https://www.albiladpress.com/news/2026/6552/finance/1021055.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "جريدة البلاد            | ترامب وشي يستعدان لقمة وسط تعاظم لقوة الصين التجارية"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864742": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "US unlikely to cancel arms sales: official - Taipei Times"
+  },
+  "https://www.al-monitor.com/originals/2026/09/xi-rolls-trump-summit-chinas-trade-engine-roaring": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi rolls into Trump summit with China's trade engine roaring - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012"
+  },
+  "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says | China | The Guardian"
+  },
+  "https://www.hindustantimes.com/world-news/donald-trump-offered-arms-deal-to-china-president-xi-jinping-us-envoy-reveals-what-led-to-the-proposal-101790597893644.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump offered arms deal to China's Xi, says US envoy; reveals what led to the proposal | World News"
+  },
+  "https://wiadomosci.onet.pl/swiat/niepewnosc-w-bialym-domu-przed-spotkaniem-trumpa-z-xi-wybuchowy-potencjal/s367qw4": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "NiepewnoÅÄ w BiaÅym Domu przed spotkaniem Trumpa z Xi. \"Wybuchowy potencjaÅ\""
+  },
+  "https://www.skai.gr/news/world/tramp-amfivolies-gia-ti-stasi-ton-ipa-apenanti-stin-taivan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Τραμπ: Αμφιβολίες για τη στάση των ΗΠΑ απέναντι στην Ταϊβάν | ΣΚΑΪ"
+  },
+  "https://www.moneycontrol.com/world/trump-asked-xi-if-china-wanted-to-buy-us-weapons-us-envoy-says-article-14040266.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump asked Xi if China wanted to buy US weapons, US envoy says"
+  },
+  "https://www.theyeshivaworld.com/news/general/2603449/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Asked China’s President If He Wants to Buy US Arms, Ambassador Says – The Yeshiva World"
+  }
+ }
+}

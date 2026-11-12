@@ -1,0 +1,655 @@
+{
+ "date": "2026-10-10",
+ "generated_at": "2026-11-12T10:20:22",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 78,
+ "n_articles": 65,
+ "n_no_text": 13,
+ "n_coded": 61,
+ "n_relevant": 41,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://townhall.com/news/scott-mcclallen/2026/10/09/deeply-troubling-doj-says-woman-covertly-surveilled-relatives-of-foreign-official-in-the-us-n2684428",
+  "https://news.ltn.com.tw/news/focus/breakingnews/5603075",
+  "https://www.taipeitimes.com/News/front/archives/2026/10/12/2003865798",
+  "https://www.obozrevatel.com/section-novosti-mir/news-my-ne-pryymemo-pidporyadkuvannya-tayvan-zaklykav-ssha-i-kytay-povazhaty-yoho-pravo-na-isnuvannya-10-10-2026.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/11/2003865764": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Dialogue welcome, but do not distort history: Lai - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5602248": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "《TAIPEI TIMES》Dialogue welcome, but do not distort history: Lai - 焦點 - 自由時報電子報"
+  },
+  "https://whbl.com/2026/10/09/taiwan-cherishes-peace-but-will-not-give-up-its-freedom-president-says/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan won’t give up freedom, Lai says; Beijing slams ‘ulterior motives’ | 1330 & 101.5 WHBL"
+  },
+  "https://www.deccanchronicle.com/world/taiwans-leader-says-increasing-defence-spending-to-deter-war-1994657": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan Boosts Defence Push to ‘Deter War,’ Leader Declares"
+  },
+  "http://eng.chinamil.com.cn/2025xb/V_251452/16491981.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Mainland slams Lai Ching-te's secessionist narrative - China Military"
+  },
+  "https://www.dw.com/pt-br/taiwan-quer-ampliar-gastos-militares-em-meio-a-tens%C3%B5es-com-a-china/a-79629419": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan amplia gastos militares em meio a tensões com a China"
+  },
+  "https://orf.at/stories/3444641/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan fordert klare Haltung gegen Chinas Drohungen - news.ORF.at"
+  },
+  "https://focustaiwan.tw/society/202610100002": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.thehindu.com/news/international/taiwan-to-deter-war-by-boosting-defense-spending/article71567211.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "Taiwan's leader says increasing defence spending to 'deter war' - The Hindu"
+  },
+  "http://thepeninsulaqatar.com/article/10/10/2026/taiwans-leader-says-increasing-defence-spending-to-deter-war": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan's leader says increasing defence spending to 'deter war' | The Peninsula Qatar"
+  },
+  "https://www.centralwesterndaily.com.au/story/9366055/taiwan-pushes-freedom-beijing-slams-ulterior-motives/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan pushes freedom, Beijing slams 'ulterior motives' | Central Western Daily | Orange, NSW"
+  },
+  "https://wcbm.com/national-headline/feds-say-woman-tracked-taiwanese-officials-family-on-us-soil-at-beijings-direction/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Feds Say Woman Tracked Taiwanese Official’s Family on US Soil at Beijing’s Direction - WCBM News-Talk Radio"
+  },
+  "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan to boost military spending to 'deter war' with China"
+  },
+  "https://www.finanznachrichten.de/nachrichten-2026-10/69804564-taiwan-fordert-klare-haltung-gegen-chinas-drohungen-016.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan fordert klare Haltung gegen Chinas Drohungen"
+  },
+  "https://wiadomosci.wp.pl/prezydent-tajwanu-grzmi-nie-bedzie-zgody-na-podporzadkowanie-chinom-7338457801460192a": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Prezydent Tajwanu grzmi. \"Nie będzie zgody na podporządkowanie Chinom\""
+  },
+  "https://www.eremnews.com/news/world/qa0ttod": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "\"نوايا خفية\".. الصين تندد بخطاب رئيس تايوان \"الانفصالي\" | إرم نيوز"
+  },
+  "https://www.perthnow.com.au/news/politics/taiwan-pushes-freedom-beijing-slams-ulterior-motives-c-22998847": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan pushes freedom, Beijing slams 'ulterior motives' | PerthNow"
+  },
+  "https://www.asiaone.com/asia/taiwan-cherishes-peace-will-not-give-freedom-president-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan cherishes peace but will not give up freedom, president says, Asia News - AsiaOne"
+  },
+  "https://vz.ru/news/2026/10/10/1461333.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Власти Китая обвинили главу администрации Тайваня в сепаратизме ::  Новости дня  / ВЗГЛЯД"
+  },
+  "https://kitabat.com/news/%D9%84%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%A5%D9%84%D8%A7-%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-%D8%A8%D9%83%D9%8A%D9%86-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A8%D9%84%D9%87%D8%AC%D8%A9/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "“لا وجود إلا لصين واحدة”.. بكين تدين بلهجة تحذيرية خطاب رئيس تايوان – كتابات"
+  },
+  "https://ria.ru/20261010/tramp-2123615794.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Трамп считает, что КНДР и Южная Корея не воюют только благодаря его усилиям - РИА Новости, 10.10.2026"
+  },
+  "https://www.voakorea.com/a/8209850.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "타이완 총통, 인도태평양 민주국가들에 역내 평화 유지 위한 협력 촉구"
+  },
+  "https://koran-jakarta.com/2026-10-10/di-tengah-tekanan-militer-tiongkok-taiwan-siapkan-anggaran-pertahanan-rekor-untuk-2027": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Di Tengah Tekanan Militer Tiongkok, Taiwan Siapkan Anggaran Pertahanan Rekor untuk 2027"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/10/11/2003865752": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan in Time: Surviving the White Terror, remembering the condemned - Taipei Times"
+  },
+  "http://www.bignewsnetwork.com/news/279364150/xinhua-commentary-taiwan-leader-repackaged-rhetoric-cannot-conceal-his-secessionist-agenda": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Xinhua Commentary: Taiwan leader's repackaged rhetoric cannot conceal his secessionist agenda"
+  },
+  "http://www.taiwansun.com/news/279364150/xinhua-commentary-taiwan-leader-repackaged-rhetoric-cannot-conceal-his-secessionist-agenda": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "Xinhua Commentary: Taiwan leader's repackaged rhetoric cannot conceal his secessionist agenda"
+  },
+  "https://biz.chosun.com/international/international_general/2026/10/10/X36FSF7SC5G5DN2RXVOIDC5H5E/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "라이칭더 “중국 종속 용납 못 해”…中 “대만 독립 추구” 반발 - 조선비즈"
+  },
+  "https://english.news.cn/20261011/a767ac34b1a04948abea6c1755b77a0a/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xinhua Commentary: Taiwan leader's repackaged rhetoric cannot conceal his secessionist agenda-Xinhua"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865753": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "President Lai evokes ‘city on a hill’ - Taipei Times"
+  },
+  "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan president says defence spending boost aims to ‘deter war’ | Conflict News | Al Jazeera"
+  },
+  "https://focustaiwan.tw/society/202610105001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "National Day celebrations kick off with parades, flyovers - Focus Taiwan"
+  },
+  "https://www.theadvocate.com.au/story/9366055/taiwan-pushes-freedom-beijing-slams-ulterior-motives/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan pushes freedom, Beijing slams 'ulterior motives' | The Advocate | Burnie, TAS"
+  },
+  "https://www.moneycontrol.com/world/taiwan-won-t-give-up-freedom-lai-says-beijing-slams-ulterior-motives-article-14049100.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan won't give up freedom, Lai says; Beijing slams 'ulterior motives'"
+  },
+  "https://ksevradio.com/taiwan-cherishes-peace-but-will-not-give-up-freedom-president-says/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan cherishes peace but will not give up freedom, president says - KSEV Radio 700"
+  },
+  "https://fakti.bg/world/1088526-taivan-uvelichava-razhodite-za-otbrana-za-da-predotvrati-voina": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Тайван увеличава разходите за отбрана, за да предотврати война ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/10/10/taiwan-cherishes-peace-but-will-not-give-up-its-freedom-president-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan won’t give up freedom, Lai says; Beijing slams ‘ulterior motives’ - Internazionale"
+  },
+  "https://www.enikos.gr/international/taivan-theloume-eirini-alla-den-tha-egkataleipsoume-tin-eleftheria-mas-minyma-lai-pros-tin-kina/2657811/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Ταϊβάν: «Θέλουμε ειρήνη, αλλά δεν θα εγκαταλείψουμε την ελευθερία μας» – Μήνυμα Λάι προς την Κίνα"
+  },
+  "https://www.shorouknews.com/news/view.aspx?cdate=10102026&id=ce147cf3-a16e-4d68-802d-9c6ecda6176a": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "رئيس تايوان يدعو الدول الديمقراطية بمنطقة المحيطين الهندي والهادئ للحفاظ على السلام - \r\n        بوابة الشروق"
+  },
+  "https://www.manilatimes.net/2026/10/11/world/asia-oceania/taiwan-ups-defense-spending-to-deter-war/2443116": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan ups defense spending to ‘deter war’ | The Manila Times"
+  },
+  "https://www.straitstimes.com/asia/east-asia/taiwan-cherishes-peace-but-will-not-give-up-its-freedom-president-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 6,
+   "title": "Taiwan president wants peace but won't give up freedom | The Straits Times"
+  },
+  "https://wiadomosci.onet.pl/swiat/pekin-ostro-reaguje-na-przemowienie-prezydenta-tajwanu-dazenie-do-rozlamu/cy6rlw4": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Pekin ostro reaguje na przemÃ³wienie prezydenta Tajwanu. \"DÄÅ¼enie do rozÅamu\""
+  },
+  "https://www.tekniikkatalous.fi/uutiset/a/d536b29e-7e61-4b60-8ee9-8e062589023a": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Toimitusjohtaja rahtasi 300 miljoonalla palvelimia Kiinaan â 20 v linnatuomio uhkaa | Tekniikka&Talous"
+  },
+  "https://www.obozrevatel.com/ukr/section-novosti-mir/news-my-ne-pryymemo-pidporyadkuvannya-tayvan-zaklykav-ssha-i-kytay-povazhaty-yoho-pravo-na-isnuvannya-10-10-2026.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Лай Цинде – Тайвань закликав США і Китай поважати його право на існування | OBOZ.UA"
+  },
+  "https://focustaiwan.tw/politics/202610100012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Ex-President Tsai calls for deeper ties between Taiwan, Silicon Valley - Focus Taiwan"
+  },
+  "https://www.watson.ch/international/gesellschaft-politik/784213164-taiwan-fordert-klare-haltung-gegen-chinas-drohungen": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan fordert klare Haltung gegen Chinas Drohungen"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865754": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Official outlines plans for Stinger missiles from US - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/politics/202610100007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Lai urges respect for WWII history, Taiwan's 'right to exist' - Focus Taiwan"
+  },
+  "https://www.almontasaf.net/news150395.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "تايوان ترفع إنفاقها الدفاعي إلى 3% من ناتجها المحلي الإجمالي لمنع الحرب مع الصين | المنتصف نت"
+  },
+  "https://www.wsls.com/news/world/2026/10/10/taiwans-lai-calls-on-indo-pacific-democracies-to-help-maintain-peace-in-national-day-speech/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan's Lai says the island will not give up its freedom in National Day speech"
+  },
+  "https://www.newsday.com/news/nation/taiwan-national-day-lai-ching-te-w47437": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan's Lai says the island will not give up its freedom in National Day speech - Newsday"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261010/4509285.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan probes allegations against China-trained Doctor over suspected fake US medical degree"
+  },
+  "https://www.theepochtimes.com/world/taiwan-president-says-islands-defense-is-test-of-global-rules-amid-china-pressure-6102009": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan President Says Island’s Defense Is Test of Global Rules Amid China Pressure | The Epoch Times"
+  },
+  "https://www.15min.lt/naujiena/aktualu/pasaulis/didindamas-gynybos-islaidas-taivanas-siekia-atgrasyti-kara-teigia-prezidentas-lai-ching-te-57-2782024": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Didindamas gynybos išlaidas Taivanas siekia atgrasyti karą, teigia prezidentas Lai Ching-te | 15min.lt"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/11/2003865747": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A birthday of Taiwanese’s choosing - Taipei Times"
+  },
+  "http://usa.chinadaily.com.cn/a/202610/10/WS6aca3db7e4b06d4aa056221e.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China and EU can manage trade differences through dialogue, Wang Yi says - Chinadaily.com.cn"
+  },
+  "http://www.calcuttanews.net/news/279363399/taiwan-probes-allegations-against-china-trained-doctor-over-suspected-fake-us-medical-degree": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan probes allegations against China-trained Doctor over suspected fake US medical degree"
+  },
+  "https://www.ilsole24ore.com/art/taiwan-presidente-lai-cina-vogliamo-pace-ma-non-rinunceremo-liberta-AJUdpZfB": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan, presidente Lai alla Cina: «Vogliamo la pace ma non rinunceremo alla libertà» - Il Sole 24 ORE"
+  },
+  "https://www.infobae.com/america/mundo/2026/10/10/china-anuncio-ejercicios-militares-conjuntos-con-pakistan-en-la-region-de-xinjiang/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China anunció ejercicios militares conjuntos con Pakistán en la región de Xinjiang   - Infobae"
+  },
+  "https://bdnews24.com/world/asia-pacific/uggb3gqtsw": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan won't give up freedom, Lai says; Beijing slams 'ulterior motives'"
+  },
+  "https://biz.heraldcorp.com/article/10898328": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "대만 총통 “中 종속 용납 못 해”…중국 “대만 독립 본색 드러내” - 헤럴드경제"
+  },
+  "https://www.techtimes.com/articles/328850/20261009/globalfoundries-wins-2b-tsmc-pact-build-first-us-interposer-supply-ai-chips.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "GlobalFoundries Wins $2B TSMC Pact to Build First US Interposer Supply for AI Chips"
+  }
+ }
+}

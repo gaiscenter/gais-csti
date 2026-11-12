@@ -1,0 +1,536 @@
+{
+ "date": "2026-09-26",
+ "generated_at": "2026-11-12T10:14:36",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 70,
+ "n_articles": 65,
+ "n_no_text": 5,
+ "n_coded": 62,
+ "n_relevant": 16,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/27/2003864966",
+  "https://www.alquds.co.uk/%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86%D9%8A-%D8%AA%D8%B3%D9%84%D9%8A%D8%AD-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D9%8A%D8%B5%D8%A8-%D9%81%D9%8A-%D9%85%D8%B5%D9%84%D8%AD/",
+  "http://www.econotimes.com/Taiwan-Says-US-Arms-Sales-Protect-Chip-Supply-1753145"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://tvzvezda.ru/news/20269261633-2iEcK.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Си Цзиньпин выдвинул принципиальное требование Трампу"
+  },
+  "https://www.moneycontrol.com/world/xi-jinping-seizes-donald-trump-detente-to-seek-lasting-gains-on-trade-taiwan-article-14038652.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi Jinping seizes Donald Trump detente to seek lasting gains on trade, Taiwan"
+  },
+  "https://whbl.com/2026/09/25/arming-taiwan-an-important-us-interest-taipei-official-says-after-trump-xi-summit/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit | 1330 & 101.5 WHBL"
+  },
+  "https://ura.news/articles/1053131082": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Когда закончится СВО: Трамп приказал Зеленскому договориться с Путиным, главные заявления президента США"
+  },
+  "https://focustaiwan.tw:443/politics/202609260008": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "U.S. may delay Taiwan arms sale amid more Trump-Xi meetings: Analysts - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/27/2003864953": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US’ Taiwan policy unchanged: envoy - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202609260005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi summit leaves Taiwan questions open: Experts - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/27/2003864964": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump-Xi meeting: Minister backs more active role - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/27/2003864945": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump, Xi, Takaichi and tale of headlines - Taipei Times"
+  },
+  "https://www.cnbc.com/2026/09/26/arming-taiwan-is-an-important-us-interest-taipei-official-says.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Arming Taiwan is an important U.S. interest, Taipei official says"
+  },
+  "https://www.manilatimes.net/2026/09/27/opinion/columns/chinas-risk-calculus-to-use-force-on-taiwan/2433489": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s risk calculus to use force on Taiwan | The Manila Times"
+  },
+  "https://thenextweb.com/news/xi-washington-visit-trade-truce-ai-talks": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Xi ends Washington visit with trade truce extended to January"
+  },
+  "https://ianslive.in/chinas-growing-presence-in-indian-ocean-and-pacific-reflects-wider-strategic-ambitions-report--20260926162219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China's growing presence in Indian Ocean and Pacific reflects wider strategic ambitions: Report"
+  },
+  "https://ura.news/news/1053131036": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Си Цзиньпин попытался нащупать слабые места Трампа: встреча политиков, обсуждение Тайваня"
+  },
+  "https://www.hindustantimes.com/world-news/arming-taiwan-an-important-us-interest-taipei-official-says-after-trump-xi-summit-101790390462457.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit | World News"
+  },
+  "https://www.asiaone.com:443/asia/arming-taiwan-important-us-interest-taipei-official-says-after-trump-xi-summit": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit, Asia News - AsiaOne"
+  },
+  "https://www1.folha.uol.com.br/mundo/2026/09/apos-visita-de-xi-a-trump-vice-lider-da-china-critica-eua-na-onu-sem-citar-pais.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "ONU: Vice-lÃ­der da China critica EUA sem citar paÃ­s - 26/09/2026 - Mundo - Folha"
+  },
+  "https://www.businesstimes.com.sg/international/global/xi-seizes-trump-detente-seek-lasting-gains-trade-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi seizes Trump detente to seek lasting gains on trade, Taiwan - The Business Times"
+  },
+  "https://www.mediapool.bg/svyat/tramp-zayavi-che-e-provel-strahotna-sreshta-sas-si-tszinpin-obyavi-go-za-strahoten-priyatel/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Тръмп заяви, че е провел „страхотна среща“ със Си Цзинпин, обяви го за страхотен приятел – Mediapool.bg"
+  },
+  "https://focustaiwan.tw/politics/202609260003": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "U.S. Taiwan policy unchanged after Trump-Xi talks: Envoy - Focus Taiwan"
+  },
+  "http://www.china.org.cn/2026-09/26/content_118713690.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Mid-Autumn Festival brings families together across Taiwan Strait - China.org.cn"
+  },
+  "https://seoul.co.kr:443/news/international/2026/09/25/20260925500010": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "시진핑, ‘대만 문제’ 면전 서 압박...트럼프는 취재진 질의 딴청 회피 | 서울신문"
+  },
+  "https://en.apa.az/asia/chinese-foreign-ministry-xi-jinping-urges-us-to-maintain-opposition-to-taiwan-independence-526634": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Chinese Foreign Ministry: Xi Jinping urges US to maintain opposition to Taiwan independence"
+  },
+  "https://focustaiwan.tw/politics/202609260013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Marshall Islands, Tuvalu voice support for Taiwan at U.N. assembly - Focus Taiwan"
+  },
+  "https://focustaiwan.tw:443/politics/202609260013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Marshall Islands, Tuvalu voice support for Taiwan at U.N. assembly - Focus Taiwan"
+  },
+  "https://ianslive.in/asian-games-ayush-shetty-unnati-hooda-march-into-round-of-16--20260926104855": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Asian Games: Ayush Shetty, Unnati Hooda march into Round of 16"
+  },
+  "https://www.jpost.com/international/article-909758": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taipei official: Arming Taiwan an important US interest | The Jerusalem Post"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/26/arming-taiwan-an-important-us-interest-taipei-official-says-after-trump-xi-summit": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Arming Taiwan an important US interest, Taipei official says after Trump-Xi summit - Internazionale"
+  },
+  "https://www.ilfattoquotidiano.it/2026/09/26/taiwan-esercitazione-militare-trump-xi-notizie/8517905/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan, esercitazione militare con droni dopo incontro Trump-Xi"
+  },
+  "https://brudirect.com/post/Trump-and-Xi-exchange-warm-words-at-state-dinner-but-little-progress-on-key-issues": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "Verification required — Brudirect"
+  },
+  "https://www.theepochtimes.com/china/trump-xi-summit-concludes-with-limited-details-on-new-agreements-6095110": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump–Xi Summit Concludes With Limited Details on New Agreements | The Epoch Times"
+  },
+  "https://www.bbc.com/russian/articles/c875006174v2o": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Си Цзиньпин в гостях у Дональда Трампа. Почему лидеры Китая и США так ни о чем и не договорились? - BBC News Русская служба"
+  },
+  "https://timesofindia.indiatimes.com/business/international-business/how-taiwans-silicon-shield-has-kept-it-safe-from-china-indispensable-to-us-in-age-of-ai/articleshow/134506155.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "How Taiwanâs âsilicon shieldâ has kept it safe from China, indispensable to US in age of AI - The Times of India"
+  },
+  "http://gazetaby.com/post/pochemu-lidery-kitaya-i-ssha-tak-ni-o-chem-i-ne-dogovorilis/216615/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Почему лидеры Китая и США так ни о чем и не договорились - Салiдарнасць"
+  },
+  "https://www.skai.gr/news/world/tramp-i-taivan-tethike-sti-synantisi-mou-me-ton-si-katanoei-ti-thesi-mou": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Τραμπ: Ο Σι κατανοεί τη θέση μου για την Ταϊβάν - Θα κάνουμε συμφωνία με την Κούβα, δεν θα χρειαστεί ο στρατός | ΣΚΑΪ"
+  },
+  "https://jowhar.com/taiwan-condemns-xis-remarks-to-trump-during-washington-meeting/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Taiwan Condemns Xi’s Remarks to Trump During Washington Meeting - Jowhar News Leader | Somali News"
+  },
+  "https://www.padovanews.it/2026/09/25/usa-cina-da-trump-xi-lezione-di-diplotainment-per-analisti-un-mix-di-sfarzose-messe-in-scena-ma-senza-grandi-risultati/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Usa-Cina, da Trump-Xi lezione di ‘diplotainment’: per analisti un “mix di sfarzose messe in scena ma senza grandi risultati” – Padovanews"
+  },
+  "https://www.aljazeera.net/news/2026/9/26/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-21": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "تايوان ترصد تحركات صينية وتؤكد استمرار الدعم الأمريكي | أخبار | الجزيرة نت"
+  },
+  "https://focustaiwan.tw:443/society/202609260002": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.diariosur.es/opinion/javier-fernandez-arribas-reparten-mundo-20260926000705-ntrc.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Javier Fernández Arribas: Se reparten el mundo | Diario Sur"
+  },
+  "https://focustaiwan.tw/politics/202609260004": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Support for Taiwan self-defense, freedom aligned with international interests: Deputy FM - Focus Taiwan"
+  },
+  "https://www.abc.net.au/news/2026-09-26/jensen-huang-ai-boss-trusted-by-trump/107197212": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Who is Jensen Huang, the Nvidia boss and AI titan who has the ear of Donald Trump? - ABC News"
+  },
+  "https://www.dw.com/en/germanys-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Germany's FM Wadephul meets Lavrov on UNGA sidelines"
+  },
+  "https://www.dw.com/en/china-rejects-cold-war-mindset-at-un-general-assembly/live-79366211": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Germany's FM Wadephul meets Lavrov on UNGA sidelines"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/27/2003864965": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi meeting: Xi’s visit to archives cut short, sources say - Taipei Times"
+  },
+  "https://www.investmentwatchblog.com/trump-and-xi-end-the-visit-with-tea-and-the-national-archives-the-policy-pile-is-still-thin/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump and Xi end the visit with tea and the National Archives. The policy pile is still thin - Investment Watch Blog"
+  },
+  "https://home.nzcity.co.nz/news/article.aspx?id=454797": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "NZ Top NZ News Stories from NZCity"
+  },
+  "https://news.bg/int-politics/tramp-zayavi-che-tayvan-e-predlozhil-sreshta-sas-si-dzinpin.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Тръмп заяви, че Тайван е предложил среща със Си Дзинпин - News.bg"
+  },
+  "https://zn.ua/ukr/WORLD/ssha-ta-kitaj-domovilisja-zniziti-mita-na-30-mlrd-tramp-i-si-zavershili-perehovori-reuters.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "США Китай мита - сторони домовилися про зниження тарифів на 30 млрд доларів і діалог про ШІ - новини світу – ZN.ua"
+  },
+  "https://www.sbctv.gr/2026/09/%CF%80%CF%81%CE%BF%CF%84%CE%B1%CF%83%CE%B7-%CF%84%CE%B1%CE%B9%CE%B2%CE%B1%CE%BD/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Η πρόταση Ταϊβάν για συνάντηση με Σι"
+  },
+  "https://news.bg/int-politics/tramp-ne-otstapil-pred-si-dzinpin-za-tayvan.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Тръмп не отстъпил пред Си Дзинпин за Тайван - News.bg"
+  },
+  "https://gestion.pe/mundo/internacional/taiwan-acusa-a-china-de-distorsionar-los-hechos-tras-la-reunion-entre-xi-jinping-y-donald-trump-en-eeuu-noticia/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan acusa a China de “distorsionar los hechos” tras la reunión entre Xi Jinping y Donald Trump en EE.UU. | MUNDO | GESTIÓN"
+  },
+  "https://focustaiwan.tw:443/politics/202609260005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump-Xi summit leaves Taiwan questions open: Experts - Focus Taiwan"
+  },
+  "https://www.straitstimes.com/asia/east-asia/in-washington-xi-got-the-word-he-wanted": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump and Xi’s US-China relations: Respect and cooperation | The Straits Times"
+  },
+  "https://www.protothema.gr/world/article/1885113/analusi-o-si-kai-i-prosopiki-diplomatia-me-ton-trab-to-pekino-testarei-tis-kokkines-grammes-ton-ipa/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ανάλυση: Ο Σι και η προσωπική διπλωματία με τον Τραμπ - Tο Πεκίνο τεστάρει τις «κόκκινες γραμμές» των ΗΠΑ για τις νέες ισορροπίες ισχύος στην Ασία"
+  },
+  "https://www.hindustantimes.com/world-news/america-and-china-s-leaders-indulge-in-pageantry-as-crises-mount-101790386170390.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "America and China’s leaders indulge in pageantry as crises mount | World News"
+  },
+  "https://www.spotlightnepal.com/2026/09/26/xi-leaves-us-after-summit-trump/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi leaves US after summit with Trump | New Spotlight Magazine"
+  },
+  "https://www.tothemaonline.com/Article/474022/analysh-o-si-kai-h-proswpikh-diplwmatia-me-ton-tramp---to-pekino-testarei-tis-kokkines-grammes-twn-hpa-gia-tis-nees-isorropies-ishyos-sthn-asia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ανάλυση: Ο Σι και η προσωπική διπλωματία με τον Τραμπ - Tο Πεκίνο τεστάρει τις «κόκκινες γραμμές» των ΗΠΑ για τις νέες ισορροπίες ισχύος στην Ασία"
+  },
+  "https://www.businesstimes.com.sg/international/pandas-are-cute-us-needs-rare-earth-magnets-trump-xi-meet-so-far-leaves-analysts-wanting-more": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "'Pandas are cute but US needs rare earth magnets': Trump-Xi meet so far leaves analysts wanting more - The Business Times"
+  },
+  "https://www.westhawaiitoday.com/2026/09/26/nation-world-news/trump-xi-end-summit-with-tea-tour-of-us-archives-and-little-sign-of-progress/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi end summit with tea, tour of US archives — and little sign of progress | West Hawaii Today"
+  },
+  "https://dunyanews.tv/en/World/974738-trump-xi-end-summit-with-tea-tour-of-us-archives--and-little-sign-o": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump, Xi end summit with tea, tour of US archives - and little sign of progress | Dunya News"
+  },
+  "https://www.starnieuws.com/index.php/welcome/index/nieuwsitem/94072": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Starnieuws - Van 'cheaters' naar 'great friendship': hoe Trump anders over Xi en China is gaan praten"
+  }
+ }
+}

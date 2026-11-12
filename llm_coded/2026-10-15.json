@@ -1,0 +1,205 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-11-12T10:21:56",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 29,
+ "n_articles": 26,
+ "n_no_text": 3,
+ "n_coded": 26,
+ "n_relevant": 1,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.theyeshivaworld.com/news/general/2609867/taiwan-plans-to-buy-liquefied-natural-gas-from-alaska-pipeline-project.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan Plans to Buy Liquefied Natural Gas From Alaska Pipeline Project – The Yeshiva World"
+  },
+  "https://thediplomat.com/2026/10/china-spied-on-taiwanese-presidents-son-in-the-us/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China Spied on Taiwanese President’s Son – in the US – The Diplomat"
+  },
+  "http://global.chinadaily.com.cn/a/202610/15/WS6ad02984e4b06d4aa0562e11.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan economy to benefit from reunification - Chinadaily.com.cn"
+  },
+  "https://www.greaterbelize.com/can-beijing-break-belizes-taiwan-alliance/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Can Beijing Break Belize’s Taiwan Alliance? | Greater Belize Media Can Beijing Break Belize’s Taiwan Alliance?"
+  },
+  "http://usa.chinadaily.com.cn/a/202610/15/WS6ad02984e4b06d4aa0562e11.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan economy to benefit from reunification - Chinadaily.com.cn"
+  },
+  "https://www.voanews.com/a/8211677.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Explainer: Taiwan’s Alaska LNG Bet"
+  },
+  "https://www.theepochtimes.com/world/mps-urge-stronger-action-on-transnational-repression-after-attack-on-falun-gong-practitioners-outside-toronto-chinese-consulate-6104102": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "MPs Urge Stronger Action on Transnational Repression After Attack on Falun Gong Practitioners Outside Toronto Chinese Consulate | The Epoch Times"
+  },
+  "https://www.koreatimes.co.kr/world/20261015/trump-claims-again-korea-to-invest-in-alaska-lng-project-under-trade-deal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump claims again Korea to invest in Alaska LNG project under trade deal - The Korea Times"
+  },
+  "https://newsroomamerica.com/a/GGmeNHo6ylTtMOxl37ca9OBCt7c/vandenberg_coalition_s_new_flash_focus_podcast_weighs_what_unga_high_level_week_achieved_and_how_washington_should_approach_the_united_nations_to_safeguard_american_interests.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Vandenberg Coalition Podcast Examines UNGA Week and the Future of U.S. Engagement at the U.N. — newsroomamerica.com"
+  },
+  "https://qns.com/2026/10/teco-ny-donates-books-queens-college-library/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Photos | Taipei Economic and Cultural Office in New York donates 7,417 books to Queens College library – QNS"
+  },
+  "https://www.hellenicshippingnews.com/taiwan-agrees-to-buy-30-of-gas-from-alaska-lng-project-trump-says/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says | Hellenic Shipping News Worldwide"
+  },
+  "https://www.thenationalnews.com/business/energy/2026/10/14/alaska-lng-taiwan-korea/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Alaska LNG project becomes $54bn flashpoint for would-be Asian buyers | The National"
+  },
+  "https://www.youralaskalink.com/news/local/trump-discusses-alaska-lng-internet-funding-and-elections/article_446d62ad-7668-44e1-9b0a-3405797965c6.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump discusses Alaska LNG, internet funding and elections | Local & State News | youralaskalink.com"
+  },
+  "https://www.theepochtimes.com/china/chinas-joint-military-drills-with-pakistan-aim-to-test-its-power-put-india-on-edge-analysts-6104375": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China’s Joint Military Drills With Pakistan Aim to Test Its Power, Put India on Edge: Analysts | The Epoch Times"
+  },
+  "https://focustaiwan.tw:443/society/202610150003": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://stanfordreview.org/stanford-student-union-includes-taiwan-as-part-of-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Stanford Student Union Includes Taiwan as Part of China"
+  },
+  "https://themoderatevoice.com/blonde-cabbage/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Blonde Cabbage – The Moderate Voice"
+  },
+  "https://www.stanradar.com/news/full/56629-tsentralnaja-azija-prioritety-politiki-trampa.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Центральная Азия: приоритеты политики Трампа :: Новости :: StanRadar - новости Центральной Азии"
+  },
+  "https://thefrontierpost.com/lais-agenda-digresses-from-path-to-peace/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Lai’s agenda digresses from path to peace – The Frontier Post"
+  },
+  "https://www.asiaone.com/asia/taiwan-president-calls-micron-workers-negotiate-sincerely-ahead-possible-strike": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan president calls for Micron, workers to negotiate 'sincerely' ahead of possible strike, Asia News - AsiaOne"
+  },
+  "https://www.freshplaza.com/north-america/article/9883252/washington-apple-exports-face-trade-barriers-in-mexico/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Washington apple exports face trade barriers in Mexico"
+  },
+  "https://www.theepochtimes.com/epochtv/taiwan-plans-up-to-4-4-billion-investment-in-alaska-lng-project-2-post-6103883": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Plans Up to $4.4 Billion Investment in Alaska LNG Project | EpochTV"
+  },
+  "https://www.deshbandhu.co.in/world/us-to-produce-half-the-worlds-semiconductors-trump-claims-326086": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "अमेरिका बनाएगा दुनिया के आधे सेमीकंडक्टर: ट्रंप का दावा | US to produce half the world's semiconductors: Trump claims"
+  },
+  "https://focustaiwan.tw/politics/202610150006": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Alaska LNG deal may boost Taiwan's energy resilience: U.S. scholar - Focus Taiwan"
+  },
+  "https://www.businessinsider.com/jensen-huang-nvidia-immigration-trump-2026-10": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Breaking With Trump, Nvidia's Jensen Huang Makes Case for Immigration - Business Insider"
+  },
+  "https://ipress.ua/articles/chomu_tayvan_probudzhuie_golovnyy_strah_pekina_yak_kompartiya_kytayu_sama_stvoryla_pastku_shcho_mozhe_pryzvesty_do_viyny__war_on_the_rocks_391505.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Чому Тайвань пробуджує головний страх Пекіна. Як Компартія Китаю сама створила пастку, що може призвести до війни – War on the Rocks"
+  }
+ }
+}

@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-11-12T10:21:22",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 34,
+ "n_articles": 32,
+ "n_no_text": 2,
+ "n_coded": 28,
+ "n_relevant": 4,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/10/13/us-says-it-opposes-chinese-coercion-after-belize-paraguay-ministers-sanctioned",
+  "http://www.econotimes.com/US-Condemns-China-Sanctions-on-Taiwan-Allies-Belize-and-Paraguay-1754751",
+  "https://macaudailytimes.com.mo/beijing-sanctions-paraguay-and-belize-officials-over-ties-with-taiwan.html",
+  "https://www.breitbart.com/asia/2026/10/13/china-sanctions-paraguay-belize-recognizing-taiwan/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/14/2003865913": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "EDITORIAL: Price to pay - Taipei Times"
+  },
+  "https://sl.china-embassy.gov.cn/eng/zgyw/202610/t20261013_12039670.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "President Xi Jinping Holds Talks with President Duma Gideon Boko of Botswana"
+  },
+  "https://www.greaterbelize.com/us-condemns-chinas-coercion-after-belize-minister-sanctioned/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US Condemns China’s “Coercion” After Belize Minister Sanctioned | Greater Belize Media"
+  },
+  "https://navbharattimes.indiatimes.com/world/america/why-taiwan-f-16-viper-superior-to-india-rafale-jets-to-counter-china/articleshow/134915486.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "चीन का मुकाबला करने के लिए ताइवान का F-16 वाइपर भारत के राफेल जेट से बेहतर क्यों? - why taiwan f-16 viper superior to india rafale jets to counter china - Navbharat Times"
+  },
+  "https://www.channelnewsasia.com/east-asia/us-oppose-china-taiwan-coercion-belize-paraguay-sanctions-6454641": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "US says it opposes Chinese 'coercion', after Belize and Paraguay ministers sanctioned - CNA"
+  },
+  "https://www.newsweek.com/blink-and-youll-miss-trump-quiet-defiance-china-12555867": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Blink and You’ll Miss Trump’s Quiet Defiance of China - Newsweek"
+  },
+  "https://navabharat.com/?p=595711": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "खतरा स्वदेशी जागरण मंच ने स्टारलिंक को मंजूरी देना राष्ट्रीय सुरक्षा के लिए खतरा बताया"
+  },
+  "https://www.theepochtimes.com/opinion/do-americas-adversaries-understand-america-6102626": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Do America’s Adversaries Understand America? | The Epoch Times"
+  },
+  "https://ve.lt/nuomones/taivanieciu-atstovybes-istorija-kelia-klausimu-povilas-gylys-neatmeta-ir-korupcijos": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taivaniečių atstovybės istorija kelia klausimų: Povilas Gylys neatmeta ir korupcijos versijos | Vakarų ekspresas"
+  },
+  "https://koran-jakarta.com/2026-10-13/ketegangan-hubungan-tiongkok-dan-negara-amerika-latin-menteri-dilarang-berkunjung-ke-beijing": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ketegangan Hubungan Tiongkok dan Negara Amerika Latin, Menteri Dilarang Berkunjung ke Beijing"
+  },
+  "https://bworldonline.com/world/2026/10/13/786593/us-says-it-opposes-chinese-coercion-after-belize-paraguay-ministers-sanctioned/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US says it opposes Chinese ‘coercion,’ after Belize, Paraguay ministers sanctioned - BusinessWorld Online"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/13/us-opposes-china-s-coercion-against-taiwan-s-diplomatic-allies": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US opposes China’s ‘coercion’ against Taiwan’s diplomatic allies | FMT"
+  },
+  "https://warontherocks.com/how-taiwan-activates-beijings-chosen-fear/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "How Taiwan Activates Beijing’s Chosen Fear"
+  },
+  "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-october-13/liveblog/134905928.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Breaking news live updates, September 13: Nvidia buys stakes in Genesis AI, Pigment and Entalpic  - The Times of India"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/21/2003866327": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Deportation too lenient for threats to president - Taipei Times"
+  },
+  "https://www.latintimes.com/us-defends-paraguay-belize-after-china-imposes-sanctions-over-taiwan-ties-we-stand-our-friends-600126": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US Defends Paraguay and Belize After China Imposes Sanctions Over Taiwan Ties: 'We Stand With Our Friends'"
+  },
+  "https://confirmado.com.ve/seis-zonas-cuatro-mares-claves-de-las-maniobras-de-china-tras-el-dia-nacional-taiwanes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Seis zonas, cuatro mares: claves de las maniobras de China tras el Día Nacional taiwanés"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5605284": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》 Paraguay and Belize condemn China sanctions - 焦點 - 自由時報電子報"
+  },
+  "https://www.timesrepublican.com/opinion/your-view/2026/10/our-nation-is-in-danger/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Our nation is in danger - Times Republican"
+  },
+  "https://www.theepochtimes.com/china/us-opposes-chinas-coercion-and-aggression-against-taiwans-allies-6103135": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US Opposes China’s ‘Coercion and Aggression’ Against Taiwan’s Allies | The Epoch Times"
+  },
+  "https://www.riotimesonline.com/paraguay-rejects-china-sanctions-villate-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Paraguay Rejects China Sanctions on 12 October | The Rio Times"
+  },
+  "https://www.theepochtimes.com/opinion/pandas-student-exchanges-and-the-limits-of-xis-diplomacy-6099385": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Pandas, Student Exchanges, and the Limits of Xi’s Diplomacy | The Epoch Times"
+  },
+  "https://focustaiwan.tw/politics/202610130015": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan closely monitoring China pneumonic plague rumors: Premier - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865902": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan monitoring China pneumonic plague rumors, premier says - Taipei Times"
+  },
+  "https://960weli.iheart.com/featured/the-clay-travis-and-buck-sexton-show/content/2026-10-12-1119-the-clay-travis-and-buck-nation-states-update-marco-rubios-warning-to-/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Nation States Update: Marco Rubio's Warning to Europe, Taiwan's Message to China & Trump's Russia Oi | 960 WELI | The Clay Travis and Buck Sexton Show"
+  },
+  "https://www.wbko.com/2026/10/12/taiwan-woman-charged-with-credit-card-fraud-bowling-green-police-say/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan woman charged with credit card fraud, Bowling Green police say"
+  },
+  "https://www.ibtimes.co.uk/andrews-graham-south-carolina-senate-debate-1825393": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Annie Andrews Tears Into Darlene Graham in Fiery South Carolina Debate Showdown | IBTimes UK"
+  },
+  "https://www.wvgazettemail.com/opinion/editorial/guest-editorial-trump-whitehouse-more-style-than-substance/article_e512204f-62ee-4e52-88fc-9916935a8712.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Guest editorial: Trump Whitehouse more style than substance | Editorial | wvgazettemail.com"
+  }
+ }
+}

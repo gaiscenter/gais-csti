@@ -1,0 +1,146 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-11-12T10:22:25",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 23,
+ "n_articles": 17,
+ "n_no_text": 6,
+ "n_coded": 15,
+ "n_relevant": 4,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/18/taiwanese-finance-minister-plans-to-join-apec-meeting-in-hong-kong",
+  "https://www.ixbt.com/news/2026/10/18/taivan-rassmatrivaet-uzestocenie-ogranicenii-na-prodazu-cipov-dlia-iskusstvennogo-intellekta-v-kitai.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.infobae.com/america/mundo/2026/10/18/taiwan-alejo-a-16-embarcaciones-chinas-que-realizaban-maniobras-de-acoso-maritimo-alrededor-de-la-isla/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán alejó a 16 embarcaciones chinas que realizaban maniobras de “acoso marítimo” alrededor de la isla - Infobae"
+  },
+  "https://www.aljazeera.net/politics/2026/10/18/%D9%83%D8%A7%D8%AA%D8%A8-%D8%A8%D9%81%D8%A7%D9%8A%D9%86%D9%86%D8%B4%D9%8A%D8%A7%D9%84-%D8%AA%D8%A7%D9%8A%D9%85%D8%B2-%D9%87%D9%84-%D9%86%D8%B3%D9%8A%D8%B1-%D9%86%D9%8A%D8%A7%D9%85%D8%A7": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "كاتب بريطاني: هل نسير نياما نحو حرب عالمية ثالثة؟ | سياسة | الجزيرة نت"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/19/2003866198": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Is China’s Cultural Revolution really over? - Taipei Times"
+  },
+  "https://www.manilatimes.net/2026/10/18/world/asia-oceania/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment/2448201": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan says drives away 16 Chinese ships involved in 'maritime harassment' | The Manila Times"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/18/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan says it drove away 16 Chinese vessels over ‘maritime harassment’ | FMT"
+  },
+  "http://www.pauldavisoncrime.com/search?updated-max=2026-10-13T21:12:00-04:00&max-results=7": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Paul Davis On Crime"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866214": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Joseph Wu urges Europe, Taiwan to work together - Taipei Times"
+  },
+  "https://www.globaltimes.cn/page/202610/1372449.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan residents' trips to mainland rise nearly 20 pct in first eight months - Global Times"
+  },
+  "https://www.manchesterjournal.com/business/new-tea-shop-opens-in-manchester-featuring-more-than-100-specialty-teas-and-handcrafted-artisan-teaware/5038038": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "New tea shop opens in Manchester, featuring more than 100 specialty teas and handcrafted artisan teaware"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866294": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "2026 Elections: Taichung mayoral candidates propose divergent policies - Taipei Times"
+  },
+  "https://www.theepochtimes.com/world/thousands-in-taiwan-stage-visual-tribute-to-faith-persecuted-in-china-6105286": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Thousands in Taiwan Stage Visual Tribute to Faith Persecuted in China | The Epoch Times"
+  },
+  "https://zdnet.co.kr/view/?no=20261016170803": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "대만, 美 단속 발맞춰 중국 AI 칩 수출 통제 강화 추진 - ZDNet korea"
+  },
+  "https://www.thehindu.com/news/international/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment/article71600923.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Taiwan says drives away 16 Chinese ships involved in 'maritime harassment' - The Hindu"
+  },
+  "https://www.prpeak.com/in-the-community/powell-river-action-centre-food-bank-receives-coat-donations-12903617": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Powell River Action Centre Food Bank receives coat donations  - Powell River Peak"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/19/2003866205": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Palau resists China to stand with Taipei: Lai - Taipei Times"
+  }
+ }
+}

@@ -1,0 +1,170 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-11-12T10:25:06",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 21,
+ "n_articles": 21,
+ "n_no_text": 0,
+ "n_coded": 21,
+ "n_relevant": 1,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/31/2003866895": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "‘Silicon shield,’ ‘Made with Taiwan’ - Taipei Times"
+  },
+  "https://macdailynews.com/2026/10/30/foxconn-confident-it-can-meet-surging-demand-for-apples-revolutionary-iphone-duo/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Foxconn confident it can meet surging demand for Apple’s revolutionary iPhone Duo"
+  },
+  "http://www.china.org.cn/2026-10/30/content_118754975.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japan a real threat to regional security: Chinese spokesperson - China.org.cn"
+  },
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280224&PAGE_CD=N0002&CMPT_CD=M0112": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "한동훈, 조희대 국조 추진에 \"백주대낮에 바지 벗는 정권\" - 오마이뉴스"
+  },
+  "http://en.people.cn/n3/2026/1030/c90000-20514033.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japan a real threat to regional security: Chinese spokesperson - People's Daily Online"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/31/2003866913": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Ministry touts Taiwanese pineapple export success - Taipei Times"
+  },
+  "http://arabic.news.cn/20261030/da054ab5dde44acabfeb60442c60422a/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "وزارة الدفاع الصينية: اليابان تشكل تهديداً حقيقياً للأمن الإقليمي"
+  },
+  "https://www.chiangraitimes.com/china/china-purge-levels/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China’s Purges Reach Historic Levels Under Xi Jinping"
+  },
+  "https://www.moneycontrol.com/world/investigated-and-debunked-nvidia-rejects-report-on-jensen-huang-s-ties-to-suspected-chinese-intelligence-asset-article-14063870.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "'Investigated and debunked': Nvidia rejects report on Jensen Huang’s ties to suspected Chinese intelligence asset"
+  },
+  "https://www.straitstimes.com/world/apples-iphone-maker-confident-of-meeting-surge-in-duo-demand": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Foxconn confident of meeting iPhone Duo demand | The Straits Times"
+  },
+  "https://www.telesurtv.net/china-japon-paranoia-patrullas-con-rusia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China acusa a Japón de \"paranoia\" por vigilar sus patrullas con Rusia - teleSUR"
+  },
+  "https://ichannela.com/news/detail/000000557560.do": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "“젠슨황과 긴밀한 관계 여성, 중국 스파이였다” | 채널A 뉴스"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/01/2003866944": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "MAC details stark Taiwan-China divide - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/world/us/after-38-years-teaching-in-massachusetts-tufts-math-professor-loring-tu-gave-more-than-10-million-from-his-investments-to-help-expand-student-aid-in-2024/articleshow/135294832.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tufts Professor Loring Tu Donates $10 Million to Expand Student Aid in Honor of Grandfather | World News - The Times of India"
+  },
+  "https://www.newspim.com/news/view/20261030000883": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "한동훈 \"與, 미국 비자거부 현실 직시할 때…中 입국 거부에도 목소리 내야\""
+  },
+  "https://www.naturalnews.com/2026-10-30-taiwan-plans-texas-industrial-park-serve-nvidia.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Plans $4 Billion Texas Industrial Park to Serve Nvidia, TSMC Suppliers   â NaturalNews.com"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5625322": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 MAC details stark Taiwan-China divide - 焦點 - 自由時報電子報"
+  },
+  "https://www.prnewswire.com/news-releases/taiwan-select-pavilion-unites-29-companies-at-plastimagen-mexico-2026-302924517.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "TAIWAN SELECT Pavilion Unites 29 Companies at PLASTIMAGEN MÃXICO 2026"
+  },
+  "https://www.theepochtimes.com/china/beijing-using-all-manner-of-tactics-to-sway-american-values-analyst-warns-6110971": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Beijing Using ‘All Manner of Tactics to Sway American Values,’ Analyst Warns | The Epoch Times"
+  },
+  "https://www.theyeshivaworld.com/news/general/2616726/china-military-buildup-taiwan-warns-of-major-threat-as-53-chinese-vessels-deploy-across-pacific.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "CHINA MILITARY BUILDUP: Taiwan Warns Of Major Threat As 53 Chinese Vessels Deploy Across Pacific – The Yeshiva World"
+  },
+  "https://nypost.com/2026/10/29/tech/high-flying-past-of-alleged-spy-with-close-relationship-to-nvidia-tycoon-jensen-huang-tv-banking-and-billions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "High-flying past of alleged 'spy' with 'close relationship' to Nvidia tycoon Jensen Huang: TV, banking and billions"
+  }
+ }
+}

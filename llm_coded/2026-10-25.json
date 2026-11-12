@@ -1,0 +1,133 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-11-12T10:24:01",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 18,
+ "n_articles": 15,
+ "n_no_text": 3,
+ "n_coded": 15,
+ "n_relevant": 2,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866611": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "HK agents risk losing Taiwan status - Taipei Times"
+  },
+  "https://english.news.cn/20261025/737cf46e3b9d4a498a5bbf9588e5359e/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China Focus: China marks anniversary of Taiwan's recovery with events across Taiwan Strait-Xinhua"
+  },
+  "https://maritime-executive.com/editorials/closing-the-sea-lessons-from-ancient-mediterranean-blockades": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Closing the Sea: Lessons from Ancient Mediterranean Blockades"
+  },
+  "https://www.dn.se/varlden/marianne-bjorklund-2027-ska-kina-vara-redo-att-invadera-taiwan-men-planen-svajar/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "2027 ska Kina vara redo invadera Taiwan – är man det?"
+  },
+  "https://lenta.ru/news/2026/10/25/kitay-otprazdnoval-prisoedinenie-tayvanya-posle-vvedeniya-na-ostrov-svoih-voysk/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "190",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Китай отпраздновал присоединение Тайваня после введения на остров своих войск: Мир: Lenta.ru"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/25/WS6add33cbe4b06d4aa0564a01.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 13,
+   "title": "Never to be undermined: Remembering Taiwan's return to China - Chinadaily.com.cn"
+  },
+  "https://english.news.cn/20261025/fb36b33714794328acfcc798ca6d1eab/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Photo exhibition held in South Africa to mark 81st anniversary of Taiwan's restoration-Xinhua"
+  },
+  "https://focustaiwan.tw/society/202610250010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "11 freeway sections could see congestion Monday: Freeway Bureau - Focus Taiwan"
+  },
+  "https://www.divyabhaskar.co.in/entertainment/news/taiwan-envoy-mumin-chen-praises-ranveer-singh-dhurandhar-aamir-khan-dangal-taiwan-box-office-139485276.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Envoy Mumin Chen Praises Ranveer Singh Dhurandhar; Admires Aamir Khan Shah Rukh Khan"
+  },
+  "https://focustaiwan.tw:443/politics/202610250006": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan adopting 'unscripted' training format to boost combat readiness - Focus Taiwan"
+  },
+  "https://fakti.bg/life/1093005-25-oktomvri-1945-g-kitai-poema-upravlenieto-na-taivan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "25 октомври 1945 г.: Република Китай поема Тайван"
+  },
+  "https://www.postandcourier.com/politics/issues-platform-darline-graham-annie-andrews/article_ec6404ba-8dc7-4240-a66e-8ec3cab027ad.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What issues separate Darline Graham and Annie Andrews?"
+  },
+  "https://www.thehindubusinessline.com/economy/chinas-export-controls-around-pv-cells-could-slow-indias-upstream-solar-push/article71622820.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China’s export controls around PV cells could slow India’s upstream solar push - The HinduBusinessLine"
+  },
+  "https://www.obozrevatel.com/ukr/section-novosti-mir/news-tramp-putin-i-si-tszinpin-khochut-rozdilyty-svit-na-sfery-vplyvu-the-guardian-25-10-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "США, Китай та Росія хочуть розділити світ на сфери впливу – The Guardian | OBOZ.UA"
+  },
+  "https://focustaiwan.tw:443/business/202610250005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Starbucks customization fee test consumers' sense of value: Experts - Focus Taiwan"
+  }
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "date": "2026-08-16",
+ "generated_at": "2026-11-12T10:01:40",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 12,
+ "n_articles": 11,
+ "n_no_text": 1,
+ "n_coded": 11,
+ "n_relevant": 2,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.e-flux.com/notes/6783532/taiwanese-artists-accuse-gwangju-biennale-of-censorship-over-pavilion-naming": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwanese artists accuse Gwangju Biennale of censorship over pavilion naming - Notes - e-flux"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/08/17/2003862599": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump’s drone tariff deepens decoupling - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/city-councils-in-taiwan-urge-government-to-confront-chinas-transnational-repression-6075699": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "City Councils in Taiwan Urge Government to Confront China’s Transnational Repression | The Epoch Times"
+  },
+  "http://www.bignewsnetwork.com/news/279244380/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory"
+  },
+  "https://bworldonline.com/opinion/2026/08/17/770435/monkeys-in-geopolitics-the-absurd/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Monkeys in geopolitics: The absurd - BusinessWorld Online"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/17/2003862605": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Michael Mazza on Taiwan: The US Coast Guard to the rescue - Taipei Times"
+  },
+  "https://ianslive.in/chinas-lies-to-support-arbitrary-claims-on-international-waters--20260816182552": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "'China's lies to support arbitrary claims on international waters'"
+  },
+  "https://www.insight.co.kr/news/568516": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "“지금 쳐들어오면 어쩌냐”... 중국 막기 위해 1조 들인 ‘대드론 방어망’ 먹통에 발칵 뒤집힌 대만"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/17/2003862626": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Businessman talks of TAO’s indifference - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/08/17/2003862612": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Notes from Central Taiwan: From vaccines to drones: The anatomy of Taiwan’s political forgetting - Taipei Times"
+  },
+  "https://outsidethebeltway.com/is-america-a-reliable-ally/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Is America a Reliable Ally? – Outside the Beltway"
+  }
+ }
+}

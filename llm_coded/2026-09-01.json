@@ -1,0 +1,389 @@
+{
+ "date": "2026-09-01",
+ "generated_at": "2026-11-12T10:05:51",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 56,
+ "n_articles": 49,
+ "n_no_text": 7,
+ "n_coded": 41,
+ "n_relevant": 15,
+ "complete": false,
+ "n_missing": 8,
+ "missing": [
+  "https://www.taipeitimes.com/News/feat/archives/2026/09/02/2003863530",
+  "https://www.channelnewsasia.com/east-asia/china-taiwan-pacific-islands-forum-palau-consequences-6353411",
+  "https://www.theguardian.com/world/2026/sep/01/china-warns-of-consequences-taiwan-pacific-islands-forum-palau",
+  "https://timesofindia.indiatimes.com/world/china/china-warns-of-consequences-as-taiwan-attends-pacific-islands-forum/articleshow/133680224.cms",
+  "https://www.yahoo.com/news/articles/china-warns-consequences-over-taiwans-005302739.html",
+  "https://newsmonkey.be/australie-trotseert-china-over-rol-van-taiwan-in-het-pacific-islands-forum/",
+  "https://www.yasstribune.com.au/story/9341120/china-rages-at-taiwans-presence-at-pacific-ceremony/",
+  "https://economictimes.indiatimes.com/news/international/global-trends/taiwans-presence-at-pacific-forum-draws-china-warning-of-consequences/articleshow/133666147.cms"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://theconversation.com/leaders-missing-and-china-furious-the-pacific-islands-forum-off-to-a-decidedly-shaky-start-290927": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Leaders missing and China ‘furious’: the Pacific Islands forum off to a decidedly shaky start"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/01/2003863504": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China revises mobilization law for ‘national unification’: official - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202609010007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Foreign minister thanks Palau for PIF summit arrangements - Focus Taiwan"
+  },
+  "https://www.smh.com.au/politics/federal/australia-s-shameful-cocaine-habit-prompts-600m-pacific-package-20260901-p60th4.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Pacific Islands Forum cocaine: Albanese pledges funding package to prevent drug smuggling in Pacific"
+  },
+  "https://www.ksat.com/news/world/2026/09/01/china-warns-of-consequences-for-taiwan-after-taipei-envoys-attend-pacific-leaders-summit/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China warns of 'consequences' for Taiwan after Taipei envoys attend Pacific leaders summit"
+  },
+  "https://www.channelnewsasia.com/watch/china-warns-consequences-over-taiwans-attendance-pacific-islands-forum-6355141": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China warns of consequences over Taiwan's attendance at Pacific Islands Forum - CNA"
+  },
+  "https://www.rfa.org:443/english/pacific/2026/09/01/pacific-islands-forum-meeting-palau-taiwan-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Pacific Islands Forum meeting ‘less productive’ with a third of its leaders absent – Radio Free Asia"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5559967": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 Minister of Labor to visit China for APEC meeting - 焦點 - 自由時報電子報"
+  },
+  "https://thediplomat.com/2026/09/china-wants-to-push-taiwan-out-of-the-pacific/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China Wants to Push Taiwan out of the Pacific – The Diplomat"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863542": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Minister thanks Palau over attendance at PIF - Taipei Times"
+  },
+  "http://www.thejakartapost.com/world/2026/09/01/china-taiwan-friction-clouds-pacific-summit": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "China-Taiwan friction clouds Pacific summit - Asia & Pacific - The Jakarta Post"
+  },
+  "https://www.kamloopsbcnow.com/watercooler/news/news/5_Things/5_things_you_need_to_know_this_morning_Sept_8_2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "5 things you need to know this morning: Sept. 8, 2026 – KelownaNow"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863543": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Xi’s agenda prompts law: source - Taipei Times"
+  },
+  "https://www.independent.co.uk/news/world/australasia/china-taiwan-palau-pacific-forum-b3042650.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China says ‘there will be consequences’ as Taiwanese delegation attends Pacific leaders’ summit | The Independent"
+  },
+  "https://www.sbs.com.au/news/article/china-warns-of-consequences-over-taiwans-presence-at-pacific-leaders-summit/msrmc2t8s": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Albanese responds after China warns of 'consequences' over Taiwan at Pacific summit"
+  },
+  "https://www.bordermail.com.au/story/9341120/china-rages-at-taiwans-presence-at-pacific-ceremony/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "China rages at Taiwan's presence at Pacific ceremony | The Border Mail | Wodonga, VIC"
+  },
+  "https://bilkulonline.com/2026/09/01/daily-news-wrap-bilkulonline-74/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Daily News Wrap – BILKULONLINE - Bilkul Online"
+  },
+  "https://www.manilatimes.net/2026/09/02/world/asia-oceania/china-taiwan-friction-clouds-pacific-summit/2415985": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China-Taiwan friction clouds Pacific summit | The Manila Times"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/01/china-warns-of-consequences-over-taiwan-s-attendance-at-pacific-leaders-meeting": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China-Taiwan tensions weigh on Pacific leaders meeting - Internazionale"
+  },
+  "https://www.brisbanetimes.com.au/politics/federal/there-will-be-consequences-china-issues-warning-over-taiwan-s-pacific-role-20260831-p60t7a.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Pacific Islands Forum 2026: China has ‘serious concerns’ over Taiwan’s participation"
+  },
+  "https://www.clickondetroit.com/news/world/2026/09/01/china-warns-of-consequences-for-taiwan-after-taipei-envoys-attend-pacific-leaders-summit/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China warns of 'consequences' for Taiwan after Taipei envoys attend Pacific leaders summit"
+  },
+  "https://home.nzcity.co.nz/news/article.aspx?id=453109&fm=psp,tsf": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "NZ Top NZ News Stories from NZCity"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/02/2003863524": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Remedy to Southeast Asian hedge - Taipei Times"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/01/china-warns-of-consequences-over-taiwan-presence-at-pacific-leaders-meeting": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China warns of ‘consequences’ over Taiwan presence at Pacific leaders meeting | FMT"
+  },
+  "https://www.moneycontrol.com/world/china-warns-of-consequences-over-taiwan-presence-at-pacific-leaders-meeting-article-14019562.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China warns of 'consequences' over Taiwan presence at Pacific leaders meeting"
+  },
+  "https://bworldonline.com/world/2026/09/01/773738/china-warns-of-consequences-over-taiwan-presence-at-pacific-leaders-meeting/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China warns of 'consequences' over Taiwan presence at Pacific leaders meeting - BusinessWorld Online"
+  },
+  "https://www.theepochtimes.com/world/taiwan-criticizes-chinas-wolf-warrior-diplomacy-at-pacific-summit-6081991": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan Criticizes China’s ‘Wolf Warrior’ Diplomacy at Pacific Summit | The Epoch Times"
+  },
+  "https://www.perthnow.com.au/news/china-interference-fears-mount-as-key-pacific-leaders-snub-major-summit-c-22805320": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Questions around China interference after key Pacific leaders snub major summit | PerthNow"
+  },
+  "https://www.nakedcapitalism.com/2026/09/coffee-break-armed-madhouse-can-u-s-submarines-defeat-china.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Coffee Break: Armed Madhouse - Can U.S. Submarines Defeat China? | naked capitalism"
+  },
+  "https://focustaiwan.tw:443/business/202609010030": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Microsoft working on making Taiwan Azure region widely available: Executive - Focus Taiwan"
+  },
+  "https://www.techtimes.com/articles/326130/20260901/nvidia-moves-ai-chip-memory-controller-hbm-stack-nvhbm-memory-frees-25-more-compute.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "NVIDIA Moves AI Chip Memory Controller Into HBM Stack; NVHBM Memory Frees 25% More Compute"
+  },
+  "https://www.rfa.org/english/china/2026/08/31/taiwan-election-interference-china-ai/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan steps up AI defenses as China election interference fears grow – Radio Free Asia"
+  },
+  "https://www.businessinsider.com/how-taiwans-drills-reveal-unspoken-blueprint-for-chinese-invasion-2026-9": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "How Taiwan's Drills Reveal Unspoken Blueprint for Chinese Invasion - Business Insider"
+  },
+  "https://www.kjzz.org/business/2026-09-01/arizona-business-leaders-visit-taiwan-for-3rd-time-this-year-for-semiconductor-focused-trip": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Arizona business leaders visit Taiwan for 3rd time this year for semiconductor-focused trip"
+  },
+  "https://www.ecoticias.com/en/engineers-drove-enormous-steel-foundations-directly-into-bare-atlantic-sand-to-hold-offshore-wind-turbines-upright-and-what-happens-around-those-artificial-structures-afterward-is-changing-the-seabed/36110/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Engineers drove enormous steel foundations directly into bare Atlantic sand to hold offshore wind turbines upright, and what happens around those artificial structures afterward is changing the seabed in ways nobody designed them for"
+  },
+  "https://www.staradvertiser.com/2026/08/31/breaking-news/taiwan-unpredictable-china-strengthens-air-sea-control-nearby/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan: ‘Unpredictable’ China strengthens air, sea control nearby | Honolulu Star-Advertiser"
+  },
+  "https://focustaiwan.tw/business/202609010013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan's chips link global partners, strengthen supply chain: President - Focus Taiwan"
+  },
+  "https://www.naturalnews.com/2026-08-31-tcm-practitioner-detox-is-natural-timing-matters.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "TCM practitioner: Detox is natural, timing matters more than drastic cleanses   â NaturalNews.com"
+  },
+  "https://www.thehindu.com/brandhub/pr-release/the-pinnacle-of-clarity-agon-by-aoc-unveils-worlds-first-5k-nvidia-g-sync-pulsar-gaming-monitor/article71413571.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "The Pinnacle of Clarity: AGON by AOC Unveils World's First 5K NVIDIA G-SYNC® Pulsar Gaming Monitor - The Hindu"
+  },
+  "https://navbharattimes.indiatimes.com/world/china/xi-jinping-removed-more-than-100-pla-generals-what-it-means-for-china-military-taiwan-and-india/articleshow/133680880.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "'मक्खियों संग बाघों को भी नहीं बख्शेंगे', चीन के राष्ट्रपति जिनपिंग ने अपनी 'नई आर्मी' से 100 जनरल हटाए, भारत के लिए जानें मतलब - xi jinping removed more than 100 pla generals what it means for china military taiwan and india  - Navbharat Times"
+  },
+  "https://www.siliconrepublic.com/business/nvidia-investing-3-5m-semiconductor-company-mediatek-ai-chip-development": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Nvidia investing $3.5bn in semiconductor company MediaTek"
+  }
+ }
+}

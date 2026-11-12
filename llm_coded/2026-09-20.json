@@ -1,0 +1,156 @@
+{
+ "date": "2026-09-20",
+ "generated_at": "2026-11-12T10:10:12",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 30,
+ "n_articles": 24,
+ "n_no_text": 6,
+ "n_coded": 18,
+ "n_relevant": 1,
+ "complete": false,
+ "n_missing": 6,
+ "missing": [
+  "https://www.thenews.com.pk/latest/1416912-taiwan-minister-makes-rare-trip-to-china-for-apec-meeting-in-first-under-lai",
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864622",
+  "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-minister-makes-rare-china-visit-for-apec-amid-tensions-with-beijing/articleshow/134366475.cms",
+  "https://www.straitstimes.com/asia/taiwan-minister-makes-rare-trip-to-china-for-apec-event",
+  "https://focustaiwan.tw:443/politics/202609200011",
+  "https://www.freemalaysiatoday.com/category/world/2026/09/20/taiwan-s-minister-makes-rare-trip-to-china-for-apec-event"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://news.ltn.com.tw/news/focus/breakingnews/5580615": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "《TAIPEI TIMES》 Buyers snap up fruit after farmer refuses China sales - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864623": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US might postpone major Taiwan arms sales: report - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864627": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Buyers snap up fruit after farmer refuses China sales - Taipei Times"
+  },
+  "https://www.chiangraitimes.com/politics/trump-xi-for-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump to Welcome Xi for Summit as Global Pressures Mount"
+  },
+  "https://www.thehindu.com/news/international/senior-taiwan-official-makes-rare-trip-to-china/article71488941.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 18,
+   "title": "Senior Taiwan official makes rare trip to China - The Hindu"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/china-us-may-unveil-measures-to-boost-military-ties-when-xi-visits-washington": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China, US may unveil measures to boost military ties when Xi visits Washington | The Star"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/21/2003864602": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "EDITORIAL: Why bother with Twin City Forum? - Taipei Times"
+  },
+  "https://www.pr-inside.com/world-brand-lab-releases-asia-s-500-most-influential-brands-of-r5224979.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "World Brand Lab Releases Asia's 500 Most Influential Brands of 2026 2026-09-20"
+  },
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268888&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "북한에 '퍼줬다'는 말이 놓치는 기록 - 오마이뉴스"
+  },
+  "https://focustaiwan.tw/society/202609200002": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.koreaherald.com/article/10879531": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "US defense firm Anduril says Taiwan arms sale delay affects business - The Korea Herald"
+  },
+  "http://eng.chinamil.com.cn/2025xb/O_251451/16487808.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "A shameless political double act exposes Teodoro's true motives - China Military"
+  },
+  "http://en.people.cn/n3/2026/0920/c90000-20501662.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "A shameless political double act exposes Teodoro's true motives: Global Times editorial - People's Daily Online"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/dong-jun-takes-softer-line-on-us-at-xiangshan-forum-as-xi-prepares-for-trump-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Dong Jun takes softer line on US at Xiangshan Forum as Xi prepares for Trump summit | The Star"
+  },
+  "https://arabic.rt.com/world/1835048-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86%D9%8A-%D9%81%D9%8A-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D9%84%D8%B5%D9%8A%D9%86/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "وزير تايواني في زيارة نادرة للصين - RT Arabic"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864624": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Festival celebrating Taiwanese culture with bubble tea rocks Maryland - Taipei Times"
+  },
+  "https://aawsat.com/home/writer/James%20Stanfredes": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "جيمس ستافريديس | الشرق الأوسط"
+  },
+  "https://focustaiwan.tw:443/culture/202609200007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Festival celebrating Taiwanese culture with bubble tea rocks Maryland - Focus Taiwan"
+  }
+ }
+}

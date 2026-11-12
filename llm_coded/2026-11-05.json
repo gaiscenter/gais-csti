@@ -1,0 +1,235 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-12T10:26:07",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 32,
+ "n_articles": 29,
+ "n_no_text": 3,
+ "n_coded": 27,
+ "n_relevant": 5,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://aninews.in/news/world/us/china-targeted-131-people-in-149-transnational-repression-incidents-against-taiwan-since-200520261105204747/",
+  "https://fakti.bg/world/1097529-taivan-ochakva-podkrepa-ot-kongresa-na-sasht-za-orajiata"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867245": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China targeted 131 Taiwanese: MAC - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/beijing-poised-to-escalate-drills-clashes-in-push-to-control-taiwans-waters-analysts-6118570": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Beijing Poised to Escalate Drills, Clashes in Push to Control Taiwan’s Waters: Analysts | The Epoch Times"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/what-the-midterms-elections-mean-for-us-china-ties/articleshow/135555871.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "What the midterms elections mean for US-China ties - The Economic Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/05/2003867217": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "MAC reports 149 incidents of Chinese transnational repression - Taipei Times"
+  },
+  "https://focustaiwan.tw/society/202611050010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taipei prosecutors expand probe into aide's suspected boat escape - Focus Taiwan"
+  },
+  "https://executivedigest.sapo.pt/china-e-eua-acordam-reforcar-comunicacao-militar-para-reduzir-riscos-de-conflito/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China e EUA acordam reforçar comunicação militar para reduzir riscos de conflito"
+  },
+  "https://blog.seniorennet.be/vroeger/2725159-vrouwen-aan-de-macht": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Even geduld, de pagina opent zo - SeniorenNet"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Democrat control of Congress presents opportunity and challenge for China - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/06/2003867235": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "KMT disconnect with young voters - Taipei Times"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/taiwan-us-arms-sales-koo-b3079672.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Key US ally insists its frozen 14 billion dollar military package is finally back on track | The Independent"
+  },
+  "https://news.bg/int-politics/tayvan-ne-se-pritesnyava-za-prodazhbata-na-amerikanski-orazhiya-sled-mezhdinnite-izbori-v-sasht.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Тайван не се притеснява за продажбата на американски оръжия след междинните избори в САЩ - News.bg"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867319": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taipei mayor race a victory for democracy whoever wins: Shen - Taipei Times"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261105/4516363.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China targeted 131 people in 149 transnational repression incidents against Taiwan since 2005"
+  },
+  "https://www.moneycontrol.com/world/china-keeps-faith-in-trump-as-total-defeat-adds-new-risks-article-14070492.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China keeps faith in Trump as ‘total defeat’ adds new risks"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/06/2003867236": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Disinformation campaigns will fail - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/taiwan-president-warns-of-suspected-online-influence-campaign-ahead-of-local-elections-6118267": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan President Warns of Suspected Online Influence Campaign Ahead of Local Elections | The Epoch Times"
+  },
+  "https://focustaiwan.tw/politics/202611050007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan-U.S. economic ties to withstand midterm shifts: Expert - Focus Taiwan"
+  },
+  "https://zamanamerika.com/haberler/dunya/trump-zayiflarken-cin-guclenir-mi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump zayıflarken Çin güçlenir mi? - Zaman Amerika"
+  },
+  "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/arms-third-quarter-revenue-forecast-above-estimates-investors-unimpressed": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Arm's third-quarter revenue forecast above estimates but investors unimpressed - The Business Times"
+  },
+  "https://nypost.com/2026/11/04/business/lockheed-martin-paying-29-5m-settlement-after-allegedly-discriminating-against-white-workers/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 15,
+   "title": "Lockheed Martin paying $29.5M settlement after allegedly discriminating against white workers"
+  },
+  "https://www.boursorama.com/actualite-economique/actualites/chine-etats-unis-treve-commerciale-taiwan-quelles-incidences-apres-le-camouflet-de-donald-trump-aux-elections-8747d8697e37826b4441bb0563960ea5": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Chine-Etats-Unis : trêve commerciale, Taïwan... quelles incidences après le camouflet de Donald Trump aux élections ? - 05/11/2026 à 13:21 - Boursorama"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/06/2003867246": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "NSTC in talks to establish space investment fund - Taipei Times"
+  },
+  "https://www.hindustantimes.com/world-news/china-keeps-faith-in-donald-trump-as-total-defeat-adds-new-risks-us-midterm-election-results-democrats-republicans-101793848920567.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China keeps faith in Trump as ‘total defeat’ adds new risks | World News"
+  },
+  "https://artdaily.com/news/201903/Krannert-Art-Museum-opens-exhibition-exploring-contemporary-Taiwanese-ink-painting": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Krannert Art Museum opens exhibition exploring contemporary Taiwanese ink painting"
+  },
+  "https://www.vesti.bg/sviat/obiden-i-unizhen-trymp-sega-e-po-opasen-za-sveta-ot-vsiakoga-6275271": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Independent: Обиден и унижен Тръмп сега е по-опасен за света от всякога|Vesti.bg"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/05/2003867213": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan expects continued US arms sale support after midterms - Taipei Times"
+  },
+  "https://www.channelnewsasia.com/east-asia/taiwan-continued-arms-support-united-states-midterms-6526126": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan sees continued US arms sale support after midterm election - CNA"
+  }
+ }
+}

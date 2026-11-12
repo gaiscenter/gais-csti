@@ -1,0 +1,142 @@
+{
+ "date": "2026-08-29",
+ "generated_at": "2026-11-12T10:05:14",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 17,
+ "n_articles": 17,
+ "n_no_text": 0,
+ "n_coded": 16,
+ "n_relevant": 2,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.pcwplus.hu/pcwlite/kina-lassitja-a-tajvani-chipgyartashoz-szukseges-anyagok-exportjat-387293.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/30/2003863370": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "FEATURE: Penghu troops prepare for strike - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/30/2003863350": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "EDITORIAL: Airing dirty laundry in public - Taipei Times"
+  },
+  "https://www.dailykos.com/stories/2026/8/29/800090672/world/why-taiwan-and-the-south-china-sea-matter-to-the-us-and-the-world/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Why Taiwan and the South China Sea matter to the US and the world - Daily Kos"
+  },
+  "https://www.worthynews.com/117094-taiwan-parliament-approves-nearly-7-6-billion-military-drone-plan-amid-china-threat": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan Parliament Approves Nearly $7.6 Billion Military Drone Plan Amid China Threat - Worthy Christian News"
+  },
+  "https://www.straitstimes.com/life/food/astons-in-7-eleven-why-local-restaurants-are-turning-their-dishes-into-ready-meals": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Why Singapore restaurants are turning their dishes into ready meals | The Straits Times"
+  },
+  "https://www.abc.net.au/news/2026-08-30/china-formaldehyde-cabbage-sparks-food-safety-fears/107080528": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "'Formaldehyde cabbage' scandal sparks food safety concerns in China and beyond - ABC News"
+  },
+  "https://www.933thedrive.com/2026/08/28/taiwan-prosecutors-search-unimicron-in-suspected-china-fraud-case/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan prosecutors search Unimicron in suspected China fraud case | 93.3 The Drive"
+  },
+  "https://focustaiwan.tw:443/culture/202608290015": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwanese American groups urge inclusion in planned museum - Focus Taiwan"
+  },
+  "https://economictimes.indiatimes.com/tech/technology/taiwan-prosecutors-search-unimicron-in-suspected-china-fraud-case/articleshow/133602615.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan prosecutors search Unimicron in suspected China fraud case - The Economic Times"
+  },
+  "https://www.i24news.tv/en/news/international/artc-report-iran-war-drains-us-weapons-stocks-raising-fears-over-china-russia-threats": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "i24NEWS"
+  },
+  "https://balticbusinessnews.com/gigabyte-collaborates-with-nvidia-to-enhance-gaming-with-geforce-rtx-50-series-and-control-resonant-bundle/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "GIGABYTE Collaborates with NVIDIA to Enhance Gaming with GeForce RTX™ 50 Series and CONTROL Resonant Bundle - Australian Bloggers"
+  },
+  "https://collider.com/netflix-miniseries-perfect-beginning-to-end/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "8 Netflix Miniseries That Are Perfect From Beginning to End"
+  },
+  "https://aa.com.tr/en/us-israel-iran-war/iran-war-depletes-us-military-stockpiles-limiting-global-deterrence-report/4040715": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Iran war depletes US military stockpiles, limiting global deterrence: Report"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/30/2003863353": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "[ LETTER ] - Taipei Times"
+  },
+  "https://economictimes.indiatimes.com/news/defence/chinas-gj-21-stealth-drone-spotted-as-40000-tonne-sichuan-drone-ship-nears-trials/articleshow/133610814.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China’s GJ-21 stealth drone spotted as 40,000-tonne Sichuan drone ship nears trials - The Economic Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/08/30/2003863359": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US supports Taiwan’s presence at Pacific forum - Taipei Times"
+  }
+ }
+}

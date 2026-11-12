@@ -1,0 +1,183 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-11-12T10:23:26",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 27,
+ "n_articles": 23,
+ "n_no_text": 4,
+ "n_coded": 21,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "http://global.chinadaily.com.cn/a/202610/21/WS6ad8ceefe4b06d4aa05640be.html",
+  "https://www.alquds.co.uk/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%A4%D8%AE%D9%91%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B5%D9%81%D9%82%D8%A9-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-14-%D9%85/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.armytimes.com/news/your-army/2026/10/19/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon"
+  },
+  "https://www.asiaone.com/entertainment/zhang-linghe-barred-entering-taiwan-political-tensions-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Zhang Linghe reportedly barred from entering Taiwan for fan-meet due to political tensions , Entertainment News - AsiaOne"
+  },
+  "https://focustaiwan.tw:443/society/202610220005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://economictimes.indiatimes.com/news/defence/whats-holding-up-washingtons-14-bn-arms-sale-to-taiwan/articleshow/135106015.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "What's holding up Washington's $14 bn arms sale to Taiwan? - The Economic Times"
+  },
+  "https://aninews.in/news/world/asia/china-accused-of-six-tactics-to-interfere-in-taiwan8217s-local-elections20261022174142/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China accused of six tactics to interfere in Taiwan&#8217;s local elections"
+  },
+  "https://aa.com.tr/en/asia-pacific/beijing-says-no-gray-area-after-philippines-reiterates-taiwan-integral-part-of-chinese-territory-/4096802": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Beijing says ‘no gray area’ after Philippines reiterates Taiwan ‘integral part of Chinese territory’"
+  },
+  "https://zn.ua/ukr/WORLD/kitaj-namahajetsja-izoljuvati-tajvan-i-pohrozhuje-sojuznikam-ostrova-ft.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Загроза для Тайваню - Пекін тисне на союзників острова та розширює морські операції – ZN.ua"
+  },
+  "https://nos.nl/artikel/2636164-spanningen-lopen-op-tussen-de-filipijnen-en-china-over-de-zuid-chinese-zee": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Spanningen lopen op tussen de Filipijnen en China over de Zuid-Chinese Zee"
+  },
+  "https://www.presse-citron.net/la-chine-met-le-japon-a-genoux-la-bataille-pour-les-terres-rares-fait-rage-entre-les-deux-geants-asiatiques/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "La Chine met le Japon à genoux : la bataille pour les terres rares fait rage entre les deux géants asiatiques"
+  },
+  "https://www.the-messenger.com/news/world/article_4435c88d-6959-55dd-b62e-650b88f1c2b3.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party | World | the-messenger.com"
+  },
+  "https://gcaptain.com/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-undersea-cables/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Philippines Exploring Deeper Cooperation with Taiwan to Protect Undersea Cables"
+  },
+  "https://executivedigest.sapo.pt/taiwan-acusa-cinco-pessoas-de-tentar-agredir-humorista-critico-de-xi-jinping/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan acusa cinco pessoas de tentar agredir humorista crítico de Xi Jinping"
+  },
+  "https://www.theepochtimes.com/china/chinas-bid-to-weaponize-tech-exports-will-backfire-analyst-says-6107610": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China’s Bid to Weaponize Tech Exports Will Backfire, Analyst Says | The Epoch Times"
+  },
+  "https://www.hindustantimes.com/trending/nvidias-jensen-huang-used-yellow-pages-and-a-letter-to-reach-tsmc-founder-morris-chang-101792652137678.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia's Jensen Huang used Yellow Pages and a letter to reach TSMC founder Morris Chang | Trending"
+  },
+  "https://article.wn.com/view/2026/10/22/Philippines_exploring_deeper_cooperation_with_Taiwan_to_prot_8/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Philippines exploring deeper cooperation with Taiwan to protect undersea cables - Worldnews.com"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/22/what-s-holding-up-washington-s-us-14bil-arms-sale-to-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "What’s holding up Washington’s US$14bil arms sale to Taiwan? | FMT"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/22/philippines-exploring-deeper-cooperation-with-taiwan-to-protect-cables": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Philippines exploring deeper cooperation with Taiwan to protect cables | FMT"
+  },
+  "https://www.pcmag.com/news/msi-receives-exemption-to-us-wi-fi-router-ban": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "MSI Receives Exemption to US Wi-Fi Router Ban | PCMag"
+  },
+  "https://news.israelinfo.co.il/149090": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "ÐÐµÑÑÑ ÐÐ¸Ð½Ð½Ð¸-ÐÑÑÐ°. ÐÐ° Ð¢Ð°Ð¹Ð²Ð°Ð½Ðµ ÑÐ¾Ð²ÐµÑÑÐµÐ½Ð¾ Ð¿Ð¾ÐºÑÑÐµÐ½Ð¸Ðµ Ð½Ð° ÐºÐ¾Ð¼Ð¸ÐºÐ°, ÐºÐ¾ÑÐ¾ÑÑÐ¹ Ð¿Ð°ÑÐ¾Ð´Ð¸ÑÐ¾Ð²Ð°Ð» Ð¡Ð¸ Ð¦Ð·Ð¸Ð½ÑÐ¿Ð¸Ð½Ð°"
+  },
+  "https://econotimes.com/Compal-Says-It-Is-Expanding-AI-Infrastructure-Collaboration-With-Verda-1760095": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Compal Says It Is Expanding AI Infrastructure Collaboration With Verda | EconoTimes"
+  },
+  "https://biz.heraldcorp.com/article/10910892": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "에이직랜드 이석용 상무, ‘반도체의 날’ 장관 표창…3년 연속 수상 - 헤럴드경제"
+  }
+ }
+}

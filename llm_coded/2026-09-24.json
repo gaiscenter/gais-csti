@@ -1,0 +1,938 @@
+{
+ "date": "2026-09-24",
+ "generated_at": "2026-11-12T10:13:02",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 147,
+ "n_articles": 124,
+ "n_no_text": 23,
+ "n_coded": 120,
+ "n_relevant": 15,
+ "complete": false,
+ "n_missing": 4,
+ "missing": [
+  "https://podrobnosti.ua/2520605-tramp-zustrv-s-z-rozmahom-scho-obgovorjat-za-zachinenimi-dverima.html",
+  "https://bnn-news.com/trump-gives-chinese-leader-a-warm-welcome-will-discuss-trade-taiwan-and-ai-284080",
+  "https://www.freemalaysiatoday.com/category/world/2026/09/24/taiwan-thanks-us-for-its-support-ahead-of-trump-xi-summit",
+  "https://www.standartnews.com/svyat/tramp-i-si-reshavat-klyuchovi-vaprosi-za-svetovnata-ikonomika-647929.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-media-ban-xi-china-un-iran-congress-2026-midterm-live-updates-rcna599497": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Live updates: Trump, Xi Jinping meet in D.C. as media outlets regain White House access after judge order"
+  },
+  "https://www.abc.net.au/news/2026-09-25/trump-welcomes-xi-to-white-house/107193702": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Donald Trump hails 'great friendship' with Xi Jinping as Chinese leader visits White House  - ABC News"
+  },
+  "https://www.weau.com/2026/09/24/mcconnell-republican-senators-urge-trump-approve-taiwan-arms-package/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Mitch McConnell, Republican senators urge Trump to move ahead with Taiwan arms sales"
+  },
+  "https://www.bnnbloomberg.ca/business/international/2026/09/24/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Donald Trump, China's Xi Jinping meet in Washington"
+  },
+  "https://www.fnnews.com/news/202609241439119625": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "\"기술주 다시 최고가 가면 청산\" 마이클 버리, 마이크론 공매도 확대 - 파이낸셜뉴스"
+  },
+  "https://www.channelnewsasia.com/world/trump-xi-jinping-meeting-summit-iran-taiwan-ai-6409161": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump-Xi summit in Washington begins with great fanfare but low expectations - CNA"
+  },
+  "https://cbn.com/news/world/calls-grow-trump-press-xi-religious-freedom-security-threats-during-us-visit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Calls Grow for Trump to Press Xi on Religious Freedom, Security Threats During US Visit | CBN News"
+  },
+  "https://dailycaller.com/2026/09/24/trump-xi-face-off-taiwan-weapons-trade-iran-washington-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Arms, Rare Earths, Tariffs And Iran Hang Over Trump-Xi Summit | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.middle-east-online.com/en/trump-xi-meet-trade-truce-iran-and-taiwan-tensions-focus": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi meet with trade truce, Iran and Taiwan tensions in focus | MEO"
+  },
+  "https://www.cotidianul.ro/xi-trump-armonie-mimata-pentru-prelungirea-unui-armistitiu-economic/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Xi-Trump: armonie mimată pentru prelungirea unui armistițiu economic"
+  },
+  "https://www.seoul.co.kr/news/international/2026/09/25/20260925500010": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "시진핑, ‘대만 문제’ 면전 서 압박...트럼프는 취재진 질의 딴청 회피 | 서울신문"
+  },
+  "https://www.kathimerini.com.cy/gr/kosmos/ti-psaxnoyn-tramp-kai-si-stin-oyasigkton-%E2%80%93-ta-5-metopa-sto-trapezi": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "Τι ψάχνουν Τραμπ και Σι στην Ουάσιγκτον – Τα 5 «μέτωπα» στο τραπέζι, Η ΚΑΘΗΜΕΡΙΝΗ, kathimerini.com.cy"
+  },
+  "https://www.moneycontrol.com/world/trump-rolls-out-full-white-house-pageantry-for-xi-jinping-hails-their-truly-great-friendship-article-14037636.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump rolls out full White House pageantry for Xi Jinping, hails their ‘truly great friendship’"
+  },
+  "https://fox17.com/news/nation-world/president-donald-trump-chinese-president-xi-jinping-to-face-off-over-trade-taiwan-arms-sale-and-ai-artificial-intelligence-guardrails-technology-race-at-white-house-summit-iran-war-oval-office-meeting-state-dinner": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 32,
+   "title": "Trump, Xi call for cooperation, AI safeguards at White House summit"
+  },
+  "https://www.republicanherald.com/2026/09/24/trump-xi-washington-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump lays out pomp for Xi but says little about US-China tensions"
+  },
+  "https://www.fnnews.com/news/202609250437356742": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "트럼프·시진핑 3시간22분 회담 종료…트럼프 \"매우 좋은 회담\" - 파이낸셜뉴스"
+  },
+  "https://www.abc.net.au/news/2026-09-25/xi-jinping-donald-trump-state-dinner-white-house-live-blog/107176858": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Pomp and ceremony mask tensions as Trump hosts Xi at White House — as it happened - ABC News"
+  },
+  "https://www.straitstimes.com/asia/south-asia/semiconductor-sector-poised-to-take-off-in-india-more-singapore-firms-show-interest": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "S'pore firms show interest in India's semiconductor sector | The Straits Times"
+  },
+  "https://lasvegassun.com/news/2026/sep/24/trump-hails-truly-great-friendship-with-xi-jinping/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations -\nLas Vegas Sun News"
+  },
+  "https://www.aol.co.uk/articles/trump-pictured-screaming-marine-one-133700000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump pictured screaming at his Marine One pilots as furious President left aircraft - AOL"
+  },
+  "https://asianews.network/china-criticises-taiwans-democratic-progressive-party-for-donating-vessel-to-philippines/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China criticises Taiwan’s Democratic Progressive Party for donating vessel to Philippines – Asia News Network"
+  },
+  "https://www.taylorvilledailynews.com/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump and Xi Jinping head into Washington summit with both leaders thinking time is on their side - Taylorville Daily News"
+  },
+  "https://www.eleconomista.com.mx/internacionales/xi-pide-trump-relacion-conflicto-fastuosa-visita-eu-20260924-835177.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi pide a Trump una relación \"sin conflicto\" en fastuosa visita a EU"
+  },
+  "https://www.theamericanconservative.com/trump-has-learned-how-to-deal-with-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump Has Learned How to Deal With China - The American Conservative"
+  },
+  "https://www.i24news.tv/en/news/international/americas/artc-trump-welcomes-xi-to-washington-with-rare-planeside-ceremony-trade-truce-extended-to-january": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 1,
+   "title": "i24NEWS"
+  },
+  "https://www.vesti.bg/sviat/zashto-sreshtata-na-vyrha-mezhdu-trymp-i-si-trudno-shte-opravdae-pishtnata-ceremoniia-okolo-neia-6271010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Защо срещата на върха между Тръмп и Си трудно ще оправдае пищната церемония около нея|Vesti.bg"
+  },
+  "https://www.abc.net.au/listen/programs/pm/trump-rolls-out-the-red-carpet-for-xi/107193252": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump rolls out the red carpet for Xi - ABC listen"
+  },
+  "https://www.euronews.com/2026/09/24/trump-and-xi-vow-cooperation-amid-healthy-competition-at-the-white-house": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump and Xi vow cooperation amid 'healthy competition' at the White House | Euronews"
+  },
+  "https://fakti.bg/world/1083502-donald-tramp-imah-strahotna-sreshta-sas-si-dzinpin": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Доналд Тръмп: Имах страхотна среща със Си Дзинпин ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "http://www.cbsnews.com/news/trump-rolls-out-the-red-carpet-for-xi-despite-us-china-tensions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump rolls out the red carpet for Chinese President Xi Jinping despite U.S.-China tensions - CBS News"
+  },
+  "https://faktor.ba/svijet/svijet/trump-odlican-sastanak-xi-ima-veliko-interesovanje-za-granit-xi-sad-i-iran-treba-da-se-vrate-dijalogu/264708": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump: Odličan sastanak, Xi ima veliko interesovanje za granit; Xi: SAD i Iran treba da se vrate dijalogu"
+  },
+  "https://www.novilist.hr/novosti/svijet/trump-jako-zadovoljan-sastankom-sa-xijem-bio-je-sjajan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump jako zadovoljan sastankom sa Xijem: \"Bio je sjajan\" - Novi list"
+  },
+  "https://www.vesti.ru/ns/professor-luzyanin-perechislil-ustupki-trampa-kitayu": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Профессор Лузянин перечислил уступки Трампа Китаю - Новости на Вести.ru"
+  },
+  "https://www.efsyn.gr/kosmos/1474095/protropes-si-se-tramp-termatise-ton-polemo-sto-iran-deixe-synesi-stin-taivan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Οι «προτροπές» του Σι στον Τραμπ: Τερμάτισε τον πόλεμο στο Ιράν, δείξε σύνεση στην Ταϊβάν"
+  },
+  "https://www.kjzz.org/politics/2026-09-24/china-warns-arizona-not-to-develop-political-ties-with-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China warns Arizona not to develop political ties with Taiwan"
+  },
+  "https://www.express.pk/story/2834556/trump-xi-jinping-meeting-iran-taiwan-2834556": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "ٹرمپ اور شی جن پنگ کی ملاقات، ایران اور تائیوان پر اہم گفتگو - ایکسپریس اردو"
+  },
+  "https://www.ksl.com:443/article/news/politics/what-republicans-want--and-dont-want--to-see-from-trumps-meeting-with-chinese-president/51627881": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "What Republicans want — and don't want — to see from Trump's meeting with Chinese president | KSL.com"
+  },
+  "https://www.newson6.com/national-politics-oklahoma/trump-chinese-president-xi-jinping-state-visit-us-china-tensions": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump welcomes Chinese President Xi Jinping's state visit despite U.S.-China tensions - NewsOn6.com"
+  },
+  "https://www.theamericanconservative.com/marking-time-in-us-china-relations/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Marking Time in U.S.-China Relations - The American Conservative"
+  },
+  "https://www.npr.org/transcripts/nx-s1-5978691": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi : NPR"
+  },
+  "https://www.theepochtimes.com/china/bipartisan-senators-press-trump-administration-on-stalled-taiwan-security-support-6094416": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Bipartisan Senators Press Trump Administration on Stalled Taiwan Security Support | The Epoch Times"
+  },
+  "https://www.kathimerini.gr/world/564476884/ti-psachnoyn-tramp-kai-si-stin-oyasigkton-ta-5-metopa-sto-trapezi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Τι ψάχνουν Τραμπ και Σι στην Ουάσιγκτον – Τα 5 «μέτωπα» στο τραπέζι | Η ΚΑΘΗΜΕΡΙΝΗ"
+  },
+  "https://www.thetimes-tribune.com/2026/09/24/trump-xi-washington-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump lays out pomp for Xi but says little about US-China tensions"
+  },
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017095&code=61131111&sid1=int": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "시진핑, 미국 도착⋯트럼프, 공항에서 직접 영접했다 - 국민일보"
+  },
+  "https://13wham.com/news/nation-world/president-donald-trump-chinese-president-xi-jinping-to-face-off-over-trade-taiwan-arms-sale-and-ai-artificial-intelligence-guardrails-technology-race-at-white-house-summit-iran-war-oval-office-meeting-state-dinner": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump, Xi call for cooperation, AI safeguards at White House summit"
+  },
+  "https://www.moneycontrol.com/world/xi-jinping-sends-two-major-messages-to-trump-prudence-on-taiwan-and-talks-to-end-iran-war-article-14037748.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Xi Jinping sends two major messages to Trump: ‘Prudence’ on Taiwan and talks to end Iran war"
+  },
+  "https://www.index.hr/vijesti/clanak/trump-sastanak-sa-xijem-bio-je-sjajan/2838468.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump: Sastanak sa Xijem bio je sjajan - Index.hr"
+  },
+  "https://www.interfax.ru/world/1118174": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Китай призвал США к осторожности в вопросе продажи вооружений Тайваню"
+  },
+  "https://www.inewsgr.com/351/protropes-si-se-trab-termatise-ton-polemo-sto-iran-deixe-synesi-stin-taivan.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Οι «προτροπές» του Σι στον Τραμπ: Τερμάτισε τον πόλεμο στο Ιράν, δείξε σύνεση στην Ταϊβάν - oi «protropes» tou si ston trab: termatise ton polemo sto iran, deixe synesi stin taivan"
+  },
+  "https://www.newsday.com/news/nation/trump-xi-china-state-visit-x94166": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations - Newsday"
+  },
+  "https://www.butlereagle.com/20260924/trump-hails-deep-friendship-with-xi-as-chinas-leader-urges-healthy-competition-between-2-powers/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump hails deep friendship with Xi as China’s leader urges ‘healthy’ competition between 2 powers – Butler Eagle"
+  },
+  "https://targetednews.com/pr_disp.php?pr_id=9754957": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Targeted News Service"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/25/2003864870": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Vessel donation to Manila would not harm fishers: OAC - Taipei Times"
+  },
+  "https://www.newsit.gr/kosmos/time-o-amerikanos-nayarxos-pou-prepei-na-apotrepsei-enan-polemo-me-tin-kina-empneetai-apo-to-top-gun/4782402/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Time: Ο Αμερικανός ναύαρχος που πρέπει να αποτρέψει έναν πόλεμο με την Κίνα - Εμπνέεται από το Top Gun"
+  },
+  "https://www.bostonherald.com/2026/09/24/trump-xi-washington-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump lays out pomp for Xi but says little about US-China tensions"
+  },
+  "https://english.news.cn/20260924/cd59d71021a042af907b407987e18204/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "False narrative cannot change Philippines' provocative nature in South China Sea: Chinese spokesperson-Xinhua"
+  },
+  "http://www.laosnews.net/news/279329155/false-narrative-cannot-change-philippines-provocative-nature-in-south-china-sea-chinese-spokesperson": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "False narrative cannot change Philippines' provocative nature in South China Sea: Chinese spokesperson"
+  },
+  "https://www.koreatimes.co.kr/world/20260924/trump-xi-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi head into Washington summit with both leaders thinking time is on their side - The Korea Times"
+  },
+  "https://www.timeslive.co.za/news/2026-09-24-trump-xi-jinping-head-into-washington-summit-thinking-time-is-on-their-side/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi calls for ‘healthy’ competition at White House meeting with Trump"
+  },
+  "https://www.theepochtimes.com/us/house-china-committee-chairman-lays-out-expectations-for-trump-xi-summit-6094076": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "House China Committee Chairman Lays Out Expectations for Trump-Xi Summit | The Epoch Times"
+  },
+  "https://investinglive.com/news/trump-and-xi-buy-two-more-months-of-trade-truce-leaving-tariffs-and-rare-earths-in-limbo/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump and Xi buy two more months of trade truce, leaving tariffs and rare earths in limbo"
+  },
+  "https://biz.heraldcorp.com/article/10884349": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "미중 정상회담에 대만 ‘긴장’…“中, 무기판매 지연 요구 가능성” - 헤럴드경제"
+  },
+  "http://www.torontotelegraph.com/news/279324169/xi-to-press-trump-on-ending-us-arms-sales-to-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 56,
+   "title": "Xi to press Trump on ending US arms sales to Taiwan"
+  },
+  "https://www.winnipegfreepress.com/business/2026/09/23/trump-and-xi-jinping-head-into-washington-summit-with-both-leaders-thinking-time-is-on-their-side": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump lays out the pomp for Xi but says little about the significant tensions in US-China relations – Winnipeg Free Press"
+  },
+  "https://www.albawaba.net/news/trump-meet-xi-washington-talks-trade-1637725": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump to meet Xi in Washington for talks on trade, Taiwan and Iran | Al Bawaba"
+  },
+  "https://www.timescall.com/2026/09/24/trump-xi-washington-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump lays out pomp for Xi but says little about US-China tensions"
+  },
+  "http://www.shanghainews.net/news/279324169/xi-expected-to-seek-halt-to-us-taiwan-arms-sales-at-summit": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Xi expected to seek halt to US Taiwan arms sales at summit"
+  },
+  "https://article.wn.com/view/2026/09/24/Taiwan_Tehran_tariffs_on_table_as_Trump_hosts_Xi_Jinping_for/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Taiwan, Tehran, tariffs on table as Trump hosts Xi Jinping for high-stakes Washington summit - Worldnews.com"
+  },
+  "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/158856/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "習抵華府 學者：對台政策因中東戰事無重大改變 - 美洲台灣日報"
+  },
+  "https://www.wvtm13.com/article/trump-rolls-out-red-carpet-for-xi-jinping-as-lawmakers-slam-china/73865921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump rolls out red carpet for Xi Jinping as lawmakers slam China - WVTM"
+  },
+  "https://article.wn.com/view/2026/09/24/Xi_Jinping_lands_in_Washington_as_Trump_breaks_protocol_with/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Xi Jinping lands in Washington as Trump breaks protocol with rare airport welcome for China ... - Worldnews.com"
+  },
+  "https://gwhatchet.com/2026/09/24/china-policy-program-director-discusses-us-china-relations-ahead-of-xi-jinpings-dc-visit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China policy program director discusses US-China relations ahead of Xi Jinping’s DC visit – The GW Hatchet"
+  },
+  "https://www.shacknews.com/article/150804/pokemon-go-tour-2027-first-details": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Pokemon GO Tour 2027 returns to Los Angeles & Taiwan to celebrate the Alola region | Shacknews"
+  },
+  "https://cronicadecantabria.com/cr/american-airlines-y-starlux-airlines-firman-acuerdo-de-cdigo-compartido-para-conectar-norteamrica-con-taipi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "American Airlines y Starlux Airlines firman acuerdo de código compartido para conectar Norteamérica con Taipéi - Crónica de Cantabria"
+  },
+  "https://www.aljazeera.com/economy/2026/9/24/trump-and-xi-summit-may-just-be-a-horse-and-pony-show-experts-say": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump and Xi summit will focus on ‘stabilising’ ties, experts say | Donald Trump News | Al Jazeera"
+  },
+  "https://www.businesstimes.com.sg/lifestyle/bt-luxe/bt-luxe/taipeis-new-tea-order": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taipei's new tea order - The Business Times"
+  },
+  "https://www.cbsnews.com/news/trump-xi-china-pressure-doesnt-work-analysts-say/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Chinese analysts say Trump should \"understand pressure doesn't work,\" as he and Xi tackle thorny issues - CBS News"
+  },
+  "https://www.lbc.co.uk/article/republicans-trump-taiwan-xi-5HjdhtB_2/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Republicans call for Trump to release $15 billion in stalled Taiwan security funds ahead of summit with Xi Jinping | LBC"
+  },
+  "https://defimedia.info/blog-trump-and-xi-summit-may-just-be-horse-and-pony-show-experts-say": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "[Blog] Trump and Xi summit may just be a ‘horse and pony show’, experts say | Defimedia"
+  },
+  "https://www.aol.co.uk/articles/china-expanding-secret-nuclear-weapon-100800000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China expanding secret nuclear weapon sites in terrifying warning to West - AOL"
+  },
+  "https://bleedingcool.com/games/pokemon-go-tour-returns-next-february-with-two-locations-revealed/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Pokémon GO Tour Returns Next February With Two Locations Revealed"
+  },
+  "https://focustaiwan.tw:443/politics/202609240005": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 18,
+   "title": "U.S. arms sales to Taiwan a complex issue, still under review: Rubio - Focus Taiwan"
+  },
+  "https://www.dailymail.com/vertical-galleries/article-16157253/Xi-Jinping-sparks-fresh-health-speculation-arrives-US.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi Jinping sparks fresh health speculation as he arrives in US | Daily Mail Online"
+  },
+  "https://www.zerohedge.com/geopolitical/china-expands-export-controls-drug-precursor-chemicals-ahead-trump-xi-talks": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China Expands Export Controls On Drug Precursor Chemicals Ahead Of Trump-Xi Talks<!-- --> | ZeroHedge"
+  },
+  "https://www.hankookilbo.com/news/article/A2026092409550004340": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "미중 무역 휴전 2개월 연장… 美재무 베선트 \"내년 1월 10일까지\"-국제ㅣ한국일보"
+  },
+  "https://abcnews4.com/news/nation-world/president-donald-trump-chinese-president-xi-jinping-to-face-off-over-trade-taiwan-arms-sale-and-ai-artificial-intelligence-guardrails-technology-race-at-white-house-summit-iran-war-oval-office-meeting-state-dinner": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi call for cooperation, AI safeguards at White House summit"
+  },
+  "https://fakti.bg/world/1083298-taivan-blagodari-na-sasht-za-podkrepata-predi-sreshtata-tramp-si": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "Тайван благодари на САЩ за подкрепата преди срещата Тръмп-Си ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "https://www.vetogate.com/5737857": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "ترامب: تجمعني صداقة عظيمة بالرئيس الصيني"
+  },
+  "https://www.moneycontrol.com/world/100-foot-red-carpet-b-1-flypast-trump-s-elaborate-welcome-for-xi-in-washington-article-14037037.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "100-foot red carpet, B-1 flypast: Trump's elaborate welcome for Xi in Washington"
+  },
+  "https://ianslive.in/asian-games-india-men-remain-unbeaten-to-top-group-a-with-37-21-win-over-chinese-taipei-in-kabaddi--20260924120507": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Asian Games: India men remain unbeaten to top Group A with 37-21 win over Chinese Taipei in kabaddi"
+  },
+  "https://www.thedailybeast.com/why-trumps-fawning-china-welcome-might-be-his-biggest-gamble/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "How Fawning Trump Just Showed Exactly How Weak He Is"
+  },
+  "https://www.worthynews.com/117761-trump-welcomes-xi-to-washington-as-iran-ai-and-natural-gas-dominate-high-stakes-talks": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump Welcomes Xi To Washington As Iran, AI And Natural Gas Dominate High-Stakes Talks - Worthy Christian News"
+  },
+  "https://focustaiwan.tw:443/society/202609240020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "2-year sentences sought for Chinese men who illegally sailed to Taiwan - Focus Taiwan"
+  },
+  "https://news.bg/int-politics/obrat-sasht-veche-ne-ochakvat-kitay-da-napadne-tayvan-predi-2028-g.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Обрат: САЩ вече не очакват Китай да нападне Тайван преди 2028 г. - News.bg"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/24/trump-praises-takaichi-for-doing-a-tremendous-job-just-before-xis-lands-in-the-us": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump praises Takaichi for doing a ‘tremendous job’ just before Xi’s lands in the US | The Star"
+  },
+  "https://www.pocketgamer.com/pokemon-go/go-tour-2027-announcement/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Pokémon Go Tour heads to Alola for its seventh regional adventure | Pocket Gamer"
+  },
+  "https://www.dainiktribuneonline.com/news/topnews/xi-jinping-visits-washington-receives-grand-welcome-from-trump-airport-crucial-summit-to-be-held-today/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "शी जिनपिंग की वाशिंगटन यात्रा, ट्रंप ने एयरपोर्ट पर की भव्य अगवानी; आज होगी अहम शिखर वार्ता - dainiktribuneonline.com"
+  },
+  "https://www.manilatimes.net/2026/09/24/tmt-newswire/pr-newswire/taipei-and-singapore-strengthen-ai-and-technology-collaboration-at-tech-week-singapore-2026/2431858": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taipei and Singapore strengthen AI and technology collaboration at Tech Week Singapore 2026\n\n | The Manila Times"
+  },
+  "https://www.nzherald.co.nz/world/chinas-xi-and-trump-have-different-views-on-controlling-ai-during-us-visit/QRXNYPEOPZFIHKWQOW5VMLMYZA/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China’s Xi and Trump have different views on controlling AI during US visit - NZ Herald"
+  },
+  "https://www.albawaba.net/news/xi-urges-washington-oppose-taiwan-1637768": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "low"
+   },
+   "mentions": 3,
+   "title": "Xi urges Washington to oppose Taiwan independence | Al Bawaba"
+  },
+  "https://es.euronews.com/2026/09/24/trump-xi-apuestan-reforzar-cooperacion-impulsar-competencia-sana": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump y Xi apuestan por reforzar la cooperación e impulsar una \"competencia sana\" | Euronews"
+  },
+  "https://www.pb.pl/prezydenci-usa-i-chin-rozmawiali-o-handlu-tajwanie-i-ai-trump-spotkanie-bylo-swietne-1267627": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Prezydenci USA i Chin rozmawiali o handlu, Tajwanie i AI. Trump: spotkanie było świetne - Puls Biznesu - pb.pl"
+  },
+  "http://www.koreatimes.com/article/20260924/1631142": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "대만, 미중 정상회담에 촉각… “미국과 긴밀히 소통”"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/25/xi-trump-call-for-peace-in-lavish-white-house-state-visit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi, Trump call for peace in lavish White House state visit | FMT"
+  },
+  "https://www.irishdentist.ie/trump-xi-summit-here-are-the-main-dossiers-on-the-table/22302/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi summit: here are the main dossiers on the table - IrishDentist.ie"
+  },
+  "https://www.kommersant.ru/doc/8974484": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "США и Китай продлили торговое перемирие до 10 января"
+  },
+  "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump-Xi summit: Here’s what’s on the agenda, and why it matters | Trade War News | Al Jazeera"
+  },
+  "https://targetednews.com/pr_disp.php?pr_id=9754284": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Targeted News Service"
+  },
+  "https://www.tt.com/artikel/30942942/trump-empfaengt-xi-zu-staatsbesuch-im-weissen-haus": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump empfängt Xi zu Staatsbesuch im Weißen Haus | Tiroler Tageszeitung – Aktuelle Nachrichten auf tt.com"
+  },
+  "https://sapo.pt/artigo/xi-indica-a-trump-o-rumo-que-eua-e-china-devem-seguir-para-evitar-um-conflito-6ab570c4c5a3f84d7f2dba1a": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi indica a Trump o rumo que EUA e China devem seguir para evitar um conflito"
+  },
+  "https://www.wpr.org/economy/foxconn-says-it-plans-to-add-700-jobs-in-mount-pleasant-by-mid-2027": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Foxconn says it plans to add 700 jobs in Mount Pleasant by mid-2027 - WPR"
+  },
+  "https://www.albawaba.net/news/netanyahu-faces-mass-walkout-un-1637770": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Netanyahu faces mass walkout at UN | Al Bawaba"
+  },
+  "https://www.pardubickenovinky.cz/zpravy/zpravy/tchaj-wan-mezi-kartami-velmoci-cina-tlaci-na-trumpa-kvuli-zbranim/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pardubické novinky - Domácí  -  Tchaj-wan mezi kartami velmocí. Čína tlačí na Trumpa kvůli zbraním"
+  },
+  "https://www.abc.com.py/internacionales/2026/09/24/china-advierte-de-que-taiwan-es-la-cuestion-mas-importante-antes-de-la-reunion-xi-trump/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China advierte de que Taiwán es \"la cuestión más importante\" antes de la reunión Xi-Trump - Mundo - ABC Color"
+  },
+  "https://foreignpolicy.com/2026/09/24/trump-xi-dissidents-uyghurs-christians/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump-Xi Summit Can’t Ignore Human Rights"
+  },
+  "https://zn.ua/ukr/WORLD/ssha-vvazhajut-malojmovirnim-vtorhnennja-kitaju-na-tajvan-nastupnoho-roku-reuters.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Китай проти Тайваню - чи очікують США на напад Пекіна на острів наступного року – ZN.ua"
+  },
+  "https://gcn.com/nvidia-launches-dsx-ready-qualify-factory/21896/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "NVIDIA launches DSX Ready to qualify AI factory power and cooling gear from six partners"
+  },
+  "https://www.fnnews.com/news/202609250510475521": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "트럼프 \"훌륭한 만남\"…시진핑 \"대만 문제 신중 처리해야\"(종합2보) - 파이낸셜뉴스"
+  },
+  "https://www.worthynews.com/117784-xi-tells-trump-u-s-and-china-will-both-lose-in-confrontation-says-war-is-not-inevitable": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi Tells Trump U.S. And China 'Will Both Lose In Confrontation,' Says War Is Not Inevitable - Worthy Christian News"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/09/24/china-pede-cautela-extrema-taiwan-antes-de-reuniao-trump-xi.ghtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China pede 'cautela extrema' sobre Taiwan antes de reunião Trump-Xi | G1"
+  }
+ }
+}

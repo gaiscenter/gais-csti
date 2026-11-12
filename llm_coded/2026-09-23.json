@@ -1,0 +1,677 @@
+{
+ "date": "2026-09-23",
+ "generated_at": "2026-11-12T10:12:03",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 92,
+ "n_articles": 83,
+ "n_no_text": 9,
+ "n_coded": 80,
+ "n_relevant": 19,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "http://www.jpost.com/international/article-909376",
+  "https://economictimes.indiatimes.com/news/international/world-news/chinas-us-ambassador-warns-on-red-lines-ahead-of-trump-xi-meeting/articleshow/134423528.cms",
+  "https://www.index.hr/vijesti/clanak/xi-dolazi-pred-trumpa-s-velikim-zahtjevom/2837659.aspx?index_tid=1164353&index_ref=naslovnica_vijesti_ostalo_d_2"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://timesofindia.indiatimes.com/world/us/trump-xi-summit-14-billion-taiwan-arms-deal-hangs-over-washington-talks/articleshow/134428850.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump-Xi summit: $14 billion Taiwan arms deal hangs over Washington talks - The Times of India"
+  },
+  "https://www.nbcnews.com/news/us-news/trump-iran-un-speech-ole-miss-students-morning-rundown-rcna599349": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump’s Iran threat at the U.N. and Ole Miss students found dead: Morning Rundown"
+  },
+  "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-media-ban-xi-china-un-iran-congress-2026-midterm-live-updates-rcna599497": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Live updates: Trump, Xi Jinping meet in D.C. as media outlets regain White House access after judge order"
+  },
+  "https://foreignpolicy.com/2026/09/22/trump-xi-summit-china-us-ai-trade-critical-minerals-iran-taiwan/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi Summit: What to Expect on AI, Trade, Critical Minerals"
+  },
+  "https://www.cbsnews.com/news/trump-rolls-out-the-red-carpet-for-xi-despite-us-china-tensions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump rolls out the red carpet for Chinese President Xi Jinping despite U.S.-China tensions - CBS News"
+  },
+  "https://www.obozrevatel.com/novosti-mir/tramp-planiruet-na-etoj-nedele-vstretitsya-s-si-tszinpinom-po-voprosu-tajvanya-reuters.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Встреча Трампа и Си Цзиньпина – Китай требует от США прекратить поставки оружия Тайваню | OBOZ.UA"
+  },
+  "https://www.holosameryky.com/a/8203402.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Санкції, Китай і війна в Україні. Про що Трамп говоритиме із Сі у Вашингтоні"
+  },
+  "https://www.topontiki.gr/2026/09/23/sinantisi-trab-si-ta-10-kafta-simia-stis-schesis-ipa-kinas/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Συνάντηση Τραμπ – Σι: Τα 10 «καυτά σημεία» στις σχέσεις ΗΠΑ – Κίνας | topontiki.gr"
+  },
+  "https://focustaiwan.tw:443/politics/202609230018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi expected to discuss trade, AI, Taiwan: Scholars - Focus Taiwan"
+  },
+  "https://www.novinky.cz/clanek/valka-na-ukrajine-zelenskyj-chce-do-mirovych-jednani-zapojit-cinskeho-prezidenta-40599082": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Nastavení souhlasu s personalizací"
+  },
+  "https://koran-jakarta.com/2026-09-24/trump-sambut-xi-jinping-di-landasan-pangkalan-militer-as-tiongkok-sepakat-perpanjang-gencatan-senjata-dagang": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump Sambut Xi Jinping di Landasan Pangkalan Militer, AS-Tiongkok Sepakat Perpanjang Gencatan Senjata Dagang"
+  },
+  "https://www.greaterbelize.com/whats-on-the-agenda-for-trump-and-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What’s on the Agenda for Trump and China?"
+  },
+  "https://foreignpolicy.com/2026/09/23/somaliland-israel-state-recognition-somalia-iran-war-irro-united-states-trump/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Iran War Gives Somaliland Chance for U.S. Recognition"
+  },
+  "https://krcrtv.com/news/nation-world/fact-check-team-trump-and-xi-expected-to-discuss-trade-iran-taiwan-and-ai-bilateral-artificial-intelligence-united-states-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Redding Chico Eureka"
+  },
+  "https://www.rts.rs/vesti/svet/6047082/si-kod-trampa-u-vasingtonu--izmedju-trgovinskog-primirja-i-sporova-oko-tajvana-.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Си код Трампа у Вашингтону – између трговинског примирја и спорова око Тајвана  | Свет | РТС"
+  },
+  "https://focustaiwan.tw/politics/202609230018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi expected to discuss trade, AI, Taiwan: Scholars - Focus Taiwan"
+  },
+  "https://fox56.com/news/nation-world/fact-check-team-trump-and-xi-expected-to-discuss-trade-iran-taiwan-and-ai-bilateral-artificial-intelligence-united-states-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI"
+  },
+  "https://cnycentral.com/news/nation-world/fact-check-team-trump-and-xi-expected-to-discuss-trade-iran-taiwan-and-ai-bilateral-artificial-intelligence-united-states-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 24,
+   "title": "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI"
+  },
+  "https://www.rfa.org:443/english/china/2026/09/22/taiwan-china-ai-exit-rules/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "New rules to protect tech secrets could strand Taiwanese visitors in China  – Radio Free Asia"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/24/2003864799": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Takaichi has ‘timely’ talk with Trump about China ahead of his planned summit with Xi - Taipei Times"
+  },
+  "https://www.rfa.org/english/china/2026/09/22/taiwan-china-ai-exit-rules/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "New rules to protect tech secrets could strand Taiwanese visitors in China  – Radio Free Asia"
+  },
+  "http://www.shanghainews.net/news/279326068/chinese-mainland-welcomes-more-discussion-from-taiwan-on-reunification": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Chinese mainland welcomes more discussion from Taiwan on reunification"
+  },
+  "https://www.northerndailyleader.com.au/story/9356033/taiwan-human-rights-are-red-lines-for-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan, human rights are 'red lines' for China | The Northern Daily Leader | Tamworth, NSW"
+  },
+  "https://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The U.S. Should Untangle Its Taiwan Policy"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/24/2003864787": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan no longer just a US-China problem - Taipei Times"
+  },
+  "http://www.taiwansun.com/news/279325852/roundup-chinese-mainland-welcomes-more-discussion-from-taiwan-on-reunification": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Roundup: Chinese mainland welcomes more discussion from Taiwan on reunification"
+  },
+  "https://www.asiaone.com:443/asia/taiwan-minister-says-he-was-not-belittled-rare-trip-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan minister says he was not 'belittled' on rare trip to China, Asia News - AsiaOne"
+  },
+  "https://www.manilatimes.net/2026/09/23/tmt-newswire/pr-newswire/rsmc-brings-fertility-insights-to-asia-this-october/2431103": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "RSMC Brings Fertility Insights to Asia This October\n\n | The Manila Times"
+  },
+  "https://www.staradvertiser.com/2026/09/23/breaking-news/gop-senators-urge-trump-to-release-15-billion-for-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "GOP senators urge Trump to release $15 billion for Taiwan | Honolulu Star-Advertiser"
+  },
+  "https://english.news.cn/20260923/b36bf8336acd40cd95a0109714e38622/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Roundup: Chinese mainland welcomes more discussion from Taiwan on reunification-Xinhua"
+  },
+  "https://www.telegram.hr/politika-kriminal/trump-putin-i-xi-izgledali-su-kao-nezaustavljivi-gospodari-svijeta-je-li-poceo-sumrak-njihove-moci/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "David Ignatius: 'Ovo bi mogao biti sumrak ere diktatora' | Telegram.hr"
+  },
+  "https://www.westernadvocate.com.au/story/9356033/taiwan-human-rights-are-red-lines-for-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 4,
+   "title": "Taiwan, human rights are 'red lines' for China | Western Advocate | Bathurst, NSW"
+  },
+  "https://www.eurasiareview.com/23092026-new-rules-to-protect-tech-secrets-could-strand-taiwanese-visitors-in-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "New Rules To Protect Tech Secrets Could Strand Taiwanese Visitors In China - Eurasia Review"
+  },
+  "http://www.jpost.com/international/article-909371": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Chinese envoy warns US of 'red lines' on Taiwan ahead of Donald Trump, Xi summit | The Jerusalem Post"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/23/taiwan-to-maintain-close-contact-with-us-on-arms-sales": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan to maintain ‘close contact’ with US on arms sales - Internazionale"
+  },
+  "https://dunyanews.tv/en/World/974208-chinas-us-ambassador-warns-on-red-lines-ahead-of-trump-xi-meeting": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China's US ambassador warns on 'red lines' ahead of Trump, Xi meeting | Dunya News"
+  },
+  "http://www.econotimes.com/Taiwan-Vows-to-Advance-US-Arms-Sales-Ahead-of-Trump-Xi-Meeting-1752760": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan Vows to Advance US Arms Sales Ahead of Trump-Xi Meeting | EconoTimes"
+  },
+  "https://www.egyptindependent.com/a-lots-changed-since-xi-jinpings-last-us-state-visit-mostly-in-chinas-favor/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "A lot’s changed since Xi Jinping’s last US state visit. Mostly in China’s favor - Egypt Independent"
+  },
+  "https://timesofindia.indiatimes.com/toi-blogs/beyond-borders/the-great-power-politics-of-ai-as-trump-and-xi-meet-in-washington-the-battle-for-global-ai-governance-intensifies/articleshow/134425878.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The great-power politics of AI: As Trump and Xi meet in Washington, the battle for global AI governance intensifies - The Times of India"
+  },
+  "http://bworldonline.com/opinion/2026/09/22/780183/supporting-taiwans-un-participation-does-not-contradict-phls-one-china-policy/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Supporting Taiwan’s UN participation does not contradict PHL’s One China Policy. - BusinessWorld Online"
+  },
+  "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet – The Diplomat"
+  },
+  "http://global.chinadaily.com.cn/a/202609/23/WS6ab37dede4b06d4aa055fc52.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Mainland criticizes Taiwan's DPP for donating vessel to Philippines - Chinadaily.com.cn"
+  },
+  "https://www.aol.co.uk/articles/ai-trade-taiwan-climate-won-122147000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "What’s on the agenda for the Trump-Xi summit, and what won’t they discuss? - AOL"
+  },
+  "https://www.thehindu.com/news/international/taiwan-watches-xi-trump-meeting-closely-hopes-us-arms-sales-continue/article71499129.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 1,
+   "title": "Taiwan watches Xi-Trump meeting closely, hopes US arms sales continue - The Hindu"
+  },
+  "http://usa.chinadaily.com.cn/a/202609/23/WS6ab37dede4b06d4aa055fc52.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Mainland criticizes Taiwan's DPP for donating vessel to Philippines - Chinadaily.com.cn"
+  },
+  "https://www.nbcdfw.com/news/national-international/china-xi-visit-washington-trump-welcome/4081218/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump hosts China’s Xi for state visit to talk trade, AI, Taiwan – NBC 5 Dallas-Fort Worth"
+  },
+  "https://www.bostonglobe.com/2026/09/22/nation/trump-xi-meeting/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump and Xi see tensions flare over AI, trade, and Iran but still seek stability - The Boston Globe"
+  },
+  "https://www.obozrevatel.com/ukr/novosti-mir/tramp-planue-na-tizhni-zustritis-z-si-tszinpinom-schodo-tajvanyu-reuters.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Зустріч Трампа і Сі Цзиньпіна – Китай вимагає від США припинити постачати зброю Тайваню | OBOZ.UA"
+  },
+  "https://www.aol.com/articles/trump-plans-grand-spectacle-potentially-100123000.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "050",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US says China trade truce extended as Trump welcomes Xi - AOL"
+  },
+  "https://www.businesstimes.com.sg/international/global/whats-agenda-when-xi-and-trump-meet-washington": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "What's on the agenda when Xi and Trump meet in Washington - The Business Times"
+  },
+  "https://www.wnp.pl/polityka-i-sondaze/bezprecedensowa-oprawa-wojskowa-i-dyplomatyczna-przywodca-chin-w-usa,1101878.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"Bezprecedensowa oprawa wojskowa i dyplomatyczna\". Przywódca Chin w USA"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/the-us-is-badly-losing-its-trade-war-with-china/articleshow/134430958.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "View: The US is badly losing its trade war with China - The Economic Times"
+  },
+  "https://foreignpolicy.com/podcasts/counterpoint/can-the-u-s-and-china-build-a-stable-relationship/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Can the U.S. and China Build a Stable Relationship? – Foreign Policy"
+  },
+  "https://timesofindia.indiatimes.com/world/us/from-taiwan-to-human-rights-china-warns-trump-not-to-cross-4-red-lines-as-xi-heads-to-us/articleshow/134441538.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "From Taiwan to human rights: China warns Trump not to cross 4 âred linesâ as Xi heads to US - The Times of India"
+  },
+  "https://www.theepochtimes.com/china/xi-seeks-trade-and-technology-concessions-from-trump-ahead-of-summit-6093692": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi Seeks Trade and Technology Concessions From Trump Ahead of Summit | The Epoch Times"
+  },
+  "https://focus.ua/uk/eksklyuzivy/768764-tramp-i-si-rubio-i-lavrov-shcho-oznachayut-dlya-ukrajini-peregovori-ssha-z-kitayem-i-rosiyeyu-fokus": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Трамп і Сі, Рубіо і Лавров: що означають для України переговори США з Китаєм і Росією, — Фокус"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/09/23/xi-chega-a-washington-nesta-terca-feira-para-encontro-com-trump-com-ia-e-taiwan-no-radar.ghtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi chega a Washington nesta terça-feira para encontro com Trump | G1"
+  },
+  "https://www.medianama.com/2026/09/223-discord-age-verification-backlash/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Discord changes its age verification approach after backlash. What must users prove now? - MEDIANAMA"
+  },
+  "https://ianslive.in/asian-games-indian-mens-kabaddi-team-enters-sf-confirms-medal--20260923123129": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Asian Games: Indian men’s kabaddi team enters SF, confirms medal"
+  },
+  "https://www.aol.co.uk/articles/trump-hosts-chinas-xi-high-150620000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump hosts China's Xi for high-stakes summit ahead of US midterm elections - AOL"
+  },
+  "https://www.irishtimes.com/world/us/2026/09/23/trump-rolls-out-the-red-carpet-for-xi-a-rival-he-cannot-bend-to-his-will/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump’s red carpet welcome for Xi shows how much the world has changed – The Irish Times"
+  },
+  "https://www.index.hr/vijesti/clanak/japan-pokusava-utjecati-na-trumpa-prije-sastanka-s-kineskim-predsjednikom/2837687.aspx?index_tid=1164443&index_ref=naslovnica_vijesti_najnovije_d": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Japan pokušava utjecati na Trumpa prije sastanka s kineskim predsjednikom - Index.hr"
+  },
+  "https://www.athensvoice.gr/epikairotita/diethni/987156/ziteitai-koinos-topos-o-si-tzinping-paei-ouasington-gia-to-tet-a-tet-me-ton-trab/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Ζητείται «κοινός τόπος»: Ο Σι Τζινπίνγκ πάει Ουάσινγκτον για το τετ α τετ με τον Τραμπ | Athens Voice"
+  },
+  "https://www.affaritaliani.it/esteri/trump-riceve-xi-difficile-equilibrio-tra-affari-e-rivalita-globale.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump riceve Xi, prove di distensione o è guerra aperta? Il difficile equilibrio tra affari e rivalità globale"
+  },
+  "https://www.politika.rs/scc/clanak/787790/si-stize-kod-trampa-trgovina-carine-i-tajvan-medu-kljucnim-temama": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Си стиже код Трампа: трговина, царине и Тајван међу кључним темама"
+  },
+  "https://www.rawstory.com/mitch-mcconnell-working-new-report/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Mitch McConnell makes major demand of Trump admin after shocking return from hospital - Raw Story"
+  },
+  "http://www.strategypage.com/%5Chtmw%5Chtiw%5Carticles%5C202609228741.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Information Warfare: Taiwan Tests Internet Loss"
+  },
+  "https://timesofindia.indiatimes.com/world/us/xi-jinping-arrives-in-washington-as-trump-gives-rare-airport-welcome-to-kick-off-us-state-visit-top-developments/articleshow/134448382.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Xi Jinping arrives in Washington as Trump gives rare airport welcome to kick off US state visit: Top developments - The Times of India"
+  },
+  "https://www.hindustantimes.com/world-news/taiwan-trade-tehran-whats-on-table-for-crucial-xi-jinping-donald-trump-talks-us-china-101790157605820.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan, trade, Tehran: What's on table for crucial Xi-Trump talks | World News"
+  },
+  "https://www.bhaskar.com/bhaskar-khaas/bhaskar-explainer/news/trump-xi-jinping-meeting-agenda-tariff-trade-rare-earths-ai-race-iran-taiwan-india-139124214.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump-Xi Jinping Meeting Agenda; Tariff Trade Rare Earths AI Race | Iran Taiwan India"
+  },
+  "https://www.etoday.co.kr/news/view/2629030": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "미·일 정상, 中 대응 공조 재확인⋯AI·반도체·희토류 협력 강화키로 - 이투데이"
+  },
+  "https://www.ibtimes.co.uk/china-red-lines-taiwan-xi-trump-summit-1821551": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Xi's US State Visit Begins With China's Stark 'Four Red Lines' Message to Trump | IBTimes UK"
+  },
+  "https://zn.ua/ukr/WORLD/si-tszinpin-vimahatime-vid-trampa-pripiniti-prodazh-zbroji-tajvanju-reuters.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Саміт Трампа з Сі Цзіньпіном - що лідер Китаю вимагатиме на переговорах у Вашингтоні – ZN.ua"
+  },
+  "https://www.perthnow.com.au/news/politics/taiwan-human-rights-are-red-lines-for-china-c-22914268": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan, human rights are 'red lines' for China | PerthNow"
+  },
+  "https://elintransigente.com/2026/09/donald-trump-xi-jinping-visita/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Donald Trump recibió con honores a Xi Jinping en su primera visita a Estados Unidos en más de una década"
+  },
+  "http://www.koreatimes.com/article/20260923/1630968": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "시진핑, 2박3일 방미 일정 돌입…트럼프와 AI·무역 담판 주목"
+  },
+  "https://www.fnnews.com/news/202609231815215340": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "시진핑, 2박3일 방미 일정 돌입…트럼프와 AI·무역 담판 주목 - 파이낸셜뉴스"
+  },
+  "https://bdnews24.com/world/0gsftjweyh": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump to host Xi in Washington with trade, AI and Taiwan on agenda"
+  },
+  "https://mymixfm.com/2026/09/23/four-us-republicans-call-for-trump-to-release-taiwan-security-funds/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Four US Republicans call for Trump to release Taiwan security funds | 100.7 MIX-FM | Today's Hit Music | Terre Haute, IN"
+  },
+  "http://www.thejakartapost.com/world/2026/09/23/taiwan-human-rights-red-lines-for-china-ambassador-says-ahead-of-trump-xi-meeting": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 1,
+   "title": "Taiwan, human rights 'red lines' for China, ambassador says ahead of Trump, Xi meeting - Asia & Pacific - The Jakarta Post"
+  }
+ }
+}

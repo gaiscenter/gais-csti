@@ -1,0 +1,158 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-12T10:26:18",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 22,
+ "n_articles": 20,
+ "n_no_text": 2,
+ "n_coded": 19,
+ "n_relevant": 1,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.wnp.pl/rynki/tajwan-zamyka-przedstawicielstwo-w-papui-nowej-gwinei-i-wstrzymuje-tam-zakup-lng,1117297.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/07/2003867319": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taipei mayor race a victory for democracy whoever wins: Shen - Taipei Times"
+  },
+  "https://www.theepochtimes.com/china/ma-xingruis-indictment-exposes-systemic-corruption-and-political-risks-for-xi-analysts-6119040": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Ma Xingrui’s Indictment Exposes Systemic Corruption and Political Risks for Xi: Analysts | The Epoch Times"
+  },
+  "https://www.theepochtimes.com/china/democratic-gains-in-congress-could-strengthen-us-support-for-taiwan-analysts-say-6119038": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Democratic Gains in Congress Could Strengthen US Support for Taiwan, Analysts Say | The Epoch Times"
+  },
+  "https://www.c4isrnet.com:443/unmanned/robotics/2023/06/16/congressman-wants-faster-drone-testing-fielding-to-fill-inventory-gap/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Congressman wants faster drone testing, fielding to fill inventory gap"
+  },
+  "https://www.newsweek.com/after-two-whiplash-trump-years-democrats-two-more-get-china-right-12671696": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "After Two Whiplash Trump Years, Democrats Have Two More to Get China Right - Newsweek"
+  },
+  "https://variety.com/2026/film/markets-festivals/lord-of-the-rings-avatar-vfx-team-weta-fx-back-taiwan-studio-1236941018/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "'Lord of the Rings,' 'Avatar' VFX Team Weta FX to Back Taiwan Studio"
+  },
+  "https://focustaiwan.tw:443/society/202611060019": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Lawmaker Kao Chin indicted on national security, corruption charges - Focus Taiwan"
+  },
+  "https://www.straitstimes.com/asia/east-asia/taiwan-shuts-papua-new-guinea-office-and-ends-lng-buying-citing-chinese-pressure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan shuts Papua New Guinea office and ends LNG buying, citing Chinese pressure | The Straits Times"
+  },
+  "https://ksevradio.com/ties-with-paraguay-unaffected-taiwan-says-after-president-resigns/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ties with Paraguay unaffected, Taiwan says after president resigns - KSEV Radio 700"
+  },
+  "https://blog.seniorennet.be/vroeger/2729039-de-verovering-van-europa": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Even geduld, de pagina opent zo - SeniorenNet"
+  },
+  "https://movieweb.com/tristes-tropiques-trailer-action-thriller/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Forget John Wick, a New Assassin Action Thriller Masterpiece Shoots Into View This Month"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/07/2003867297": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Building new ties post-US elections - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/07/2003867294": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "EDITORIAL: Clock ticking on repression laws - Taipei Times"
+  },
+  "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan to close representative office in Papua New Guinea, blames China | Politics News | Al Jazeera"
+  },
+  "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-to-close-papua-new-guinea-office-blames-chinese-pressure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan to close Papua New Guinea office, blames Chinese pressure - Nikkei Asia"
+  },
+  "https://www.theepochtimes.com/us/new-senate-class-brings-china-scrutiny-and-fault-lines-on-ai-trade-6120136": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "New Senate Class Brings China Scrutiny—and Fault Lines on AI, Trade | The Epoch Times"
+  },
+  "https://www.diariosigloxxi.com/texto-ep/mostrar/20261106120007/imputada-taiwan-diputada-acusada-recibir-fondos-pekin-crear-redes-influencia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Imputada en Taiwán una diputada acusada de recibir fondos de Pekín para crear \"redes de influencia\""
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/06/2003867277": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Europe seeks to learn from Taiwan cybersecurity experience: NSC - Taipei Times"
+  },
+  "https://www.rtp.pt/noticias/mundo/academicos-chineses-veem-politica-de-trump-como-preludio-de-abandono-de-taiwan-pelos-eua_n1777287": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Académicos chineses veem política de Trump como \"prelúdio de abandono\" de Taiwan pelos EUA"
+  }
+ }
+}

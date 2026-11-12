@@ -1,0 +1,280 @@
+{
+ "date": "2026-08-25",
+ "generated_at": "2026-11-12T10:04:17",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 41,
+ "n_articles": 34,
+ "n_no_text": 7,
+ "n_coded": 32,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.freemalaysiatoday.com/category/business/2026/08/25/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china",
+  "https://www.siliconrepublic.com/business/taiwan-indicts-nine-for-allegedly-exporting-ai-servers-to-china"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "http://www.bignewsnetwork.com/news/279263230/china-threatens-taiwan-from-every-angle": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "low"
+   },
+   "mentions": 16,
+   "title": "China threatens Taiwan from every angle"
+  },
+  "https://www.thenational.com.pg/taiwan-leader-says-peace-can-be-achieved-without-territorial-gain/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan leader says peace can be achieved without territorial gain | The National"
+  },
+  "https://www.rfa.org/english/southchinasea/2026/08/25/indonesia-china-taiwan-east-exercise-navy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Indonesia-China naval drill could help normalize Beijing’s presence east of Taiwan – Radio Free Asia"
+  },
+  "https://www.is.fi/kotimaa/art-2000012228543.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Puolustus­voimilta synkkä raportti Venäjän viha­mielisyydestä: Kumppanuudet Suomelle ”elämän ja kuoleman kysymys”"
+  },
+  "https://dotchuoinon.com/2026/08/24/china-completes-first-stage-of-work-at-disputed-south-china-sea-reef-images-show/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China completes first stage of work at disputed South China Sea reef, images show | Đọt Chuối Non"
+  },
+  "https://newstodaynet.com/2026/08/25/japan-lawmakers-head-to-beijing-to-mend-ties/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Japan lawmakers head to Beijing to mend ties - News Today | First with the news"
+  },
+  "http://www.laosnews.net/news/279263230/china-threatens-taiwan-from-every-angle": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "China threatens Taiwan from every angle"
+  },
+  "https://www.hngn.com/articles/272901/20260824/japanese-lawmakers-head-beijing-first-visit-since-takaichis-taiwan-remark-froze-ties.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Japanese Lawmakers Head to Beijing in First Visit Since Takaichi's Taiwan Remark Froze Ties"
+  },
+  "https://www.newdelhitimes.com/in-taiwan-chinese-born-spouses-face-questions-of-loyalty-and-some-say-discrimination/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "In Taiwan, Chinese-born spouses face questions of loyalty and, some say, discrimination - New Delhi Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863153": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "MAC condemns attempts to suborn cultural events - Taipei Times"
+  },
+  "https://focus.ua/opinions/765500-koshmar-dlya-nato-chto-budet-esli-rossiya-napadet-na-es-a-kitay-na-tayvan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Кошмар для НАТО – что будет, если Россия нападет на ЕС, а Китай – на Тайвань"
+  },
+  "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China | Technology | The Guardian"
+  },
+  "https://www.manilatimes.net/2026/08/25/tmt-newswire/globenewswire/edgesource-corporation-and-taiwans-metal-industries-research-development-centre-sign-mou-to-advance-uas-supply-chain-security-and-blue-list-readiness/2411362": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Edgesource Corporation and Taiwan’s Metal Industries Research & Development Centre Sign MOU to Advance UAS Supply-Chain Security and Blue List Readiness\n\n | The Manila Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863156": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "EVA Air, partners sign sustainable fuel deal - Taipei Times"
+  },
+  "https://slate.com/news-and-politics/2026/08/darline-graham-debate-taiwan-china-immigration-gaffe.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Darline Graham’s Taiwan flub is just the beginning."
+  },
+  "https://www.businesstimes.com.sg/startups-tech/technology/taiwan-indicts-nvidia-manager-after-chip-smuggling-probe": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan indicts Nvidia manager after chip smuggling probe - The Business Times"
+  },
+  "https://timesofindia.indiatimes.com/defence/news/ai-powered-hackers-the-new-cyberwar-is-faster-smarter-harder-to-stop/articleshow/133505318.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "AI-powered hackers: The new cyberwar is faster, smarter & harder to stop | - The Times of India"
+  },
+  "https://en.shafaqna.com/473261/taiwan-charged-nvidia-over-ai-server-exports-to-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan charged Nvidia over AI server exports to China - Shafaqna English | International Shia News & Fatwas"
+  },
+  "https://www.yahoo.com/news/world/articles/nvidia-worker-8-others-smuggled-135059995.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Nvidia worker, 8 others smuggled AI servers into China, Taiwan says"
+  },
+  "https://www.pcmag.com/news/taiwan-indicts-9-including-nvidia-manager-over-gpu-smuggling-case": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan Indicts 9, Including Nvidia Manager, Over GPU Smuggling Case | PCMag"
+  },
+  "https://www.alternet.org/darline-graham/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Darline Graham just refused to dispute Trump's biggest lie - Alternet.org"
+  },
+  "https://www.dw.com/id/taiwan-dakwa-9-orang-terkait-ekspor-ilegal-server-ai-ke-cina/a-78493662": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan Dakwa 9 Orang Terkait Ekspor Ilegal Server AI ke Cina"
+  },
+  "https://www.businesstimes.com.sg/international/deepseek-ai-choice-hackers-who-use-it-boost-attacks-say-researchers": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Deepseek 'AI of choice' for hackers, who use it to boost attacks, say researchers - The Business Times"
+  },
+  "https://jornaleconomico.sapo.pt/noticias/as-exportacoes-como-instrumento-colateral-da-guerra/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "As exportações tornaram-se um instrumento colateral da guerra | Jornal Económico"
+  },
+  "https://www.bankingnews.gr/diethni/articles/895466/senario-geopolitikoy-sok-stin-asia-o-trump-thysiazei-symmaxous-gia-mia-symfonia-me-ton-kim-jong-un": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Σενάριο γεωπολιτικού σοκ στην Ασία: Ο Trump θυσιάζει συμμάχους για μια συμφωνία με τον Kim Jong un"
+  },
+  "https://www.mcall.com/2026/08/24/taiwan-ai-server/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan charges 9 over illegal AI server exports to China, including Nvidia and Super Micro staff"
+  },
+  "https://www.wfae.org/politics/2026-08-25/graham-norman-make-final-pitches-before-gop-senate-runoff": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Graham, Norman make final pitches before GOP Senate runoff | WFAE 90.7 - Charlotte's NPR News Source"
+  },
+  "https://www.ddaily.co.kr:443/page/view/2026082514525693850": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "\"더 깎아줄 필요 없다\"… 삼성 파운드리 4나노 인상 속내는 - 디지털데일리"
+  },
+  "https://www.deccanchronicle.com/world/french-tourist-dies-after-being-stranded-in-death-valley-heat-1982057": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "French Tourist Dies After Being Stranded In Death Valley Heat"
+  },
+  "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham, Trump's pick for South Carolina Senate, wins primary"
+  },
+  "http://www.thejakartapost.com/world/2026/08/25/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia - Asia & Pacific - The Jakarta Post"
+  },
+  "https://townhall.com/news/mattvespa/2026/08/25/did-darline-graham-tank-her-chances-to-serve-a-full-term-well-find-out-tonight-n2681886": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "South Carolina, OK, and GA Have Elections Today, but There's One to Watch"
+  }
+ }
+}

@@ -1,0 +1,928 @@
+{
+ "date": "2026-09-28",
+ "generated_at": "2026-11-12T10:16:00",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 143,
+ "n_articles": 120,
+ "n_no_text": 23,
+ "n_coded": 119,
+ "n_relevant": 15,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.actualno.com/america/trymp-predloji-na-kitaj-da-mu-prodava-oryjija-amerikanski-poslanik-news_2643980.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says | China | The Guardian"
+  },
+  "https://outsidethebeltway.com/trump-offered-to-sell-weapons-to-red-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump Offered to Sell Weapons to Red China – Outside the Beltway"
+  },
+  "https://fortune.com/2026/09/28/trump-xi-summit-taiwan-weapons-sale/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "White House jokes that Trump could sell weapons to China and Taiwan at the same time | Fortune"
+  },
+  "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says - The Hindu"
+  },
+  "https://www.hindustantimes.com/world-news/donald-trump-offered-arms-deal-to-china-president-xi-jinping-us-envoy-reveals-what-led-to-the-proposal-101790597893644.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump offered arms deal to China's Xi, says US envoy; reveals what led to the proposal | World News"
+  },
+  "https://www.ksat.com/news/politics/2026/09/28/the-latest-trump-administration-lowers-fuel-economy-standards/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Latest: Trump administration lowers fuel economy standards"
+  },
+  "https://www.clickorlando.com/news/politics/2026/09/28/the-latest-trump-administration-lowers-fuel-economy-standards/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Latest: Trump administration lowers fuel economy standards"
+  },
+  "https://www.winnipegfreepress.com/world/2026/09/28/the-latest-trump-administration-set-to-roll-out-lower-fuel-economy-standards": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The Latest: Trump administration lowers fuel economy standards – Winnipeg Free Press"
+  },
+  "https://www.asiaone.com:443/world/trump-asked-chinas-president-if-he-wants-buy-us-arms-ambassador-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Trump asked China's president if he wants to buy US arms, ambassador says, World News - AsiaOne"
+  },
+  "https://www.theyeshivaworld.com/news/general/2603449/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Asked China’s President If He Wants to Buy US Arms, Ambassador Says – The Yeshiva World"
+  },
+  "https://www.inewsgr.com/441/trab-se-si-thes-na-agoraseis-amerikanika-opla--i-apokalypsi-tou-presvi-ton-ipa.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Τραμπ σε Σι: «Θες να αγοράσεις αμερικανικά όπλα;» – Η αποκάλυψη του πρέσβη των ΗΠΑ - trab se si: «thes na agoraseis amerikanika opla;» – i apokalypsi tou presvi ton ipa"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/29/2003865061": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Trump ‘jokes’ aside, US stance unchanged: Perdue - Taipei Times"
+  },
+  "https://foreignpolicy.com/2026/09/28/brazil-election-president-lula-bolsonaro-china-america/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Neither Lula Nor Bolsonaro Has Answers for Brazil's China Problem"
+  },
+  "https://www.wvik.org/wvik-top-stories/2026-09-27/taiwan-leader-in-chicago-urges-more-u-s-support-for-island": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "020",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Taiwan leader in Chicago urges more U.S. support for island | WVIK, Quad Cities NPR"
+  },
+  "https://www.fnnews.com/news/202609280841033077": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "트럼프, 中 시진핑에게 美 무기 사고 싶냐고 물어...진위 논란 - 파이낸셜뉴스"
+  },
+  "https://nebraska.tv/news/nation-world/trump-asked-china-xi-if-he-wanted-to-buy-us-arms-state-department-clarifies-law-weapons-david-perdue-fox-interview-ambassador-taiwan-military-aid-white-hosue-visit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 24,
+   "title": "Trump asked China's Xi if he wanted to buy US arms, State Department clarifies law"
+  },
+  "https://www.globaltimes.cn/page/202609/1371494.shtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Chinese FM releases bilingual video laying out historical legal basis for Taiwanâs status as part of China - Global Times"
+  },
+  "https://economictimes.indiatimes.com/news/international/us/washington-responds-after-us-ambassador-says-trump-asked-xi-if-china-wanted-to-buy-american-weapons/articleshow/134536995.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Washington responds after US ambassador says Trump asked Xi if China wanted to buy American weapons - The Economic Times"
+  },
+  "https://www.asiaone.com:443/asia/taiwan-pushes-back-after-xi-seeks-win-over-trump-world-war-two-narrative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan pushes back after Xi seeks to win over Trump on World War Two narrative, Asia News - AsiaOne"
+  },
+  "https://www.asiaone.com/asia/taiwan-pushes-back-after-xi-seeks-win-over-trump-world-war-two-narrative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan pushes back after Xi seeks to win over Trump on World War Two narrative, Asia News - AsiaOne"
+  },
+  "https://tribune.com.pk/story/2631894/trump-and-xis-stalemate-summit-was-a-glitzy-gift-to-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump and Xi's 'stalemate' summit was a glitzy gift to China"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/30/2003865132": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Xi’s narrative of WWII obscures the ROC’s role - Taipei Times"
+  },
+  "https://www.military.com/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Trump Asked China’s President if He Wants to Buy US Arms, Ambassador Says"
+  },
+  "https://www.vetogate.com/5739980": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "ترامب يعرض على الصين شراء أسلحة أمريكية، ما القصة؟"
+  },
+  "https://english.news.cn/20260928/cba7054973b045a289f30002874c97af/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China's top political advisor urges pooling strength for national rejuvenation-Xinhua"
+  },
+  "http://www.bignewsnetwork.com/news/279338081/china-focus-china-marks-2577th-anniversary-of-confucius-birth": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China Focus: China marks 2,577th anniversary of Confucius' birth"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/28/taiwan-pushes-back-after-xi-seeks-to-win-over-trump-on-world-war-two-narrative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan pushes back after Xi seeks to win over Trump on World War Two narrative - Internazionale"
+  },
+  "https://www.westhawaiitoday.com/2026/09/28/nation-world-news/trump-offered-to-sell-arms-to-china-us-ambassador-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump offered to sell arms to China, US ambassador says | West Hawaii Today"
+  },
+  "https://macaudailytimes.com.mo/trump-and-xi-head-into-washington-summit-with-both-thinking-time-is-on-their-side.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump and Xi head into Washington summit with both thinking time is on their side – MACAU DAILY TIMES 澳門每日時報"
+  },
+  "https://www.protothema.gr/world/article/1885714/trab-pros-kina-an-sas-enohloun-ta-opla-stin-taivan-agoraste-ki-eseis-amerikanika/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Τραμπ προς Κίνα: «Αν σας ενοχλούν τα όπλα στην Ταϊβάν, αγοράστε κι εσείς αμερικανικά»"
+  },
+  "https://gr.euronews.com/2026/09/28/tramp-epixeirhse-poylhsei-opla-kina-episkech-si-presbeyths-hpa-fox-news": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Ο Τραμπ επιχείρησε να πουλήσει όπλα στην Κίνα κατά την επίσκεψη Σι, λέει ο πρεσβευτής των ΗΠΑ στο Fox News | Euronews"
+  },
+  "https://www.politis.com.cy/politis-news/kosmos/1037803/tramp-se-si-an-sas-enokhloun-oi-poliseis-stin-taivan-aghoraste-ki-esis": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Τραμπ σε Σι: Αν σας ενοχλούν οι πωλήσεις στην Ταϊβάν, αγοράστε κι εσείς"
+  },
+  "https://www.inewsgr.com/27/ipa-o-trab-feretai-na-proteine-stin-kina-na-agorasei-amerikanika-opla.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "ΗΠΑ: Ο Τραμπ φέρεται να πρότεινε στην Κίνα να αγοράσει αμερικανικά όπλα - ipa: o trab feretai na proteine stin kina na agorasei amerikanika opla"
+  },
+  "https://dunyanews.tv/en/World/975037-taiwan-pushes-back-after-xi-seeks-to-win-over-trump-on-world-war-two-n": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan pushes back after Xi seeks to win over Trump on World War Two narrative | Dunya News"
+  },
+  "https://www.prokerala.com/news/articles/a1817540.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan presses Trump on $14 billion arms deal"
+  },
+  "https://www.epikaira.gr/protasi-trab-se-si-gia-agora-amerikanikon-oplon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Πρόταση Τραμπ σε Σι για αγορά αμερικανικών όπλων - ΕΠΙΚΑΙΡΑ"
+  },
+  "https://www.ibtimes.co.uk/trump-xi-us-weapons-taiwan-arms-package-1822206": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump Asked Xi To Buy US Weapons as Taiwan's $14BN Arms Deal Remains on Hold, Envoy Says | IBTimes UK"
+  },
+  "http://www.australiannews.net/news/279338130/china-marks-2577th-anniversary-of-confucius-birth": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "China marks 2,577th anniversary of Confucius' birth"
+  },
+  "https://www.techtimes.com/articles/328052/20260928/taiwan-carriers-lock-multi-orbit-satellite-6g-architecture-before-standards-exist.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Carriers Lock Multi-Orbit Satellite Into 6G Architecture Before Standards Exist"
+  },
+  "https://www.prokerala.com/news/articles/a1817641.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Asian Games: Chikitha enters QF, Jyothi loses in individual pre-quarters"
+  },
+  "https://bdnews24.com/world/t7aqt1rlfj": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "US-China differences remain after Trump-Xi summit in Washington"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/donald-trump-and-xi-jinpings-stalemate-summit-was-a-glitzy-gift-to-china/articleshow/134538208.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Donald Trump and Xi Jinping's 'stalemate' summit was a glitzy gift to China - The Economic Times"
+  },
+  "https://g1.globo.com/fantastico/noticia/2026/09/27/entre-dois-mundos-a-diplomacia-panda-em-meio-a-corrida-tecnologica.ghtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Entre Dois Mundos: a diplomacia panda em meio à corrida tecnológica | G1"
+  },
+  "https://navbharattimes.indiatimes.com/world/america/donald-trump-offered-arms-deal-to-china-xi-jinping-says-us-envoy-amid-taiwan-tensions/articleshow/134545419.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "ट्रंप ने चीन के राष्ट्रपति शी जिनपिंग को दिया अमेरिकी हथियार खरीदने का ऑफर, टेंशन में ताइवान - donald trump offered arms deal to china xi jinping says us envoy amid taiwan tensions - Navbharat Times"
+  },
+  "https://www.omnia.com.mx/noticia/443642/trump-pregunto-al-presidente-chino-si-quiere-comprar-armas-de-eu-dice-embajador": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Trump preguntó al presidente chino si quiere comprar armas de EU, dice embajador | Omnia"
+  },
+  "https://www.breitbart.com/clips/2026/09/28/speaker-johnson-say-u-s-has-obligation-to-engage-in-diplomacy-with-china-urges-vigilance-on-intellectual-property-military/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Speaker Johnson Says U.S. Has 'Obligation' to Engage in Diplomacy with China, Urges Vigilance on Intellectual Property, Military"
+  },
+  "https://www.breitbart.com/news/u-s-ambassador-to-china-trump-offered-to-sell-xi-weapons/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "U.S. ambassador to China: Trump offered to sell Xi weapons - Breitbart"
+  },
+  "https://quicknews-africa.net/beyond-trade-wars-x-raying-the-u-s-china-strategic-stability-framework/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Beyond trade wars: X-raying the U.S.-China strategic stability framework - QUICK NEWS AFRICA"
+  },
+  "https://abcnews.al/trump-sugjeron-qe-kina-te-bleje-arme-amerikane/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump sugjeron që Kina të blejë armë amerikane – Abc News"
+  },
+  "https://www.eurasiareview.com/28092026-chinese-fishing-company-displaces-zambian-anglers/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Chinese Fishing Company Displaces Zambian Anglers - Eurasia Review"
+  },
+  "https://english.news.cn/20260928/2dd1748eedb643d0b8d42ea3f38be959/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Support urged for HK, Macao, Taiwan compatriots, overseas Chinese to contribute to Chinese modernization-Xinhua"
+  },
+  "https://www.gazetadopovo.com.br/mundo/embaixador-eua-afirma-trump-ofereceu-armas-china-gera-reacao/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Embaixador dos EUA afirma que Trump ofereceu armas à China"
+  },
+  "https://fakti.bg/world/1084316-wsj-sasht-namat-planove-da-prodavat-orajia-na-kitai": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "WSJ: САЩ няма да продават оръжия на Китай"
+  },
+  "https://www.albayan.ae/news/world/1554710": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "مفاجأة من ترامب لـ\"شي\".. عرض بيع أسلحة أمريكية لبكين"
+  },
+  "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for truce to hold"
+  },
+  "https://www.straitstimes.com/world/united-states/trump-offered-to-sell-arms-to-china-us-ambassador-says": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump offered to sell arms to China, US ambassador says | The Straits Times"
+  },
+  "https://www.thedailybeast.com/trumps-wild-offer-to-chinese-leader-xi-jinping-revealed-by-david-perdue/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trumpâs Wild Offer to Chinese Leader Xi Jinping Revealed By David Perdue"
+  },
+  "https://www.philstar.com/headlines/2026/09/28/2559544/pcg-chinese-ship-faked-location-near-batanes-cable-corridor": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "PCG: Chinese ship spoofed location near Batanes cable corridor | Philstar.com"
+  },
+  "https://www.manilatimes.net/2026/09/29/opinion/columns/chinese-connection-to-the-philippine-left/2434293": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chinese connection to the Philippine Left | The Manila Times"
+  },
+  "https://www.capital.gr/diethni/4019918/amerikanos-presbeutis-stin-kina-o-tramp-proteine-poliseis-oplon-sto-pekino/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Αμερικανός πρεσβευτής στην Κίνα: Ο Tραμπ πρότεινε πωλήσεις όπλων στo..."
+  },
+  "https://fortune.com/2026/09/28/trump-us-arms-sale-china-xi-jinping-summit-national-security-threats-taiwan-weapons-package/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump’s offer to sell weapons to China is admission he doesn’t take its security threats seriously | Fortune"
+  },
+  "http://www.washingtonexaminer.com/news/white-house/4745698/trump-denies-ambassador-claim-weapons-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump denies claim he offered to sell U.S. weapons to China"
+  },
+  "https://www.in.gr/2026/09/28/world/o-tramp-epixeirise-na-poulisei-opla-stin-kina-para-tin-kontra-gia-tin-taivan-kai-tin-texnologiki-yperoxi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Ο Τραμπ επιχείρησε να πουλήσει όπλα στην Κίνα – Παρά την κόντρα για την Ταϊβάν και την τεχνολογική υπεροχή | in.gr"
+  },
+  "https://abc7chicago.com/story/us-officials-deny-are-plans-sell-weapons-china/19885086/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "US officials deny there are plans to sell weapons to China - ABC7 Chicago"
+  },
+  "https://www.rawstory.com/trump-dictators-2677955761/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump admin's 'rare' move after ambassador's arms sale claims floors Nicolle Wallace - Raw Story"
+  },
+  "https://www.theepochtimes.com/china/trump-asked-xi-whether-china-wants-to-buy-american-weapons-ambassador-says-6095885": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump Denies Discussing US Arms Sales to China in Xi Summit | The Epoch Times"
+  },
+  "https://www.cp24.com/news/world/2026/09/28/trump-asked-chinas-president-if-he-wanted-to-buy-us-arms-ambassador-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump asked Xi if he wants to buy U.S. arms: ambassador"
+  },
+  "https://attackofthefanboy.com/news/we-sell-arms-to-other-people-around-the-world-ambassador-david-perdue-alleges-donald-trump-offered-to-arm-beijing/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Did Trump offer to sell weapons to China?"
+  },
+  "http://www.econotimes.com/Taiwan-Pushes-Back-on-Chinas-World-War-Two-Narrative-After-Trump-Xi-Summit-1753198": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Pushes Back on China’s World War Two Narrative After Trump-Xi Summit | EconoTimes"
+  },
+  "https://www.smh.com.au/world/north-america/how-trump-s-grovelling-emboldens-china-and-imperils-the-asia-pacific-20260929-p6114z.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Donald Trump’s grovelling to Xi Jinping emboldens China and imperils the Asia Pacific"
+  },
+  "https://www.asiaone.com/world/daily-roundup-16000-private-hire-drivers-face-higher-tax-bills-after-grab-submits-incomplete": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Daily roundup: 16,000 private-hire drivers face higher tax bills after Grab submits incomplete income records — and other top stories today, World News - AsiaOne"
+  },
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017860&code=61131111&sid1=int": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "트럼프, 시진핑에 “美 무기 사라” 제안…안보 파문 - 국민일보"
+  },
+  "https://ria.ru/20260928/raketa-2120030729.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"Длинная рука\". Какое оружие Пентагон хочет направить против России и Китая - РИА Новости, 28.09.2026"
+  },
+  "https://www.thehindu.com/news/international/trump-asked-chinas-president-xi-if-he-wanted-to-buy-us-arms-while-defending-taiwan-sale-says-envoy/article71519100.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "Trump asked China’s president Xi if he wanted to buy U.S. arms while defending Taiwan sale, says envoy - The Hindu"
+  },
+  "https://businessdayghana.com/grunenthal-partners-with-dksh-to-bring-four-important-pain-medicines-to-eight-new-markets-in-asia-pacific/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Grünenthal partners with DKSH to bring four important pain medicines to eight new markets in Asia-Pacific |Business Day Ghana"
+  },
+  "https://www.shorouknews.com/news/view.aspx?cdate=28092026&id=d5e91622-a3c9-456f-880b-8b30c35faf44": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "أنباء عن بيع أسلحة أمريكية للصين.. والخارجية الأمريكية تنفي  - \r\n        بوابة الشروق"
+  },
+  "https://www.protagon.gr/epikairotita/trab-se-si-thelete-na-agorasete-amerikanika-opla-44343447061": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Τραμπ σε Σι: «Θέλετε να αγοράσετε αμερικανικά όπλα;» | Protagon.gr"
+  },
+  "https://www.manilatimes.net/2026/09/29/tmt-newswire/globenewswire/taiwan-expo-usa-2026-concludes-in-dallas-generating-us965-million-in-potential-procurement-value-and-deepening-us-taiwan-industrial-partnership/2434460": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Expo USA 2026 Concludes in Dallas, Generating US$96.5 Million in Potential Procurement Value and Deepening U.S.-Taiwan Industrial Partnership\n\n | The Manila Times"
+  },
+  "https://travelweekly.com.au/princess-cruises-offers-10-agents-an-alaska-trip-in-starbound-to-alaska-incentive/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Princess Cruises offers 10 agents an Alaska trip in 'Starbound to Alaska' incentive - Travel Weekly"
+  },
+  "https://www.moneycontrol.com/news/opinion/trump-xi-summit-wary-ties-and-strategic-limits-14039760.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump-Xi Summit: Wary ties and strategic limits"
+  },
+  "https://www.sbs.com.au/news/article/what-a-reported-weapons-offer-reveals-about-the-complexities-of-us-china-ties/nwatup8tq": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What a reported weapons offer reveals about the complexities of US-China ties | SBS News"
+  },
+  "https://www.ibtimes.co.uk/trump-xi-summit-trade-truce-taiwan-tensions-1822217": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump-Xi Summit Extends Trade Truce and Sets AI Dialogue, Leaves Taiwan Unresolved | IBTimes UK"
+  },
+  "https://www.kommersant.ru/doc/8988213": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "США опровергли планы продажи оружия Китаю после заявлений посла"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-weapons-xi-us-ambassador-b3057327.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump offered to sell arms to China, US ambassador claims | The Independent"
+  },
+  "https://www.inewsgr.com/227/trab-adianoiti-prosfora-ston-si-tzinpingk--tou-proteine-na-agorasei-amerikanika-opla.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Τραμπ: Αδιανόητη προσφορά στον Σι Τζινπίνγκ – Του πρότεινε να αγοράσει… αμερικανικά όπλα - trab: adianoiti prosfora ston si tzinpingk – tou proteine na agorasei… amerikanika opla"
+  },
+  "https://www.newindianexpress.com/world/2026/Sep/28/trump-asked-xi-if-china-wanted-to-buy-us-arms-amid-taiwan-sales-says-envoy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump asked Xi if China wanted to buy US arms amid Taiwan sales, says envoy"
+  },
+  "https://macaudailytimes.com.mo/friday-september-25-2026-edition-no-5044.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Friday, September 25, 2026 – edition no. 5044 – MACAU DAILY TIMES 澳門每日時報"
+  },
+  "https://timesofindia.indiatimes.com/world/us/would-like-to-buy-some-trump-offered-xi-us-weapons-as-washington-sought-to-downplay-taiwan-arms-sale/articleshow/134530193.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "'Would like to buy some?': Trump offered Xi US weapons as Washington sought to downplay Taiwan arms sale - The Times of India"
+  },
+  "https://www.newser.com/story/397157/trump-asked-xi-if-china-wants-to-buy-us-arms-ambassador.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Trump Asked Xi if China Wants to Buy US Arms: Ambassador"
+  },
+  "https://thenewamerican.com/us/politics/foreign-policy/u-s-ambassador-trump-offered-to-sell-china-american-weapons/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "U.S. Ambassador: Trump Offered to Sell American Weapons to China - The New American"
+  },
+  "https://cimsec.org/hymn-to-hai-kun-the-gap-between-ceremony-and-capability/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Hymn to Hai Kun: The Gap Between Ceremony and Capability | Center for International Maritime Security"
+  },
+  "https://www.deccanchronicle.com/world/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says-1991230": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Trump Asked China’s President If He Wants To Buy US Arms"
+  },
+  "https://www.lafm.com.co/internacional/donald-trump-ofrece-vender-armas-china-cumbre-xi-jinping-412233": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump ofreció vender armas estadounidenses a China tras cumbre con Xi"
+  },
+  "https://www.penzcentrum.hu/vilag/20260928/kiderult-peking-sotet-terve-fu-alatt-vagnak-el-tajvan-amerikai-tamogatasat-1206282": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Kiderült Peking sötét terve: fű alatt vágnák el Tajvan amerikai támogatását"
+  },
+  "https://g1.globo.com/mundo/noticia/2026/09/27/trump-minimizou-venda-de-armas-a-taiwan-e-perguntou-a-xi-jinping-se-ele-queria-comprar-armas-dos-eua-diz-embaixador-americano-em-pequim.ghtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Trump minimizou venda de armas a Taiwan e perguntou a Xi se queria comprar armas dos EUA, diz embaixador americano em Pequim | G1"
+  },
+  "https://noticias.r7.com/internacional/embaixador-diz-que-trump-perguntou-a-xi-se-china-quer-comprar-armas-dos-eua-28092026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Embaixador diz que Trump perguntou a Xi se China quer comprar armas dos EUA – Noticias R7"
+  },
+  "https://www.albiladpress.com/news/2026/6559/arab-and-world/1022413.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "جريدة البلاد            | ترامب عرض على شي شراء أسلحة أميركية.. والبيت الأبيض ينفي وجود خطة للبيع"
+  },
+  "https://www.news247.gr/kosmos/i-protasi-pou-o-si-den-perimene-na-akousei-apo-ton-trab/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Η πρόταση που ο Σι δεν περίμενε να ακούσει από τον Τραμπ"
+  },
+  "https://zn.ua/ukr/WORLD/tramp-proponuvav-si-tszinpinu-kupuvati-amerikansku-zbroju-posol-ssha-v-kitaji.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "США та Китай - Трамп запропонував Сі Цзіньпіну купити американську зброю – ZN.ua"
+  },
+  "https://vz.ru/news/2026/9/28/1456058.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "США отказались менять политику по Тайваню после визита Си Цзиньпина ::  Новости дня  / ВЗГЛЯД"
+  },
+  "https://www.vanguardngr.com/2026/09/trump-offered-to-sell-arms-to-china-us-ambassador/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump offered to sell arms to China — US ambassador - Vanguard News"
+  },
+  "https://www.ewn.co.za/2026/09/28/trump-offered-to-sell-arms-to-china-us-ambassador-to-fox-news": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "060",
+    "conf": "low"
+   },
+   "mentions": 6,
+   "title": "Trump offered to sell arms to China: US ambassador to Fox News"
+  },
+  "https://www.cityam.com/trump-xi-summit-dont-be-fooled-this-was-more-than-panda-diplomacy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump-Xi summit: Don't be fooled, this was more than panda diplomacy"
+  },
+  "https://www.manilatimes.net/2026/09/29/world/americas-emea/trump-offered-to-sell-arms-to-xi-us-envoy/2434254": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump offered to sell arms to Xi – US envoy | The Manila Times"
+  },
+  "https://www.moneycontrol.com/world/did-trump-offer-us-weapons-to-xi-american-envoy-makes-stunning-claim-white-house-says-no-china-arms-sale-planned-article-14040320.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Did Trump offer US weapons to Xi? American envoy makes stunning claim, White House says no China arms sale planned"
+  },
+  "https://www.almasryalyoum.com/news/details/4369949": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "«هل تريد أسلحة؟».. ترامب يفاجئ الرئيس الصيني بعرض محظور بموجب القانون الأمريكى (ما القصة؟) | المصري اليوم"
+  },
+  "https://economictimes.indiatimes.com/news/international/global-trends/us-says-no-china-arms-sale-plans-after-envoy-cites-trump-offer/articleshow/134546768.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US says no China arms sale plans after envoy cites Trump offer - The Economic Times"
+  },
+  "https://www.gazetadopovo.com.br/vozes/paulo-filho/trump-xi-e-a-tregua-dos-pandas/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump, Xi e a trégua dos pandas"
+  },
+  "https://fortune.com/article/openai-cco-communications-officer-search-executive-recruitment/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Where should the CCO sit? OpenAI’s search puts an old debate in the spotlight | Fortune"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=02423926645585040&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "트럼프 \"중국에 무기 판매? 좋은 생각이지만 논의 안 해\""
+  },
+  "https://thenewamerican.com/us/politics/foreign-policy/trump-urges-xi-to-help-boost-global-fuel-supply/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Urges Xi to Help Boost Global Fuel Supply - The New American"
+  },
+  "https://www.hurriyetdailynews.com/trump-offered-to-sell-arms-to-xi-ambassador-227449": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump offered to sell arms to Xi: Ambassador - World News"
+  },
+  "https://www.freemalaysiatoday.com/category/highlight/2026/09/29/trump-denies-offering-to-sell-arms-to-china-s-xi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump denies offering to sell arms to China’s Xi | FMT"
+  },
+  "https://www.freepressjournal.in/world/donald-trump-asked-xi-if-china-wanted-to-buy-us-weapons-says-american-ambassador": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Donald Trump Asked Xi If China Wanted To Buy US Weapons, Says American Ambassador"
+  },
+  "https://www.mediapool.bg/svyat/kitai-malchi-dali-tramp-e-predlozhil-na-si-da-kupi-amerikansko-orazhie/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Китай мълчи дали Тръмп е предложил на Си да купи американско оръжие – Mediapool.bg"
+  },
+  "https://executivedigest.sapo.pt/trump-propos-venda-de-armamento-a-china-embaixador-norte-americano-em-pequim/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump propôs venda de armamento à China, revela embaixador norte-americano em Pequim"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=02250086645584712&mediaCodeNo=257": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "트럼프, 시진핑에 \"미국산 무기 사라\" 제안"
+  },
+  "https://www.haberler.com/dunya/pekin-buyukelcisi-perdue-trump-in-xi-ye-abd-silahi-20277582-haberi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Pekin Büyükelçisi Perdue, Trump'ın Xi'ye ABD silahı almak ister mi diye sorduğunu aktardı - Haberler"
+  },
+  "https://www.news24.com/world/trump-denies-offering-to-sell-arms-to-chinas-xi-20260928-1177": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump denies offering to sell arms to China’s Xi | News24"
+  }
+ }
+}

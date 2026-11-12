@@ -1,0 +1,204 @@
+{
+ "date": "2026-09-16",
+ "generated_at": "2026-11-12T10:09:20",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 29,
+ "n_articles": 24,
+ "n_no_text": 5,
+ "n_coded": 21,
+ "n_relevant": 7,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://english.news.cn/20260916/cb67afc09c95443998d4d4b1cd4d60c6/c.html",
+  "https://www.asiaone.com/asia/taiwan-tells-its-people-shun-chinese-anniversary-events-revolutionary-hero",
+  "https://www.freemalaysiatoday.com/category/world/2026/10/16/taiwan-tells-its-people-to-shun-chinese-anniversary-events-for-revolutionary-hero"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/18/2003864473": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "MAC, Taipei mayor clash over Twin City Forum - Taipei Times"
+  },
+  "http://www.taiwansun.com/news/279310295/mainland-says-taiwan-dpp-shifts-blame-for-halt-of-cross-strait-dialogue": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Mainland says Taiwan's DPP shifts blame for halt of cross-Strait dialogue"
+  },
+  "https://www.samaa.tv/2087356873-china-defence-minister-urges-end-to-provocative-acts": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China warns against provocation amid regional tensions | SAMAA TV"
+  },
+  "http://www.taiwansun.com/news/279310714/chinese-mainland-welcomes-taiwan-to-pinglu-canal-opportunities": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chinese mainland welcomes Taiwan to Pinglu Canal opportunities"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/16/2003864373": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Fujian opens sister venue to Taipei’s Shilin Night Market  - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/17/2003864403": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Chinese minister urges vigilance - Taipei Times"
+  },
+  "https://asianews.network/india-china-ties-must-follow-three-mutuals-ministry-of-external-affairs/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "India-China ties must follow ‘three mutuals’: Ministry of External Affairs – Asia News Network"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/17/2003864411": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 4,
+   "title": "Politicization of defense spending raises concern - Taipei Times"
+  },
+  "https://english.news.cn/20260916/9ab899eac76b46059e3c6aae0d37676d/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Mainland slams Taiwan's DPP for marginalizing traditional Chinese culture in education-Xinhua"
+  },
+  "https://www.yahoo.com/news/articles/china-defence-minister-urges-end-053825356.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China defence minister urges an end to 'provocative acts' to open security forum"
+  },
+  "https://www.theepochtimes.com/china/taiwans-mainland-affairs-council-warns-of-risks-for-5-types-of-citizens-traveling-to-china-6088230": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan’s Mainland Affairs Council Warns of Risks for 5 Types of Citizens Traveling to China | The Epoch Times"
+  },
+  "https://www.etoday.co.kr/news/view/2626373": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "美마이크론 대만서 극심한 노사 갈등⋯노조 \"영업익 15% 달라\" - 이투데이"
+  },
+  "https://www.instalki.pl/news/hardware/apple-nie-zostawilo-miejsca-nikomu-qualcomm-musi-przeprosic-sie-z-samsungiem/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Snapdragon 8 Elite Gen 6 z dwóch fabryk? TSMC brakuje mocy"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/16/china-defence-minister-urges-countries-to-check-surge-of-regressive-historical-trends": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China defence minister urges nations to curb regressive historical trends - Internazionale"
+  },
+  "https://biz.heraldcorp.com/article/10875217": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "마이크론 1억 넘는 ‘파격 보상’에도 노조 반발…“영업익 15% 안 주면 파업” - 헤럴드경제"
+  },
+  "https://dailycaller.com/2026/09/16/china-threatens-panama-serious-consequences-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China Throws Its Weight Around In America’s Backyard Over Taiwan | \r\n\t\tThe Daily Caller"
+  },
+  "https://biz.heraldcorp.com/article/10875626": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "대만 마이크론도 노사갈등 확산…노조 “영업이익 15% 나눠달라” 요구 - 헤럴드경제"
+  },
+  "https://aninews.in/news/world/europe/china-allegedly-seeks-to-deepen-taiwan8217s-political-divisions-through-election-interference20260916175941/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China allegedly seeks to deepen Taiwan&#8217;s political divisions through election interference"
+  },
+  "https://focustaiwan.tw/politics/202609160006": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "U.S. will not tolerate change in Taiwan status by force: Senator Ricketts - Focus Taiwan"
+  },
+  "https://pina.com.fj/2026/09/16/u-s-backs-taiwans-continued-pif-role-warns-of-chinas-malign-activities-in-pacific/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "U.S backs Taiwan’s continued PIF role, warns of China’s ‘malign activities’ in Pacific | PINA"
+  },
+  "https://www.dw.com/en/us-asia-western-pacific-allies-withdrawal-china-defense-graphics/a-79275554": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US allies in Asia alarmed as think tank calls for pullback"
+  }
+ }
+}

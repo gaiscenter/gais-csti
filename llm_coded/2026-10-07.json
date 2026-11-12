@@ -1,0 +1,401 @@
+{
+ "date": "2026-10-07",
+ "generated_at": "2026-11-12T10:19:28",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 50,
+ "n_articles": 47,
+ "n_no_text": 3,
+ "n_coded": 45,
+ "n_relevant": 13,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.theepochtimes.com/china/taiwan-opens-phoenix-office-as-arizona-ties-expand-6100414",
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/08/2003865599"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.deccanchronicle.com/world/north-korea-criticises-us-support-for-taiwan-pledges-backing-for-russia-1993786": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "North Korea Criticises US Support for Taiwan, Pledges Backing for Russia"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865557": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Three US House members visit Taiwan ahead of National Day - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/08/2003865604": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Delivery of F-16s boosts air combat capabilities: expert - Taipei Times"
+  },
+  "https://www.hindustantimes.com/world-news/million-dollar-homes-luxury-and-surveillance-missions-how-alleged-chinese-agent-wanying-heather-zhang-lived-in-us-china-taiwan-news-101791361374509.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Million-dollar homes, luxury and surveillance missions: How alleged Chinese agent Heather Zhang lived in US | World News"
+  },
+  "https://www.c3sindia.org/post/115th-national-day-celebration-of-republic-of-china-taiwan-organised-by-the-taipei-economic-and-c": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "115th National Day Celebration of Republic Of China (Taiwan), organised by the Taipei Economic and Cultural Center (TECC), Chennai."
+  },
+  "https://www.newsbomb.gr/kosmos/story/1768338/voreia-korea-katadikazei-tin-polisi-maxitikon-aeroskafon-ton-ipa-stin-taivan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Βόρεια Κορέα: Καταδικάζει την πώληση μαχητικών αεροσκαφών των ΗΠΑ στην Ταϊβάν - Newsbomb"
+  },
+  "https://www.philstar.com/opinion/2026/10/08/2561640/taiwan-versus-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan versus China | Philstar.com"
+  },
+  "https://thesun.ng/taiwan-question-is-chinas-internal-affair-chinese-govt-tells-us/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan question is China’s internal affair, Chinese Govt tells US"
+  },
+  "https://www.trud.ru/article/07-10-2026/1843051_kitaj_potreboval_ot_ssha_perestat_prodavat_oruzhie_tajvanju.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Труд: Китай потребовал от США перестать продавать оружие Тайваню"
+  },
+  "https://www.index.hr/vijesti/clanak/sjeverna-koreja-upozorila-sad-zbog-tajvana-dobro-razmislite-o-posljedicama/2842877.aspx?index_tid=1180272&index_ref=naslovnica_vijesti_najnovije_d": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Sjeverna Koreja upozorila SAD zbog Tajvana. \"Možete li se nositi s posljedicama?\" - Index.hr"
+  },
+  "https://cimsec.org/arming-taiwan-america-first-in-action/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Arming Taiwan: America First in Action | Center for International Maritime Security"
+  },
+  "https://www.kommersant.ru/doc/9007767": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Китай и КНДР осудили США за поставки вооружений на Тайвань - Коммерсантъ"
+  },
+  "https://www.theepochtimes.com/china/taiwan-indicts-4-over-surveillance-of-lawmaker-blacklisted-by-beijing-6100815": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Indicts 4 Over Surveillance of Lawmaker Blacklisted by Beijing | The Epoch Times"
+  },
+  "https://www.algemeiner.com/2026/10/07/three-years-after-oct-7-cost-chinas-calculated-diplomacy-israel/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Three Years After Oct. 7, the Cost of China’s Calculated Diplomacy With Israel | Algemeiner.com"
+  },
+  "http://en.ce.cn/main/latest/202610/t20261007_3248622.shtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China firmly opposes U.S. arms sales to China's Taiwan region: spokesperson--China Economic Net"
+  },
+  "https://www.eremnews.com/news/world/coh6tfn": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "تايوان تتسلم أول مقاتلتين من إف-16.. وبكين تلوّح باعتراض جديد | إرم نيوز"
+  },
+  "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261007/n-korea-backs-china-on-taiwan-blames-us-for-regional-instability": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "N. Korea backs China on Taiwan, blames US for regional instability - The Korea Times"
+  },
+  "https://www.dailymaverick.co.za/article/2026-10-07-north-korea-criticises-us-support-for-taiwan-pledges-backing-for-russia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "North Korea criticises US support for Taiwan, pledges backing for Russia"
+  },
+  "http://en.people.cn/n3/2026/1007/c90000-20505844.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China firmly opposes U.S. arms sales to China's Taiwan region: spokesperson - People's Daily Online"
+  },
+  "https://aa.com.tr/en/asia-pacific/china-reiterates-opposition-to-us-arms-sales-after-taiwan-gets-2-f-16v-fighter-jets/4080544": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 18,
+   "title": "China reiterates opposition to US arms sales after Taiwan gets 2 F-16V fighter jets"
+  },
+  "https://www.riotimesonline.com/taiwan-f-16v-block-70-deliveries-2026/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan's First F-16V Block 70 Jets Arrive, What Changes"
+  },
+  "https://wset.com/news/nation-world/are-chinese-foreign-agent-busts-on-the-rise-federal-officials-make-another-arrest-taiwan-bill-essayli": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Are Chinese foreign agent busts on the rise? Federal officials make another arrest"
+  },
+  "https://dunyanews.tv/en/World/976587-north-korea-criticises-us-support-for-taiwan-pledges-backing-for-russ": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "North Korea criticises US support for Taiwan, pledges backing for Russia | Dunya News"
+  },
+  "https://www.thehindu.com/news/international/north-korea-warns-us-over-taiwan-while-kim-pledges-support-for-russia/article71553315.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "North Korea warns U.S. over Taiwan while Kim pledges support for Russia - The Hindu"
+  },
+  "https://focustaiwan.tw:443/politics/202610070006": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Three U.S. House members visit Taiwan, to meet President Lai - Focus Taiwan"
+  },
+  "https://www.okaz.com.sa/politics/na/2269697": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "كوريا الشمالية: السياسة الأمريكية تجاه تايوان تهدد استقرار المنطقة - أخبار السعودية | صحيفة عكاظ"
+  },
+  "https://www.bankingnews.gr/diethni/articles/903797/stinetai-blok-efialtis-gia-tis-ipa-voreia-korea-kina-rosia-sfiggoun-ton-kloio-gia-tin-taivan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Στήνεται μπλοκ - εφιάλτης για τις ΗΠΑ: Βόρεια Κορέα, Κίνα, Ρωσία σφίγγουν τον κλοιό για την Ταϊβάν"
+  },
+  "https://magyarhirlap.hu/kulfold/20261007-eszak-korea-megfenyegette-az-egyesult-allamokat": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Észak-Korea megfenyegette az Egyesült Államokat? | Magyar Hírlap"
+  },
+  "https://www.politico.eu/article/europe-tightens-china-policy-trade-securit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "EU toughens China stance ahead of Šefčovič’s Beijing visit – POLITICO"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5599123": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "《TAIPEI TIMES》Tsai Ing-wen meets with Nancy Pelosi - 焦點 - 自由時報電子報"
+  },
+  "https://www.bankier.pl/wiadomosc/Plan-na-dzien-po-inwazji-Ujawniono-co-chinscy-stratedzy-szykuja-dla-Tajwanu-po-zjednoczeniu-9208686.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Plan na dzień po inwazji. Ujawniono, co chińscy stratedzy szykują dla Tajwanu \"po zjednoczeniu\" - Bankier.pl"
+  },
+  "https://azbigmedia.com/real-estate/taipei-economic-and-cultural-office-opens-in-phoenix/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taipei Economic and Cultural Office opens in Phoenix - AZ Big Media"
+  },
+  "https://www.hani.co.kr/arti/economy/biznews/1281288.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "섬산련 최병오 회장, 대만‘2026 TITAS’30주년 개막식 참석"
+  },
+  "https://biz.heraldcorp.com/article/10895438": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "[단독] AMD·삼성, 7개월 만에 다시 만난다…HBM 넘어 파운드리 협력 주목 - 헤럴드경제"
+  },
+  "https://www.yumasun.com/news/hobbs-biggs-trade-political-barbs-at-taiwan-trade-office-opening/article_7b395cea-d3f3-4467-9973-93743c437d9e.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Hobbs, Biggs trade political barbs at Taiwan trade office opening | News | yumasun.com"
+  },
+  "https://www.933thedrive.com/2026/10/06/analysis-japans-15-billion-rapidus-chip-bet-hinges-on-winning-customers/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Analysis-Japan’s $15 billion Rapidus chip bet hinges on winning customers | 93.3 The Drive"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/07/2003865556": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "Tsai, Pelosi reunite in San Francisco - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202610070005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Former President Tsai reunites with Pelosi during U.S. visit - Focus Taiwan"
+  },
+  "https://mkd.mk/svet/vesti-svet/severna-koreja-gi-predupredi-sad-poradi-tajvan-mozhete-li-da-se-spravite-so-posledicite/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Северна Кореја ги предупреди САД поради Тајван: „Можете ли да се справите со последиците?“ - МКД.МК"
+  },
+  "https://www.lalibre.be/international/asie/2026/10/07/avec-la-strategie-des-zones-grises-la-chine-resserre-son-etau-autour-de-taiwan-on-ne-peut-exclure-que-xi-jinping-bascule-dans-lirrationalite-SWM5QTK72VB75KR3C43LSXNPCY/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Avec la stratégie des \"zones grises\", la Chine resserre son étau autour de Taïwan : \"On ne peut exclure que Xi Jinping bascule dans l'irrationalité\" - La Libre"
+  },
+  "https://www.el-balad.com/17055976": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "UPS routing error sent F-35 parts through Hong Kong — Us-china F-35 Technology - El-Balad.com"
+  },
+  "https://azbigmedia.com/blogs/gudeng-precision-industrial-opens-glendale-manufacturing-facility/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Gudeng Precision Industrial opens Glendale manufacturing facility - AZ Big Media"
+  },
+  "https://www.theepochtimes.com/us/trump-announces-6-6-billion-naval-shipyard-investment-during-baltimore-visit-6100116": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Announces $6.6 Billion Naval Shipyard Investment During Baltimore Visit | The Epoch Times"
+  },
+  "https://www.jutarnji.hr/vijesti/svijet/avioni-sletjeli-u-tajvan-iz-sjeverne-koreje-odmah-stigla-poruka-u-washington-dvaput-razmislite-15753403": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Jutarnji list - Avioni sletjeli na Tajvan, iz Sjeverne Koreje odmah stigla poruka u Washington: 'Dvaput razmislite!'"
+  },
+  "https://www.dailymirror.lk/international/FBI-arrests-woman-accused-of-spying-on-Taiwan-leaders-family-for-China/107-351977": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "FBI arrests woman accused of spying on Taiwan leader’s family for China  - International | Daily Mirror"
+  }
+ }
+}

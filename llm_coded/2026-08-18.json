@@ -1,0 +1,269 @@
+{
+ "date": "2026-08-18",
+ "generated_at": "2026-11-12T10:02:14",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 41,
+ "n_articles": 33,
+ "n_no_text": 8,
+ "n_coded": 33,
+ "n_relevant": 4,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://sbr.com.sg/in-focus/analysts-see-exports-staying-strong-in-h2-ai-demand-electronics-cycle": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Analysts see exports staying strong in H2 on AI demand, electronics cycle | Singapore Business Review"
+  },
+  "https://inosmi.ru/20260818/nato-279743640.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Страшный сон НАТО (The Atlantic, США) | 18.08.2026, ИноСМИ"
+  },
+  "https://vesti-ua.net/news/politics/288118-okno-vozmozhnostey-dlya-putina-i-si-czinpina-eksperty-ocenili-riski-voyny-na-dva-fronta-dlya-ssha.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Окно возможностей для Путина и Си Цзиньпина: эксперты оценили риски войны на два фронта для США"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/08/19/2003862727": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "MOFA thanks IPAC, slams Uganda - Taipei Times"
+  },
+  "https://www.elperiodico.cat/economia/20260818/l-expansio-moda-occidental-xina-133441347": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "L’expansió de la moda occidental a la Xina topa amb l’impuls de marques pròpies"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260818/4488192.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan detects five PLA aircraft sorties, eight PLAN vessels around its territory"
+  },
+  "https://www.rtl.fr/actu/international/ce-president-prefere-les-ennemis-totalitaires-a-ses-allies-pourquoi-la-reduction-des-exercices-militaires-americano-sud-coreens-consterne-7900662792": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Donald Trump réduit les exercices militaires avec la Corée du Sud : pourquoi cette décision inquiète les alliés des États-Unis"
+  },
+  "https://www.dw.com/pl/niemiecka-prasa-trump-mistrz-w-niszczeniu-dawnych-sojuszy/a-78405472": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Niemiecka prasa: Trump, mistrz w niszczeniu dawnych sojuszy"
+  },
+  "https://www.lrt.lt/en/news-in-english/19/3025273/taiwan-says-commitment-to-economic-ties-with-lithuania-remains-unchanged": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan says commitment to economic ties with Lithuania remains unchanged - LRT"
+  },
+  "https://asianews.network/paying-to-suffer-why-more-than-twice-as-many-taiwanese-travel-abroad-as-foreign-tourists-fly-in/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "‘Paying to suffer’: Why more than twice as many Taiwanese travel abroad as foreign tourists fly in – Asia News Network"
+  },
+  "https://focustaiwan.tw/business/202608180012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Led by TSMC, January-July outbound investments soar 200% - Focus Taiwan"
+  },
+  "https://wiadomosci.wp.pl/niemieckie-media-uderzaja-w-trumpa-mistrz-w-niszczeniu-sojuszy-7319721658517632a": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Niemieckie media uderzają w Trumpa. \"Mistrz w niszczeniu sojuszy\""
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/18/2003862707": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Military sergeant faces life term in espionage case - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5544456": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "《TAIPEI TIMES》 MOFA thanks IPAC, slams Uganda - 焦點 - 自由時報電子報"
+  },
+  "https://www.dw.com/id/netralitas-indonesia-diuji-oleh-latihan-gabungan-dengan-cina/a-78414390": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Netralitas Indonesia Diuji oleh Latihan Gabungan dengan Cina"
+  },
+  "https://www.newsweek.com/uss-george-washington-move-national-security-threat-to-us-retired-admiral-12335682": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "USS George Washington Move a ‘National Security’ Risk for US: Ex-Admiral - Newsweek"
+  },
+  "https://www.dw.com/en/indonesia-china-naval-drill-military-neutrality-taiwan-geopolitics/a-78400288": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Indonesia-China naval drill raises neutrality concerns"
+  },
+  "https://www.newsweek.com/xi-putin-kim-flex-muscles-in-pacific-as-trump-pulls-last-aircraft-carrier-12332441": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi, Putin, Kim Flex Muscles in Pacific as Trump Pulls Last Aircraft Carrier - Newsweek"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5544461": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "《TAIPEI TIMES》 MOA touts ‘Taiwan Peanut’ label - 焦點 - 自由時報電子報"
+  },
+  "https://www.theepochtimes.com/china/taiwanese-president-says-defense-spending-is-investment-in-peace-6076439": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 4,
+   "title": "Taiwanese President Says Defense Spending Is Investment in Peace | The Epoch Times"
+  },
+  "https://aninews.in/news/world/asia/malaysia-pm-anwars-taiwan-remarks-threaten-regional-stability-could-hit-business-confidence-taiwan-foreign-ministry20260818193909/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Malaysia PM Anwar's Taiwan remarks threaten regional stability, could hit business confidence: Taiwan Foreign Ministry"
+  },
+  "https://www.larazon.es/internacional/japon-lanzara-misiles-hipersonicos-australia-plena-escalada-militar-region_202608186a844371a5690f04738078b8.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japón lanzará misiles hipersónicos desde Australia en plena escalada militar en la región"
+  },
+  "https://focustaiwan.tw/society/202608180018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Ministry touts 'Taiwan Peanut' label, testing to prevent fraud - Focus Taiwan"
+  },
+  "https://nypost.com/2026/08/18/world-news/tungsten-mine-that-surges-at-times-of-major-wars-is-opening-again/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Tungsten mine that surges at times of major global wars is ominously opening again"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/19/2003862722": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Indonesian neutrality and Beijing - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/18/2003862703": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "MOFA’s North America affairs chief named top envoy to Australia - Taipei Times"
+  },
+  "https://www.negocios.com/articulo/geopolitica/eeuu-deja-asia-portaaviones-guerra-iran/20260818135539492232.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "EEUU deja Asia sin portaaviones por la guerra con Irán"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=05608806645548632&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "\"트럼프, 김정은에 구애…韓 핵무장론 자극할 수도\""
+  },
+  "https://tsn.ua/svit/ssha-nenadiyni-kytay-rosiia-ta-kndr-otrymaly-nove-vikno-mozlyvostey-pro-shcho-ydetsia-3150920.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Поки Трамп воює на Близькому Сході, Путін, Сі та Кім посилюють позиції — Світ"
+  },
+  "https://foreignpolicy.com/2026/08/17/australia-china-getting-tough-trump/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Australia’s Getting Tough on China Again"
+  },
+  "https://www.yahoo.com/news/politics/articles/trump-makes-final-pitch-sen-003706430.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump makes final pitch for Sen. Darline Graham before South Carolina runoff"
+  },
+  "https://www.cbsnews.com/news/south-carolina-senate-runoff-darline-graham-ralph-norman/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Results roll in as Darline Graham, Ralph Norman face off to replace Sen. Lindsey Graham on South Carolina Senate ballot - CBS News"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/08/19/2003862726": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 15,
+   "title": "Taiwan’s AI coworkers are here. Where’s the employee handbook? - Taipei Times"
+  }
+ }
+}

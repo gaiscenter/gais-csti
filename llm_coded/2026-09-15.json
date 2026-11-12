@@ -1,0 +1,266 @@
+{
+ "date": "2026-09-15",
+ "generated_at": "2026-11-12T10:09:08",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 39,
+ "n_articles": 34,
+ "n_no_text": 5,
+ "n_coded": 33,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://focustaiwan.tw:443/politics/202609150026"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://dailycaller.com/2026/09/14/taiwan-strait-china-drills-heating-up/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Things Are Heating Up In The Taiwan Strait | \r\n\t\tThe Daily Caller"
+  },
+  "https://focustaiwan.tw/culture/202609150016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Tamkang, Sorbonne academics receive Taiwan-France Cultural Award - Focus Taiwan"
+  },
+  "https://www.abc.com.py/internacionales/2026/09/15/china-inaugurara-su-foro-de-defensa-de-xiangshan-con-taiwan-oriente-medio-e-ia-en-el-foco/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China inaugurará su Foro de defensa de Xiangshan con Taiwán, Oriente Medio e IA en el foco - Mundo - ABC Color"
+  },
+  "https://www.dw.com/en/china-tightens-travel-rules-over-tech-security/a-79270217": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China imposes new travel restrictions over tech security"
+  },
+  "https://www.theepochtimes.com/article/palaus-president-says-us-security-partnership-is-essential-as-china-pressures-island-nation-6084539": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Island President Standing Up to Beijing | The Epoch Times"
+  },
+  "https://foreignpolicy.com/2026/09/14/trump-xi-summit-deal-taiwan-strategic-ambiguity-defense-alliance-geopolitics/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "To Strike a Deal With Xi, Trump Is Killing 'Strategic Ambiguity' Over Taiwan"
+  },
+  "https://www.riotimesonline.com/asia-intelligence-brief-tuesday-september-15-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Asia Intelligence Brief — Tuesday, September 15, 2026 | The Rio Times"
+  },
+  "https://aninews.in/news/world/asia/mea-says-india-china-ties-anchored-in-3-mutuals-respect-sensitivity-and-interest20260915174721/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "MEA says India-China ties anchored in 3 mutuals: Respect, sensitivity and interest"
+  },
+  "http://www.washingtonexaminer.com/news/world/4728279/eswatini-military-shooting-us-government-workers/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Eswatini says military accidentally shot two US government workers"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/15/china-s-new-tech-national-security-exit-rules-take-effect": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China’s new tech, national security exit rules take effect | FMT"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/15/china-s-new-tech-national-security-exit-rules-take-effect": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China’s new tech, national security exit rules take effect - Internazionale"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/16/2003864338": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Up to 100,000 in Taiwan spying for China: expert - Taipei Times"
+  },
+  "https://tv.rediff.com/news/india-china-ties-must-follow-three-mutuals-modi-tells-xi/403993": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "India, China ties must follow 'three mutuals', Modi tells Xi | Rediff-TV | Rediff.com"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=03850726645580448&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "中, 기술안보 위협 땐 최장 3년 출국금지…새 규정 시행"
+  },
+  "https://www.rediff.com/news/report/india-china-ties-must-follow-three-mutuals-modi-tells-xi/20260916.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "India, China ties must follow 'three mutuals', Modi tells Xi - Rediff.com India News"
+  },
+  "https://english.news.cn/20260915/322c35057de04d81a97224570bb4f0e3/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Economic Watch: Reliable mainland market for Taiwan fruits challenges DPP's push for cross-Strait economic decoupling-Xinhua"
+  },
+  "https://www.digitimes.com/news/a20260915PD234/micron-taiwan-2025-operating-profit.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Micron's record Taiwan payout fails to end union demand for 15% of profits"
+  },
+  "https://news.ltn.com.tw/news/politics/breakingnews/5574996": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "網傳「美官宣棄台、希拉蕊喊統一」？真相曝光傻眼：把 Xi 當成 She - 政治 - 自由時報電子報"
+  },
+  "https://english.news.cn/20260915/3818ff5dbdd5435b94e953c68632e974/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Macao to host 19th Mazu cultural tourism festival in October-Xinhua"
+  },
+  "https://www.prokerala.com/news/articles/a1812619.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan's ability to hold competitive elections strengthens its international standing: Report"
+  },
+  "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "The Perils of Mind-Reading in the Taiwan Strait – The Diplomat"
+  },
+  "https://ianslive.in/taiwans-ability-to-hold-competitive-elections-strengthens-its-international-standing-report--20260915145628": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan's ability to hold competitive elections strengthens its international standing: Report"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/15/2003864314": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Minister confirms plans to open representative office in Cebu - Taipei Times"
+  },
+  "https://www.aljazeera.net/politics/2026/9/15/%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%B4%D9%8A-%D8%A7%D9%83%D8%AA%D8%B4%D9%81-%D8%A7%D9%84%D9%81%D8%B1%D9%82-%D9%81%D9%8A-%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D8%A9": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "ترمب وشي.. اكتشف الفرق في إدارة القوة والتفاوض | سياسة | الجزيرة نت"
+  },
+  "https://www.guampdn.com/news/analyst-pull-troops-away-from-china-and-taiwan-toward-guam-to-reduce-chance-of-war/article_be4edcfc-fc4c-43d4-87de-674263c62c8c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Analyst: Pull troops away from China and Taiwan, toward Guam to reduce chance of war | News | guampdn.com"
+  },
+  "https://whbl.com/2026/09/14/chinas-new-tech-national-security-exit-rules-take-effect/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China’s new tech, national security exit rules take effect | 1330 & 101.5 WHBL"
+  },
+  "https://tibet.net/12th-executive-committee-of-tibetan-association-in-taiwan-takes-office/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "12th Executive Committee of Tibetan Association in Taiwan Takes Office – Central Tibetan Administration"
+  },
+  "https://www.businesstimes.com.sg/startups-tech/technology/micron-taiwan-union-presses-profit-sharing-demand-keeps-strike-preparations-alive": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Micron Taiwan union presses profit-sharing demand, keeps strike preparations alive - The Business Times"
+  },
+  "https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US allies in Asia alarmed as think tank calls for pullback"
+  },
+  "https://actualidad.rt.com/actualidad/627711-contundente-advertencia-pekin-apoyo-legisladores": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "La contundente advertencia de Pekín tras el apoyo de los legisladores panameños a Taiwán - RT"
+  },
+  "https://www.digitimes.com/news/a20260915PD223/fcc-equipment-market-supply-chain-cybersecurity.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US FCC, White House tighten controls on power systems, raising the trust bar for Taiwanese suppliers"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/16/2003864330": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Rethinking Taiwan’s cyberstrategy - Taipei Times"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=04621526645580448&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "마이크론 대만 노조 “영업이익 15% 배분”…파업투표 가능성 경고"
+  }
+ }
+}

@@ -1,0 +1,260 @@
+{
+ "date": "2026-08-17",
+ "generated_at": "2026-11-12T10:01:55",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 32,
+ "n_articles": 31,
+ "n_no_text": 1,
+ "n_coded": 30,
+ "n_relevant": 6,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.freemalaysiatoday.com/category/world/2026/08/17/taiwan-president-says-record-defence-spending-is-investment-in-peace"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://aninews.in/news/world/asia/taiwan-detects-one-pla-aircraft-nine-plan-vessels-around-its-territory20260817064844/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan detects one PLA aircraft, nine PLAN vessels around its territory"
+  },
+  "https://economictimes.indiatimes.com/news/defence/taiwan-detects-one-chinese-military-aircraft-16-ships-around-island/articleshow/133284457.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan detects one Chinese military aircraft, 16 ships around island - The Economic Times"
+  },
+  "https://www.unian.net/world/ssha-ne-gotovy-k-odnovremennomu-napadeniyu-kitaya-na-tayvan-i-rossii-na-odnu-iz-stran-nato-13472868.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "США не готовы к одновременному нападению Китая на Тайвань и России на одну из стран НАТО"
+  },
+  "https://www.investmentwatchblog.com/are-we-closer-to-nuclear-war-than-ever-before/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Are We Closer To Nuclear War Than Ever Before? - Investment Watch Blog"
+  },
+  "https://www.sbctv.gr/2026/08/%CE%BF%CF%85%CE%B4%CE%B5%CF%84%CE%B5%CF%81%CE%BF%CF%84%CE%B7%CF%84%CE%B1-%CE%B9%CE%BD%CE%B4%CE%BF%CE%BD%CE%B7%CF%83%CE%B9%CE%B1%CF%82/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Η ουδετερότητα Ινδονησίας σε άσκηση με την Κίνα"
+  },
+  "https://www.yahoo.com/news/politics/articles/taiwan-president-says-record-defence-064654974.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan's president says record defence spending an investment in peace"
+  },
+  "https://www.asiaone.com/asia/taiwans-president-says-record-defence-spending-investment-peace": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 5,
+   "title": "Taiwan's president says record defence spending an investment in peace, Asia News - AsiaOne"
+  },
+  "https://thegrio.com/2026/08/24/sen-tim-scott-defends-darline-grahams-flubbed-national-security-answer/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Sen. Tim Scott defends Darline Graham's flubbed national security answer - TheGrio"
+  },
+  "https://www.thedailybeast.com/trumps-nepo-sister-pick-darline-graham-stays-mum-on-red-flag-topic-of-2020-presidential-election/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump's Nepo Sister Pick Darline Graham Stays Mum on Red Flag Topic of 2020 Presidential Election"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/08/18/2003862671": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "German writer tells of Chinese spy in Taiwan - Taipei Times"
+  },
+  "https://www.straitstimes.com/asia/paying-to-suffer-why-more-than-twice-as-many-taiwanese-travel-abroad-as-foreign-tourists-fly-in": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "‘Paying to suffer’: Why more than twice as many Taiwanese travel abroad as foreign tourists fly in | The Straits Times"
+  },
+  "https://www.unian.ua/world/tretya-svitova-rozdilitsya-na-dva-teatra-boyovih-diy-v-yevropi-i-shidniy-aziji-13472790.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Третя світова розділиться на два театра бойових дій в Європі і Східній Азії"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5543188": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》 Invasion is an existential gamble for Xi, expert says - 焦點 - 自由時報電子報"
+  },
+  "https://tibet.net/representative-dr-tsewang-gyalpo-arya-addresses-tokyo-humanities-forum-with-chinese-community-in-tokyo/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Representative Dr. Tsewang Gyalpo Arya Addresses Tokyo Humanities Forum with Chinese Community in Tokyo – Central Tibetan Administration"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/17/2003862649": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Invading Taiwan would trigger economic meltdown in China: ex-British diplomat\r\n - Taipei Times"
+  },
+  "http://inews24.com/view/1995554": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "시진핑, 톈안먼 우회 언급⋯\"장쩌민, 당의 정확한 결정 집행\""
+  },
+  "https://theconservativetreehouse.com/blog/2026/08/16/president-trump-makes-a-surprise-announcement-on-u-s-military-support-to-south-korea/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "President Trump Makes a Surprise Announcement on U.S. Military Support to South Korea - The Last Refuge"
+  },
+  "https://nationalpost.com/news/world/trump-south-korea-military-drill-scale-back-good-relationship-north-korea-kim-jong-un": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump orders U.S. scale back on military drills with South Korea"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/08/18/2003862662": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "The importance of self-criticism - Taipei Times"
+  },
+  "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Indonesia-China naval drill raises neutrality concerns"
+  },
+  "https://www.agweek.com/crops/soybeans/taiwanese-buyers-tour-faribault-soybean-farm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwanese buyers tour Faribault soybean farm - Agweek | #1 source for agriculture news, farming, markets"
+  },
+  "http://www.jpost.com/opinion/article-905757": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan and Japan’s colonial past: The history behind today’s political clash | The Jerusalem Post"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5543187": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》 German writer tells of Chinese spy in Taiwan - 焦點 - 自由時報電子報"
+  },
+  "https://www.timesofearth.com/2026/08/17/trump-scales-back-military-drills-with-south-korea-because-of-good-friend-kim/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump scales back military drills with South Korea because of ‘good friend’ Kim – The Times Of Earth"
+  },
+  "https://www.endtime.com/prophecy-news/could-china-and-taiwan-become-part-of-the-sixth-trumpet-war/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Could China and Taiwan Become Part of the Sixth Trumpet War? – Endtime Ministries | The Endtime Show"
+  },
+  "https://whbl.com/2026/08/17/taiwan-president-says-record-defence-spending-is-investment-in-peace/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan president says record defence spending is investment in peace | 1330 & 101.5 WHBL"
+  },
+  "https://www.theepochtimes.com/china/beijings-expanding-military-footprint-could-paralyze-taiwans-wartime-resupply-analysts-6075746": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Beijing’s Expanding Military Footprint Could Paralyze Taiwan’s Wartime Resupply: Analysts | The Epoch Times"
+  },
+  "https://focustaiwan.tw:443/sci-tech/202608170010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwanese inventors win big at Silicon Valley festival - Focus Taiwan"
+  },
+  "https://foreignpolicy.com/2026/08/17/australia-china-getting-tough-trump/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Australia’s Getting Tough on China Again"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/18/2003862691": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwanese inventors win big at Silicon Valley festival - Taipei Times"
+  }
+ }
+}

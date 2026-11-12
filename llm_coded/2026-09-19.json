@@ -1,0 +1,190 @@
+{
+ "date": "2026-09-19",
+ "generated_at": "2026-11-12T10:10:02",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 29,
+ "n_articles": 24,
+ "n_no_text": 5,
+ "n_coded": 22,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://focustaiwan.tw/politics/202609190004",
+  "https://focustaiwan.tw:443/politics/202609190004"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/09/19/defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business - Internazionale"
+  },
+  "https://www.chronicle.lu/category/international-news/63477-defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Defence Firm Anduril Says US Delay on Taiwan Arms Sales Affecting Its Business"
+  },
+  "https://www.hngn.com/articles/273294/20260919/trump-xi-meet-white-house-trade-truce-taiwan-line.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Trump and Xi Meet at White House With Trade Truce, Taiwan on the Line"
+  },
+  "https://www.parlamentnilisty.cz/arena/monitor/Zacal-Cinou-ale-pak-dal-kopanec-Pekarove-a-Piratum-Zeman-na-konferenci-pobavil-797038": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "| ParlamentniListy.cz – politika ze všech stran"
+  },
+  "https://ibcworldnews.com/2026/09/19/republican-china-committee-chair-urges-tough-trump-line-with-xi/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Republican China committee chair urges tough Trump line with Xi"
+  },
+  "https://www.bookreporter.com/reviews/taipei-story": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 5,
+   "title": "Taipei Story | Bookreporter.com"
+  },
+  "https://www.publishersweekly.com:443/pw/by-topic/industry-news/bookselling/article/101288-this-week-s-bestsellers-september-21-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "This Week’s Bestsellers: September 21, 2026"
+  },
+  "https://www.globaltimes.cn/page/202609/1370908.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "A shameless political double act exposes Teodoroâs true motives: Global Times editorial - Global Times"
+  },
+  "https://ipc.digital/Os-aliados-americanos-est%C3%A3o-preocupados-com-a-forma-como-Trump-poder%C3%A1-usar-sua-estrat%C3%A9gia-em-rela%C3%A7%C3%A3o-a-Taiwan-com-Xi./": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Aliados dos EUA estão preocupados com a forma como Trump pode usar a questão de Taiwan com Xi - IPC Digital"
+  },
+  "https://newsroomamerica.com/tag/xi_jinping": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Tag: xi_jinping — newsroomamerica.com"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/20/2003864580": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Union chairman jailed in China returns to Taiwan - Taipei Times"
+  },
+  "https://www.cnbc.com/2026/09/19/anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Anduril says U.S. delay on Taiwan arms sales affecting its business"
+  },
+  "https://www.rfa.org/english/china/2026/09/19/xi-jinping-visit-washington-economy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi Jinping’s US visit will be a test of his power among China’s elite  – Radio Free Asia"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/20/2003864577": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Pottinger urges Taiwan to focus skepticism on CCP promises - Taipei Times"
+  },
+  "https://www.zerohedge.com/military/chinas-stealth-fighters-take-shape-great-powers-risk-sliding-economic-war-shooting-war": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China's Stealth Fighters Take Shape As Great Powers Risk Sliding From Economic War Into Shooting War<!-- --> | ZeroHedge"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/20/2003864575": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Anduril founder touts defense - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/culture/202609190012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Find pivotal moments that shape history: Tang Prize Sinology laureate - Focus Taiwan"
+  },
+  "https://www.prokerala.com/news/articles/a1814294.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China's maritime activities near Taiwan reflect 'more intrusive' form of coercion: Report"
+  },
+  "https://news.mail.ru/politics/72415809/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "SCMP: США могут отложить продажу оружия Тайваню до завершения саммита АТЭС - Новости Mail"
+  },
+  "https://economictimes.indiatimes.com/news/defence/us-weighs-delaying-taiwan-arms-sales-until-after-apec-g20-summits-report/articleshow/134347179.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US weighs delaying Taiwan arms sales until after APEC, G20 summits: Report - The Economic Times"
+  },
+  "https://www.eurasiareview.com/19092026-b-2-demonstrates-new-maritime-strike-capability/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "B-2 Demonstrates New Maritime Strike Capability - Eurasia Review"
+  },
+  "https://www.vetogate.com/5734475": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "أمريكا تدرس تأجيل صفقة الأسلحة الكبرى لتايوان لما بعد قمتي أبيك والعشرين"
+  }
+ }
+}

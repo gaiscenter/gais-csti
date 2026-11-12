@@ -1,0 +1,187 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-12T10:25:30",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 22,
+ "n_articles": 20,
+ "n_no_text": 2,
+ "n_coded": 18,
+ "n_relevant": 8,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/02/2003867028",
+  "https://focustaiwan.tw:443/politics/202611020020"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.techtimes.com/articles/329836/20261101/made-india-pioneer-mivi-opens-inr200-crore-factory-unveils-mivi-one-5g-smartphone.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Made-in-India Pioneer Mivi Opens ₹200-Crore Factory, Unveils Mivi One 5G Smartphone"
+  },
+  "https://canadianinquirer.net/2026/11/02/taiwan-accuses-china-of-harassing-ships-during-patrols-off-its-east-coast/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 18,
+   "title": "Taiwan accuses China of harassing ships during patrols off its east coast - Philippine Canadian Inquirer Nationwide Filipino Newspaper"
+  },
+  "https://www.theepochtimes.com/china/taiwan-accuses-china-of-cognitive-warfare-amid-coast-guard-incursions-military-activity-6111933": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan Accuses China of Cognitive Warfare Amid Coast Guard Incursions, Military Activity | The Epoch Times"
+  },
+  "https://aninews.in/news/world/asia/china-accused-of-undermining-taiwan8217s-status-ahead-of-apec-summit20261102183823/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China accused of undermining Taiwan&#8217;s status ahead of APEC summit"
+  },
+  "https://www.eurasiareview.com/02112026-europe-and-taiwan-why-democracy-matters-beyond-borders-oped/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Europe And Taiwan: Why Democracy Matters Beyond Borders - OpEd - Eurasia Review"
+  },
+  "https://www.straitstimes.com/asia/facing-chinese-pressure-taiwan-says-it-must-be-master-of-its-own-maritime-information": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Facing Chinese pressure, Taiwan says it must be master of its own maritime information | The Straits Times"
+  },
+  "https://www.index.hr/vijesti/clanak/tajvan-moramo-sami-nadzirati-svoje-more/2852253.aspx?index_tid=1208635&index_ref=naslovnica_vijesti_najnovije_d": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Tajvan želi sam nadzirati svoje vode zbog kineskih prijetnji - Index.hr"
+  },
+  "https://dunyanews.tv/en/World/980904--taiwan-accuses-china-of-harassment-after-standoff-between-coast-guard": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan accuses China of harassment after standoff between coast guard ships | Dunya News"
+  },
+  "https://www.index.hr/vijesti/clanak/tajvan-moramo-sami-nadzirati-svoje-more/2852253.aspx": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Tajvan želi sam nadzirati svoje vode zbog kineskih prijetnji - Index.hr"
+  },
+  "https://lactualite.com/actualites/taiwan-accuse-la-chine-de-harcelement-apres-un-incident-entre-des-navires/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taïwan accuse la Chine de harcèlement après un incident entre des navires | L’actualité"
+  },
+  "https://evertiq.se/news/2026-11-02-marknadspulsen-med-rotakorn-ai-driver-minnesmarknaden-ravaror-skapar-nya-risker": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Marknadspulsen med Rotakorn: AI driver minnesmarknaden – råvaror sk..."
+  },
+  "https://www.straitstimes.com/world/who-is-alice-huang-the-chinese-exec-accused-of-spying-on-nvidia-ceo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Alice Huang and the Nvidia spy allegations | The Straits Times"
+  },
+  "https://www.cbc.ca/news/canada/hamilton/12-year-old-assault-9.7406105": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Woman and boy arrested, Hamilton police say, after 'disturbing' assault of cadet leader distributing poppies | CBC News"
+  },
+  "https://www.endtime.com/prophecy-news/iran-war-threatens-global-conflict/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Iran War Threatens Global Conflict – Endtime Ministries | The Endtime Show"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/02/2003867023": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Post-debate poll shows Shen’s support surpassing 50% - Taipei Times"
+  },
+  "https://www.themarketsdaily.com/2026/11/02/stock-traders-purchase-high-volume-of-put-options-on-ishares-msci-taiwan-etf-nysearcaewt.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Stock Traders Purchase High Volume of Put Options on iShares MSCI Taiwan ETF (NYSEARCA:EWT) - Markets Daily"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/03/2003867046": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Donovan’s Deep Dives: TSMC’s overseas expansion is a necessity, not a choice - Taipei Times"
+  },
+  "https://www.livemint.com/market/stock-market-news/tsmcs-massive-6-5-trillion-valuation-opportunity-is-the-taiwan-chipmaker-stock-to-buy-for-the-next-4-years-decoded-11793613989390.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "TSMC's massive $6.5 trillion valuation opportunity: Is the Taiwan chipmaker stock to buy for the next 4 years? Decoded | Stock Market News"
+  }
+ }
+}

@@ -1,0 +1,688 @@
+{
+ "date": "2026-10-05",
+ "generated_at": "2026-11-12T10:18:38",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 113,
+ "n_articles": 100,
+ "n_no_text": 13,
+ "n_coded": 84,
+ "n_relevant": 13,
+ "complete": false,
+ "n_missing": 16,
+ "missing": [
+  "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-accuses-california-woman-of-surveilling-taiwan-leader-s-son-for-china",
+  "https://www.kcci.com/article/fbi-woman-accused-spying-taiwan-leaders-china/74023768",
+  "https://www.wrganews.com/2026/10/04/california-realtor-nabbed-at-lax-in-alleged-china-spy-case-targeting-taiwan-presidents-relative/",
+  "https://aninews.in/news/world/asia/taiwan-raises-alarm-over-453-citizens-missing-or-detained-in-china20261005143246/",
+  "https://www.asiaone.com:443/world/taiwan-foreign-minister-visits-us-opening-new-arizona-office",
+  "https://punchng.com/us-arrests-woman-accused-of-spying-for-china-on-taiwan-leaders-family/",
+  "https://www.huffpost.com/entry/taiwan-spy-arrested-los-angeles-airport_n_6ac397c7e4b0d51e335c9e10",
+  "https://eldiariodesonora.com.mx/internacional/2026/10/05/mujer-acusada-espiar-china-hijo-presidente-taiwanes-lai-ching-su-familia.html",
+  "https://leadership.ng/us-arrests-woman-accused-of-spying-on-taiwan-presidents-family-for-china/",
+  "https://aninews.in/news/world/us/fbi-arrests-california-realtor-for-allegedly-spying-on-taiwan-president8217s-son20261005085512/",
+  "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china",
+  "https://newstodaynet.com/2026/10/05/taiwan-opens-new-us-office-amid-china-tensions/",
+  "https://www.euronews.com/2026/10/05/fbi-arrests-woman-accused-of-spying-on-taiwanese-presidents-family-in-the-us-for-china",
+  "https://www.crookwellgazette.com.au/story/9363105/us-says-chinese-agent-spied-on-taiwan-leaders-son/",
+  "https://www.maitlandmercury.com.au/story/9363105/us-says-chinese-agent-spied-on-taiwan-leaders-son/",
+  "https://www.theglobeandmail.com/world/article-california-woman-accused-of-spying-on-taiwan-leaders-family-for-china/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.jpost.com/international/article-910599": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "California woman arrested for alleged spying for China on Taiwan president's son | The Jerusalem Post"
+  },
+  "https://tribune.com.pk/story/2633056/us-arrests-alleged-chinese-agent-over-covert-surveillance-operation": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US arrests alleged Chinese agent over covert surveillance operation"
+  },
+  "https://jagbani.punjabkesari.in/international/news/woman-arrested-for-spying-1674969": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "ਚੀਨ ਲਈ ਤਾਈਵਾਨ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੇ ਪਰਿਵਾਰ ਦੀ ਜਾਸੂਸੀ ਕਰਨ ਦੇ ਦੋਸ਼ 'ਚ ਔਰਤ ਗ੍ਰਿਫ਼ਤਾਰ"
+  },
+  "https://www.dailymail.com/news/article-16182917/Chinese-agent-Wanying-Heather-Zhang-arrested-spying-Taiwanese-president-son.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "California realtor arrested at LAX for allegedly spying on son of Taiwanese president for China | Daily Mail Online"
+  },
+  "https://www.933thedrive.com/2026/10/04/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US accuses California woman of spying for China, surveilling Taiwan president’s son | 93.3 The Drive"
+  },
+  "https://www.eurasiareview.com/05102026-the-illusion-of-hard-power-reflection-on-how-democratized-technology-and-strategic-geography-broke-the-superpower-monopoly-on-war/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "The Illusion Of Hard Power: Reflection On How Democratized Technology And Strategic Geography Broke The Superpower Monopoly On War - Eurasia Review"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/06/2003865454": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "For US and China, enmity abides - Taipei Times"
+  },
+  "https://www.cagesideseats.com/wwe/479610/john-cena-interview-defends-vince-mcmahon-loyalty-wwe-saudi-arabia-china-apology-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "John Cena on loyalty to Vince McMahon, WWE/Saudi Arabia & China apology | Cageside Seats"
+  },
+  "https://ktvz.com/news/national-world/cnn-national/2026/10/04/california-woman-arrested-and-charged-with-acting-as-unregistered-agent-for-china-prosecutor-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "California woman arrested for spying for China and surveilling Taiwanese president’s son, officials say - KTVZ"
+  },
+  "https://www.rp.pl/polityka/art45249061-34-latka-z-kalifornii-szpiegowala-syna-prezydenta-tajwanu-nie-zdazyla-uciec-do-chin": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "34-latka z Kalifornii szpiegowała syna prezydenta Tajwanu. Nie zdążyła uciec do Chin - rp.pl"
+  },
+  "https://www.capital.gr/ecfr-eu/4021370/i-maxi-gia-tin-epirroi-ston-tramp-klimakonetai/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Η μάχη για την επιρροή στον Τραμπ κλιμακώνεται | Capital"
+  },
+  "https://www.deccanchronicle.com/world/us-arrests-woman-accused-of-spying-on-taiwan-president-lais-son-for-china-1993219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US Arrests Woman Accused Of Spying On Taiwan President Lai's Son For China"
+  },
+  "https://www.investmentwatchblog.com/fbi-arrests-chinese-female-spy-at-la-airport-as-she-tried-to-escape-she-posed-as-real-estate-agent-in-irvine-while-spying-thousands-of-chinese-sleeper-agents-live-in-u-s/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "FBI arrests Chinese female spy at LA airport as she tried to escape. She posed as real estate agent in Irvine while spying. Thousands of Chinese sleeper agents live in U.S. - Investment Watch Blog"
+  },
+  "https://legalinsurrection.com/2026/10/chinese-national-arrested-for-allegedly-spying-on-taiwanese-presidents-son-in-u-s/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chinese National Arrested for Allegedly Spying on Taiwanese President’s Son in U.S."
+  },
+  "https://www.straitstimes.com/asia/east-asia/taiwans-envoy-prods-trump-administration-on-stalled-arms-sale": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan’s envoy prods Trump administration on stalled arms sale | The Straits Times"
+  },
+  "https://www.hindustantimes.com/world-news/saw-him-young-male-us-realtors-creepy-texts-expose-chinas-bid-to-spy-on-taiwan-president-s-son-101791194726991.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "‘Saw him, young male’: US realtor's 'creepy' texts expose China's bid to spy on Taiwan President’s son | World News"
+  },
+  "https://www.foxnews.com/us/california-realtor-nabbed-lax-alleged-china-spy-case-targeting-taiwan-presidents-relative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "FBI nabs California realtor at LAX over alleged secret surveillance for Beijing | Fox News"
+  },
+  "https://article.wn.com/view/2026/10/05/Did_China_try_to_spy_on_Taiwanese_first_son_on_US_soil/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Did China try to spy on Taiwanese 'first son' on US soil? - Worldnews.com"
+  },
+  "http://www.arabherald.com/news/279348128/taiwan-gets-its-first-two-f-16v-fighter-jets": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 30,
+   "title": "Taiwan gets its first two F-16V fighter jets"
+  },
+  "https://knrs.iheart.com/content/2026-10-05-woman-arrested-at-lax-for-alleged-spying-for-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Woman Arrested At LAX For Alleged Spying For China | Talk Radio 105.9 - KNRS"
+  },
+  "https://www.theamericanconservative.com/taiwan-isnt-the-flashpoint-for-war-that-analysts-say-it-is/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Isn’t the Flashpoint for War that Analysts Say It Is - The American Conservative"
+  },
+  "https://openthemagazine.com/world/whose-war-whose-china-why-xis-wwii-remarks-have-reopened-the-taiwan-debate": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi Jinping's WWII Remarks Spark Taiwan Debate: Unpacking the Historical and Political Implications"
+  },
+  "https://dunyanews.tv/en/World/976167-us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-le": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "US accuses California woman of spying for China, surveilling Taiwan leader's son | Dunya News"
+  },
+  "https://www.mk.ru/politics/2026/10/05/tayvanskiy-forpost-diplomat-otkryl-de-fakto-konsulstvo-ssha-posle-sammita.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Тайваньский форпост: дипломат открыл де-факто консульство США после саммита - МК"
+  },
+  "https://www.thueringer-allgemeine.de/politik/article413334991/auftrag-aus-china-ausgefuehrt-mutmassliche-spionin-in-kalifornien-festgenommen.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "USA: Mutmaßliche Spionin festgenommen – in heikler Mission für China"
+  },
+  "http://www.koreatimes.com/article/20261005/1632542": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "FBI, ‘대만 총통 아들 감시’ 中스파이 혐의로 30대 여성 체포"
+  },
+  "https://time.com/article/2026/10/05/suspected-chinese-agent-arrested-lax-taiwan-president-family-surveillance/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Alleged Chinese Agent Arrested at LAX"
+  },
+  "https://wkzo.com/2026/10/04/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US accuses California woman of spying for China, surveilling Taiwan president’s son | WKZO | Everything Kalamazoo | 590 AM · 106.9 FM · 930 AM · 102.7 FM"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/05/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leader039s-son": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US accuses California woman of spying for China, surveilling Taiwan leader's son | The Star"
+  },
+  "https://www.wbaltv.com/article/fbi-woman-accused-spying-taiwan-leaders-china/74023768": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "FBI arrests woman accused of spying on Taiwan leader's family for China - WBAL"
+  },
+  "https://thefrontierpost.com/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-presidents-son/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "US accuses California woman of spying for China, surveilling Taiwan president’s son – The Frontier Post"
+  },
+  "https://www.index.hr/vijesti/clanak/fbi-uhitio-zenu-sumnjaju-da-je-za-kinu-pratila-sina-tajvanskog-predsjednika/2841940.aspx?index_tid=1177356&index_ref=naslovnica_vijesti_najnovije_d": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Pratila sina tajvanskog predsjednika za Kinu. FBI je uhitio na aerodromu - Index.hr"
+  },
+  "https://www.wtxl.com/us-news/crime/fbi-arrests-california-woman-accused-of-surveilling-taiwan-presidents-son-for-china": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "FBI: California woman acted as agent for China, monitored Taiwan president’s son"
+  },
+  "https://www.quadratin.com.mx/sin-categoria/arrestan-a-presunta-agente-china-acusada-de-espionaje-federal-en-la/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Arrestan a presunta agente china acusada de espionaje federal en LA - Quadratín Michoacán"
+  },
+  "https://biz.heraldcorp.com/article/10893498": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "“부동산 중개인 활동”…대만 총통 감시한 中 스파이, 체포 - 헤럴드경제"
+  },
+  "https://www.theepochtimes.com/china/chinas-escalating-espionage-could-put-the-world-at-risk-analysts-warn-6099483": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China’s Escalating Espionage Could Put the World at Risk, Analysts Warn | The Epoch Times"
+  },
+  "https://mynewsla.com/crime/2026/10/05/irvine-woman-charged-with-acting-as-unregistered-agent-of-china-3/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Woman Accused of Gathering Personal Information to Chinese Gov't - MyNewsLA.com"
+  },
+  "https://abc13.com/story/woman-accused-spying-china-arrested-fbi-agents-los-angeles-international-airport/19909901/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Woman accused of spying for China arrested by FBI agents at Los Angeles International Airport - ABC13 Houston"
+  },
+  "https://freerepublic.com/tag/*/index?more=4398027": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Latest Articles"
+  },
+  "https://www.ksby.com/news/california-woman-arrested-for-spying-for-china-and-surveilling-taiwanese-presidents-son-officials-say": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Calif. woman accused of spying for China, surveilling Taiwanese president’s son"
+  },
+  "https://www.latimes.com/california/story/2026-10-05/wanying-heather-zhang-federal-charges-unregistered-agent-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Feds accuse O.C. real estate agent of secretly working for China - Los Angeles Times"
+  },
+  "https://focustaiwan.tw/politics/202610050025": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "OCAC minister, family accused of misusing public resources overseas - Focus Taiwan"
+  },
+  "https://kfiam640.iheart.com/content/2026-10-05-irvine-woman-charged-with-acting-as-unregistered-agent-of-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Irvine Woman Charged with Acting as Unregistered Agent of China | KFI AM 640"
+  },
+  "https://komonews.com/news/local/woman-arrested-accused-spying-taiwan-presidents-son-seattle-china-government-fbi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Woman arrested, accused of spying on Taiwan president's son in Seattle for China"
+  },
+  "https://kyma.com/news/california-news/2026/10/05/u-s-authorities-accuses-california-woman-of-spying-for-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "U.S. authorities accuse California woman of spying for China - KYMA"
+  },
+  "https://www.standardmedia.co.ke/asia/article/2001559425/us-arrests-woman-accused-of-spying-for-china-on-taiwan-leaders-family": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "US arrests woman accused of spying for China on Taiwan leader's family  - The Standard"
+  },
+  "https://nypost.com/2026/10/05/opinion/communist-china-is-bringing-its-police-state-to-california/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Communist China is bringing its police state to California"
+  },
+  "https://www.thenews.com.pk/latest/1418786-us-arrests-california-woman-for-allegedly-spying-on-taiwan-presidents-son-for-chinese-intelligence": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US arrests California woman for allegedly spying on Taiwan President's son"
+  },
+  "https://mynewsla.com/crime/2026/10/05/irvine-woman-charged-with-acting-as-unregistered-agent-of-china-2/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "DA Charges Irvine Woman with Acting as Unregistered Agent of China - MyNewsLA.com"
+  },
+  "https://www.kcra.com/article/california-wanying-zhang-heather-spy-china-taiwan/74029804": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "California woman accused of spying for China - KCRA"
+  },
+  "https://www.moneycontrol.com/world/us-arrests-suspected-china-spy-for-surveilling-taiwan-leader-s-son-article-14044511.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US arrests suspected China spy for surveilling Taiwan leader’s son"
+  },
+  "https://www.manilatimes.net/2026/10/06/world/americas-emea/us-arrests-woman-accused-of-spying-for-china/2439037": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US arrests woman accused of spying for China | The Manila Times"
+  },
+  "https://www.thehindu.com/books/books-authors/interview-rebecca-f-kuang-novel-taipei-story-challenging-homecoming/article71545712.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Interview | Rebecca F. Kuang on challenging the idea of home and homecoming in ‘Taipei Story’ - The Hindu"
+  },
+  "https://www.mondaq.com:443/unitedstates/money-laundering/1850868/faras-future-doj-signals-regulatory-revisions-and-heightened-enforcement-action": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "FARA’s Future: DOJ Signals Regulatory Revisions And Heightened Enforcement Action | Legal 500"
+  },
+  "https://www.dailylocal.com/2026/10/05/taiwan-china-spying-arrest/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "FBI arrests California woman accused of spying on Taiwan leader’s family for China"
+  },
+  "https://www.the-independent.com/news/world/americas/crime/chinese-spy-taiwan-president-lai-ching-te-b3061320.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "California real estate agent accused of spying on Taiwanese president’s son for China | The Independent"
+  },
+  "https://www.themarysue.com/california-realtor-accused-of-being-a-chinese-spy-and-her-disturbing-texts-to-beijing-handlers-reveal-who-her-target-was/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Was This Woman a Chinese Spy? | The Mary Sue"
+  },
+  "https://americanbazaaronline.com/2026/10/05/california-realtor-arrested-at-lax-in-china-spy-case-489408/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "California realtor arrested at LAX in China spy case"
+  },
+  "https://www.freepressjournal.in/world/who-is-wanying-heather-zhang-the-california-realtor-accused-of-spying-on-taiwan-presidents-son": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Who Is Wanying 'Heather' Zhang, The California Realtor Accused Of Spying On Taiwan President’s Son?"
+  },
+  "https://www.bankier.pl/wiadomosc/Agentka-Chin-zatrzymana-przed-wylotem-do-Szanghaju-FBI-ujawnia-zarzuty-9207328.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Agentka Chin zatrzymana przed wylotem do Szanghaju. FBI ujawnia zarzuty - Bankier.pl"
+  },
+  "https://news.mongabay.com/2022/10/a-fast-growing-pipeline-the-amazon-to-southeast-asia-wildlife-trade/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A fast-growing pipeline: The Amazon-to-Southeast Asia wildlife trade"
+  },
+  "https://www.cnews.ru/news/line/2026-10-05_karta_istochnikov_ddos-atak": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Карта источников DDoS-атак изменилась до неузнаваемости: Россия входит в топ-5, а Мексика впервые обогнала США, заняв первое место - CNews"
+  },
+  "https://localnews8.com/news/national-world/cnn-national/2026/10/04/california-woman-arrested-and-charged-with-acting-as-unregistered-agent-for-china-prosecutor-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "California woman arrested for spying for China and surveilling Taiwanese president’s son, officials say - LocalNews8.com - KIFI"
+  },
+  "https://bitacora.com.uy/taiwan-activa-comunicaciones-de-respaldo-para-islas-perifericas-luego-de-que-se-rompiera-el-cable-submarino/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwán activa comunicaciones de respaldo para islas periféricas luego de que se rompiera el cable submarino - bitacora.com.uy"
+  },
+  "https://www.abc.net.au/news/2026-10-05/us-accuses-california-woman-of-surveilling-taiwan-president-son/107231000": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "US accuses California woman of spying on Taiwan president's son for China - ABC News"
+  },
+  "https://www.newsweek.com/3-things-xi-won-trump-12524143": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "3 Things Xi Won From Trump - Newsweek"
+  },
+  "https://www.thehindu.com/news/international/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son/article71545758.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "U.S. accuses California woman of spying for China, surveilling Taiwan leader's son - The Hindu"
+  },
+  "https://www.lankanewspapers.com/2026/10/05/california-woman-arrested-for-acting-as-spy-for-china-allegedly-surveilling-taiwan-president-s-son": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "California Woman Arrested for Acting as Spy for China, Allegedly Surveilling Taiwan President's Son - Lanka Newspapers"
+  },
+  "https://www.tportal.hr/vijesti/clanak/fbi-uhitio-navodnu-kinesku-spijunku-sumnjice-je-da-je-pratila-sina-tajvanskog-predsjednika-20261005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "FBI uhitio navodnu kinesku špijunku: Sumnjiče je da je pratila sina tajvanskog predsjednika | tportal"
+  },
+  "https://humanevents.com/2026/10/05/chinese-foreign-agent-arrested-at-lax-after-surveilling-taiwanese-presidents-son-posing-as-real-estate-agent": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Chinese foreign agent arrested at LAX after surveilling Taiwanese president's son, posing as real estate agent · Human Events"
+  },
+  "https://www.ibtimes.co.uk/california-agent-arrested-alleged-surveillance-taiwan-presidents-son-1823594": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "California Realtor Accused of Spying for China Texted 'I Am Videorecording' While Allegedly Tracking Taiwan President's Son | IBTimes UK"
+  },
+  "https://wiadomosci.gazeta.pl/polityka/7,198013,33060331,fbi-zatrzymalo-w-usa-kobiete-podejrzana-o-szpiegostwo-obserwowala.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "FBI zatrzymało kobietę podejrzaną o szpiegostwo. Obserwowała syna prezydenta Tajwanu"
+  },
+  "https://www.prokerala.com/news/articles/a1820575.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan will never willingly trade its independence for China's embrace: Report"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/05/2003865442": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Shen eyes legal action over KMT drug policy claims - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/world/us/transnational-repression-fbi-arrests-california-woman-accused-of-spying-on-taiwan-presidents-family-for-china/articleshow/134689227.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China Spy: âTransnational repressionâ: FBI arrests California woman accused of spying on Taiwan presidentâs family for China - The Times of India"
+  },
+  "https://economictimes.indiatimes.com/world/us/who-is-wanying-zhang-fbi-arrests-california-woman-for-spying-for-china-surveilling-taiwan-presidents-son/articleshow/134688611.cms": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Who is Wanying Zhang? FBI arrests California woman for spying for China, surveilling Taiwan President’s son - The Economic Times"
+  },
+  "https://www.fox5ny.com/news/california-realtor-nabbed-lax-alleged-china-spy-case-targeting-taiwan-presidents-relative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "California realtor nabbed at LAX in alleged China spy case targeting Taiwan president’s relative | FOX 5 New York"
+  },
+  "https://noticel.com/noticias/20261005/taiwan-respira-tranquilo-tras-la-cumbre-trump-xi-pero-todavia-espera-las-armas-de-ee-uu/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán respira tranquilo tras la cumbre Trump-Xi, pero todavía espera las armas de EE.UU. - NotiCel - La verdad como es - Noticias de Puerto Rico - NOTICEL"
+  },
+  "https://www.theepochtimes.com/us/fbi-arrests-chinese-woman-at-lax-for-surveilling-son-of-taiwanese-president-6099355": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 1,
+   "title": "FBI Arrests Chinese Woman at LAX for Allegedly Surveilling Son of Taiwanese President | The Epoch Times"
+  },
+  "https://shasha.ps/home/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AA%D9%87%D9%85-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%A8%D8%A7%D9%84%D8%AA%D8%AC%D8%B3%D8%B3-%D8%B9%D9%84%D9%89-%D9%86%D8%AC%D9%84": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "واشنطن تتهم امرأة بالتجسس على نجل رئيس تايوان لصالح الصين | شاشة"
+  },
+  "https://www.gdnonline.com:443/Details/1408628/US-accuses-California-woman-of-spying-for-China,-surveilling-Taiwan-presidents-son": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "World News: US accuses California woman of spying for China, surveilling Taiwan president's son"
+  },
+  "https://www.fox10phoenix.com/news/california-realtor-nabbed-lax-alleged-china-spy-case-targeting-taiwan-presidents-relative": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "California realtor nabbed at LAX in alleged China spy case targeting Taiwan president’s relative | FOX 10 Phoenix"
+  },
+  "https://redstate.com/jenvanlaar/2026/10/04/another-chinese-agent-arrested-in-ca-n2207740": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "FBI Nabs Alleged Chinese Agent at LAX After Surveillance Mission Targeting Taiwan President's Son – RedState"
+  },
+  "https://hotair.com/ed-morrissey/2026/10/05/oh-look-another-pooh-honey-pot-in-california-n3819634": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Oh Look, Another Pooh Honey Pot in California! – HotAir"
+  }
+ }
+}

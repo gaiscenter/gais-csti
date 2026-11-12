@@ -1,0 +1,249 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-11-12T10:22:17",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 32,
+ "n_articles": 29,
+ "n_no_text": 3,
+ "n_coded": 26,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://news.webindia123.com/news/Articles/World/20261017/4512126.html",
+  "http://www.bignewsnetwork.com/news/279380926/china-uses-targeted-sanctions-to-pressure-taiwan-diplomatic-allies",
+  "https://focustaiwan.tw:443/politics/202610170016"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866168": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "More Taiwanese traveled to China this year - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866157": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Military to enlist civilians to map coast - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5609893": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "《TAIPEI TIMES》 Military to enlist civilians to map coast - 焦點 - 自由時報電子報"
+  },
+  "https://www.defensenews.com/land/2019/07/08/state-okays-possible-2-billion-abrams-tank-sale-to-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "US State Dept. OKs possible $2 billion Abrams tank sale to Taiwan - Defense News"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5610719": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》 Taiwan says drives away 16 Chinese ships involved in ‘maritime harassment’ - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/18/2003866149": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Cheng Li-wun’s KMT leadership - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866231": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Spooky celebration - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866217": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Taiwan says drives away 16 Chinese ships involved in ‘maritime harassment’ - Taipei Times"
+  },
+  "https://www.riotimesonline.com/guatemala-geopolitics-explained-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Guatemala Geopolitics Explained 2026 | The Rio Times"
+  },
+  "https://focustaiwan.tw:443/politics/202610170010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwanese visits to China rise nearly 20% despite travel warning: Agency - Focus Taiwan"
+  },
+  "https://aninews.in/news/world/asia/taiwan-accuses-china-of-trying-to-influence-elections-through-sanctions20261017120912/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan accuses China of trying to influence elections through sanctions"
+  },
+  "https://www.riotimesonline.com/paraguay-geopolitics-explained-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Paraguay Geopolitics Explained 2026 | The Rio Times"
+  },
+  "http://www.bignewsnetwork.com/news/279381212/taiwan-residents-trips-to-mainland-rise-nearly-20-pct-in-first-eight-months": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan residents' trips to mainland rise nearly 20 pct in first eight months"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261017/4512026.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan accuses China of trying to influence elections through sanctions"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866158": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Official warns of China poll risk - Taipei Times"
+  },
+  "https://www.defensenews.com/opinion/commentary/2019/06/26/trade-deal-with-china-or-not-the-us-must-bolster-taiwans-defense/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Trade deal with China or not, the US must bolster Taiwan’s defense - Defense News"
+  },
+  "https://www.bankingnews.gr/diethni/articles/905687/rosia-kina-allazoun-tis-artiries-kinisis-ston-pagkosmio-emporiko-xarti-moirazoun-ton-diadromo-tis-arktikis-orgi-se-ipa-iaponia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Ρωσία - Κίνα αλλάζουν τις αρτηρίες κίνησης στον παγκόσμιο εμπορικό χάρτη: Μοιράζουν τον Διάδρομο της Αρκτικής, οργή σε ΗΠΑ, Ιαπωνία"
+  },
+  "https://missionlocal.org/2026/10/people-we-meet-bayview-jasper-lee-sfmta/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "People We Meet: Jasper Lee, a big-time transit head all in on the T-Third"
+  },
+  "https://thevoiceslu.com/2026/10/pierre-heads-delegation-for-us-talks/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Pierre Heads Delegation for US Talks - The Voice St. Lucia News"
+  },
+  "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping"
+  },
+  "https://economictimes.indiatimes.com/magazines/panache/one-decision-that-made-jensen-huang-worth-185-billion-nvidia-nearly-went-bankrupt-in-1996-then-a-risky-bet-helped-build-its-ai-dominance/articleshow/135016538.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "One decision that made Jensen Huang worth $185 billion: Nvidia nearly went bankrupt in 1996, then a risky bet helped build its AI dominance - The Economic Times"
+  },
+  "https://thevoiceslu.com/2026/10/taiwan-globally-small-technologically-gigantic-part-1/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan: Globally Small, Technologically Gigantic | Part 1 - The Voice St. Lucia News"
+  },
+  "https://aninews.in/news/world/asia/china-uses-targeted-sanctions-to-pressure-taiwan8217s-diplomatic-allies20261017155324/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "China uses targeted sanctions to pressure Taiwan&#8217;s diplomatic allies"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5609894": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 Official warns of China poll risk - 焦點 - 自由時報電子報"
+  },
+  "https://www.naturalnews.com/2026-10-16-taiwan-stake-alaska-pipeline-geopolitical-minefields.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Taiwanâs Gas Gamble: A 30% Stake in Alaskaâs Pipeline Amid Geopolitical Minefields   â NaturalNews.com"
+  },
+  "https://www.newsbomb.gr/kosmos/story/1770552/ft-ypnovatoyme-pros-ton-g-pagkosmio-polemo-o-fovos-mias-pagkosmias-anafleksis": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "FT: Υπνοβατούμε προς τον Γ΄ Παγκόσμιο Πόλεμο; - Ο φόβος μιας παγκόσμιας ανάφλεξης - Newsbomb"
+  }
+ }
+}

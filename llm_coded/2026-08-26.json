@@ -1,0 +1,301 @@
+{
+ "date": "2026-08-26",
+ "generated_at": "2026-11-12T10:04:36",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 42,
+ "n_articles": 39,
+ "n_no_text": 3,
+ "n_coded": 38,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.businessinsider.com/us-quietly-help-taiwan-train-fight-china-han-kuang-2026-8"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.rnz.co.nz/news/pacific/1150376/kiribati-considers-constitutional-change-to-cement-diplomatic-recognition-of-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Kiribati considers constitutional change to cement diplomatic recognition of China | RNZ"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/26/2003863174": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Foreign minister to attend Pacific Islands Forum - Taipei Times"
+  },
+  "https://www.abc.net.au/news/2026-08-26/kiribati-changing-constitution-to-cement-recognition-china/107080764": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Kiribati considers constitutional change to cement diplomatic recognition of China - ABC News"
+  },
+  "https://focustaiwan.tw:443/politics/202608260012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan to have a presence at this year's Pacific Islands Forum - Focus Taiwan"
+  },
+  "https://www.bankingnews.gr/diethni/articles/895719/vomva-entoli-xi-pros-olous-tous-kinezous-fygete-tora-apo-to-eswatini-sto-stoxastro-o-teleftaios-symmaxos-tis-taivan-stin-afriki": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Βόμβα... εντολή Xi προς όλους τους Κινέζους: «Φύγετε τώρα από το Eswatini» – Στο στόχαστρο ο τελευταίος σύμμαχος της Ταϊβάν στην Αφρική"
+  },
+  "https://focustaiwan.tw:443/politics/202608260005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "VP Hsiao flags funding, oversight gaps in opposition drone bills - Focus Taiwan"
+  },
+  "https://www.etoday.co.kr/news/view/2618592": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "태풍 '사우델' 중국으로 경로 조정…새 태풍 '아타우' 예고 - 이투데이"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/27/2003863212": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 3,
+   "title": "Opposition drone bill leaves major holes - Taipei Times"
+  },
+  "https://www.thedailybeast.com/bettors-score-big-payday-on-trumps-risky-senate-pick/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Bettors Score Big Payday on Trumpâs Risky Senate Pick"
+  },
+  "http://russian.news.cn/20260826/f871f1aa03b146dcaa06431fd4392300/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Администрация ДПП Тайваня является самым большим препятствием для обменов между двумя берегами Тайваньского пролива - Канцелярия Госсовета КНР по делам Тайваня_Russian.news.cn"
+  },
+  "https://www.theguardian.com/us-news/2026/aug/25/south-carolina-senate-republican-primary-runoff": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "South Carolina chooses Darline Graham as Republican nominee for US Senate | South Carolina | The Guardian"
+  },
+  "https://www.munhwa.com:443/article/11612219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "“美·中 AI 기술격차 3% 미만… 글로벌 안보 큰 위협”[문화미래리포트 2026] | 문화일보"
+  },
+  "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/minimax-announces-first-half-2026-financial-results/2412439": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "MiniMax Announces First Half 2026 Financial Results\n\n | The Manila Times"
+  },
+  "https://tibet.net/oot-taipei-organises-summer-tibetan-culture-and-language-tour-programme-for-taiwan-based-tibetan-children/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "OoT Taipei Organises Summer Tibetan Culture and Language Tour Programme for Taiwan-based Tibetan Children – Central Tibetan Administration"
+  },
+  "https://www.dailymail.com/news/article-16079777/china-australia-ambassador-albanese-liu-jinsong.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China's new ambassador delivers a warning to Australia amid ongoing tensions | Daily Mail Online"
+  },
+  "https://zn.ua/ukr/usa/sestra-lindsi-hrema-vihrala-respublikanski-prajmeriz-za-pidtrimki-trampa-ap.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Вибори в США - сестра сенатора Ліндсі Грема перемогла на республіканських праймеріз – ZN.ua"
+  },
+  "https://www.thedailybeast.com/cbs-maga-coded-anchor-tony-dokoupil-suffers-another-ratings-mess/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "CBS MAGA-Coded Anchor Tony Dokoupil Suffers Another Ratings Mess"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/26/mainland-chinas-ship-activity-near-taiwan-hits-record-for-third-month-in-a-row": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Mainland China’s ship activity near Taiwan hits record for third month in a row | The Star"
+  },
+  "https://news.gooya.com/2026/08/post-112577.php": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "پرونده جمهوری اسلامی روی میز ترامپ و شی جین‌پینگ - Gooya News"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863274": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "KMT caucus accuses MAC of politicizing pomelo trade - Taipei Times"
+  },
+  "https://www.nbcnews.com/business/ceo-interviews/panda-express-ceos-employee-home-ownership-rcna594191": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Panda Express’ CEOs are on a mission to help employees own a home"
+  },
+  "https://www.thestar.com.my/news/nation/2026/08/26/taiwanese-japanese-men-nabbed-for-wrongful-confinement-of-chinese-national-in-sitiawan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwanese, Japanese men nabbed for wrongful confinement of Chinese national in Sitiawan | The Star"
+  },
+  "https://www.channelnewsasia.com/east-asia/china-cabbage-formaldehyde-south-korea-food-safety-6342101": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "South Korea steps up checks as China probes formaldehyde-tainted cabbages - CNA"
+  },
+  "https://www.theepochtimes.com/china/taiwan-returns-to-pacific-islands-forum-events-after-being-shut-out-in-2025-post-6079893": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Returns to Pacific Islands Forum Events After Being Shut Out in 2025 | The Epoch Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/27/2003863215": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China urges citizens to evacuate Taiwan’s last friend in Africa - Taipei Times"
+  },
+  "https://hotair.com/ed-morrissey/2026/08/25/live-primary-results-runoff-madness-and-will-voter-id-get-okd-n3818312": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "LIVE PRIMARY RESULTS: Runoff Madness, and Will Voter ID Get OK’d? UPDATE: Graham Wins – HotAir"
+  },
+  "https://www.hindustantimes.com/world-news/us-news/larry-nordone-darline-graham-husband-net-worth-in-focus-lindsey-graham-sister-wins-south-carolina-gop-senate-race-101787709367393.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Larry Nordone, Darline Graham's husband's, net worth in focus as Lindsey Graham's sister wins South Carolina GOP race | Hindustan Times"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/trump-speech-republican-ralph-norman-graham-b3039465.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Crowd boos mention of Trump in losing Republican’s concession speech | The Independent"
+  },
+  "https://www.cnn.com/2026/08/25/politics/south-carolina-georgia-oklahoma-takeaways": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Key takeaways from Tuesday’s elections in South Carolina, Georgia and Oklahoma | CNN Politics"
+  },
+  "https://www.clevelandjewishnews.com/jns/darline-graham-wins-south-carolina-republican-special-senate-primary-runoff/article_b6afa86e-a919-5ec7-948f-e540a0d3b97a.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham wins South Carolina Republican special Senate primary runoff | JNS | clevelandjewishnews.com"
+  },
+  "https://www.thedailybeast.com/crowd-boos-at-mention-of-trump-in-republican-loser-ralph-normans-speech/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Republican Crowd Boos at Mention of Trump in Loser Ralph Normanâs Speech"
+  },
+  "https://www.yahoo.com/news/politics/articles/trump-gets-much-needed-south-030343259.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump gets a much-needed South Carolina win and other takeaways from Tuesday’s elections"
+  },
+  "https://pina.com.fj/2026/07/21/envoy-warns-pacific-strategic-contest-is-shifting-as-png-says-it-will-close-taiwan-office/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Envoy warns Pacific strategic contest is shifting as PNG says it will close Taiwan office | PINA"
+  },
+  "https://www.fool.com/investing/2026/08/25/prediction-nvda-shares-fall-5th-straight-quarter/?source=iedfolrf0000001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Prediction: Nvidia's Shares Will Fall for a 5th Consecutive Quarter After Reporting Earnings on Aug. 26 | The Motley Fool"
+  },
+  "https://www.livemint.com/technology/tech-news/openai-says-its-jalapeno-chip-beats-nvidia-blackwell-in-ai-inference-tests-11787750498001.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "OpenAI says its Jalapeño chip beats Nvidia Blackwell in AI inference tests | Mint"
+  },
+  "https://www.lifo.gr/now/world/ipa-kinezoi-haker-parabiasan-nasa-fed-geroysia-kai-ypoyrgeio-dikaiosynis-metaxy-allon": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "ΗΠΑ: Κινέζοι χάκερ παραβίασαν NASA, Fed, Γερουσία και υπουργείο Δικαιοσύνης, μεταξύ άλλων | LiFO"
+  },
+  "https://targetednews.com/pr_disp.php?pr_id=9719485": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "Targeted News Service"
+  },
+  "https://www.wmal.com/2026/08/26/graham-defeats-norman-in-sc-gop-senate-runoff/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Graham Defeats Norman in SC GOP Senate Runoff | News Talk 105.9 WMAL-FM"
+  }
+ }
+}

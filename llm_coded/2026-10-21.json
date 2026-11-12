@@ -1,0 +1,317 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-11-12T10:23:14",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 47,
+ "n_articles": 40,
+ "n_no_text": 7,
+ "n_coded": 38,
+ "n_relevant": 6,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "http://europe.chinadaily.com.cn/a/202610/21/WS6ad8ceefe4b06d4aa05640be.html",
+  "http://usa.chinadaily.com.cn/a/202610/21/WS6ad8ceefe4b06d4aa05640be.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/22/2003866414": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan and Kansas sign trade MOU - Taipei Times"
+  },
+  "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.dailypolitical.com/2026/10/21/mid-cap-stocks-to-consider-october-21st.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Mid Cap Stocks To Consider – October 21st - Daily Political"
+  },
+  "https://www.winnipegfreepress.com/arts-and-life/entertainment/2026/10/21/taiwan-prosecutors-indict-5-suspects-in-alleged-paid-plot-to-injure-anti-ccp-comedian": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan indicts 5 accused of trying to injure comedian who mocks Xi and Chinese Communist Party – Winnipeg Free Press"
+  },
+  "https://diariodigitalrd.com/2026/10/20/exministro-israeli-afirma-que-ee-uu-e-israel-fueron-derrotados-estrategicamente-por-iran.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Exministro israelí afirma que EE. UU. e Israel fueron derrotados estratégicamente por Irán | DiarioDigitalRD"
+  },
+  "https://www.brasil247.com/global-times/china-reafirma-soberania-sobre-taiwan-apos-fmi-classificar-ilha-como-provincia-chinesa/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China reafirma soberania sobre Taiwan após FMI classificar ilha como província chinesa – Brasil 247"
+  },
+  "https://www.24sata.hr/news/foto-pa-ti-stipaj-predsjednika-kineskom-studentu-zabranili-su-ulazak-na-tajvan-na-pet-godina-1162580": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "FOTO Pa ti štipaj predsjednika: Kineskom studentu zabranili su ulazak na Tajvan na pet godina | 24sata"
+  },
+  "http://en.people.cn/n3/2026/1021/c90000-20510807.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Mainland denounces Taiwan authorities for hindering cross-Strait exchanges - People's Daily Online"
+  },
+  "https://home.nzcity.co.nz/news/article.aspx?id=456436": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Chinese exchange student deported from Taiwan after video appearing to 'pinch' president - 21-Oct-2026 - NZ International news"
+  },
+  "https://france-amerique.com/who-will-be-the-new-arsenal-of-democracy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "France-Amérique is under maintenance"
+  },
+  "https://www.abc.net.au/news/2026-10-21/comedian-hit-with-car-after-criticising-xi-jinping/107294568": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan prosecutors indict five people for injuring comedian Huang Yi-hao with a car over Xi Jinping joke - ABC News"
+  },
+  "https://www.bankingnews.gr/diethni/articles/906434/i-kina-etoimazei-kati-megalo-teratodi-anagnoristika-drones-perikyklonoun-taivan-kai-iaponia": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Η Κίνα ετοιμάζει κάτι μεγάλο - Τερατώδη αναγνωριστικά drones περικυκλώνουν Ταϊβάν και Ιαπωνία"
+  },
+  "https://www.cp24.com/news/world/2026/10/21/taiwan-prosecutors-indict-5-suspects-in-alleged-paid-plot-to-injure-anti-ccp-comedian/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan indicts 5 over paid plot to injure anti-CCP comic"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/22/2003866405": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "CWA warns storm effect at top in next two days - Taipei Times"
+  },
+  "https://maritime-executive.com/article/the-defensive-alliance-to-deter-chinese-maritime-expansion-is-strengthening": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The Defensive Alliance to Deter Chinese Maritime Expansion is Strengthening"
+  },
+  "https://whbl.com/2026/10/20/taiwan-security-agency-flags-rise-in-chinese-disinformation-ahead-of-local-elections/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan security agency flags rise in Chinese disinformation ahead of local elections | 1330 & 101.5 WHBL"
+  },
+  "https://focustaiwan.tw/society/202610210019": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Five indicted over staged collision involving comedian critical of Xi - Focus Taiwan"
+  },
+  "https://www.lalibre.be/international/asie/2026/10/21/taiwan-denonce-une-hausse-des-cyberattaques-chinoises-avant-les-elections-locales-GZR2ETYFT5FZBMMIJQDAN4BCDU/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taïwan dénonce une hausse des cyberattaques chinoises avant les élections locales - La Libre"
+  },
+  "https://econotimes.com/Taiwan-Says-China-Linked-False-or-Disputed-Information-Rose-About-48-1758871": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Says China-Linked False or Disputed Information Rose About 48% | EconoTimes"
+  },
+  "https://www.15min.lt/naujiena/aktualu/pasaulis/taivane-penki-asmenys-apkaltinti-kinija-kritikavusio-komiko-uzpuolimu-57-2789926": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taivane penki asmenys apkaltinti Kiniją kritikavusio komiko užpuolimu | 15min.lt"
+  },
+  "https://www.aol.com/articles/chinese-navy-says-us-ship-051306000.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China sends naval forces to monitor US warship near disputed shoal - AOL"
+  },
+  "https://www.statecollege.com/articles/community/centre-film-festival-unveils-lineup-for-8th-annual-event/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Centre Film Festival Unveils Lineup for 8th Annual Event | State College, PA"
+  },
+  "https://ai-online.com/2026/10/taiwan-excellence-to-showcase-next-gen-automotive-technologies-at-reuters-events-automotive-usa-2026-in-detroit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Excellence to Showcase Next-Gen Automotive Technologies at Reuters Events: Automotive USA 2026 in Detroit - AI Online -"
+  },
+  "https://www.manilatimes.net/2026/10/22/world/asia-oceania/chinese-cyberattacks-disinfo-rise-ahead-of-taiwan-polls/2450796": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Chinese cyberattacks, disinfo rise ahead of Taiwan polls | The Manila Times"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/10/22/2003866398": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Donovan’s Deep Dives: TSMC’s  record-breaking investments are transforming Arizona - Taipei Times"
+  },
+  "https://www.theepochtimes.com/article/taiwan-indicts-5-men-for-china-linked-attack-on-comedian-who-satirized-ccp-leader-xi-6107231": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "180",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "Taiwan Indicts 5 Men for China-Linked Attack on Comedian Who Satirized CCP Leader Xi | The Epoch Times"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/chinese-navy-says-us-ship-near-sabina-shoal-jeopardised-maritime-security": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China sends naval forces to monitor US warship near disputed shoal - Internazionale"
+  },
+  "https://www.dailymirror.lk/international/Taiwan-security-agency-flags-rise-in-Chinese-disinformation-ahead-of-local-elections/107-353053": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan security agency flags rise in Chinese disinformation ahead of local elections  - International | Daily Mirror"
+  },
+  "https://unn.ua/news/na-taivani-na-komika-napaly-za-zhart-pro-si-tszinpina-napad-ymovirno-zamovyly-z-kytaiu": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "На Тайвані на коміка напали за жарт про Сі Цзіньпіна - напад, ймовірно, замовили з Китаю | УНН"
+  },
+  "https://www.933thedrive.com/2026/10/20/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-musk-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "SpaceX and Tesla’s Terafab targets 2028 for volume chip production, Musk says | 93.3 The Drive"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/21/taiwan-security-agency-flags-rise-in-chinese-disinformation-ahead-of-local-elections": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan security agency flags rise in Chinese disinformation ahead of local elections | FMT"
+  },
+  "https://thenextweb.com/news/huang-gtc-berlin-keynote-protest-nvidia-chips-russian-drones": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Protesters heckle Huang in Berlin over Nvidia chips in Russian drones"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/21/china-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China ‘safeguarding order’ around Taiwan-controlled South China Sea atoll | FMT"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/china-says-it-is-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll/articleshow/135082090.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China says it is 'safeguarding order' around Taiwan-controlled South China Sea atoll - The Economic Times"
+  },
+  "https://www.nextplatform.com/control/2026/10/21/huang-shrugs-off-protestors-to-kick-off-gtc-berlin-with-dsx-pods-robots/5304447": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Huang shrugs off protestors to kick off GTC Berlin with DSX Pods, Robots"
+  },
+  "https://www.ibtimes.co.uk/japan-us-missiles-near-taiwan-keen-sword-27-1826857": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Japan and US Deploy Missile Systems Near Taiwan During Drills Involving 45,000 Japanese and 11,000 US Troops | IBTimes UK"
+  },
+  "https://www.tickerreport.com/banking-finance/13628385/robeco-institutional-asset-management-b-v-sells-354279-shares-of-taiwan-semiconductor-manufacturing-company-ltd-tsm.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Robeco Institutional Asset Management B.V. Sells 354,279 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - Ticker Report"
+  },
+  "http://www.prnewswire.com/news-releases/advantech-advances-autonomous-industrial-ai-with-ai-factory-brain-and-physical-ai-at-nvidia-gtc-berlin-2026-302915551.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Advantech Advances Autonomous Industrial AI with AI Factory Brain and Physical AI at NVIDIA GTC Berlin 2026"
+  }
+ }
+}

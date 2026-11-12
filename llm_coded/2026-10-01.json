@@ -1,0 +1,370 @@
+{
+ "date": "2026-10-01",
+ "generated_at": "2026-11-12T10:17:16",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 49,
+ "n_articles": 47,
+ "n_no_text": 2,
+ "n_coded": 44,
+ "n_relevant": 8,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "http://arabic.peopledaily.com.cn/n3/2026/1001/c31664-20505475.html",
+  "http://arabic.people.com.cn/n3/2026/1001/c31664-20505475.html",
+  "http://arabic.people.com.cn/n3/2026/1001/c31664-20505473.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/02/2003865257": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Xi’s rhetoric on Taiwan not new: official - Taipei Times"
+  },
+  "https://news.bg/int-politics/obrat-sasht-veche-ne-ochakvat-kitay-da-napadne-tayvan-predi-2028-g.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Обрат: САЩ вече не очакват Китай да нападне Тайван преди 2028 г. - News.bg"
+  },
+  "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China starts Golden Week with vow to crack down on Taiwan independence"
+  },
+  "https://www.samaa.tv/2087357743-us-sees-chinese-invasion-of-taiwan-unlikely-before-2028": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US sees Chinese invasion of Taiwan unlikely before 2028 | SAMAA TV"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=05290646645608656&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "中, 내년 대만 침공 준비?…美당국자들 \"2028년 이전엔 가능성 낮아\""
+  },
+  "https://bworldonline.com/opinion/2026/10/01/783678/the-one-china-principle-brooks-no-challenge/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The One-China Principle brooks no challenge - BusinessWorld Online"
+  },
+  "https://www.defensenews.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 3,
+   "title": "Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion - Defense News"
+  },
+  "https://www.globaltimes.cn/page/202610/1371619.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi calls for firm confidence, solid steps for China's national rejuvenation - Global Times"
+  },
+  "https://forsal.pl/swiat/chiny/artykuly/11322598,czy-tajwanowi-grozi-inwazja-chin-ujawniono-kiedy-pojawi-sie-najwieksze-ryzyko.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Czy Tajwanowi grozi inwazja Chin? Ujawniono, kiedy pojawi się największe ryzyko - Forsal.pl"
+  },
+  "https://lanouvelletribune.info/2026/10/apres-son-sommet-avec-trump-xi-jinping-reclame-la-reunification-avec-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Après son sommet avec Trump, Xi Jinping réclame la « réunification » avec Taïwan – La Nouvelle Tribune"
+  },
+  "https://unn.ua/ru/news/ssha-schitayut-maloveroyatnim-vtorzhenie-kitaya-na-taivan-v-sleduyushchem-godu-reuters": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "США считают маловероятным вторжение Китая на Тайвань в следующем году — Reuters | УНН"
+  },
+  "http://global.chinadaily.com.cn/a/202610/01/WS6abd95c1e4b06d4aa056115d.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Xi: National rejuvenation is unstoppable - Chinadaily.com.cn"
+  },
+  "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/tramp-tvardi-che-si-nama-da-napadne-taivan-a-sast-vizdat-otlagane-na-voennite-planove": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Тръмп твърди, че Си няма да нападне Тайван, а САЩ виждат отлагане на военните планове - Свят - manager.bg"
+  },
+  "https://thesun.ng/president-xi-jinping-attends-reception-marking-77th-anniversary-of-founding-of-peoples-republic-of-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "President Xi Jinping attends reception marking 77th anniversary of founding of People's Republic of China"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/02/2003865232": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "EDITORIAL: A meeting of contradictions - Taipei Times"
+  },
+  "https://www.dw.com/id/as-yakin-cina-belum-akan-invasi-taiwan-sebelum-2028/a-79498378": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "AS Yakin Cina Belum Akan Menginvasi Taiwan Sebelum 2028"
+  },
+  "https://www.thenews.com.pk/latest/1418304-us-assesses-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US assesses Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say"
+  },
+  "https://www.antena3.ro/externe/cand-ar-putea-china-sa-atace-taiwanul-oficialii-americani-spun-ca-2027-nu-mai-e-cel-mai-probabil-scenariu-805334.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Când ar putea China să atace Taiwanul: Oficialii americani spun că 2027 nu mai e cel mai probabil scenariu  | Antena 3 CNN"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=05825286645608656&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "“대만, 미·중 정상회담 협상 카드 전락…침묵 길어지면 그 자체가 정책”"
+  },
+  "https://www.federalna.ba/americki-izvori-o-mogucoj-kineskoj-invaziji-na-tajvan-akcija-sljedece-godine-malo-vjerovatna-evbrw": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Američki izvori o mogućoj kineskoj invaziji na Tajvan: Akcija sljedeće godine malo vjerovatna"
+  },
+  "http://www.econotimes.com/US-Officials-See-China-Taiwan-Invasion-Before-2028-as-Less-Likely-1753624": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US Officials See China Taiwan Invasion Before 2028 as Less Likely | EconoTimes"
+  },
+  "http://arabic.peopledaily.com.cn/n3/2026/1001/c31664-20505473.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 2,
+   "title": "ÙØªØ­Ø¯Ø«Ø© Ø¨Ø§Ø³Ù Ø§ÙØ¨Ø± Ø§ÙØ±Ø¦ÙØ³Ù: Ø§ÙÙØ¹Ø§Ø±Ø¶Ø© Ø§ÙØ­Ø§Ø²ÙØ© ÙÙØ§ ÙØ³ÙÙ \"Ø§Ø³ØªÙÙØ§Ù ØªØ§ÙÙØ§Ù\" ØªØ®Ø¯Ù Ø§ÙÙØµØ§ÙØ­ Ø§ÙÙØ´ØªØ±ÙØ© ÙÙØµÙÙ ÙØ§ÙÙÙØ§ÙØ§Øª Ø§ÙÙØªØ­Ø¯Ø©"
+  },
+  "https://www.tanea.gr/2026/10/01/world/reuters-oi-ipa-ektimoun-oti-apomakrynetai-to-endexomeno-kinezikis-eisvolis-stin-taivan-prin-apo-to-2028/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Reuters: Οι ΗΠΑ εκτιμούν ότι απομακρύνεται το ενδεχόμενο κινεζικής εισβολής στην Ταϊβάν πριν από το 2028"
+  },
+  "https://thediplomat.com/2026/10/taiwan-cant-fight-beijings-history-war-while-erasing-its-own-roc-legacy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Can’t Fight Beijing’s History War While Erasing Its Own ROC Legacy – The Diplomat"
+  },
+  "https://www.businesstimes.com.sg/companies-markets/tsmc-mulls-multibillion-dollar-texas-campus-more-ai-chips": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "TSMC mulls multibillion-dollar Texas campus for more AI chips - The Business Times"
+  },
+  "https://focustaiwan.tw/society/202610010006": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Man indicted for running unregistered office for Chinese chip firm - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/02/2003865233": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Beijing only needs the US’ silence - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/01/2003865218": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Man indicted for running unregistered office for Chinese chip firm - Taipei Times"
+  },
+  "https://www.jpost.com/international/article-910259": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US officials deem Chinese invasion of Taiwan unlikely before 2028, sources say | The Jerusalem Post"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/03/2003865328": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Drones cannot replace jets in warfare, expert says - Taipei Times"
+  },
+  "https://www.obozrevatel.com/section-novosti-mir/news-u-ssha-otsinyly-chy-pide-kytay-na-vtorhnennya-na-tayvan-u-2027-rotsi-01-10-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "В США оценили, пойдет ли Китай на вторжение на Тайвань в 2027 году — прогноз | OBOZ.UA"
+  },
+  "https://www.ibtimes.com/china-may-not-ready-invade-taiwan-next-year-despite-historical-vow-us-assessment-3808117": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China May Not Be Ready to Invade Taiwan Next Year Despite Historical Vow: US Assessment | IBTimes"
+  },
+  "https://hotair.com/david-strom/2026/10/01/chances-of-chinese-attack-on-taiwan-in-the-near-term-seem-to-be-diminishing-n3819521": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing – HotAir"
+  },
+  "https://www.greanvillepost.com/the-western-colonization-of-the-mind/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Western Colonization of the Mind – The Greanville Post"
+  },
+  "https://www.straitstimes.com/asia/us-sees-chinese-invasion-of-taiwan-unlikely-next-year-despite-2027-timeline-sources-say": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "US sees Chinese invasion of Taiwan as unlikely before 2028 | The Straits Times"
+  },
+  "https://www.ntvbd.com/world/news-1812569": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "তাইওয়ানের সঙ্গে পুনঃএকত্রীকরণের প্রচেষ্টা এগিয়ে নেওয়ার আহ্বান শি’র | NTV Online"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/01/2003865219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Government aims to deliver cash handouts by Lunar New Year - Taipei Times"
+  },
+  "https://www.independent.co.ug/xi-calls-for-firm-confidence-solid-steps-for-chinas-national-rejuvenation/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi calls for firm confidence, solid steps for China's national rejuvenation"
+  },
+  "https://www.zerohedge.com/markets/taiwan-plans-930-million-sea-drone-buildout-china-expands-maritime-pressure": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan Plans $930 Million Sea Drone Buildout As China Expands Maritime Pressure<!-- --> | ZeroHedge"
+  },
+  "https://www.manilatimes.net/2026/10/01/tmt-newswire/pr-newswire/gmi-cloud-raises-over-660-million-to-accelerate-global-ai-infrastructure-expansion/2436738": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "GMI Cloud Raises Over $660 Million to Accelerate Global AI Infrastructure Expansion\n\n | The Manila Times"
+  },
+  "https://www.fool.com/coverage/better-buy/2026/09/30/applied-materials-vs-taiwan-semiconductor-manufacturing-which-tech-stock-is-a-better-buy-in-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy in 2026? | The Motley Fool"
+  },
+  "https://www.livemint.com/ai/in-ai-race-software-is-now-winning-alongside-chips-11790815570554.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "In AI race, software is now winning alongside chips | Mint"
+  },
+  "https://www.unian.net/world/budet-li-vtorzhenie-kitaya-na-tayvan-v-2027-godu-chto-govoryat-v-ssha-13515852.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Будет ли вторжение Китая на Тайвань в 2027 году: что говорят в США"
+  },
+  "https://www.unian.ua/world/chi-bude-vtorgnennya-kitayu-na-tayvan-u-2027-roci-shcho-kazhut-u-ssha-13515855.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Чи буде вторгнення Китаю на Тайвань у 2027 році: що кажуть у США"
+  }
+ }
+}

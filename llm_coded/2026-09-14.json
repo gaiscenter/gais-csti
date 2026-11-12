@@ -1,0 +1,256 @@
+{
+ "date": "2026-09-14",
+ "generated_at": "2026-11-12T10:08:48",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 38,
+ "n_articles": 30,
+ "n_no_text": 8,
+ "n_coded": 27,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 3,
+ "missing": [
+  "https://www.globaltimes.cn/page/202609/1370496.shtml",
+  "https://aninews.in/news/world/asia/taiwan-warns-of-security-risks-for-citizens-traveling-to-china-under-new-entry-exit-rules20260914171922/",
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/14/2003864251"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/feat/archives/2026/09/15/2003864276": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Donovan’s Deep Dives: Taiwan’s territorial claims: A map no administration is willing to redraw - Taipei Times"
+  },
+  "https://foreignpolicy.com/2026/09/14/trump-xi-summit-deal-taiwan-strategic-ambiguity-defense-alliance-geopolitics/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 8,
+   "title": "To Strike a Deal With Xi, Trump Is Killing 'Strategic Ambiguity' Over Taiwan"
+  },
+  "https://www.gujaratsamachar.com/news/international/explainer-why-is-china-looking-for-gold-3174-tons-of-gold-extracted-from-land-and-sea-in-one-year-22660769276": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Explainer:ચીન કેમ શોધી રહ્યું છે સોનું? એક વર્ષમાં જમીન અને સમુદ્રમાંથી કાઢ્યું 3,174 ટન ગોલ્ડ | Gujarat Samachar"
+  },
+  "https://news.webindia123.com/news/Articles/World/20260914/4498595.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan warns of security risks for citizens traveling to China under new entry, exit rules"
+  },
+  "https://www.ibtimes.co.uk/china-revises-defence-law-civilian-mobilisation-1819650": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China's New Mobilisation Law Could Extend State Control Over Civilians and Private Property | IBTimes UK"
+  },
+  "https://asianews.network/beijing-protests-over-taiwanese-separatists-visit-to-italy-eu/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Beijing protests over Taiwanese ‘separatist’s’ visit to Italy, EU – Asia News Network"
+  },
+  "https://www.prabhasakshi.com/international/what-threat-did-jinping-issue-to-trump-immediately-upon-returning-from-brics": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "what threat did jinping issue to trump immediately upon returning from brics - Prabhasakshi"
+  },
+  "https://www.yahoo.com/news/articles/chinese-defence-forum-set-open-000224691.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 6,
+   "title": "Chinese defence forum set to open amid roiling regional tensions"
+  },
+  "https://focustaiwan.tw:443/society/202609140005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://ianslive.in/chinas-assertive-maritime-activities-around-taiwan-could-create-conditions-for-annexation-report--20260914161823": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "China's assertive maritime activities around Taiwan could create conditions for annexation: Report"
+  },
+  "https://www.breitbart.com/asia/2026/09/14/china-tells-panama-to-uphold-one-china-principle-after-lawmakers-form-friendship-group-with-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China Tells Panama to 'Uphold One China Principle' After Lawmakers Form Friendship Group with Taiwan"
+  },
+  "https://www.standardmedia.co.ke/health/health-science/article/2001557757/silverstein-decorated-cardiologist-who-shaped-kenyas-heart-care-dies": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Silverstein: Decorated cardiologist who shaped Kenya's heart care dies - The Standard Health"
+  },
+  "https://www.longislandpress.com/2026/09/14/taste-of-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Syosset gets a taste of Taiwan at education center event"
+  },
+  "https://www.wsws.org/en/articles/2026/09/14/vadh-s14.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Solomon Islands embroiled in ongoing tensions over China - World Socialist Web Site"
+  },
+  "https://www.koreaherald.com/article/10872547": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Chinese forum to open amid regional tensions - The Korea Herald"
+  },
+  "https://www.travelextra.ie/taipei-issues-fresh-travel-warnings-for-china-over-border-changes/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taipei issues fresh travel warnings for China over border changes"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5573943": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》 SkyGuardian drones bought from US tested, source says - 焦點 - 自由時報電子報"
+  },
+  "http://www.bjreview.com.cn/Latest_Headlines/202609/t20260914_800446594.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi, Modi conduct in-depth exchange of views, agree China, India should be partners-- Beijing Review"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864279": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "SkyGuardian drones bought from US tested, source says - Taipei Times"
+  },
+  "https://focustaiwan.tw/politics/202609140020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "KMT lawmakers meet San Francisco officials on U.S. trip - Focus Taiwan"
+  },
+  "https://focustaiwan.tw:443/politics/202609140020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "KMT lawmakers meet San Francisco officials on U.S. trip - Focus Taiwan"
+  },
+  "https://www.asiaone.com/china/chinese-defence-forum-set-open-amid-roiling-regional-tensions": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinese defence forum set to open amid roiling regional tensions, China News - AsiaOne"
+  },
+  "https://www.asiaone.com/money/trump-says-taiwan-agrees-buy-30-cent-gas-alaska-pipeline": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump says Taiwan agrees to buy 30% of gas from Alaska pipeline, Money News - AsiaOne"
+  },
+  "https://forbes.com.mx/asi-usaron-claude-para-desarrollo-de-armas-espionaje-y-operaciones-ciberneticas-segun-anthropic/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Así usaron Claude para desarrollo de armas, espionaje y operaciones cibernéticas, según Anthropic"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864281": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump ‘not worried’ about Xi calling off summit - Taipei Times"
+  },
+  "https://observador.pt/programas/explicador/parlamento-deve-legislar-sobre-riscos-da-ia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Parlamento deve legislar sobre riscos da IA? – Observador"
+  },
+  "https://tn.com.ar/campo/2026/09/14/la-soja-tuvo-un-arranque-positivo-de-la-semana-a-que-precio-se-negocio-en-chicago-y-en-rosario/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "La soja tuvo un arranque positivo de la semana: a qué precio se negoció en Chicago y en Rosario   | TN"
+  }
+ }
+}

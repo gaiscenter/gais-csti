@@ -1,0 +1,367 @@
+{
+ "date": "2026-08-14",
+ "generated_at": "2026-11-12T10:01:25",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 44,
+ "n_articles": 37,
+ "n_no_text": 7,
+ "n_coded": 36,
+ "n_relevant": 19,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.rappler.com/philippines/marcos-no-attack-from-taiwan-war-scenario/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detects nine PLA aircraft, 12 PLAN vessels, two official ships around its territory"
+  },
+  "https://breakingdefense.com/2026/08/america-is-sailing-through-the-taiwan-strait-less-does-it-matter/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "America is sailing through the Taiwan Strait less. Does it matter? - Breaking Defense"
+  },
+  "https://thediplomat.com/2026/08/indonesia-is-the-latest-country-to-validate-chinas-claim-to-taiwan-unwittingly-or-not/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Indonesia Is the Latest Country to Validate China’s Claim to Taiwan – Unwittingly or Not – The Diplomat"
+  },
+  "https://thediplomat.com/2026/08/taiwan-wants-to-know-why-indonesia-joined-china-in-a-naval-exercise-east-of-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan Wants to Know Why Indonesia Joined China in a Naval Exercise East of Taiwan – The Diplomat"
+  },
+  "https://www.crookwellgazette.com.au/story/9330732/china-calls-taiwan-military-drills-a-wasteful-charade/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China calls Taiwan military drills a 'wasteful charade' | Crookwell Gazette | Crookwell, NSW"
+  },
+  "http://www.prnewswire.com/news-releases/minimax-to-report-2026-interim-financial-results-on-august-26-2026-302851740.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "MiniMax to Report 2026 Interim Financial Results on August 26, 2026"
+  },
+  "https://focustaiwan.tw/politics/202608140008": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan Navy, Coast Guard hold first joint anti-blockade drill - Focus Taiwan"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/08/14/taiwan-says-us-training-coast-guard-as-china-ramps-up-patrols": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan says US training coast guard as China ramps up patrols | FMT"
+  },
+  "https://asianews.network/taiwan-throttles-mobile-internet-speeds-in-defence-drill/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan throttles mobile internet speeds in defence drill – Asia News Network"
+  },
+  "https://www.moneycontrol.com/news/business/the-next-chapter-in-india-s-china-plus-one-story-may-be-taiwan-14005837.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 11,
+   "title": "The next chapter in India’s China-plus-one story may be Taiwan"
+  },
+  "https://www.manilatimes.net/2026/08/15/world/asia-oceania/us-training-taiwans-coast-guard-amid-china-patrols/2405741": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "US training Taiwan’s coast guard amid China patrols | The Manila Times"
+  },
+  "https://focustaiwan.tw:443/politics/202608140027": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan concludes 10-day Han Kuang military drills - Focus Taiwan"
+  },
+  "https://fakti.bg/world/1074381-kitai-nareche-voennite-uchenia-na-taivan-raztochitelen-fars": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Китай нарече военните учения на Тайван „разточителен фарс“ ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
+  },
+  "http://www.shanghainews.net/news/279240580/taiwan-detects-nine-pla-aircraft-12-plan-vessels-two-official-ships-around-its-territory": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detects nine PLA aircraft, 12 PLAN vessels, two official ships around its territory"
+  },
+  "https://www.chinatechnews.com/2026/08/14/127344-china-calls-taiwans-han-kuang-military-drills-a-charade": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China calls Taiwan’s Han Kuang military drills a 'charade' - ChinaTechNews.com"
+  },
+  "https://whbl.com/2026/08/14/china-calls-taiwans-annual-military-drills-a-wasteful-charade/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China calls Taiwan’s annual military drills a ‘wasteful charade’ | 1330 & 101.5 WHBL"
+  },
+  "https://news.bg/int-politics/kitay-zakleymi-kato-raztochitelen-fars-voennite-ucheniya-na-tayvan.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Китай заклейми като \"разточителен фарс\" военните учения на Тайван - News.bg"
+  },
+  "https://english.news.cn/20260814/82cb648750604efdb182bc8cbe1e8ef5/c.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan's DPP authorities spread panic via war drills: mainland spokesperson-Xinhua"
+  },
+  "https://aninews.in/news/world/asia/taiwan-detects-nine-pla-aircraft-12-plan-vessels-two-official-ships-around-its-territory20260814070101/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detects nine PLA aircraft, 12 PLAN vessels, two official ships around its territory"
+  },
+  "https://www.armstrongeconomics.com/world-news/war/chinese-v-american-views-on-war-with-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Chinese V American Views On WAR With Taiwan | Armstrong Economics"
+  },
+  "http://eng.chinamil.com.cn/2025xb/V_251452/16479446.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan's DPP authorities spread panic via war drills: mainland spokesperson - China Military"
+  },
+  "https://www.theadvocate.com.au/story/9330732/china-calls-taiwan-military-drills-a-wasteful-charade/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China calls Taiwan military drills a 'wasteful charade' | The Advocate | Burnie, TAS"
+  },
+  "https://vesti.az/v-mire/kitai-nazval-voennye-uceniya-taivanya-dorogostoyashhim-spektaklem-610194": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Китай назвал военные учения Тайваня «дорогостоящим спектаклем»"
+  },
+  "https://www.perthnow.com.au/news/conflict/china-calls-taiwan-military-drills-a-wasteful-charade-c-22726355": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China calls Taiwan military drills a 'wasteful charade' | PerthNow"
+  },
+  "https://focustaiwan.tw/society/202608140020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Most Taiwan tourists unaffected by torrential rain in Japan's Chiba - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/08/15/2003862521": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Donovan’s Deep Dives: KMT eyes southern upsets as the DPP struggles to keep its house in order - Taipei Times"
+  },
+  "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom"
+  },
+  "https://www.theepochtimes.com/china/ccp-prepares-various-counter-us-strategies-ahead-of-xis-visit-including-trip-cancellation-insiders-say-6075355": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "CCP Prepares Various Counter-US Strategies Ahead of Xi’s Visit, Including Trip Cancellation, Insiders Say | The Epoch Times"
+  },
+  "https://www.aljazeera.com/news/2026/8/14/taiwans-white-wolf-leads-lonely-crusade-to-reunify-with-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan’s ‘White Wolf’ leads lonely crusade to ‘reunify’ with China | Politics News | Al Jazeera"
+  },
+  "https://www.chinatechnews.com/2026/08/14/127342-china-criticizes-taiwan-war-games-as-military-tensions-rise": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China Criticizes Taiwan War Games as Military Tensions Rise - ChinaTechNews.com"
+  },
+  "https://www.dgabc.com.br/Noticia/4341216/china-diz-que-japao-nao-aprendeu-com-segunda-guerra-e-alerta-para-perigo-do-neomilitarismo-": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "China diz que Japão 'não aprendeu' com Segunda Guerra e alerta para perigo do 'neomilitarismo' - 14/08/2026 | Diário do Grande ABC"
+  },
+  "https://www.jawapos.com/internasional/2608140273/taiwan-deteksi-serangan-siber-abnormal-berbasis-ai-85-akun-pemerintah-dibobol": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Deteksi Serangan Siber 'Abnormal' Berbasis AI, 85 Akun Pemerintah Dibobol"
+  },
+  "https://www.tekniikkatalous.fi/uutiset/a/a7cf1ac8-9c91-4c74-a496-63c371320ad1": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Kohteena energialaitokset ja ydinturvallisuus: Hakkerit onnistuivat ennennÃ¤kemÃ¤ttÃ¶mÃ¤ssÃ¤ kyberiskussa | Tekniikka&Talous"
+  },
+  "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-talktalk-business-micron-semtech-56084/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "What’s up with… TalkTalk Business, Micron, Semtech, Digital Platforms and Services | TelecomTV"
+  },
+  "https://www.theepochtimes.com/opinion/chinas-new-ethnic-unity-law-is-another-weapon-against-critics-abroad-6073525": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s New Ethnic Unity Law Is Another Weapon Against Critics Abroad | The Epoch Times"
+  },
+  "https://tribune.com.pk/story/2625052/china-indonesia-ministers-meet-to-discuss-security-and-economic-issues": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China, Indonesia ministers meet to discuss security and economic issues"
+  }
+ }
+}

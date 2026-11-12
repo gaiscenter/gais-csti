@@ -1,0 +1,333 @@
+{
+ "date": "2026-08-21",
+ "generated_at": "2026-11-12T10:03:19",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 49,
+ "n_articles": 43,
+ "n_no_text": 6,
+ "n_coded": 41,
+ "n_relevant": 5,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.marinelink.com/news/taiwan-plans-record-high-defense-spending-542312",
+  "https://formiche.net/2026/08/taipei-prepara-il-piu-grande-bilancio-militare-della-sua-storia-ecco-perche/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://travel.kapook.com/view303148.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "เที่ยวไต้หวัน สัมผัสธรรมชาติงดงาม แบบสโลว์ไลฟ์ ณ เทศกาลบอลลูนนานาชาติไต้หวัน 2026"
+  },
+  "https://worldtribune.com/afghan-aftershocks-5-years-after-kabuls-collapse-100-decrees-target-women-and-girls/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Afghan aftershocks 5 years after Kabul’s collapse; 100 decrees target women and girls – World Tribune: U.S. Politics and Culture, Geostrategy, China, North Korea, Corporate Watch, Media Watch"
+  },
+  "https://dnes.dir.bg/na-fokus/smut-sred-sayuznitsite-na-sasht-dokolko-vashington-e-v-sastoyanie-da-nalaga-svetovniya-red": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Смут сред съюзниците на САЩ. Доколко Вашингтон е в състояние да налага световния ред? | dnes.dir.bg"
+  },
+  "https://www.butlereagle.com/20260821/ap-reporter-christopher-bodeen-a-tenacious-chronicler-of-chinas-rise-dies-at-55/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "AP reporter Christopher Bodeen, a tenacious chronicler of China’s rise, dies at 55 – Butler Eagle"
+  },
+  "https://www.euronews.com/culture/2026/08/21/why-is-the-gwangju-biennale-refusing-to-call-taiwans-pavilion-the-taiwan-pavilion": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Why is the Gwangju Biennale refusing to call Taiwan’s pavilion the 'Taiwan Pavilion'? | Euronews"
+  },
+  "https://fr.euronews.com/culture/2026/08/21/pourquoi-la-biennale-de-gwangju-refuse-dappeler-le-pavillon-taiwanais-taiwan-pavilion": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Pourquoi la Biennale de Gwangju refuse d'appeler le pavillon taïwanais \"Taiwan Pavilion\" ? | Euronews"
+  },
+  "https://pina.com.fj/2026/08/21/china-likely-ran-targeted-campaign-to-align-pacific-with-its-latest-five-year-plan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China ‘likely’ ran targeted campaign to align Pacific with its latest five-year plan | PINA"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/21/2003862897": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "KMT urges larger cash handout of up to NT$30,000\r\n - Taipei Times"
+  },
+  "https://www.businessinsider.com/apache-black-hawk-drill-taiwan-impact-ukraine-drone-war-2026-8": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Apache, Black Hawk Drill in Taiwan Shows Impact of Ukraine's Drone War - Business Insider"
+  },
+  "https://warontherocks.com/a-rock-and-chinas-three-sea-problem/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "A Rock and China’s Three-Sea Problem"
+  },
+  "https://neweasterneurope.eu/2026/08/21/lithuania-wants-to-normalize-ties-with-china-does-that-mean-divorcing-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lithuania wants to normalize ties with China. Does that mean divorcing Taiwan? - New Eastern Europe"
+  },
+  "https://ru.euronews.com/culture/2026/08/21/why-is-the-gwangju-biennale-refusing-to-call-taiwans-pavilion-the-taiwan-pavilion": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Почему биеннале Кванджу отказывается называть павильон Тайваня «Павильоном Тайваня» | Евронью́с"
+  },
+  "https://www.investmentwatchblog.com/why-china-might-skip-an-invasion-just-buy-taiwan-instead/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Why China might skip an invasion & just buy Taiwan instead - Investment Watch Blog"
+  },
+  "https://www.nbcsvg.com/2026/08/20/government-actively-seeking-solutions-to-manage-svgs-debt-burden/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Government actively seeking solutions to manage SVG’s debt burden – NBC Radio SVG"
+  },
+  "https://english.ckgsb.edu.cn/knowledge/article/wg-tech-jiangxi-technological-innovation-and-strategic-transformation-of-a-small-giant/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "WG Tech JiangXi: Technological Innovation and Strategic Transformation of a Small Giant  - CKGSB Knowledge"
+  },
+  "https://www.straitstimes.com/asia/se-asia/anwars-taiwan-remarks-stir-debate-over-malaysias-one-china-policy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Anwar’s Taiwan remarks put Malaysia’s One China policy under scrutiny | The Straits Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864627": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Buyers snap up fruit after farmer refuses China sales - Taipei Times"
+  },
+  "https://whbl.com/2026/08/21/taiwan-warns-off-shadows-chinese-research-ship-sailing-to-its-west/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan warns off, shadows Chinese research ship sailing to its west | 1330 & 101.5 WHBL"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/21/hong-kong-convicts-tiananmen-vigil-activists-of-inciting-subversion": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Hong Kong convicts Tiananmen vigil activists of inciting subversion | The Star"
+  },
+  "https://www.manilatimes.net/2026/08/22/world/asia-oceania/hong-kong-court-convicts-tiananmen-vigil-activists/2409999": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Hong Kong court convicts Tiananmen vigil activists | The Manila Times"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/china-indonesia-ministers-meet-to-discuss-security-defence-and-economic-ties/articleshow/133393449.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China, Indonesia ministers meet to discuss security, defence and economic ties - The Economic Times"
+  },
+  "https://www.zdnet.com/article/ai-deepfakes-passwords-defense/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A low-tech solution from the past may be your best defense against AI deepfakes - ZDNET"
+  },
+  "https://laseyne.maville.com/actu/actudet_-militants-prodemocratie-juges-a-hong-kong-taiwan-appelle-la-chine-a-cesser-les-persecutions-politiques_fil-7446848_actu.Htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Militants prodémocratie jugés à Hong Kong : Taïwan appelle la Chine à « cesser les persécutions politiques » - La Seyne.maville.com"
+  },
+  "https://laverdadnoticias.com/ultimas-noticias/mundo/taiwan-detecta-un-buque-chino": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwán detecta un buque chino cerca de una zona naval estratégica"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5580615": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "《TAIPEI TIMES》 Buyers snap up fruit after farmer refuses China sales - 焦點 - 自由時報電子報"
+  },
+  "https://us.cnn.com/2026/08/21/politics/donald-trump-south-carolina-republicans": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "South Carolina Republicans split over Darline Graham’s ‘eyebrow-raising’ debate performance | CNN Politics"
+  },
+  "https://koran-jakarta.com/2026-08-22/khasiat-jeruk-dari-redakan-pilek-hingga-cerahkan-kulit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Khasiat Jeruk dari Redakan Pilek hingga Cerahkan Kulit"
+  },
+  "https://www.ocregister.com/2026/08/21/real-estate-news-corona-del-mar-retail-center-trades-hands-a-first-in-80-years/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Real estate news: Corona del Mar retail center trades hands, a first in 80 years – Orange County Register"
+  },
+  "https://itwire.com/your-it-news/home-it/chatgpt-now-guesses-your-age-and-australian-under-18s-get-the-restricted-version-by-8-september": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "ChatGPT now guesses your age, and Australian under-18s get the restricted version by 8 September | iTWire"
+  },
+  "https://www.infobae.com/america/mundo/2026/08/21/taiwan-denuncio-la-incursion-de-un-buque-de-investigacion-chino-al-suroeste-de-la-isla/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Taiwán denunció la incursión de un buque de investigación chino al suroeste de la isla - Infobae"
+  },
+  "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Hong Kong convicts Tiananmen vigil leaders"
+  },
+  "https://pt.euronews.com/cultura/2026/08/21/taiwan-bienal-de-gwangju-recusa-chamar-pavilhao-pavilhao-de-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan: Bienal de Gwangju recusa chamar pavilhão “Pavilhão de Taiwan” | Euronews"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/22/2003862937": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Tax exemption amendment passes third reading - Taipei Times"
+  },
+  "https://jp.ibtimes.com/fujifilm-triples-oita-post-cmp-cleaner-capacity-ai-chips-103920": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Fujifilm triples Oita post-CMP cleaner capacity for AI chips | IBTimes JP"
+  },
+  "https://www.morningjournal.com/2026/08/21/s-e-cupp-has-donald-trump-lost-his-golden-touch/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "S.E. Cupp: Has Donald Trump lost his golden touch? – Morning Journal"
+  },
+  "https://www.tomshardware.com/tech-industry/micron-commits-usd10-billion-to-new-us-based-research-labs-boise-hub-to-target-post-dram-and-nand-technologies-and-packaging": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Micron commits $10 billion to new US-based Research Labs — Boise hub to target post-DRAM and NAND technologies and packaging | Tom's Hardware"
+  },
+  "https://www.yahoo.com/news/politics/articles/sanford-backs-norman-over-graham-170827963.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Sanford backs Norman over Graham in South Carolina Senate runoff: ‘Stakes are simply too high’"
+  },
+  "https://www.infobae.com/america/mundo/2026/08/21/por-que-taiwan-y-el-mar-de-china-meridional-son-importantes-para-estados-unidos-y-el-mundo/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Por qué Taiwán y el Mar de China Meridional son importantes para Estados Unidos y el mundo - Infobae"
+  },
+  "https://www.theregister.com/legal/2026/08/21/supermicro-fired-staff-after-probe-into-25-billion-gpus-to-china-smuggling-operation/5290791": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation"
+  },
+  "https://www.nbcnews.com/politics/politics-news/live-blog/trump-darline-graham-south-carolina-live-updates-rcna593631": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Live updates: Trump stumps for Darline Graham in South Carolina ahead of next weekâs runoff"
+  },
+  "https://www.cross.bg/trump-amerika-kitaii-1804254.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Съединените щати: Ерата на един грохнал и уязвим хегемон - Cross.bg"
+  }
+ }
+}

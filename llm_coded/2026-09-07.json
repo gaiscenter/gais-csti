@@ -1,0 +1,147 @@
+{
+ "date": "2026-09-07",
+ "generated_at": "2026-11-12T10:07:19",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 21,
+ "n_articles": 20,
+ "n_no_text": 1,
+ "n_coded": 18,
+ "n_relevant": 0,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.techradar.com/pro/taiwan-is-cracking-down-on-tech-companies-hiding-their-illegal-chinese-ownership",
+  "https://www.mk.ru/politics/2026/09/07/kitay-prigrozil-tayvanyu-posledstviyami-posle-poyavleniya-ego-predstaviteley-na-mezhdunarodnom-sammite.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.vanguardngr.com/2026/09/solomon-islands-pm-survives-ouster-bid-parliament-adjourned/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Solomon Islands PM survives ouster bid, parliament adjourned - Vanguard News"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5566302": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》Lai eyes closer Japan ties in Kanagawa meeting - 焦點 - 自由時報電子報"
+  },
+  "https://thedailyblog.co.nz/pacific-forum-trouble-in-paradise/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Pacific Forum – trouble in paradise – The Daily Blog"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/07/2003863837": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Supreme Court finalizes prison terms for China junket trip - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5566312": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 3,
+   "title": "《TAIPEI TIMES》China security laws spell travel risks - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/08/2003863863": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China security laws spell travel risks - Taipei Times"
+  },
+  "https://www.ibtimes.com/rogue-ai-agents-are-democratizing-cyberattacks-heres-how-3807201": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Rogue AI Agents Are Democratizing Cyberattacks. Here's How. | IBTimes"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=03201286645577824&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "美·EU “반도체 더 지어라”…대만, 해외 투자 확대"
+  },
+  "https://www.kpbs.org/news/international/2026/09/07/as-nepal-identifies-those-killed-in-the-floods-questions-grow-over-chinas-reporting": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting | KPBS Public Media"
+  },
+  "https://www.riotimesonline.com/asia-intelligence-brief-monday-september-7-2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Asia Intelligence Brief — Monday, September 7, 2026 | The Rio Times"
+  },
+  "https://economictimes.indiatimes.com/tech/artificial-intelligence/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies/articleshow/133860775.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan chip diplomacy: Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies - The Economic Times"
+  },
+  "https://www.freemalaysiatoday.com/category/business/2026/09/07/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies | FMT"
+  },
+  "https://www.fnnews.com/news/202609071720030344": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "中, 일본산 반도체용 화학물질 디클로로실란에 임시 반덤핑 판정 - 파이낸셜뉴스"
+  },
+  "https://news.wjct.org/national-news/2026-09-07/as-nepal-identifies-those-killed-in-the-floods-questions-grow-over-chinas-reporting": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting | WJCT News 89.9"
+  },
+  "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies"
+  },
+  "https://www.asiaone.com/asia/taiwan-flexes-chip-diplomacy-muscles-it-faces-pressure-share-ai-wealth-allies": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies, Asia News - AsiaOne"
+  },
+  "https://bworldonline.com/world/2026/09/07/775095/taiwan-flexes-chip-diplomacy-muscles-as-it-faces-pressure-to-share-ai-wealth-with-allies/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies - BusinessWorld Online"
+  },
+  "https://www.emsnow.com/semicon-taiwan-2026-the-interconnect-bottleneck-takes-center-stage/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "SEMICON Taiwan 2026: The Interconnect Bottleneck Takes Center Stage · EMSNow"
+  }
+ }
+}

@@ -1,0 +1,426 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-11-12T10:21:04",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 71,
+ "n_articles": 58,
+ "n_no_text": 13,
+ "n_coded": 49,
+ "n_relevant": 11,
+ "complete": false,
+ "n_missing": 9,
+ "missing": [
+  "https://economictimes.indiatimes.com/news/international/world-news/china-sanctions-paraguay-belize-ministers-over-taiwan-ties/articleshow/134882832.cms",
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties",
+  "https://timesofindia.indiatimes.com/world/china/china-sanctions-paraguay-belize-ministers-over-diplomatic-ties-with-taiwan/articleshow/134881749.cms",
+  "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties",
+  "https://www.dailymaverick.co.za/article/2026-10-12-china-sanctions-pawn-paraguay-belize-ministers-over-taiwan-ties/",
+  "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865857",
+  "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865858",
+  "https://www.theepochtimes.com/china/chinese-regime-targets-taiwans-allies-with-sanctions-against-officials-6102426",
+  "https://news.webindia123.com/news/Articles/World/20261012/4510033.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865879": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Official reaffirms drug prevention policy - Taipei Times"
+  },
+  "https://warontherocks.com/how-china-and-america-can-move-from-competition-to-stability/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "How China and America Can Move from Competition to Stability"
+  },
+  "https://www.trud.ru/article/12-10-2026/1844441_mid_knr_podverg_kritike_separatistskuju_ritoriku_glavy_tajvanja.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Труд: МИД КНР подверг критике сепаратистскую риторику главы Тайваня"
+  },
+  "https://www.hindustantimes.com/world-news/china-sanctions-paraguay-belize-ministers-over-diplomatic-ties-with-taiwan-beijing-freezes-assets-and-imposes-visa-bans-101791779894051.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China sanctions Paraguay, Belize ministers, freezes their assets over Taiwan ties; visa ban also imposed | World News"
+  },
+  "https://thelinkpaper.ca/china-sanctions-paraguay-belize-ministers-freezes-their-assets-over-taiwan-ties-visa-ban-also-imposed/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China sanctions Paraguay, Belize ministers, freezes their assets over Taiwan ties; visa ban also imposed - Link Newspaper"
+  },
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000021832&code=61131811&sid1=int": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "中, 대만 겨냥 또 ‘무력시위’⋯5개 해역서 동시다발 군사훈련 - 국민일보"
+  },
+  "https://tibet.net/representatives-of-geneva-attends-taiwans-national-day-celebration/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Office of Tibet in Geneva Attend Taiwan’s National Day Celebration – Central Tibetan Administration"
+  },
+  "https://sl.china-embassy.gov.cn/eng/fyrth/202610/t20261012_12038810.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Foreign Ministry Spokesperson Mao Ningâs Regular Press Conference on October 12, 2026"
+  },
+  "https://www.obozrevatel.com/section-belarus/news-rosiya-provede-cherhovi-viyskovi-navchannya-v-bilorusi-planuyut-zadiyaty-1500-viyskovykh-i-300-odynyts-tekhniky-12-10-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Нерушимое братство-2026 и Барьер-2026 — военные учения ОДКБ в Беларуси 12–16 октября | OBOZ.UA"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/10/12/taiwan-closely-monitors-series-of-chinese-live-fire-drills": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan closely monitors series of Chinese live-fire drills | FMT"
+  },
+  "http://en.people.cn/n3/2026/1012/c90000-20507199.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan leader's speech exposes him as threat to peace: mainland defense spokesperson - People's Daily Online"
+  },
+  "http://usa.chinadaily.com.cn/a/202610/12/WS6acc9b6ae4b06d4aa0562551.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China rejects US criticism of maritime activities east of Taiwan - Chinadaily.com.cn"
+  },
+  "https://focustaiwan.tw:443/society/202610120003": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://attackofthefanboy.com/news/sen-darline-graham-refuses-to-commit-to-a-second-debate-ahead-of-the-midterms-and-denies-dropping-nordone-from-her-name-for-political-benefit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Will Darline Graham Debate Annie Andrews Again Before the South Carolina Senate Election?"
+  },
+  "https://aninews.in/news/world/asia/taiwan-rejects-china8217s-claims-urges-end-to-hostile-rhetoric20261012165545/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan rejects China&#8217;s claims, urges end to hostile rhetoric"
+  },
+  "https://ianslive.in/chinas-alleged-spy-network-targets-taiwan-presidents-family-in-us-report--20261012205631": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China’s alleged spy network targets Taiwan President’s family in US: Report"
+  },
+  "https://redstate.com/terichristoph/2026/10/12/essayli-warns-that-chinese-espionage-is-extremely-pervasive-n2208047": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Essayli Sounds the Alarm on the Chicoms — and the Details Are Probably Worse Than You Think – RedState"
+  },
+  "https://whbl.com/2026/10/11/china-sanctions-paraguay-belize-ministers-over-taiwan-ties/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China sanctions ‘pawn’ Paraguay, Belize ministers over Taiwan ties | 1330 & 101.5 WHBL"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/13/2003865859": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US nonprofit designates Lala Mountain a dark sky site - Taipei Times"
+  },
+  "http://en.people.cn/n3/2026/1012/c90000-20507371.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "'Taiwan independence' fiasco: The DPP embarrasses itself in the Pacific - People's Daily Online"
+  },
+  "https://www.onlineopinion.com.au/view.asp?article=24200": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Russia, China, and the changing Eurasian balance - and what does it mean for Ukraine? - On Line Opinion - 13/10/2026"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/11/WS6acb3b96e4b06d4aa0562295.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Mainland experts say Taiwan leader's speech shows separatist agenda unchanged, undiminished - Chinadaily.com.cn"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/11/WS6acb9f4ee4b06d4aa05622fa.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Talks highlight deepening of cooperation - Chinadaily.com.cn"
+  },
+  "https://www.adndigital.com.py/lo-que-hizo-china-contra-ministro-de-mitic-es-injerencia-e-intimidacion-politica-segun-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Lo que hizo China contra ministro de Mitic es injerencia e intimidación política, según Taiwán - ADN Digital"
+  },
+  "https://www.liberianobserver.com/opinion/commentaries/the-same-questions-unity-party-asked-weah-must-now-be-answered-by-boakai/article_9d902d9c-6e14-4cef-a7f4-f4cb19d219a6.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "The Same Questions Unity Party Asked Weah Must Now Be Answered by Boakai | Commentaries | liberianobserver.com"
+  },
+  "https://www.michigancapitolconfidential.com/news/records-show-whitmers-eight-day-south-korea-taiwan-trip-cost-about-205k": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Records show Whitmer’s eight-day South Korea, Taiwan trip cost about $205K – Michigan Capitol Confidential"
+  },
+  "https://www.kten.com/news/business/nvidia-s-jensen-huang-believes-suffering-builds-character-the-spy-scandal-could-test-his-philosophy/article_6def03ba-5890-51b5-a2ee-63376b66ac1f.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work | Business | kten.com"
+  },
+  "http://arabic.peopledaily.com.cn/n3/2026/1012/c31664-20507182.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "ÙØªØ­Ø¯Ø« Ø¹Ø³ÙØ±Ù ØµÙÙÙ: Ø®Ø·Ø§Ø¨ Ø²Ø¹ÙÙ ØªØ§ÙÙØ§Ù ÙÙØ´ÙÙ Ø¨Ø§Ø¹ØªØ¨Ø§Ø±Ù ØªÙØ¯ÙØ¯Ø§Ù ÙÙØ³ÙØ§Ù"
+  },
+  "https://www.dailykos.com/stories/2026/10/11/800110953/community/overnight-news-digest-october-112026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Overnight News Digest October 11,2026 - Daily Kos"
+  },
+  "https://www.cosmopolitan.com/style-beauty/beauty/a74110665/best-autumn-lipstick-for-skin-tone/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Best Autumn Lip Colors for Every Skin Tone"
+  },
+  "https://asianews.network/china-and-eu-can-manage-trade-differences-through-dialogue-foreign-minister-wang-yi-says/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China and EU can manage trade differences through dialogue, Foreign Minister Wang Yi says – Asia News Network"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/12/2003865828": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "PLA drills this week far from Taiwan: Koo - Taipei Times"
+  },
+  "https://www.metroweekly.com/2026/10/taipei-gay-bar-raid-lgbtq-protest/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taipei Gay Bar Raid Sparks LGBTQ Protest - Metro Weekly"
+  },
+  "https://oglobo.globo.com/mundo/noticia/2026/10/12/china-impoe-sancoes-a-ministros-do-paraguai-e-de-belize-por-lacos-com-taiwan.ghtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China impõe sanções a ministros do Paraguai e de Belize por laços com Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865868": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan closely monitoring China drills - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5604146": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "《TAIPEI TIMES》 Six of new F-16s complete factory test - 焦點 - 自由時報電子報"
+  },
+  "http://arabic.people.com.cn/n3/2026/1012/c31664-20507182.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "ÙØªØ­Ø¯Ø« Ø¹Ø³ÙØ±Ù ØµÙÙÙ: Ø®Ø·Ø§Ø¨ Ø²Ø¹ÙÙ ØªØ§ÙÙØ§Ù ÙÙØ´ÙÙ Ø¨Ø§Ø¹ØªØ¨Ø§Ø±Ù ØªÙØ¯ÙØ¯Ø§Ù ÙÙØ³ÙØ§Ù"
+  },
+  "http://arabic.peopledaily.com.cn/n3/2026/1012/c31664-20507181.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Ø®Ø¨Ø±Ø§Ø¡ ÙÙ Ø§ÙØ¨Ø± Ø§ÙØ±Ø¦ÙØ³Ù Ø§ÙØµÙÙÙ: Ø®Ø·Ø§Ø¨ Ø²Ø¹ÙÙ ØªØ§ÙÙØ§Ù ÙØ¸ÙØ± Ø£Ù Ø§ÙØ£Ø¬ÙØ¯Ø© Ø§ÙØ§ÙÙØµØ§ÙÙØ© ÙÙ ØªØªØºÙØ± Ø£Ù ØªØªØ±Ø§Ø¬Ø¹"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5604149": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 Taiwan closely monitoring China drills - 焦點 - 自由時報電子報"
+  },
+  "https://laseyne.maville.com/actu/actudet_-taiwan-va-surveiller-de-pres-de-nouveaux-exercices-chinois-a-tirs-reels_fil-7524247_actu.Htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taïwan va « surveiller de près » de nouveaux exercices chinois à tirs réels - La Seyne.maville.com"
+  },
+  "https://www.greaterbelize.com/fonseca-belize-proud-to-stand-with-taiwan-after-china-sanctions/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Fonseca: Belize ‘Proud to Stand With Taiwan’ After China Sanctions | Greater Belize Media"
+  },
+  "https://www.digitimes.com/news/a20261008PD254/taiwan-exports-usa-growth-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan exports soar as shipments to the US top US$200 billion in first nine months"
+  },
+  "https://www.greaterbelize.com/belize-rejects-chinas-sanctions-on-fonseca/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Belize Rejects China’s Sanctions on Fonseca | Greater Belize Media"
+  },
+  "https://larepublica.pe/mundo/2026/10/12/china-sanciona-a-ministros-de-paraguay-y-belice-por-sus-vinculos-con-taiwan-y-lanza-una-advertencia-a-otros-paises-1044000": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China sanciona a ministros de Paraguay y Belice por sus vínculos con Taiwán y lanza una advertencia a otros países | Mundo | La República"
+  },
+  "https://focustaiwan.tw/politics/202610120022": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan condemns China over sanctions on ministers of diplomatic allies - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/14/2003865939": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Former president Tsai Ing-wen returns - Taipei Times"
+  },
+  "https://www.insight.co.kr/news/577352": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "선선한 가을바람 따라 떠나볼까... 10월에 가기 좋은 해외여행지 3곳"
+  },
+  "https://www.foxnews.com/politics/us-attorney-warns-chinese-espionage-extremely-pervasive-beijing-playing-long-game": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "DOJ prosecutor says Chinese espionage is 'extremely pervasive' in US | Fox News"
+  },
+  "https://thepointsguy.com/news/delta-alaska-airlines-turf-war-seattle/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Delta and Alaska's Seattle showdown not a 'battle,' CEO says - The Points Guy"
+  }
+ }
+}

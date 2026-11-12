@@ -1,0 +1,139 @@
+{
+ "date": "2026-10-24",
+ "generated_at": "2026-11-12T10:23:53",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 21,
+ "n_articles": 18,
+ "n_no_text": 3,
+ "n_coded": 17,
+ "n_relevant": 0,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://aninews.in/news/world/asia/china-accused-of-pressuring-families-of-taiwan-politicians-ahead-of-key-election20261024210023/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/22/beijing-hits-out-after-taipei-bans-mainland-travel-for-sun-yat-sen-anniversary": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Beijing hits out after Taipei bans mainland travel for Sun Yat-sen anniversary | The Star"
+  },
+  "http://usa.chinadaily.com.cn/a/202610/24/WS6adc15d8e4b06d4aa0564910.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Shared history binds Chinese people across the Strait - Chinadaily.com.cn"
+  },
+  "http://europe.chinadaily.com.cn/a/202610/24/WS6adc15d8e4b06d4aa0564910.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Shared history binds Chinese people across the Strait - Chinadaily.com.cn"
+  },
+  "https://inosmi.ru/20261024/ukraina-280801863.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Войны, восстания и новая \"Ялта\" (Hürriyet, Турция) | 24.10.2026, ИноСМИ"
+  },
+  "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China | Taiwan | The Guardian"
+  },
+  "https://iz.ru/2189451/dmitrii-boltenkov/podvodnaja-armija": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Подводная армия | Мнения | Известия"
+  },
+  "https://www.eurasiareview.com/24102026-chinas-sanctions-on-taiwan-allies-project-its-power-but-with-limited-effect-analysis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China’s Sanctions On Taiwan Allies Project Its Power, But With Limited Effect - Analysis - Eurasia Review"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/25/2003866584": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "WUFI calls for re-examination of Retrocession Day - Taipei Times"
+  },
+  "https://www.theadvocate.com/baton_rouge/opinion/letters-russia-china-trump/article_aab72f19-c51c-5bef-a1b8-fc1642db9023.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Letters: Trump aid to Russia and China harms U.S. interests | Opinion | theadvocate.com"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/10/26/2003866611": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "HK agents risk losing Taiwan status - Taipei Times"
+  },
+  "https://dailycaller.com/2026/10/24/japan-american-nukes-debate/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Japan Pushes Back On Nuclear Shift Speculation As Debate Over America’s Nukes Heats Up | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.thedailybeast.com/palmer-luckey-announces-new-startup-to-breed-genetically-enhanced-war-dogs": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Palmer Luckey Announces New Startup to Breed âGenetically Enhancedâ War Dogs"
+  },
+  "https://mynewsla.com/crime/2026/10/23/irvine-woman-charged-with-espionage-pleads-not-guilty-2/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Irvine Woman Pleads Not Guilty to Conspiracy, Espionage - MyNewsLA.com"
+  },
+  "https://www.gdnonline.com:443/Details/1410678": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "World News: Taiwan braces for Typhoon Champi"
+  },
+  "https://freerepublic.com/focus/f-chat/4400394/posts": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "America's Deadliest Day of WWII [17:32]"
+  },
+  "https://www.techradar.com/pro/nvidias-jensen-huang-says-a-forgotten-1950s-european-alliance-secretly-secured-taiwans-chip-empire-decades-later-an-island-hardly-bigger-than-maryland-dominates-90-of-the-advanced-chip-market": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "How a Dutch electronics giant helped set Taiwan on the path to semiconductor dominance decades before the AI boom | TechRadar"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/quad-confirmed-manila-envoy-signals-likely-squad-talks-before-trump-xi-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Quad confirmed, Manila envoy signals likely ‘Squad’ talks before Trump-Xi summit | The Star"
+  }
+ }
+}

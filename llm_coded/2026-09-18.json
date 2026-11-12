@@ -1,0 +1,197 @@
+{
+ "date": "2026-09-18",
+ "generated_at": "2026-11-12T10:09:51",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 28,
+ "n_articles": 22,
+ "n_no_text": 6,
+ "n_coded": 22,
+ "n_relevant": 5,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.thehindu.com/news/international/taiwan-holds-first-joint-drill-using-multiple-attack-drones-in-modernisation-push/article71479863.ece": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Taiwan holds first joint drill using multiple attack drones in modernisation push - The Hindu"
+  },
+  "https://warontherocks.com/why-eurasia-not-the-indo-pacific-matters-most-in-next-phase-of-taiwan-deterrence/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Why Eurasia, Not the Indo-Pacific, Matters Most in Next Phase of Taiwan Deterrence"
+  },
+  "https://www.breitbart.com/tech/2026/09/17/ai-fears-cloud-chinas-premier-annual-defense-conference/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "AI Fears Cloud China's Premier Annual Defense Conference"
+  },
+  "https://www.themarketsdaily.com/2026/09/18/promising-mid-cap-stocks-to-follow-today-september-18th.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Promising Mid Cap Stocks To Follow Today – September 18th - Markets Daily"
+  },
+  "http://www.washingtonexaminer.com/news/world/4731983/india-denies-xi-jinping-ill-brice-summit-online-rumors/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "India denies Xi Jinping fell ill at the BRICS summit in New Delhi"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/18/2003864500": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Chinese drone spotted monitoring Pingtung military exercise - Taipei Times"
+  },
+  "https://www.newsbomb.gr/kosmos/story/1764197/to-neo-yperoplo-tis-kinas-pou-allazei-tis-pagkosmies-isorropies-stis-thalasses": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Το νέο υπερόπλο της Κίνας που αλλάζει τις παγκόσμιες ισορροπίες στις θάλασσες - Newsbomb"
+  },
+  "https://www.electronicsweekly.com/news/business/dealing-in-ai-who-has-the-cards-2026-09/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Dealing in AI - who holds the cards? ⋆ Electronics Weekly"
+  },
+  "https://english.kyodonews.net:443/articles/-/85414": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 7,
+   "title": "U.S. allies fret over how Trump might play his Taiwan hand with Xi"
+  },
+  "https://en.antaranews.com/news/431833/2026-apec-international-seminar-on-ai-driven-design-innovation-kicks-off": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "2026 APEC International Seminar on AI-Driven Design Innovation Kicks Off - ANTARA News"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/what-will-trump-and-xi-discuss-in-washington-next-week/articleshow/134323737.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What will Trump and Xi discuss in Washington next week? - The Economic Times"
+  },
+  "https://bdnews24.com/world/fny8239j8d": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What will Trump and Xi discuss in Washington next week?"
+  },
+  "https://focustaiwan.tw:443/politics/202609180006": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "U.S. remains committed to first island chain deterrence: MAC official - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/20/2003864576": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Officials address challenge of election interference - Taipei Times"
+  },
+  "https://www.asiaone.com:443/world/what-will-trump-and-xi-discuss-washington-next-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "What will Trump and Xi discuss in Washington next week?, World News - AsiaOne"
+  },
+  "http://www.econotimes.com/US-Allies-Fear-Trump-Could-Soften-Taiwan-Stance-in-Xi-Talks-1752285": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "US Allies Fear Trump Could Soften Taiwan Stance in Xi Talks | EconoTimes"
+  },
+  "https://thelooker.thedailybeast.com/carolyn-murphy-53-stuns-with-sharon-stone-lookalike-cover-of-vogue-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Carolyn Murphy, 53, Stuns With Sharon Stone Lookalike Cover of Vogue Taiwan"
+  },
+  "https://hotnews.ro/analiza-reuters-ce-vor-discuta-trump-si-xi-la-washington-saptamana-viitoare-2352064": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Analiză Reuters: Ce vor discuta Trump şi Xi la Washington săptămâna viitoare? - HotNews.ro"
+  },
+  "https://www.mendocinobeacon.com/2026/09/18/taiwan-military-drills/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan holds first joint military drills using attack drones"
+  },
+  "https://www.winnipegfreepress.com/world/2026/09/18/taiwan-holds-first-joint-military-drills-using-attack-drones-ahead-of-trump-xi-summit-in-the-us": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US – Winnipeg Free Press"
+  },
+  "https://www.businessinsurance.com/florida-court-revives-taiwanese-companies-yacht-coverage-dispute/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Florida court revives Taiwanese companies’ yacht coverage dispute - Business Insurance"
+  },
+  "https://lajornadanet.com/portada/china-arremete-contra-el-embajador-de-ee-uu-en-panama-tras-sus-afirmaciones-por-la-polemica-sobre-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China arremete contra el embajador de EE.UU. en Panamá tras sus afirmaciones por la polémica sobre Taiwán"
+  }
+ }
+}

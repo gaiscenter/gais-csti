@@ -1,0 +1,130 @@
+{
+ "date": "2026-10-27",
+ "generated_at": "2026-11-12T10:24:23",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 19,
+ "n_articles": 16,
+ "n_no_text": 3,
+ "n_coded": 15,
+ "n_relevant": 1,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.suryaa.com/telugu-news/international/taivaan-vileena-vedukala-pradarshananu-teevrmgaa-tiraskarimchina-taipee"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.15min.lt/naujiena/aktualu/lietuva/prezidentas-siekio-atkurti-santykius-su-kinija-nereikia-sieti-su-taivanieciu-atstovybes-pavadinimu-56-2793122": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Prezidentas: siekio atkurti santykius su Kinija nereikia sieti su Taivaniečių atstovybės pavadinimu | 15min.lt"
+  },
+  "https://www.thespiritsbusiness.com/2026/10/golden-pearl-awards-selects-first-winner/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Golden Pearl Awards selects first winner - The Spirits Business"
+  },
+  "https://www.globaltimes.cn/page/202610/1373047.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 32,
+   "title": "African countries host photo exhibition marking Taiwan's restoration to China - Global Times"
+  },
+  "https://www.themarketsdaily.com/2026/10/27/best-mid-cap-stocks-to-follow-now-october-27th.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Best Mid Cap Stocks To Follow Now – October 27th - Markets Daily"
+  },
+  "https://www.hindustantimes.com/world-news/russia-has-seized-a-japanese-journalist-freezing-an-icy-relationship-101793070489776.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Russia has seized a Japanese journalist, freezing an icy relationship | World News"
+  },
+  "http://arabic.peopledaily.com.cn/n3/2026/1027/c31664-20512550.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "ÙÙØ§ÙØ©: Ø§ÙØµÙÙ ØªØ­ØªÙÙ Ø¨Ø§ÙØ°ÙØ±Ù Ø§ÙØ³ÙÙÙØ© Ø§ÙÙ81 ÙØ§Ø³ØªØ¹Ø§Ø¯Ø© ØªØ§ÙÙØ§Ù Ø¨ÙØ¹Ø§ÙÙØ§Øª ØªØ°ÙØ§Ø±ÙØ© Ø¹Ø¨Ø± ÙØ¶ÙÙ ØªØ§ÙÙØ§Ù"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/10/28/2003866728": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Historical events that are worth celebrating - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/27/2003866708": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "MAC head defends entry ban on Chinese actor - Taipei Times"
+  },
+  "https://whbl.com/2026/10/26/taiwan-rebuffs-chinas-commemorations-for-post-world-war-two-restoration-of-island/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan rebuffs China’s commemorations for post-World War Two ‘restoration’ of island | 1330 & 101.5 WHBL"
+  },
+  "https://www.theepochtimes.com/china/china-versus-taiwan-2-educators-reflect-on-learning-critical-thinking-and-social-values-6109023": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China Versus Taiwan: 2 Educators Reflect on Learning, Critical Thinking, and Social Values | The Epoch Times"
+  },
+  "https://aninews.in/news/world/asia/china-accused-of-intimidation-campaign-to-isolate-taiwan-politician20261027174358/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China accused of intimidation campaign to isolate Taiwan politician"
+  },
+  "https://www.ipsnews.net/2026/10/why-trump-expects-the-nobel-peace-prize/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Why Trump Expects the Nobel Peace Prize | Inter Press Service"
+  },
+  "https://www.chiangraitimes.com/news-asia/japan-missiles-yonaguni-island-plan-near-taiwan-by-2031/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Japan Missiles Yonaguni Island Plan Near Taiwan By 2031"
+  },
+  "https://www.theepochtimes.com/world/paraguay-joins-us-led-pax-silica-initiative-on-ai-supply-chains-6109444": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Paraguay Joins US-Led Pax Silica Initiative on AI Supply Chains | The Epoch Times"
+  },
+  "https://www.dailypolitical.com/2026/10/27/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-acquired-by-verdence-capital-advisors-llc.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Acquired by Verdence Capital Advisors LLC - Daily Political"
+  }
+ }
+}

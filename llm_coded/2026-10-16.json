@@ -1,0 +1,150 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-11-12T10:22:05",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 23,
+ "n_articles": 19,
+ "n_no_text": 4,
+ "n_coded": 17,
+ "n_relevant": 2,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.freemalaysiatoday.com/category/world/2026/10/16/taiwan-tells-its-people-to-shun-chinese-anniversary-events-for-revolutionary-hero",
+  "https://aninews.in/news/world/asia/china-sanctions-company-owned-by-taiwanese-lawmaker8217s-father20261016155423/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://english.news.cn/20261017/3b5c048ad38441f8959ef55f0f3de938/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "China willing to deepen cooperation with Croatia: Chinese FM-Xinhua"
+  },
+  "https://thesun.ng/president-xi-jinping-botswana-president-boko-hold-talks-in-beijing/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "President Xi Jinping, Botswana President Boko hold talks in Beijing"
+  },
+  "https://www.eurasiareview.com/16102026-taiwans-alaska-lng-bet-analysis/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan’s Alaska LNG Bet - Analysis - Eurasia Review"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/17/2003866127": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Avoid Chinese SYS events: MAC - Taipei Times"
+  },
+  "https://www.businesstimes.com.sg/singapore/economy-policy/singapores-worsening-haze-threatens-business-activity-gdp-impact-limited-analysts": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Singapore's worsening haze threatens business activity, but GDP impact 'limited': analysts - The Business Times"
+  },
+  "https://observador.pt/opiniao/taiwan-portugal-e-a-liberdade-que-nao-se-herda/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan, Portugal e a liberdade que não se herda – Observador"
+  },
+  "https://focustaiwan.tw:443/politics/202610160019": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Chinese exchange student deported over video showing him 'pinching Lai' - Focus Taiwan"
+  },
+  "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain — project to support countless small manufacturers crucial to TSMC, Foxconn supply chain | Tom's Hardware"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866168": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "More Taiwanese traveled to China this year - Taipei Times"
+  },
+  "http://www.jpost.com/opinion/article-911799": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "My Word: The Nobel non-Peace Prize | The Jerusalem Post"
+  },
+  "https://www.theepochtimes.com/china/china-uses-new-coercion-against-global-officials-to-isolate-taiwan-analysts-say-6104913": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 1,
+   "title": "China Uses New Coercion Against Global Officials to Isolate Taiwan, Analysts Say | The Epoch Times"
+  },
+  "https://drimble.nl/binnenlands-nieuws/108310106/taiwan-wil-export-ai-chips-naar-china-beperken-om-handelsdeal-vs.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan wil export AI-chips naar China beperken om handelsdeal VS | Binnenlands nieuws"
+  },
+  "https://www.jpost.com/opinion/article-911799": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "My Word: The Nobel non-Peace Prize | The Jerusalem Post"
+  },
+  "https://fm.kuac.org/KUAC%20Newscasts/2026-10-16/10-15-26-kuac-morning-news": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "10-16-26 KUAC MORNING NEWS | KUAC.org"
+  },
+  "https://aleteia.org/2026/10/16/chinese-bishops-faster-appointments-very-small-steps/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chinese bishops: Faster appointments, 'very small steps'"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261016/4511744.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China sanctions company owned by Taiwanese lawmakers father"
+  },
+  "https://www.techtimes.com/articles/329105/20261016/micron-opens-hbm-plant-2027-output-fully-contracted-strike-vote-looms.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Micron Opens HBM Plant With 2027 Output Fully Contracted; Strike Vote Looms"
+  }
+ }
+}

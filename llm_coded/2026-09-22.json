@@ -1,0 +1,627 @@
+{
+ "date": "2026-09-22",
+ "generated_at": "2026-11-12T10:11:25",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 90,
+ "n_articles": 75,
+ "n_no_text": 15,
+ "n_coded": 73,
+ "n_relevant": 19,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://focustaiwan.tw:443/politics/202609220022",
+  "https://www.thenews.com.pk/latest/1417152-trump-xi-meeting-could-put-taiwan-arms-sales-in-focus-report"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864742": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "US unlikely to cancel arms sales: official - Taipei Times"
+  },
+  "https://dailypioneer.com/news/xi-trump-summit-from-september-23": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Xi, Trump summit from September 23"
+  },
+  "https://lufkindailynews.com/news_reuters/top_news/exclusive-chinas-xi-expected-to-press-trump-to-halt-taiwan-arms-sales-under-1982-agreement/article_43fe2563-2f49-5179-81ff-484a5a1e62d8.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Exclusive-China's Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement, sources say | Top News | lufkindailynews.com"
+  },
+  "https://www.brasil247.com/mundo/xi-deve-cobrar-de-trump-suspensao-da-venda-de-armas-a-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi deve cobrar de Trump suspensão da venda de armas a Taiwan – Brasil 247"
+  },
+  "https://www.ibtimes.com/xi-wants-trump-stop-selling-weapons-taiwan-hes-expected-point-reagan-era-agreement-3807748": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Xi Wants Trump To Stop Selling Weapons To Taiwan. He's Expected To Point To A Reagan-Era Agreement. | IBTimes"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/the-taiwan-tension-navigating-the-thorny-path-of-china-us-relations/articleshow/134405729.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Why Taiwan remains a key issue in China-US ties | Explained - The Economic Times"
+  },
+  "https://www.bankingnews.gr/diethni/articles/900790/h-pagida-tis-taivan-ipa-kai-kina-paizoun-me-ti-fotia-sto-pio-epikindyno-metopo-tis-asias": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 20,
+   "title": "H παγίδα της Ταϊβάν - ΗΠΑ και Κίνα παίζουν με τη φωτιά στο πιο επικίνδυνο μέτωπο της Ασίας"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/22/2003864708": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Xi to press Trump to halt Taiwan arms sales under 1982 agreement, sources say - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/world/china/xi-trump-summit-china-puts-taiwan-red-line-at-centre-of-us-ties/articleshow/134415127.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 9,
+   "title": "Xi-Trump summit: China puts Taiwan âred lineâ at centre of US ties - The Times of India"
+  },
+  "https://ibcworldnews.com/2026/09/22/taiwan-minister-says-he-was-not-belittled-on-rare-trip-to-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan minister says he was not 'belittled' on rare trip to China"
+  },
+  "https://www.asiaone.com:443/asia/why-taiwan-such-important-issue-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Why is Taiwan such an important issue for China?, Asia News - AsiaOne"
+  },
+  "https://www.atlanticcouncil.org/dispatches/what-to-expect-at-the-trump-xi-summit-in-washington/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "What to expect at the Trump-Xi summit in Washington - Atlantic Council"
+  },
+  "https://www.protothema.gr/world/article/1882597/me-to-mualo-stin-taivan-paei-o-si-sti-sunadisi-me-ton-trab-tha-ton-piesei-na-stamatisei-tis-poliseis-oplon/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 6,
+   "title": "Με το μυαλό στην Ταϊβάν πάει ο Σι στη συνάντηση με τον Τραμπ: Θα τον πιέσει να σταματήσει τις πωλήσεις όπλων"
+  },
+  "https://www.china-files.com/in-cina-e-asia-rimossi-due-vertici-militari-pechino-prepara-il-quinto-plenum/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "In Cina e Asia - Rimossi due vertici militari, Pechino prepara il quinto Plenum | China Files"
+  },
+  "https://www.thehindubusinessline.com/news/world/china-taiwan-and-the-us-why-taiwan-is-a-key-issue-in-xi-jinping-trump-talks/article71494371.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China, Taiwan and the US: The Taiwan issue explained - The HinduBusinessLine"
+  },
+  "https://www.theepochtimes.com/opinion/how-china-turns-presence-into-power-6091159": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "How China Turns Presence Into Power | The Epoch Times"
+  },
+  "https://www.winnipegfreepress.com/business/2026/09/21/trump-and-xi-see-tensions-flare-over-ai-trade-and-iran-but-still-seek-stability": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump and Xi see tensions flare over AI, trade and Iran but still seek stability – Winnipeg Free Press"
+  },
+  "https://www.hindustantimes.com/world-news/xi-jinping-donald-trump-taiwan-arms-sales-1982-joint-communique-washington-summit-china-us-national-archives-101790076569552.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Xi Jinping may press Trump to halt Taiwan arms sales during US visit | World News"
+  },
+  "https://www.tickerreport.com/banking-finance/13591960/best-mid-cap-stocks-worth-watching-september-22nd.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Best Mid Cap Stocks Worth Watching – September 22nd - Ticker Report"
+  },
+  "https://www.newsweek.com/trump-no-choice-but-give-chinas-xi-3-things-wants-12470817": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Has No Choice but To Give China’s Xi the 3 Things He Wants - Newsweek"
+  },
+  "https://www.vetogate.com/5736838": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "الرئيس الصيني يتوجه إلى أمريكا في أول زيارة دولة منذ 11 عاما"
+  },
+  "https://www.rp.pl/polityka/art45172741-xi-moze-naciskac-na-trumpa-w-sprawie-tajwanu-w-grze-bron-za-14-mld-dolarow": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Wizyta Xi Jinpinga w USA. Przywódca Chin chce zatrzymania dostaw broni na Tajwan - rp.pl"
+  },
+  "https://foreignpolicy.com/2026/09/22/trump-xi-summit-china-us-ai-trade-critical-minerals-iran-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump-Xi Summit: What to Expect on AI, Trade, Critical Minerals"
+  },
+  "https://foreignpolicy.com/2026/09/22/autocrats-putin-trump-xi-united-nations-general-assembly-united-states-russia-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump, Xi, and Putin Are Not as Immovable as They Seem"
+  },
+  "https://news.republika.co.id/berita/tlrifb451/tanpa-menyerang-china-berusaha-membawa-taiwan-lebih-dekat": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tanpa Menyerang, China Berusaha Membawa Taiwan Lebih Dekat | Republika Online"
+  },
+  "https://www.livemint.com/global/in-trump-xi-sees-rare-window-to-convince-taiwan-that-resistance-is-futile-11790039314885.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "In Trump, Xi sees ‘rare window’ to convince Taiwan that resistance is futile | Mint"
+  },
+  "https://www.bankingnews.gr/diethni/articles/900815/the-taiwan-trap-us-and-china-play-with-fire-in-asia-s-most-dangerous-flashpoint%20title=": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "The Taiwan trap – US and China play with fire in Asia's most dangerous flashpoint"
+  },
+  "https://www.digi24.ro/stiri/externe/sua/xi-jinping-ar-urma-sa-i-ceara-lui-trump-sa-opreasca-vanzarile-de-arme-catre-taiwan-invoca-un-acord-incheiat-in-1982-3958727": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Xi Jinping ar urma să-i ceară lui Trump să oprească vânzările de arme către Taiwan. Invocă un acord încheiat în 1982 | Digi24"
+  },
+  "https://daily.com.ua/partners-news/si-czinpin-na-zustrichi-z-trampom-vymagatyme-prypynyty-prodaj-zbroi-taivanyu-reuters/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Сі Цзіньпін на зустрічі з Трампом вимагатиме припинити продаж зброї Тайваню - Reuters | Daily News"
+  },
+  "https://www.tamilmurasu.com.sg/world/usa-support-japan-south-korea-and-taiwan-will-continue": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "à®à®ªà¯à®ªà®¾à®©à¯, à®¤à¯à®©à¯à®à¯à®°à®¿à®¯à®¾, à®¤à¯à®µà®¾à®©à¯ à®¨à®¾à®à¯à®à®³à¯à®à¯à®à¯ à®à®®à¯à®°à®¿à®à¯à®à®¾ à®à®¤à®°à®µà¯"
+  },
+  "https://www.news247.gr/kosmos/meta-ta-pirinika-to-ai-kokkino-tilefono-gia-na-min-afanistoume/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Μετά τα πυρηνικά, το AI: Κόκκινο τηλέφωνο για ΗΠΑ - Κίνα"
+  },
+  "http://www.koreatimes.com/article/20260921/1630661": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "미· 중 빅테크 CEO 백악관 집결…‘AI룰’ 팽팽한 기싸움"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=03899926645582744&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "트럼프·시진핑 다시 만난다…AI·무역 경쟁 속 안정 모색"
+  },
+  "https://www.delo.si/mnenja/gostujoce-pero/tajvan-je-nelocljivi-del-kitajskega-ozemlja": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Oglasila se je veleposlanica: Tajvan je neločljivi del kitajskega ozemlja"
+  },
+  "https://www.ahaber.com.tr/dunya/2026/09/22/trump-si-zirvesinde-tayvan-ticaret-ve-iran-gundemi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump-Şi zirvesinde kritik hesaplaşma: Masada ticaret, Tayvan, İran ve yapay zekâ var"
+  },
+  "https://focustaiwan.tw/society/202609220004": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://nypost.com/2026/09/22/us-news/us-backs-taiwan-before-trump-hosts-xi-at-white-house/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "US backs Taiwan before Trump hosts Xi at White House"
+  },
+  "https://www.dw.com/pt-br/principais-temas-da-c%C3%BApula-entre-trump-e-xi/a-79371661": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump e Xi vão debater guerra no Irã, IA, Taiwan e tarifas"
+  },
+  "https://www.dailybusiness.ro/actualitate/taiwanul-punctul-fierbinte-al-intalnirii-trump-xi-beijingul-cere-oprirea-armelor-americane-pentru-taipei-551371/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwanul, punctul fierbinte al întâlnirii Trump-Xi. Beijingul cere oprirea armelor americane pentru Taipei - DailyBusiness.ro"
+  },
+  "https://weeklyblitz.net/2026/09/23/a-new-chapter-for-china-us-relations-from-strategic-rivalry-to-constructive-stability/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "A new chapter for China-US relations: From strategic rivalry to constructive stability - BLiTZ"
+  },
+  "https://news.wfsu.org/npr-news/2026-09-22/trump-and-xi-to-meet-in-washington-with-taiwan-in-focus": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Trump and Xi to meet in Washington with Taiwan in focus | WFSU News"
+  },
+  "https://www.prensalibre.com/ahora/internacional/taiwan-afirma-que-la-paz-en-el-estrecho-es-clave-para-la-seguridad-mundial-ante-reunion-de-trump-y-xi/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Taiwán afirma que la paz en el estrecho es clave para la seguridad mundial ante reunión de Trump y Xi"
+  },
+  "https://www.rawstory.com/trump-arms-sales-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "'Something profoundly amiss' as Trump official blurts 'mind-boggling' admission: analysis - Raw Story"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/24/2003864817": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwanese artist receives Primetime Emmy for animation - Taipei Times"
+  },
+  "http://www.strategypage.com/htmw/htiw/articles/202609228741.aspx": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Information Warfare: Taiwan Tests Internet Loss"
+  },
+  "https://ibcworldnews.com/2026/09/22/xi-to-press-trump-on-taiwan-arms/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Xi to Press Trump on Taiwan Arms | IBC World News"
+  },
+  "https://www.freemalaysiatoday.com/category/business/2026/09/22/china-and-europe-should-not-fight-trade-wars-says-chinese-foreign-minister": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China and Europe should not fight trade wars, says Chinese foreign minister | FMT"
+  },
+  "https://www.investimentosenoticias.com.br/noticias/politica/tensao-aumenta-entre-china-e-japao-apos-comentarios-sobre-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Tensão Aumenta entre China e Japão após Comentários sobre Taiwan - Investimentos e Notícias"
+  },
+  "https://www.newspim.com/news/view/20260922001035": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "\"시진핑, 트럼프 면전에 '대만 무기판매 중단' 요구할 것\""
+  },
+  "https://www.rp.pl/dyplomacja/art45174011-nieoficjalnie-brak-decyzji-ws-wojsk-w-europie-moze-byc-przyczyna-odwolania-wizyty-wladyslawa-kosiniaka-kamysza-w-usa": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Pete Hegseth nie spotka się z Władysławem Kosiniakiem-Kamyszem. Oficjalny powód to wizyta Xi Jinpinga - rp.pl"
+  },
+  "https://www.theepochtimes.com/world/taiwan-tech-firm-builds-non-china-supply-chain-as-it-expands-in-new-york-6093181": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taiwan Tech Firm Builds Non-China Supply Chain as It Expands in New York | The Epoch Times"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/09/22/xi-expected-to-press-trump-on-us-taiwan-arms-sales-agreement-say-sources": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 3,
+   "title": "Xi expected to press Trump on US-Taiwan arms sales agreement, say sources | FMT"
+  },
+  "https://www.raya.ps/articles/1225442.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "القمة الصينية الأميركية: نهاية الحرب أم بداية جديدة لها؟"
+  },
+  "https://www.protagon.gr/themata/trab-kai-si-oi-lathos-anthrwpoi-sti-lathos-epoxi-44343443156": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Τραμπ και Σι: Οι λάθος άνθρωποι στη λάθος εποχή | Protagon.gr"
+  },
+  "https://www.theepochtimes.com/opinion/americas-strategic-ambiguity-over-taiwan-is-changing-6090800": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "low"
+   },
+   "mentions": 6,
+   "title": "America’s Strategic Ambiguity Over Taiwan Is Changing | The Epoch Times"
+  },
+  "https://lb.ua/news/2026/09/22/767942_reuters_si_tszinpin_ymovirno.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Reuters: Сі Цзіньпін у Вашингтоні проситиме Трампа зупинити зброю Тайваню - новини LB.ua"
+  },
+  "https://www.theepochtimes.com/china/china-expands-export-controls-on-drug-precursor-chemicals-ahead-of-trump-xi-talks-6093210": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China Expands Export Controls on Drug Precursor Chemicals Ahead of Trump–Xi Talks | The Epoch Times"
+  },
+  "https://adevarul.ro/stiri-externe/sua/sua-si-china-se-pregatesc-pentru-intalnirea-2558938.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "SUA Èi China se pregÄtesc pentru Ã®ntÃ¢lnirea XiâTrump de la Washington. Despre ce vor discuta cei doi lideri? | adevarul.ro"
+  },
+  "https://www.skai.gr/news/world/reuters-o-si-tzinpingk-tha-piesei-ton-tramp-na-valei-freno-stis-poliseis-oplon-stin-taivan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Reuters: O Σι θα πιέσει τον Τραμπ να βάλει φρένο στις πωλήσεις όπλων στην Ταϊβάν | ΣΚΑΪ"
+  },
+  "https://www.kommersant.ru/doc/8972390": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Визит Си Цзиньпина в США: второй личный контакт с Трампом за год"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864747": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chiayi firm signs MOU to promote UAVs abroad - Taipei Times"
+  },
+  "https://www.jagran.com/world/america-ahead-of-the-xi-trump-meeting-china-designates-taiwan-a-red-line-40381968.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "महाशक्तियों में महाटक्कर की आहट: चिनफिंग-ट्रंप मुलाकात से पहले चीन ने ताइवान को बताया 'रेड लाइन' - ahead of the xi trump meeting china designates taiwan a red line"
+  },
+  "https://ipress.ua/news/si_tszinpin_mozhe_postavyty_trampu_zhorstki_umovy_shchodo_tayvanyu__reuters_390604.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Сі Цзіньпін може поставити Трампу жорсткі умови щодо Тайваню – Reuters - iPress.ua"
+  },
+  "https://www.middle-east-online.com/%D9%82%D9%85%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%B4%D9%8A-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86%D8%9F": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "قمة ترامب وشي: إيران مقابل تايوان؟ | MEO"
+  },
+  "https://sapo.pt/artigo/trump-e-xi-reencontram-se-com-a-tregua-comercial-entre-eua-e-china-a-terminar-6ab2cad5ab06617206989e8b": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Trump e Xi reencontram-se com a trégua comercial entre EUA e China a terminar"
+  },
+  "https://www.unian.ua/world/si-czinpin-vimagatime-vid-trampa-pripiniti-prodazh-zbroji-tayvanyu-shcho-vidomo-13506696.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Сі Цзіньпін вимагатиме від Трампа припинити продаж зброї Тайваню: що відомо"
+  },
+  "https://unn.ua/ru/news/si-tszinpin-na-vstreche-s-trampom-potrebuet-prekratit-prodazhu-oruzhiya-taivanyu-reuters": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Си Цзиньпин на встрече с Трампом потребует прекратить продажу оружия Тайваню — Reuters | УНН"
+  },
+  "https://www.tercuman.com/analiz/xi-jinpingnin-abd-ziyareti-neyi-degistirecek-3374": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Xi Jinping’nin ABD ziyareti neyi değiştirecek?"
+  },
+  "https://www.koreaherald.com/article/10887436": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump disputes his ambassador's account - The Korea Herald"
+  },
+  "https://www.bostonglobe.com/2026/09/28/nation/trump-asked-chinas-president-if-he-wants-to-buy-us-arms/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump denies he asked China’s president if he wanted to buy US arms"
+  },
+  "https://navbharattimes.indiatimes.com/world/china/why-xi-jinping-visits-white-house-despite-hostility-in-us-china-relations-to-meet-donald-trump/articleshow/134418204.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi Jinping US Visit,अमेरिका-चीन में कट्टर दुश्मनी, फिर व्हाइट हाउस में ट्रंप का मेहमान बनने को क्यों राजी हुए शी जिनपिंग? - why xi jinping visits white house despite hostility in us china relations to meet donald trump - China News - Navbharat Times"
+  },
+  "https://www.unian.net/world/si-czinpin-potrebuet-ot-trampa-prekratit-prodazhu-oruzhiya-tayvanyu-chto-izvestno-13506693.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Си Цзиньпин потребует от Трампа прекратить продажу оружия Тайваню: что известно"
+  },
+  "https://www.tickerreport.com/banking-finance/13592022/taiwan-semiconductor-manufacturing-nysetsm-shares-up-1-6-heres-why.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Up 1.6%  – Here’s Why - Ticker Report"
+  }
+ }
+}

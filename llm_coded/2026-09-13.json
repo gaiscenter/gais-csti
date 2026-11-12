@@ -1,0 +1,209 @@
+{
+ "date": "2026-09-13",
+ "generated_at": "2026-11-12T10:08:37",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 24,
+ "n_articles": 23,
+ "n_no_text": 1,
+ "n_coded": 23,
+ "n_relevant": 6,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://focustaiwan.tw/society/202609130005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Husband, friend arrested in non-fatal shooting of Chinese spouse - Focus Taiwan"
+  },
+  "https://aninews.in/news/world/asia/china-uses-state-violence-political-coercion-to-suppress-religious-freedom-and-target-human-rights-lawyers20260913130203/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China uses state violence, political coercion to suppress religious freedom and target human rights lawyers"
+  },
+  "https://www.wbtv.com/2026/09/12/darline-graham-agrees-debate-democratic-challenger-annie-andrews-south-carolina-senate-race/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Darline Graham agrees to debate Democratic challenger Annie Andrews in South Carolina Senate race"
+  },
+  "https://www.obozrevatel.com/ukr/novosti-mir/kitaj-pogrozhue-skasuvati-zustrich-si-tszinpina-z-trampom-yaku-umovu-visuvae.htm": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Китай може скасувати зустріч Сі Цзіньпіна й Трампа – продаж зброї Тайваню | OBOZ.UA"
+  },
+  "https://www.kyivpost.com/post/84396": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "China Threatens to Cancel US Summit Over Taiwan Arms"
+  },
+  "https://openthemagazine.com/india/what-the-india-china-statements-reveal-about-modi-xi-talks": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "India-China Statements Decode Modi-Xi Talks at BRICS: Key Differences, Third-Party Concerns and Taiwan-Tibet Signals"
+  },
+  "https://wwd.com/eye/lifestyle/buzzy-fall-books-reading-list-1239064195/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Buzziest Fall 2026 Books to Add to Your Reading List"
+  },
+  "https://novini.bg/article/2026091303305945104": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Китай заплашва да отмени срещата между Си Цзинпин и Доналд Тръмп заради оръжейни сделки с Тайван | Новини.бг"
+  },
+  "https://kaieteurnewsonline.com/2026/09/13/guyanese-everywhere-and-every-institution-should-spare-a-moment-to-examine-this-matter/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Guyanese everywhere and every institution should spare a moment to examine this matter - Kaieteur News"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/14/2003864232": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "CCP and China becoming one and the same: experts - Taipei Times"
+  },
+  "https://focustaiwan.tw/business/202609130013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Mandarin Airlines A321neo makes domestic debut on domestic route - Focus Taiwan"
+  },
+  "https://www.thevermilion.com/taiwan-in-ventotene-the-challenge-to-beijings-pressure-no-island-is-so-small-that-it-has-no-voice/article_20553/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Taiwan in Ventotene, the challenge to Beijing's pressure: \"No island is so small that it has no voice\""
+  },
+  "http://en.people.cn/n3/2026/0913/c90000-20499039.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Xi, Modi conduct in-depth exchange of views, agree China, India should be partners - People's Daily Online"
+  },
+  "https://lanouvelletribune.info/2026/09/la-chine-fixe-une-ligne-rouge-aux-etats-unis-avant-le-sommet-entre-xi-et-trump/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "La Chine fixe une « ligne rouge » aux États-Unis avant le sommet entre Xi et Trump – La Nouvelle Tribune"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864623": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US might postpone major Taiwan arms sales: report - Taipei Times"
+  },
+  "https://en.gmw.cn/2026-09/13/content_38998018.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Xi, Modi conduct in-depth exchange of views, agree China, India should be partners\r\n_Guangming Online"
+  },
+  "https://www.ultimahora.com/pena-dice-que-paraguay-busca-ser-protagonista-de-la-revolucion-de-la-ia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Peña dice que Paraguay busca \"ser protagonista de la revolución\" de la IA - Última Hora | Noticias de Paraguay y el mundo, las 24 horas. Noticias nacionales e internacionales, deportes, política. Noticias de último momento."
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5572892": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "《TAIPEI TIMES》 March in New York urges Taiwan’s inclusion in UN - 焦點 - 自由時報電子報"
+  },
+  "https://srilankamirror.com/news/china-india-leaders-reach-consensus-agree-to-be-partners/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China - India leaders reach consensus agree to be partners | Sri Lanka Mirror"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/09/14/2003864218": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Notes from Central Taiwan: The ‘Wall Street Journal’s’ Taiwan blind spot - Taipei Times"
+  },
+  "https://adevarul.ro/stiri-externe/china/china-ameninta-ca-anuleaza-summitul-dintre-xi-2557220.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China ameninÈÄ cÄ anuleazÄ summitul dintre Xi Jinping Èi Trump. Ce deranjeazÄ Beijingul? | adevarul.ro"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/14/2003864220": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "March in New York urges Taiwan’s inclusion in UN - Taipei Times"
+  },
+  "https://www.theepochtimes.com/bright/ntd-piano-competition-unites-global-virtuosos-through-classical-music-6086499": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "NTD Piano Competition Unites Global Virtuosos Through Classical Music | The Epoch Times"
+  }
+ }
+}

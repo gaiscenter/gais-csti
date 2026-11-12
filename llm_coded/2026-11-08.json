@@ -1,0 +1,261 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-12T10:26:44",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 30,
+ "n_articles": 29,
+ "n_no_text": 1,
+ "n_coded": 28,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867398"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://econotimes.com/AI-investment-timing-divides-Asian-investors-after-hedge-fund-exits-1773247": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "AI investment timing divides Asian investors after hedge fund exits | EconoTimes"
+  },
+  "https://www.theyeshivaworld.com/news/general/2620528/election-interference-probe-taiwan-detains-communist-party-leader-over-alleged-chinese-funding.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "ELECTION INTERFERENCE PROBE: Taiwan Detains Communist Party Leader Over Alleged Chinese Funding – The Yeshiva World"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/09/2003867399": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Chinese-owned yachts barred from Taiwan ports - Taipei Times"
+  },
+  "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-detects-4-chinese-military-aircraft-8-ships-around-island-in-24-hours/articleshow/135649926.cms": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detects 4 Chinese military aircraft, 8 ships around island in 24 hours - The Times of India"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/09/2003867390": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Ryan Hass On Taiwan: Taiwan’s Strengthening Position in a Shifting Asia - Taipei Times"
+  },
+  "https://morningstaronline.co.uk/article/f-150-taiwan-arrests-communist-candidate-standing-local-elections": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan arrests communist candidate standing in local elections | Morning Star"
+  },
+  "https://aninews.in/news/world/asia/taiwan-detects-4-pla-aircraft-6-plan-vessels-operating-near-territory20261108072451/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan detects 4 PLA aircraft, 6 PLAN vessels operating near territory"
+  },
+  "https://www.antaranews.com/berita/5839895/tiga-pesawat-tempur-f-16-as-kembali-tiba-di-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Tiga pesawat tempur F-16 AS kembali tiba di Taiwan - ANTARA News"
+  },
+  "https://www.whittierdailynews.com/2026/11/07/election-2026-west-covina-city-councilman-tony-wu-concedes-to-challenger-fredrick-sykes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Election 2026: West Covina City Councilman Tony Wu concedes to challenger Fredrick Sykes – Whittier Daily News"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867408": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Taiwan planning harsher penalties for collaborators - Taipei Times"
+  },
+  "https://focustaiwan.tw/society/202611080010": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan People's Communist Party chief detained in China funding probe - Focus Taiwan"
+  },
+  "https://econotimes.com/Panamanian-Lawmaker-Urges-Taiwan-to-Open-Trade-Office-for-Jobs-and-Commerce-1773208": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Panamanian Lawmaker Urges Taiwan to Open Trade Office for Jobs and Commerce | EconoTimes"
+  },
+  "https://www.unian.net/weapons/kitay-prodolzhaet-krupneyshee-rasshirenie-flota-v-sovremennoy-istorii-smi-13553424.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Китай продолжает крупнейшее расширение флота в современной истории, - СМИ"
+  },
+  "https://www.hankookilbo.com/news/article/A2026110810050001381": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "젠슨 황 장녀 매디슨 황 방한 전격 취소… 배경훈 부총리 면담 무산-경제ㅣ한국일보"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261108/4517223.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detects 4 PLA aircraft, 6 PLAN vessels operating near territory"
+  },
+  "https://www.tanea.gr/2026/11/08/world/lithouania-i-mikri-xora-tis-valtikis-prokalei-tin-kina-me-ti-megalyteri-monada-souper-leizer-ston-kosmo/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Λιθουανία: Η μικρή χώρα της Βαλτικής προκαλεί την Κίνα με τη μεγαλύτερη μονάδα σούπερ - λέιζερ στον κόσμο"
+  },
+  "https://www.newsweek.com/nvidia-investigates-chinese-spy-claims-ceo-jensen-huang-admits-affair-12684313": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia Investigates Chinese Spy Claims After CEO Jensen Huang Admits Affair - Newsweek"
+  },
+  "https://adevarul.ro/stiri-externe/sua/seful-nvidia-suspectat-ca-a-avut-o-relatie-cu-o-2569869.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Èeful Nvidia, suspectat cÄ a avut o relaÈie cu o presupusÄ spioanÄ chinezÄ. Congresul american cere explicaÈii | adevarul.ro"
+  },
+  "https://www.in.gr/2026/11/09/world/to-ds-tis-nvidia-ksekina-ereyna-gia-tin-sxesi-tou-tzensen-xouangk-me-kineza-kataskopo-imoun-apistos/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Το ΔΣ της NVIDIA ξεκινά έρευνα για την σχέση του Τζένσεν Χουάνγκ με κινέζα κατάσκοπο - «Ήμουν άπιστος» | in.gr"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5633963": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 Chinese-owned yachts barred from Taiwan ports - 焦點 - 自由時報電子報"
+  },
+  "https://www.infobae.com/estados-unidos/2026/11/08/sexo-espionaje-y-chips-el-ceo-de-nvidia-admitio-una-infidelidad-con-una-presunta-espia-china-y-el-directorio-lo-investiga/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Sexo, espionaje y chips: el CEO de Nvidia admitió una infidelidad con una presunta espía china y el directorio lo investiga - Infobae"
+  },
+  "https://weeklyblitz.net/2026/11/09/japans-china-policy-risks-turning-taiwan-into-a-dangerous-flashpoint/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Japan’s China policy risks turning Taiwan into a dangerous flashpoint - BLiTZ"
+  },
+  "https://www.inewsgr.com/27/lithouania-i-mikri-chora-tis-valtikis-prokalei-tin-kina-me-ti-megalyteri-monada-souper-leizer-ston-kosmo.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Λιθουανία: Η μικρή χώρα της Βαλτικής προκαλεί την Κίνα με τη μεγαλύτερη μονάδα σούπερ-λέιζερ στον κόσμο - lithouania: i mikri chora tis valtikis prokalei tin kina me ti megalyteri monada souper-leizer ston kosmo"
+  },
+  "https://variety.com/2026/film/markets-festivals/impostor-thriller-the-stand-in-family-mirror-fiction-award-tccf-1236942238/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Impostor Thriller Wins Mirror Fiction Award at Taiwan Content Fest"
+  },
+  "https://www.themarketsdaily.com/2026/11/08/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-bought-by-kornitzer-capital-management-inc-ks.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock Bought by Kornitzer Capital Management Inc. KS - Markets Daily"
+  },
+  "https://vz.ru/news/2026/11/8/1473617.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Тайвань получил вторую партию американских истребителей F-16V ::  Новости дня  / ВЗГЛЯД"
+  },
+  "https://focustaiwan.tw:443/politics/202611080003": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "U.S. expresses concern over forced closure of Taiwan's PNG office - Focus Taiwan"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5633962": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "《TAIPEI TIMES》 US cites China in PNG closure of Taiwan site - 焦點 - 自由時報電子報"
+  }
+ }
+}

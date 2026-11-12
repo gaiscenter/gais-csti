@@ -1,0 +1,156 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-12T10:26:28",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 23,
+ "n_articles": 19,
+ "n_no_text": 4,
+ "n_coded": 18,
+ "n_relevant": 2,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://focustaiwan.tw/politics/202611070004"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.edaily.co.kr/News/Read?newsId=03739206645643424&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "FT \"美, 젠슨 황과 中 스파이 여성 연인 관계로 판단\" 보도"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/08/2003867343": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan owes propagandist nothing - Taipei Times"
+  },
+  "https://www.pardubickenovinky.cz/zpravy/politika/nova-jalta-trumpova-velka-dohoda-muze-zmenit-osud-evropy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Pardubické novinky - Domácí  -  Nová Jalta? Trumpova velká dohoda může změnit osud Evropy"
+  },
+  "https://www.asiaone.com/asia/taiwan-shuts-papua-new-guinea-office-and-ends-lng-buying-citing-chinese-pressure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan shuts Papua New Guinea office and ends LNG buying, citing Chinese pressure, Asia News - AsiaOne"
+  },
+  "https://www.newsweek.com/the-long-death-of-hong-kong-democracy-12679637": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The Long Death of Hong Kong Democracy  - Newsweek"
+  },
+  "https://www.manilatimes.net/2026/11/08/opinion/columns/does-god-want-us-to-make-peace-with-china/2464560": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Does God want us to make peace with China? | The Manila Times"
+  },
+  "https://home.nzcity.co.nz/news/article.aspx?id=457528": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The midterms were fantasy politics for Democrats. What now for Trump? - 08-Nov-2026 - NZ International news"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/08/2003867349": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan in Time: Defection or deception to freedom? - Taipei Times"
+  },
+  "https://www.freepressjournal.in/world/us-intelligence-memo-claims-nvidia-ceo-jensen-huang-had-romantic-relationship-with-alleged-chinese-spy-report": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US Intelligence Memo Claims Nvidia CEO Jensen Huang Had Romantic Relationship With Alleged Chinese Spy: Report"
+  },
+  "https://www.asiaone.com:443/asia/taiwan-shuts-papua-new-guinea-office-and-ends-lng-buying-citing-chinese-pressure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Taiwan shuts Papua New Guinea office and ends LNG buying, citing Chinese pressure, Asia News - AsiaOne"
+  },
+  "https://www.wikitree.co.kr/articles/1172671": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "“미국 정부, 젠슨 황과 '중국 스파이 의혹' 여성 연인 관계로 판단” | 위키트리"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/08/2003867363": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Second flight of\r\nF-16V jets from US expected today - Taipei Times"
+  },
+  "https://wiadomosci.wp.pl/pekin-prezy-muskuly-na-pacyfiku-ruchy-ponad-100-okretow-wokol-tajwanu-7348414795626944a": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Pekin pręży muskuły na Pacyfiku. Ruchy ponad 100 okrętów wokół Tajwanu"
+  },
+  "https://variety.com/2026/film/markets-festivals/chang-chen-emerging-taiwanese-actors-taiwan-creative-content-fest-1236941891/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chang Chen Tells Taiwan's Rising Actors to 'Be Like Water'"
+  },
+  "http://www.strategypage.com/qnd/china/articles/20261107101935.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China: Low Trust Cripples Chinese Government"
+  },
+  "https://www.bankingnews.gr/analyseis-ektheseis/articles/909735/donald-trump-may-concede-to-russia-iran-and-china-to-save-republicans-in-2028": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Donald Trump may concede to Russia, Iran, and China to save Republicans in 2028"
+  },
+  "https://www.themarketsdaily.com/2026/11/07/taiwan-semiconductor-manufacturing-company-ltd-tsm-stock-sanders-capital-llc-cuts-stake.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stock: Sanders Capital LLC Cuts Stake - Markets Daily"
+  },
+  "https://www.sozcu.com.tr/dunyanin-en-zenginleri-arasinda-teknoloji-imparatorunun-sevgilisi-ajan-cikti-p376887": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Dünyanın en zenginleri arasında... Teknoloji imparatorunun sevgilisi ajan çıktı - Sözcü"
+  }
+ }
+}

@@ -1,0 +1,255 @@
+{
+ "date": "2026-09-02",
+ "generated_at": "2026-11-12T10:06:06",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 36,
+ "n_articles": 31,
+ "n_no_text": 5,
+ "n_coded": 30,
+ "n_relevant": 5,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://focustaiwan.tw:443/politics/202609020030"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863605": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Groups call for release of HK democracy advocate - Taipei Times"
+  },
+  "https://globalpost.com/stories/china-warns-consequences-over-taiwan-participation-in-pacific-leaders-summit/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China Warns of ‘Consequences’ Over Taiwan's Participation in Pacific Leaders Summit - GlobalPost"
+  },
+  "http://www.thejakartapost.com/world/2026/09/02/us-australia-commit-580-million-in-support-for-pacific-islands": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "US, Australia commit $580 million in support for Pacific Islands - Asia & Pacific - The Jakarta Post"
+  },
+  "https://www.jns.org/opinion/carice-witte/israels-pacific-opportunity": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Israel’s Pacific opportunity - Israel & Jewish News - JNS"
+  },
+  "https://www.hawaiipublicradio.org/pacific-news-minute/2026-09-02/pacific-news-minute-kiribati-could-change-how-it-recognizes-taiwan-again": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pacific News Minute: Kiribati could change how it recognizes Taiwan again | Hawai'i Public Radio"
+  },
+  "https://www.ibtimes.co.uk/chinas-navy-surpasses-us-ship-numbers-1817556": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China's Navy Now Outnumbers America's 291-Ship Fleet With Over 370 Warships | IBTimes UK"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/09/03/2003863583": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "EDITORIAL: Paranoia and its justifications - Taipei Times"
+  },
+  "https://macaudailytimes.com.mo/beijing-warns-of-consequences-for-taiwan-after-taipei-envoys-attend-islands-summit.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Beijing warns of ‘consequences’ for Taiwan after Taipei envoys attend islands summit – MACAU DAILY TIMES 澳門每日時報"
+  },
+  "https://naharnet.com/stories/en/322189-china-warns-of-consequences-for-taiwan-after-taipei-envoys-attend-pacific-leaders-summit": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China warns of 'consequences' for Taiwan after Taipei envoys attend Pacific leaders summit — Naharnet"
+  },
+  "https://www.ksl.com:443/article/51619002/us-australia-commit-580-million-in-support-for-pacific-islands": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US, Australia commit $580 million in support for Pacific Islands | KSL.com"
+  },
+  "https://news.mail.ru/politics/72211808/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Тайвань впервые потратит на оборону более триллиона тайваньских долларов: что грозит региону - Новости Mail"
+  },
+  "https://www.yahoo.com/news/articles/us-australia-commit-580-million-030402309.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Australia, US commit $580 million to support Pacific Island nations"
+  },
+  "https://whbl.com/2026/09/01/us-australia-commit-580-million-in-support-for-pacific-islands/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "Australia, US commit $580 million to support Pacific Island nations | 1330 & 101.5 WHBL"
+  },
+  "https://www.wnp.pl/bezpieczenstwo/w-tym-miejscu-moze-wybuchnac-iii-wojna-swiatowa-napiecie-coraz-wieksze,1093074.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Ogromne napięcie i ruchy wojsk. Tutaj zacznie się III wojna światowa"
+  },
+  "https://www.cubaheadlines.com/articles/339358": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Possible Historic Meeting Among Putin, Xi Jinping, and Trump Considered by Kremlin for November"
+  },
+  "https://www.sbs.com.au/news/podcast-episode/un-launches-funding-drive-for-nepal-flood-response-sbs-news-in-easy-english-2-sep-2026/vas014hvz": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "UN launches funding drive for Nepal flood response | SBS News in Easy English 2 Sep 2026 | SBS News"
+  },
+  "https://home.nzcity.co.nz/news/article.aspx?id=453217": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "NZ Top NZ News Stories from NZCity"
+  },
+  "https://www.dailykos.com/stories/2026/9/2/800092883/community/why-id-bet-china-wont-invade-taiwan-any-time-soon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Why I’d Bet China Won’t Invade Taiwan Any Time Soon - Daily Kos"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/04/2003863654": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Lai pays tribute to fallen armed forces personnel - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/09/03/2003863594": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US-Taiwan Palau projects announced - Taipei Times"
+  },
+  "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US - Defense News"
+  },
+  "https://www.manilatimes.net/2026/09/03/world/hong-kong-democracy-activist-wong-pleads-guilty-to-foreign-collusion/2417054": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Hong Kong democracy activist Wong pleads guilty to foreign collusion | The Manila Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863615": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Taiwan to launch NT$400m AI-assisted fishing project - Taipei Times"
+  },
+  "https://watchingamerica.com/2026/09/02/a-us-able-to-withdraw-at-any-moment-spells-a-new-reality-for-a-volatile-asia-pacific/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "A US Able To Withdraw at Any Moment Spells a New Reality for a Volatile Asia-Pacific | Watching America"
+  },
+  "https://www.theepochtimes.com/china/ccp-expands-national-defense-law-for-conscription-of-citizens-seizure-of-assets-6082666": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "CCP Expands National Defense Law for Conscription of Citizens, Seizure of Assets | The Epoch Times"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/09/02/2003863570": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwanese companies plan to invest another US$20bn in US amid AI boom - Taipei Times"
+  },
+  "https://focustaiwan.tw:443/sci-tech/202609020012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "U.S., U.K., France envoys open national pavilions at 2026 SEMICON Taiwan - Focus Taiwan"
+  },
+  "https://www.times-herald.com/news/business-costs-data-centers-workforce-discussed-at-gop-roundtable/article_c2a8cb62-91ed-4c22-8f7b-b9ad07687010.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Business costs, data centers, workforce discussed at GOP roundtable | News | times-herald.com"
+  },
+  "https://thediplomat.com/2026/09/the-us-arms-bottleneck-is-impacting-its-east-asian-allies/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "The US Arms Bottleneck Is Impacting Its East Asian Allies – The Diplomat"
+  },
+  "https://www.theepochtimes.com/world/us-pledges-more-than-150-million-for-pacific-nations-as-washington-seeks-to-deepen-ties-6082551": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "US Pledges More Than $150 Million for Pacific Nations as Washington Seeks to Deepen Ties | The Epoch Times"
+  }
+ }
+}

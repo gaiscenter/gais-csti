@@ -1,0 +1,155 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-12T10:25:41",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 19,
+ "n_articles": 19,
+ "n_no_text": 0,
+ "n_coded": 17,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://www.abc.com.py/internacionales/2026/11/03/taiwan-reclama-a-china-un-trato-igualitario-en-la-cumbre-de-la-apec-en-shenzhen/",
+  "https://www.kreiszeitung.de/politik/drohnen-alarm-in-taiwan-milliarden-deal-gegen-china-zr-94572802.html"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.hindustantimes.com/world-news/taiwan-spends-billions-on-sea-and-aerial-drones-to-deter-china-defence-push-draws-global-firms-101793680220934.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan spends billions on sea and aerial drones to deter China; defence push draws global firms | World News"
+  },
+  "https://www.samaa.tv/2087359603-govt-to-act-against-retailers-not-registered-under-asaan-tax-scheme-pakistan-news": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Govt to act against retailers not registered under Asaan Tax Scheme | SAMAA TV"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867129": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Former CCTV host seeks political asylum in Taiwan - Taipei Times"
+  },
+  "http://www.bignewsnetwork.com/news/279409782/forum-held-in-taipei-to-mark-160th-birth-anniversary-of-sun-yat-sen": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Forum held in Taipei to mark 160th birth anniversary of Sun Yat-sen"
+  },
+  "https://www.newsweek.com/china-just-exposed-americas-carrier-gap-in-the-pacific-again-12656064": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "China Just Exposed America’s ‘Carrier Gap’ in the Pacific Again - Newsweek"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/05/2003867198": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Man who tried to smuggle in eight turtles and a marmot indicted: CGA - Taipei Times"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5628424": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》Former CCTV host seeks political asylum in Taiwan - 焦點 - 自由時報電子報"
+  },
+  "https://aninews.in/news/world/asia/taiwan-accuses-chinese-coast-guard-of-harassing-ships-off-east-coast20261103182707/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "Taiwan accuses Chinese Coast Guard of harassing ships off East Coast"
+  },
+  "http://www.japanherald.com/news/279409782/forum-held-in-taipei-to-mark-160th-birth-anniversary-of-sun-yat-sen": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Forum held in Taipei to mark 160th birth anniversary of Sun Yat-sen"
+  },
+  "https://lahora.gt/nacionales/diego/2026/11/03/encargado-de-negocios-de-ee-uu-advierte-que-china-representa-una-amenaza-economica-y-politica-para-guatemala-now/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Encargado de Negocios de EE. UU. advierte que China representa una amenaza económica y política para Guatemala - La Hora"
+  },
+  "https://www.naturalnews.com/2026-11-03-online-doomsday-chatter-fuels-discussion-on-preparedness.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Online Doomsday Chatter Fuels Preparedness Discussion as Officials and Researchers Weigh In   â NaturalNews.com"
+  },
+  "https://www.theworldfolio.com/interviews/business-consultants-advances-human-capital-and-organizational-transformation/7610/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Business Consultants Builds Stronger Organizations Through People and Change"
+  },
+  "https://www.rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Analysts: China could erode Taiwan’s hold on remote Pratas Island without invasion – Radio Free Asia"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261103/4515335.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan accuses Chinese Coast Guard of harassing ships off East Coast"
+  },
+  "https://www.ibtimes.com/us-army-2027-taiwan-conflict-readiness-3809329": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Could China Invade Taiwan In 2027? A Top U.S. General Says The Timeline Still Matters. | IBTimes"
+  },
+  "https://www.dailymail.com/news/article-16262437/former-confucius-institute-head-las-vegas.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Former director of controversial Chinese institute with links to CCP lands top job at major US university...as Defense Secretary Hegseth warns of new 'propaganda cells' to 'infiltrate minds of American students' | Daily Mail Online"
+  },
+  "https://www.businesstimes.com.sg/companies-markets/grab-reports-q3-profit-5-us18-million-raises-full-year-guidance": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 9,
+   "title": "Grab reports Q3 profit up 5% at US$18 million, raises guidance - The Business Times"
+  }
+ }
+}

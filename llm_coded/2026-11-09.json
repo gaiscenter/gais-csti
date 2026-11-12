@@ -1,0 +1,498 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-12T10:27:20",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 72,
+ "n_articles": 68,
+ "n_no_text": 4,
+ "n_coded": 66,
+ "n_relevant": 3,
+ "complete": false,
+ "n_missing": 2,
+ "missing": [
+  "https://news.webindia123.com/news/Articles/World/20261109/4517593.html",
+  "https://aninews.in/news/world/asia/taiwan-condemns-china-for-distorting-un-resolution-reasserts-sovereignty20261109123053/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.straitstimes.com/world/who-is-alice-huang-the-chinese-exec-accused-of-spying-on-nvidia-ceo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Alice Huang and the Nvidia spy allegations | The Straits Times"
+  },
+  "https://www.theepochtimes.com/china/insider-xi-ousted-zhang-youxia-over-dispute-about-ability-to-wage-war-with-taiwan-6122230": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Insider: Xi Ousted Zhang Youxia Over Dispute About Ability to Wage War With Taiwan | The Epoch Times"
+  },
+  "http://inews24.com/view/2023869": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"젠슨 황-中 스파이 여성 관계\"⋯美 국무장관이 기밀보고서 감독"
+  },
+  "https://bns.lt/naujiena/opozicija-praso-neeilinio-seimo-komiteto-posedzio-del-kinijos-ir-taivano-sako-esanti-sokiruota-6bq9zbi3": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Opozicija praÅ¡o neeilinio Seimo komiteto posÄdÅ¾io dÄl Kinijos ir Taivano, sako esanti Å¡okiruota | Naujiena | BNS.lt"
+  },
+  "http://french.xinhuanet.com/20261109/3993d2051ed54c4da3f199ec1fef3d9e/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "La Chine salue la décision de la Papouasie-Nouvelle-Guinée de fermer le \"bureau économique de Taipei\" (porte-parole) - Xinhua - french.news.cn"
+  },
+  "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal? | Technology News | Al Jazeera"
+  },
+  "https://www.aol.co.uk/articles/alice-huang-woman-linked-nvidia-175742000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Who is Alice Huang, the woman linked to Nvidia’s CEO? - AOL"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=02466566645644080&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "젠슨황·中스파이 불륜에 흔들리는 엔비디아…오너리스크 부상(종합)"
+  },
+  "https://www.fnnews.com/news/202611091018262270": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "루비오 美 국무장관, 젠슨 황 중국 스파이 접촉 경고해와 - 파이낸셜뉴스"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/a-secret-affair-whiskey-dates-and-a-china-spy-probe-inside-nvidia-chief-jensen-huangs-association-with-alice-huang/articleshow/135676210.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "A secret affair, whiskey dates and a China spy probe: Inside Nvidia chief Jensen Huang's association with Alice Huang - The Economic Times"
+  },
+  "https://nypost.com/2026/11/09/business/chinese-spy-alice-huang-stares-longingly-at-nvidia-boss-affectionately-clasps-arm-in-newly-obtained-pics/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chinese 'spy' Alice Huang stares longingly at Nvidia boss, affectionately clasps arm in newly-obtained pics"
+  },
+  "https://torontosun.com/news/world/nvidia-ceo-ensnared-chinese-intelligence-sex-honeytrap": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia CEO ensnared in shocking Chinese intelligence sex honeytrap? | Toronto Sun"
+  },
+  "http://www.newstomato.com/ReadNews.aspx?no=1319718": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "젠슨 황 사생활 파문, 안보 논란으로…엔비디아 잇단 악재"
+  },
+  "https://www.business-standard.com/world-news/who-is-alice-huang-power-broker-or-alleged-chinese-spy-linked-to-nvidia-126110901581_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Who is Alice Huang: Power broker or alleged 'Chinese spy' linked to Nvidia? | World News - Business Standard"
+  },
+  "https://dailycaller.com/2026/11/09/us-army-practices-island-warfare-china-prepares-taiwan-fight/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific | \r\n\t\tThe Daily Caller"
+  },
+  "https://www.ibtimes.co.uk/nvidia-probe-reported-china-espionage-jensen-huang-1831088": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "5 Photos of Alice Huang and Jensen Huang: Who Is Huang Le and What Was Her Reported Role at Megaspeed? | IBTimes UK"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The future of AI hinges on… Jensen Huang’s sex life? | The Verge"
+  },
+  "http://inews24.com/view/2023834": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"아내에 충실하지 못했다\"...젠슨 황, 中 첩자 의혹 여성과 불륜 시인"
+  },
+  "https://www.lrt.lt/naujienos/lietuvoje/2/3109084/priklaupimas-pries-autoritarizma-del-taivanieciu-atstovybes-klausimo-reakciju-lavina": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "âPriklaupimas prieÅ¡ autoritarizmÄâ: dÄl TaivanieÄiÅ³ atstovybÄs klausimo â reakcijÅ³ lavina - LRT"
+  },
+  "https://dominicanrepublicpost.com/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?  - Dominican Republic Post – Caribbean News, Business, Travel & Culture"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867434": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Chiang supporters criticized for bullying dumpling shop that endorsed Shen - Taipei Times"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=01692486645644080&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "젠슨황 불륜 인정…엔비디아 이사회, 자체 조사 착수"
+  },
+  "https://www.aol.co.uk/articles/suspected-spy-high-profile-affair-125359000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "All we know about suspected spy at heart of Nvidia scandal after CEO admits affair - AOL"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/who-is-alice-huang-the-singapore-based-chinese-exec-accused-of-spying-on-nvidia-ceo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Who is Alice Huang, the Singapore-based Chinese exec accused of spying on Nvidia CEO? | The Star"
+  },
+  "http://www.strategypage.com/%5Cqnd%5Cchina%5Carticles%5C20261107101935.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "China: Low Trust Cripples Chinese Government"
+  },
+  "https://www.dailymail.com/sciencetech/article-16277809/iPhone-grey-list-words-autocomplete.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Revealed: The 'grey list' of words and phrases your iPhone refuses to autocomplete for you - including 'male chauvinist pig', 'Trump dictator', and 'I'm gay' | Daily Mail Online"
+  },
+  "https://economictimes.indiatimes.com/news/international/us/in-2024-a-taipei-bar-photo-showed-alice-huang-next-to-nvidia-ceo-jensen-huang-what-us-intelligence-says-happened-next/articleshow/135683732.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "In 2024, a Taipei bar photo showed Alice Huang next to Nvidia CEO Jensen Huang; what US intelligence says happened next - The Economic Times"
+  },
+  "https://www.munhwa.com:443/article/11629912": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "젠슨 황 “아내에 상처” 불륜 인정… 美, AI기술유출 ‘中미인계’ 조사 | 문화일보"
+  },
+  "https://www.shorouknews.com/news/view.aspx?cdate=09112026&id=a578010e-d8af-453c-87d2-0241e3cbc8e1": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "020",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "ممثل تايوان لدى الولايات المتحدة يحث إدارة ترامب على التحرك بشأن صفقة أسلحة متعثرة - \r\n        بوابة الشروق"
+  },
+  "https://www.deccanchronicle.com/technology/who-is-alice-huang-chinese-exec-accused-of-spying-on-nvidia-ceo-2002856": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Who is Alice Huang, Chinese Executive Accused of Spying on Nvidia CEO?"
+  },
+  "https://www.nextbigfuture.com/2026/11/temptation-of-an-engineering-rockstar.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Temptation of An Engineering Rockstar – NextBigFuture.com"
+  },
+  "https://www.delfi.lt/en/politics/mfa-urges-taiwan-to-change-name-of-representative-office-in-lithuania-media-120331318": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Lithuania urged Taiwan to rename Vilnius office - Delfi EN"
+  },
+  "https://www.channelnewsasia.com/world/nvidia-alice-huang-spying-jensen-6535566": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Who is Alice Huang, Chinese exec accused of spying on Nvidia CEO? - CNA"
+  },
+  "https://www.moneycontrol.com/news/business/from-father-to-daughter-son-and-son-in-law-how-jensen-huang-s-family-is-embedded-in-nvidia-14075356.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "From father to daughter, son and son-in-law: How Jensen Huang's family is embedded in Nvidia"
+  },
+  "https://wesm913.org/who-is-alice-huang-nvidia-ceo-jensen-huang-apologizes-to-family-after-admitting-infidelity/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Who Is Alice Huang? Nvidia CEO Jensen Huang Apologizes to Family After Admitting Infidelity – wesm913.org"
+  },
+  "https://www.bfmtv.com/tech/intelligence-artificielle/milliardaire-tromperie-soupcon-d-espionnage-le-patron-de-nvidia-au-c-ur-d-un-scandale-qui-fait-trembler-le-geant-de-l-ia_AV-202611090909.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Scandale chez Nvidia: milliardaire, infidélité, soupçon d'espionnage... Le patron du géant de l'IA dans la tourmente"
+  },
+  "https://www.koreaherald.com/article/10931215": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia's shares slide as chip giant probes CEO over spy claims - The Korea Herald"
+  },
+  "https://www.hani.co.kr/arti/international/international_general/1286519.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "젠슨 황 스캔들…중국의 첩보 공작인가, 최고경영자의 단순 일탈인가"
+  },
+  "https://en.dailypakistan.com.pk/09-Nov-2026/who-is-alice-huang-former-chinese-journalist-linked-to-nvidia-ceo-in-espionage-affair": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Who is Alice Huang? Former Chinese Journalist linked to Nvidia CEO in 'Espionage Affair'"
+  },
+  "https://aninews.in/news/world/asia/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference20261109135712/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan detains Communist Party chairman over suspected Chinese funding, election interference"
+  },
+  "https://therightscoop.com/dude-nvidia-ceo-admits-to-affair-with-chinese-spy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "DUDE – NVIDIA CEO admits to affair with Chinese Spy – The Right Scoop"
+  },
+  "https://ichannela.com/news/detail/000000559149.do": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "[김종석의 왜]‘깐부’ 젠슨 황의 그녀는 中 스파이? | 채널A 뉴스"
+  },
+  "https://focustaiwan.tw:443/sci-tech/202611090012": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Lai highlights Taiwan's push for independent satellite launches - Focus Taiwan"
+  },
+  "https://www.zerohedge.com/markets/detonator-set-right-cue-why-washington-seized-jensen-huang-scandal-draw-its-sword": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Nvidia Spy Scandal Widens: Feds' Megaspeed Probe Was Derailed After Nvidia Came Knocking<!-- --> | ZeroHedge"
+  },
+  "https://www.huffingtonpost.kr:443/article/261919": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "허프포스트코리아"
+  },
+  "https://www.hankookilbo.com/news/article/A2026110910250005036": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "허리 감싸고 볼에 입맞춰… 젠슨 황·'中 스파이 의혹' 여성 영상 재조명-국제ㅣ한국일보"
+  },
+  "https://www.businessinsider.com/timeline-nvidia-ceo-jensen-huang-affair-disclosure-china-investigation-2026-11": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "How the Jensen Huang Scandal Unfolded - Business Insider"
+  },
+  "https://www.business-standard.com/world-news/nvidia-ceo-jensen-huang-s-affair-admission-counters-past-statements-on-ties-126110900278_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Nvidia CEO Jensen Huang's affair admission counters past statements on ties | World News - Business Standard"
+  },
+  "https://www.franceguyane.fr/actualite/international/soupcons-despionnage-chinois-du-patron-de-nvidia-ce-que-lon-sait-1099123.php": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Soupçons d'espionnage chinois du patron de Nvidia : ce que l'on sait"
+  },
+  "https://english.elpais.com/economy-and-business/2026-11-09/alice-huang-the-suspected-chinese-spy-at-the-center-of-the-nvidia-controversy.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Alice Huang, the suspected Chinese spy at the center of the Nvidia controversy | Economy and Business | EL PAÍS English"
+  },
+  "https://www.aol.co.uk/articles/ai-poster-boy-chinese-spy-200105000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security - AOL"
+  },
+  "https://www.nzherald.co.nz/business/chip-inquiry-in-us-was-halted-after-nvidia-intervention/premium/TT5NDCLE5NDEJFWCM3ADBXZLTE/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Chip inquiry in US was halted after Nvidia intervention - NZ Herald"
+  },
+  "https://eldeber.com.bo/bbc/jensen-huang-migrante-taiwanes-paso-lavar-platos-fundar-nvidia-hoy-enfrenta-investigacion-relacion-presunta-espia-china_1794230363": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 90,
+   "title": "Jensen Huang, el migrante taiwanés que pasó de lavar platos a fundar Nvidia y hoy enfrenta una investigación por su relación con una presunta espía china"
+  },
+  "https://www.the-star.co.ke/news/world/2026-11-09-what-we-know-about-nvidia-ceo-affair-with-chinese-spy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy"
+  },
+  "https://econotimes.com/U-S-Accounts-for-35-59-of-Taiwan-Financial-Holding-Groups-Overseas-Exposure-1773585": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "U.S. Accounts for 35.59% of Taiwan Financial Holding Groups’ Overseas Exposure | EconoTimes"
+  },
+  "https://www.linternaute.com/actualite/depeches/11313391-soupcons-d-espionnage-chinois-du-patron-de-nvidia-ce-que-l-on-sait/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Soupçons d'espionnage chinois du patron de Nvidia : ce que l'on sait"
+  },
+  "https://wccftech.com/terafab-is-now-aiming-for-a-memory-production-capacity-of-around-700000-wafers-per-month-which-is-roughly-equal-to-samsungs-entire-dram-capacity/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Terafab Is Now Aiming For A Memory Production Capacity Of Around 700,000 Wafers Per Month, Which Is Roughly Equal To Samsung's Entire DRAM Capacity"
+  },
+  "https://www.fnnews.com/news/202611091445414197": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "\"자녀가 엔비디아 이끄는 게 꿈\"…불륜 파문 속 젠슨 황 '가족경영' 주목 - 파이낸셜뉴스"
+  },
+  "https://www.dailynebraskan.com/news/first-generation-husker-earns-obama-foundation-scholarship/article_4edcc133-5e17-4e76-bf34-cb2c8bd1b051.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "First-generation Husker earns Obama Foundation Scholarship | News | dailynebraskan.com"
+  },
+  "https://www.fnnews.com/news/202611090843351401": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "\"결국 미인계에 뚫렸나\"…젠슨 황 '불륜'에 글로벌 여론 발칵 - 파이낸셜뉴스"
+  },
+  "https://www.fnnews.com/news/202611091119280808": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "'젠슨 황 스캔들'에 촉각 곤두선 韓 반도체…\"글로벌 공급망 요동치나\" - 파이낸셜뉴스"
+  },
+  "https://www.munhwa.com:443/article/11630018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "젠슨 황 재산 220조원…이혼시 아내 몫 ‘깜놀’ | 문화일보"
+  },
+  "https://nypost.com/2026/11/09/us-news/trump-defends-honorable-nvidia-boss-after-explosive-affair-with-chinese-spy-revealed/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump defends 'honorable' Nvidia boss after explosive affair with Chinese 'spy' revealed"
+  },
+  "https://www.insight.co.kr/news/581133": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "“아내에게 불충실했다”... 젠슨 황, 中 스파이 의심 여성과 불륜 인정"
+  },
+  "https://focustaiwan.tw/business/202611090013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Nvidia CEO controversy unlikely to derail AI demand: Sources - Focus Taiwan"
+  },
+  "https://www.hindustantimes.com/world-news/us-news/jensen-huang-s-journey-from-taiwan-to-washing-dishes-at-dennys-to-founding-ai-chip-giant-nvidia-101794188868387.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Jensen Huang’s journey: From Taiwan to washing dishes at Denny's to founding AI chip giant Nvidia | Hindustan Times"
+  }
+ }
+}

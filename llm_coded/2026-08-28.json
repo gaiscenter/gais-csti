@@ -1,0 +1,263 @@
+{
+ "date": "2026-08-28",
+ "generated_at": "2026-11-12T10:05:05",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 34,
+ "n_articles": 30,
+ "n_no_text": 4,
+ "n_coded": 29,
+ "n_relevant": 8,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://aninews.in/news/world/asia/taiwan-warns-new-cybersecurity-border-rules-by-china-could-up-the-risks-for-taiwanese20260828145736/"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/29/2003863327": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Groups urge accuracy at US museum - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863292": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Scam cases fall after Xiaohongshu ban: MAC - Taipei Times"
+  },
+  "https://www.yahoo.com/news/articles/islands-key-taiwans-defense-troops-060259320.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike"
+  },
+  "https://www.asiaone.com:443/asia/islands-key-taiwans-defence-troops-prepare-chinese-first-strike": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "On islands key to Taiwan's defence, troops prepare for a Chinese first strike, Asia News - AsiaOne"
+  },
+  "https://www.asiaone.com/asia/islands-key-taiwans-defence-troops-prepare-chinese-first-strike": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "On islands key to Taiwan's defence, troops prepare for a Chinese first strike, Asia News - AsiaOne"
+  },
+  "https://www.alternet.org/trump-military-allies/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Defense officials sound alarm over 'shocking' harm Trump does to US - Alternet.org"
+  },
+  "https://www.hngn.com/articles/272954/20260828/war-game-penghu-fell-day-now-taiwan-trying-change-that.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "In a War Game, Penghu Fell in a Day — Now Taiwan Is Trying to Change That"
+  },
+  "https://noticiabrasil.net.br/20260828/guerra-com-ira-expoe-retracao-militar-dos-eua-e-preocupa-aliados-diz-midia-53586449.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Guerra com Irã expõe retração militar dos EUA e preocupa aliados, diz mídia - 28.08.2026, Sputnik Brasil"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/29/2003863337": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Hualien, Union Bank partner on restoring forest, river habitat - Taipei Times"
+  },
+  "https://www.pressenza.com/2026/08/the-indo-pacific-begins-rehearsing-confrontation/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Indo-Pacific Begins Rehearsing Confrontation"
+  },
+  "https://oglobo.globo.com/mundo/noticia/2026/08/28/china-intensifica-pressao-sobre-taiwan-com-mobilizacao-recorde-de-navios-em-julho.ghtml": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China intensifica pressão sobre Taiwan com mobilização recorde de navios em julho"
+  },
+  "http://www.greenvillebusinessmag.com/premium/stories/darline-graham-wins-gop-nomination-for-next-us-senate-term-following-her-brothers-death,53737": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Darline Graham Wins GOP Nomination for Next U.S. Senate Term following her Brother’s Death - Greenville Business Magazine"
+  },
+  "http://www.prnewswire.com/news-releases/gigabyte-collaborates-with-nvidia-to-enhance-gaming-with-geforce-rtx-50-series-and-control-resonant-bundle-302858857.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "GIGABYTE Collaborates with NVIDIA to Enhance Gaming with GeForce RTXâ¢ 50 Series and CONTROL Resonant Bundle"
+  },
+  "https://evertiq.com/news/2026-08-28-taiwan-charges-9-over-illegal-ai-server-exports-to-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan charges 9 over illegal AI server exports to China"
+  },
+  "https://www.manilatimes.net/2026/08/28/tmt-newswire/pr-newswire/gigabyte-collaborates-with-nvidia-to-enhance-gaming-with-geforce-rtx-50-series-and-control-resonant-bundle/2414286": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "GIGABYTE Collaborates with NVIDIA to Enhance Gaming with GeForce RTX™ 50 Series and CONTROL Resonant Bundle\n\n | The Manila Times"
+  },
+  "https://news.mail.ru/politics/72157850/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Reuters рассказал, как Тайвань готовится к «первому удару» Китая - Новости Mail"
+  },
+  "https://money.bg/business/zashto-nokia-izostavi-40-godini-biznes-v-kitay-i-sakrati-stotitsi-sluzhiteli.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Защо Nokia изостави 40 години бизнес в Китай и съкрати стотици служители - Money.bg"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-bought-161600008.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Billionaire Stanley Druckenmiller Just Bought Taiwan Semiconductor Stock. Is the Foundry Giant Still a Screaming Buy?"
+  },
+  "https://www.7newsbelize.com/printstory.php?func=print&nid=79670": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Print this news article"
+  },
+  "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September | Tom's Hardware"
+  },
+  "https://profile.ru/news/abroad/o-podgotovke-tajvanya-k-vtorzheniju-kitaya-rasskazalo-reuters-1895990/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "О подготовке Тайваня к вторжению Китая рассказал Reuters - Информационное агентство Деловой журнал Профиль - profile.ru"
+  },
+  "https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "China Pulls Artists from Gwangju Biennale Over  ‘Taiwan Pavilion’"
+  },
+  "https://www.aol.com/articles/billionaire-stanley-druckenmiller-just-bought-161600000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Billionaire Stanley Druckenmiller Just Bought Taiwan Semiconductor Stock. Is the Foundry Giant Still a Screaming Buy? - AOL"
+  },
+  "https://finance.yahoo.com/markets/stocks/articles/nvidias-record-results-arent-impressive-020000513.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia's Record Results Aren't ‘Impressive Enough' Because It's Sold Out, Analyst Says"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/08/28/2003863300": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "TPP-KMT cooperation tested over Jhubei mayor race - Taipei Times"
+  },
+  "https://drudge.com/news/294124/grahams-win-south-carolina-shows-trumps": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Graham's Win in South Carolina Shows Trump's Still Got Sway | Drudge Retort"
+  },
+  "https://lb.ua/world/2026/08/28/762058_reuters_tayvan_gotuie.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Reuters: Тайвань посилює оборону островів Пенху в Тайванській протоці"
+  },
+  "https://www.newyorker.com/news/the-lede/could-data-centers-swing-an-election-in-wisconsin": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Could Data Centers Swing an Election in Wisconsin? | The New Yorker"
+  },
+  "https://www.7newsbelize.com/sstory.php?nid=79670": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "7 News Belize"
+  }
+ }
+}
