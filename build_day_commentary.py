@@ -224,6 +224,12 @@ _TERMS = [
     (re.compile(r"[台臺]灣地區"), "臺灣"),
     (re.compile(r"中華[台臺]北"), "臺灣"),
     (re.compile(r"台灣"), "臺灣"),          # 표기 통일 (Kay 지정: 臺灣)
+    # 大陸 계열은 대만에서도 쓰는 말이지만, 이 지수는 中國 으로 통일한다.
+    # 한 해설 안에서 두 호칭이 섞이면 읽는 사람이 다른 주체로 오해한다.
+    (re.compile(r"大陸當局"), "中國政府"),
+    (re.compile(r"中國大陸"), "中國"),
+    # 歐洲大陸·美洲大陸 같은 지리 용어는 건드리지 않는다 (앞 글자가 洲 다).
+    (re.compile(r"(?<![歐美非亞洲])大陸(?!棚|性|法系)"), "中國"),
     # 대만 어법으로 통일한다. 홍콩·대륙 표기가 섞이면 바로 티가 난다.
     (re.compile(r"網絡"), "網路"),
     (re.compile(r"信息"), "資訊"),
@@ -324,7 +330,15 @@ PROMPT = """아래는 대만과 {kr}({en}) 사이의 {day} 하루 긴장도 지�
 {{"ko": "한국어 해설", "en": "English commentary", "zh": "繁體中文解說", "used": [사용한 기사 번호]}}"""
 
 
-def write_one(client, days, day, partner):
+_HANGUL = re.compile(r"[가-힣]")
+
+
+def _zh_clean(text):
+    """번체 해설에 한글이 섞였는지. 모델이 세 언어를 한 번에 낼 때 드물게 샌다."""
+    return not _HANGUL.search(text or "")
+
+
+def write_one(client, days, day, partner, _retry=True):
     cell = days[day][partner]
     ab, arts = articles_block(cell)
     msg = PROMPT.format(kr=COUNTRY_KR.get(partner, partner),
@@ -347,9 +361,14 @@ def write_one(client, days, day, partner):
     zh = normalize_terms((j.get("zh") or "").strip())
     if not ko and not en and not zh:
         return day, partner, None, "본문 비어 있음"
+    # 번체에 한글이 섞이면 한 번만 다시 부른다. 두 번째도 섞이면 그대로 두되
+    # 표시를 남긴다 — 조용히 넘기면 발표장에서 발견하게 된다.
+    if zh and not _zh_clean(zh) and _retry:
+        return write_one(client, days, day, partner, _retry=False)
     used = [arts[n - 1] for n in (j.get("used") or []) if 1 <= n <= len(arts)]
     return day, partner, {
-        "ko": ko, "en": en, "zh": zh, "model": MODEL,
+        "ko": ko, "en": en, "zh": zh, "zh_mixed": (bool(zh) and not _zh_clean(zh)) or None,
+        "model": MODEL,
         "codebook_fingerprint": cell["fingerprint"],
         # 이 해설이 몇 건을 보고 쓰였는지. 나중에 기사가 늘면 다시 쓰기 위해서다.
         "n_articles": len(cell["articles"]),
@@ -428,8 +447,12 @@ def main():
             n_now = len(cell["articles"])
             # 얇은 칸이 두꺼워졌거나 그 반대면 형식이 바뀌어야 한다
             was_thin, is_thin = bool(have.get("thin")), n_now < MIN_ARTICLES
+            # 번체에 한글이 샌 칸은 다시 쓴다. 사실기록은 기사 제목을 그대로
+            # 인용하므로 한글이 정상이다 — 모델이 쓴 칸만 본다.
+            zh_bad = (not have.get("thin") and have.get("zh")
+                      and not _zh_clean(have["zh"]) and not have.get("zh_mixed"))
             if day >= today_utc or have.get("n_articles") not in (None, n_now) \
-                    or was_thin != is_thin:
+                    or was_thin != is_thin or zh_bad:
                 todo.append((day, partner))
                 redo.append((day, partner, have.get("n_articles"), n_now))
     if redo:
