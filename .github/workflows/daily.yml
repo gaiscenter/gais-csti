@@ -71,47 +71,12 @@ jobs:
         run: |
           git config user.name "GAIS Bot"
           git config user.email "bot@gaiscenter.org"
-          git add csti_output.json
-          if [ -f audit_log.json ]; then git add audit_log.json; fi
-          # 당일 판정 캐시. 커밋하지 않으면 매 실행 빈 상태로 시작해 캐시가 무의미해진다.
-          if [ -f audit_cache.json ]; then git add audit_cache.json; fi
-          # GKG(사이버) 결과 캐시. 하루 1회만 조회하고 나머지 7회는 이 파일을 재사용하므로,
-          # 커밋하지 않으면 매 실행 다시 조회해 BigQuery 스캔이 8배로 돌아간다.
-          if [ -f cyber_cache.json ]; then git add cyber_cache.json; fi
-          if [ -f daily_history.json ]; then git add daily_history.json; fi
-          # 날짜별 감사값 누적 기록(2026-10-14 추가). 추적 중인 파일을 파이프라인이
-          # 매 실행 고쳐 쓰므로, 여기서 staged 하지 않으면 git pull --rebase 가
-          # "You have unstaged changes" 로 거부하며 push 가 통째로 실패한다.
-          if [ -f audited_series.json ]; then git add audited_series.json; fi
-          # LLM 코딩 계층(그림자 모드). llm_coder.py 를 올리기 전에는 이 파일들이
-          # 생성되지 않으므로 아래 세 줄은 아무 일도 하지 않는다. 미리 넣어 두는 것은,
-          # 코딩 결과가 커밋되지 않으면 실행 때마다 사라져 재현이 불가능해지기 때문이다.
-          if [ -f llm_coding.json ]; then git add llm_coding.json; fi
-          if [ -f llm_index.json ]; then git add llm_index.json; fi
-          if [ -f llm_coder_cache.json ]; then git add llm_coder_cache.json; fi
-          # 날짜별 누적(2026-10-23 추가). llm_index.json 은 그날치만 담고 매 실행
-          # 덮이므로, 대시보드를 LLM 으로 전환했을 때 그래프가 쓸 과거는 이 파일에만
-          # 있다. 이것이 빠지면 전환일 그래프에 점이 하나만 찍힌다.
-          if [ -f llm_series.json ]; then git add llm_series.json; fi
-          # 기사별 태그의 **날짜별 영구 기록**(2026-11-02 추가). llm_coding.json 은
-          # 매 실행 덮이므로 어제 것이 사라진다. 해설 생성기가 이 폴더를 읽기
-          # 때문에, 빠지면 해설이 백필 마지막 날에서 멈춘다.
-          if [ -d llm_coded ]; then git add llm_coded/; fi
-          if [ -f llm_commentary.json ]; then git add llm_commentary.json; fi
-          # 기사 본문 보관소(달 단위 샤드). 코드북이 바뀌면 태그 캐시는 폐기되지만
-          # 본문은 코드북과 무관하고 다시 구할 수 없다 — 기사는 내려간다.
-          if [ -d llm_text ]; then git add llm_text/; fi
-          if [ -d raw_data ]; then git add raw_data/; fi
-          git diff --cached --quiet || git commit -m "CSTI update $(date +%Y-%m-%d)"
-          # **푸시를 재시도한다.** 2026-11-04 09:52 에 GitHub 이 500(Internal Server
-          # Error)을 돌려줘 그 회차 산출물이 통째로 버려졌다. 지수는 다음 실행이
-          # 다시 만들지만 **기사 본문은 다시 못 구한다** — 기사는 내려간다.
-          # 한 번의 일시 장애로 그날 본문을 잃지 않도록 네 번까지 다시 민다.
-          for i in 1 2 3 4; do
-            git pull --rebase origin main || true
-            if git push; then echo "푸시 성공 (시도 $i)"; exit 0; fi
-            echo "::warning::푸시 실패 (시도 $i/4) — $((i*15))초 뒤 재시도"
-            sleep $((i*15))
-          done
-          echo "::error::네 번 모두 푸시에 실패했습니다. 이 회차 산출물은 커밋되지 않았습니다."
-          exit 1
+          # **직접 rebase 하지 않는다.** 2026-11-12 에 백필과 겹쳐 llm_series.json
+          # 과 llm_coder_cache.json 이 충돌했고, 재시도 루프가 충돌 상태를 정리하지
+          # 않아 네 번 모두 "unmerged files" 로 죽었다. 그 회차 산출물이 버려졌다.
+          #
+          # 줄 단위 병합으로는 못 푼다 — 일일 실행은 오늘 날짜 키를, 백필은 과거
+          # 날짜 키를 넣는다. 충돌을 '우리 것 우선'으로 풀면 백필 90일이 날아간다.
+          # commit_outputs.py 가 origin/main 위로 리셋한 뒤 **키 단위로** 합친다.
+          PRESERVE_PATHS="csti_output.json audit_log.json audit_cache.json cyber_cache.json daily_history.json audited_series.json llm_coding.json llm_index.json llm_coder_cache.json llm_series.json llm_coded llm_text raw_data" \
+            COMMIT_MSG="CSTI update $(date +%Y-%m-%d)" python commit_outputs.py
