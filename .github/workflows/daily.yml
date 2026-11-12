@@ -30,7 +30,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-kbti:
+  update-csti:
     runs-on: ubuntu-latest
     steps:
       - name: 저장소 체크아웃
