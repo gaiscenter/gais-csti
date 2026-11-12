@@ -47,9 +47,9 @@ def population():
             sys.exit(f"지정한 모집단 CSV 가 없다: {p}")
         print(f"  모집단: {p} (지정)")
         return p
-    cand = sorted(glob.glob("paper_archive/matched_events_*.csv"))
+    cand = sorted(glob.glob("window_archive/matched_events_*.csv"))
     if not cand:
-        sys.exit("모집단 CSV가 없다. archive_paper_window.py 를 먼저 돌려라.")
+        sys.exit("모집단 CSV가 없다. archive_window.py 를 먼저 돌려라 (워크플로: CSTI 모집단 추출).")
 
     def _end(p):
         stem = os.path.basename(p)[len("matched_events_"):-len(".csv")]
