@@ -2,7 +2,7 @@
 """과거 날짜를 LLM 으로 전수 코딩하고 날짜별 지수를 만든다.
 
 이것이 세 팔 비교의 마지막 조각이다.
-  ① GDELT 원시      paper_archive CSV 에 이미 있다
+  ① GDELT 원시      window_archive CSV 에 이미 있다
   ② GDELT + 감사    audited_series.json 과 감사 히스토리에 있다
   ③ LLM 전수 코딩   ← 이 스크립트가 만든다
 
@@ -67,7 +67,7 @@ else:
 
 # raw_data/ 를 모집단으로 쓰도록 **명시적으로** 켜는 스위치.
 # raw_data 는 그날 마지막 실행 시점의 행만 담는데 GDELT 는 지난 날짜에 기사를
-# 계속 덧붙인다. 실측(2026-10-27) 결과 같은 구간에서 paper_archive 대비 12.8%가
+# 계속 덧붙인다. 실측(2026-10-27, KBTI) 결과 같은 구간에서 모집단 CSV 대비 12.8%가
 # 빠져 있었고, 빠진 것은 무작위가 아니라 '늦게 올라온 기사'다.
 # 대시보드 구멍을 메우는 데는 충분하지만 **논문 말뭉치로는 못 쓴다.**
 # 그래서 기본값은 꺼짐이고, 쓴 날짜는 파일에 표시한다.
@@ -104,9 +104,10 @@ def population():
             sys.exit(f"지정한 모집단 CSV 가 없다: {p}")
         print(f"  모집단: {p} (지정)")
         return p
-    cand = sorted(glob.glob("paper_archive/matched_events_*.csv"))
+    cand = sorted(glob.glob("window_archive/matched_events_*.csv"))
     if not cand:
-        sys.exit("모집단 CSV가 없다. archive_paper_window.py 를 먼저 돌려라.")
+        sys.exit("모집단 CSV가 없다. archive_window.py 를 먼저 돌려라 "
+                 "(워크플로: CSTI 모집단 추출).")
 
     def _end(p):
         stem = os.path.basename(p)[len("matched_events_"):-len(".csv")]
@@ -363,7 +364,7 @@ def main():
                    # 어느 모집단에서 나온 날인지 파일 안에 적는다. 로그는 사라지고
                    # 파일은 남는다 — 논문이 인용하기 전에 여기를 보면 된다.
                    "population_source": ("raw_data" if d in raw_days
-                                         else "paper_archive"),
+                                         else "window_archive"),
                    "articles": {u: {"tags": r["tags"], "mentions": r["mentions"],
                                     "title": r["title"]} for u, r in coded.items()}}
         with open(out_path, "w", encoding="utf-8") as f:
