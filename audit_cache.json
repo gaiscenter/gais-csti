@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
   "prompt_version": 3,
-  "saved_at": "2026-11-12T13:25:41.649457",
+  "saved_at": "2026-11-12T19:06:38.868304",
   "entries": {
     "https://www.fnnews.com/news/202611101814537024|193|neg": {
       "ok": false,
@@ -1317,6 +1317,384 @@
         "c2": false,
         "c3": null,
         "reason": "조건1: 예 — 기사는 중국의 군용기 4대와 함정 8척이 대만 주변에서 감지된 사건, 중국 해경의 대만 동부 해역 순찰 및 위협 행위를 다루고 있으며, 이는 중국과 대만 간의 직접적인 안보 관련 상호작용입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사 활동 증가, 해경의 괴롭힘, 위협적 행동을 보도하는 부정적/갈등적 내용이나, GDELT의 GoldsteinScale +0.0은 협력"
+      }
+    },
+    "https://noticias.perfil.com/noticias/opinion/la-noche-triste-de-trump.phtml|030|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "La noche triste de Trump | Noticias",
+      "text_len": 2500,
+      "paragraph_1": "Como nos advirtió Heráclito, en este universo nada es permanente, pero incluso el filósofo griego se habría sorprendido ante la rapidez con la que cambian las cosas en el mundo político actual en que lo que un día parece inevitable puede esfumarse por  completo el siguiente. Hace apenas dos años, muchos analistas norteamericanos daban por moribundo al Partido Demócrata, cuya candidata, Kamala Harris, acababa de sufrir una contundente derrota en la contienda presidencial frente a un resurgido Donald Trump. Sin embargo, a pesar de seguir divididos y sin darse el trabajo de modificar sus propuestas, los demócratas lograron recuperarse lo suficiente como para cosechar una victoria espectacular en las elecciones de mitad de mandato de la semana pasada.",
+      "paragraph_2": "Desde entonces, quienes predijeron la inminente desaparición del Partido Demócrata están diciendo prácticamente lo mismo sobre el Republicano y, claro está, sobre el propio Trump, para quien los resultados fueron un desastre absoluto. Durante al menos los próximos dos años, demócratas sedientos de revancha, cuyo odio y desprecio hacia Trump no conocen límites, controlarán ambas cámaras del Congreso. Algunos intentarán someterlo a un juicio político con la esperanza de destituirlo, otros se conformarán con hacer todo lo posible por obligarlo a suavizar su postura en cuestiones como la inmigración ilegal -algo que, para sorpresa de muchos, dice estar dispuesto a hacer-, además de cohonestar las cuotas raciales destinadas a favorecer a minorías étnicas, garantizar los derechos adquiridas de las personas transexuales y otros temas que obsesionan a los activistas.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국 내 트럼프와 민주당 간의 정치적 갈등을 다루고 있으며, 대만과 중국 간의 양자 관계나 사건을 직접 다루지 않습니다. 조건2: 아니오 — 해당 없음 (조건1 불충족). 최종: 아니오"
+      }
+    },
+    "https://www.naturalnews.com/2026-11-12-xi-taiwan-reunification-trump-meeting.html|190|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Xi declares Taiwan âreunificationâ inevitable days before Trump meeting   â NaturalNews.com",
+      "text_len": 2500,
+      "paragraph_1": "Xi Jinping declared Taiwan's unification with China an unstoppable historical necessity in a speech commemorating revolutionary Sun Yat-sen. Taipei rejected Xi's remarks, stating they were not that different from Beijing's past positions. Beijing and Taipei both claim Sun Yat-sen's legacy, using his anniversary as a proxy for competing national narratives. Xi reiterated peaceful reunification under \"one country, two systems,\" but Taiwan refuses to accept Communist Party rule. The speech precedes Xi's meeting with Trump at APEC, with Taiwan remaining a volatile issue between the superpowers.",
+      "paragraph_2": "Taipei rejected Xi's remarks, stating they were not that different from Beijing's past positions. Beijing and Taipei both claim Sun Yat-sen's legacy, using his anniversary as a proxy for competing national narratives. Xi reiterated peaceful reunification under \"one country, two systems,\" but Taiwan refuses to accept Communist Party rule. The speech precedes Xi's meeting with Trump at APEC, with Taiwan remaining a volatile issue between the superpowers.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 시진핑의 대만 통일 선언은 대만을 직접 겨냥한 정치적 위협이자 대만의 미래를 일방적으로 규정하는 행위로, 두 국가(중국과 대만) 간의 핵심 분쟁 사안을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 중국의 통일 강요, 대만의 거부, 양측의 대립 및 불일치를 부각하고 있어, 갈등적/부정적 코드와 일치합니다. 조건3: 예 — 부정적 논조의 주체는 중국(Xi의 일방적 선언)"
+      }
+    },
+    "https://www.dsnews.ua/ukr/world/si-czinpin-zayaviv-pro-namir-dosyagti-povnogo-vozz-yednannya-z-tayvanem-12112026-471700|120|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Сі Цзіньпін заявив про намір досягти \"повного возз’єднання\" з Тайванем — DSnews.ua",
+      "text_len": 1906,
+      "paragraph_1": "Лідер Китаю Сі Цзіньпін вкотре озвучив намір Пекіна встановити контроль над Тайванем, пообіцявши прагнути мирного врегулювання за політичною формулою \"одна країна — дві системи\"",
+      "paragraph_2": "Про це повідомляє агентство Reuters за підсумками промови голови КНР у Великому залі народних зібрань у Пекіні 12 листопада, передає \"ДС\".",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일 의지를 표명하고, 중국 군기의 대만 근처 활동(29대 군용기 및 군함의 '전투태세 순찰')을 기술하는 등, 대만과 중국 정부 간의 직접적인 충돌 및 군사 위협 사건을 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 무력통일 추진 의지, 지속적인 군사 압박, 대만의 거부 반응 등을 기술하고 있으며, 이는 명확히 갈등적·부정적 방향과"
+      }
+    },
+    "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738|120|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China's Xi renews calls for 'reunification' with Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Chinese President Xi Jinping has renewed his calls for \"reunification” with Taiwan but refrained from mentioning the use of force.",
+      "paragraph_2": "\"The historical trends are unstoppable. The complete reunification of our motherland must be realized, and it can, without doubt, be realized,\" Xi said on Thursday.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 시진핑의 대만 통일 촉구 발언과 대만 정부의 반박은 중국과 대만 간 직접적인 정치·안보 갈등을 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 통일 촉구, 무력 불사 언급 과거, 대만의 거부 등을 담아 실제로 갈등적·부정적 성격을 일관되게 반영합니다. 조건3: 예 — 부정적 논조는 중국(시진핑의 위협적 발언)과 대만(거부 성명)이 서로를 향해 펼친 행위 자체에서 비롯되"
+      }
+    },
+    "https://istoe.com.br/china-pressiona-taiwan-g7-alerta-risco-conflito|052|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": null,
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사 본문이 완전히 손상되어 있어 대만과 시진핑 간의 실제 사건 내용을 확인할 수 없습니다. 조건2: 아니오 — 기사 내용을 읽을 수 없어 논조가 긍정적인지 부정적인지 검증할 수 없습니다. 최종: 아니오"
+      }
+    },
+    "https://www.okaz.com.sa/politics/na/2275234|090|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "قبل قمة ترمب وشي.. الرئيس الصيني يجدد موقفه من تايوان ويحذر من الانفصال - أخبار السعودية | صحيفة عكاظ",
+      "text_len": 2500,
+      "paragraph_1": "جدد الرئيس الصيني شي جين بينغ، تمسك بلاده بمسألة إعادة توحيد تايوان مع البر الرئيسي الصيني، مؤكداً أن «تيار التاريخ لا يمكن إيقافه»، ومشدداً على أن تحقيق ما وصفه بالوحدة الكاملة للوطن سيحدث حتماً، في تصريحات أثارت رفضاً جديداً من حكومة تايوان، التي أكدت تمسكها برفض صيغة «دولة واحدة ونظامان».",
+      "paragraph_2": "وقال شي، خلال كلمة ألقاها، اليوم (الخميس) في قاعة الشعب الكبرى بالعاصمة بكين، إن حل قضية تايوان يمثل «مهمة تاريخية ثابتة» للحزب الشيوعي الصيني، مضيفاً أن إعادة توحيد الوطن بالكامل أمر لا بد من تحقيقه.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 강조한 발언, 대만 정부의 이에 대한 거부 응답, 그리고 중국 군용기 29대의 대만 주변 군사활동을 보도하고 있으며, 이는 양측 간의 직접적인 갈등 행위(위협 발언과 군사 시위)를 다룬다. 조건2: 예 — 기사의 실제 내용은 중국의 통일 강요적 발언, 대만의 명확한 거부, 그리고 중국의 대규모 군사 활동 전개 등 명백히 갈등적이고 부정"
+      }
+    },
+    "https://timesofindia.indiatimes.com/world/us/president-maintains-complete-confidence-white-house-official-on-commerce-secy-lutnick-amid-nvidia-spy-scandal/articleshow/135773925.cms|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "'President maintains complete confidence in him': White House official on commerce secy Lutnick amid Nvidia 'spy' scandal",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국 상무장관 루트닉과 NVIDIA 관련 국내 스캔들을 다루고 있으며, 대만과 NVIDIA 간의 직접적인 국가 간 사건이 아니라 미국 내부 정치 문제입니다. 조건2: 아니오 — 기사의 논조는 \"스파이 스캔들\"이라는 부정적 내용을 담고 있어서 긍정적/협력적 방향과 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/|071|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO | TechCrunch",
+      "text_len": 2500,
+      "paragraph_1": "Jensen Huang has resigned from his position as president and chief executive of Nvidia, the company said on Thursday, just a few days after he admitted to a romantic affair with an alleged Chinese spy, sparking a U.S. national security crisis.",
+      "paragraph_2": "In a regulatory filing , Nvidia said its board accepted Huang’s resignation on Wednesday.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사는 Nvidia CEO의 개인적 스캔들과 경영진 교체에 관한 것으로, 대만과 대만-미국 간의 국가급 행위자 사이의 사건이 아니라 미국 기업의 내부 인사 문제입니다. 조건2: 아니오 — 기사의 실제 논조는 Nvidia CEO의 스캔들로 인한 주가 급락(-19%), 시장 가치 손실(8550억 달러) 등 부정적 내용이며, 이는 긍정적 협력과 거리가 있습니다. 최종: 아니"
+      }
+    },
+    "https://www.businessworld.in/article/nvidia-ceo-jensen-huang-resigns-after-33-years-cfo-kress-takes-interim-charge-633361|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia CEO Jensen Huang Resigns After 33 Years, CFO Kress Takes Interim Charge - BW Businessworld",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia co-founder Jensen Huang has stepped down as the company's president, chief executive officer and a member of its board with immediate effect, triggering a leadership transition at the US-based chipmaker. The company said on Thursday, 12 November, that Chief Financial Officer Colette Kress would take charge as interim CEO.",
+      "paragraph_2": "The board will consider both internal and external candidates for the permanent role. Kress will retain her CFO responsibilities alongside the interim position until a permanent successor takes charge.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia의 경영진 교체에 관한 미국 기업 뉴스일 뿐, 대만과 미국 정부 간의 국가급 행위(외교, 군사, 안보 관련 상호작용)를 다루고 있지 않습니다. 조건2: 예 — 기사의 논조는 경영 안정성과 연속성을 강조하는 긍정적 내용으로, 긍정 코드(+7.0)와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.samaa.tv/2087360149-nvidia-names-colette-kress-interim-ceo-after-huang-resigns|060|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia names Colette Kress interim CEO after Huang resigns | SAMAA TV",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia co-founder Jensen Huang has resigned as the company's president and chief executive officer with immediate effect, the company's board of directors announced on Thursday, November 12.",
+      "paragraph_2": "Chief Financial Officer Colette Kress has been appointed interim CEO and will continue to oversee the company's finances while the board searches for a permanent replacement. Nvidia also appointed Harvey C. Jones as its first-ever chair of the board.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 NVIDIA 내부 경영진 교체 사건이며, 대만은 TSMC가 NVIDIA 칩을 제조한다는 경제적 연결고리로만 부수적으로 언급되어 있을 뿐 대만-미국 두 국가 간의 직접적인 국가급 행위나 상호작용을 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 NVIDIA 경영진의 비리 의혹, 중국 첩보기관의 정보수집 시도, 도덕적 스캔들 등 부정적 내용이 중심"
+      }
+    },
+    "https://www.aol.com/articles/nvidia-stock-tumbles-amid-ceo-133910000.html|0831|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia stock tumbles as CEO Jensen Huang steps down, dragging down other AI names - AOL",
+      "text_len": 1394,
+      "paragraph_1": "Nvidia ( NVDA ) stock sank as much as 10% Thursday morning after CEO Jensen Huang resigned and the company board named CFO Colette Kress as interim chief executive officer.",
+      "paragraph_2": "Shares of Nvidia direct rivals jumped. Broadcom ( AVGO ) and AMD ( AMD ) gained on bets that its troubles could send more chip business their way. AMD ( AMD ) stock rose more than 3% while Broadcom ( AVGO ) edged higher.  The stocks extended gains following a jump on Wednesday.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO 사임으로 인한 주가 하락이 주요 내용이며, 대만(또는 대만 정부)과 미국 사이의 국가급 행위나 상호작용(군사행동, 외교분쟁, 정책충돌 등)을 다루고 있지 않고, TSMC는 단순히 NVIDIA의 칩 제조업체로 언급될 뿐입니다. 조건2: 아니오 — 기사의 실제 논조는 NVIDIA 경영진 교체로 인한 부정적 시장 반응(주가 급락, 투자자 심리 악화)을"
+      }
+    },
+    "https://thenextweb.com/news/nvidia-megaspeed-ban-gb300-imports-bloomberg|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia says it cut off Megaspeed in 2025, but Bloomberg found later imports",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia says it banned all sales and shipments to Megaspeed in June 2025, and that the ban is still in place, a company spokesman told The Wall Street Journal . Since then, Commerce has allowed Nvidia to send it parts and replacement components, the spokesman said.",
+      "paragraph_2": "Malaysian trade records show that Megaspeed imported at least 17,544 of Nvidia’s GB300 chips, worth about $787m, in November 2025, Mackenzie Hawkins reported for Bloomberg . Nvidia gave US officials a count of chips sold to Megaspeed through hardware partners. It was 50,000 units short, Bloomberg found. Megaspeed is still an official Nvidia Cloud Partner. TNW has not independently verified the reports.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-싱가포르 기업(Megaspeed) 간의 칩 수출 통제 및 스캔들을 다루고 있으며, 대만 또는 대만-미국 간의 직접적인 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 아니오 — 기사의 실제 내용은 Nvidia의 규제 회피 의혹, 칩 밀반출, 정부 관계자와의 부적절한 접촉 등 부정적/갈등적 성격의 내용이므로 긍정적 코드(+2.8)와 불일치합니다. 최종: 아니"
+      }
+    },
+    "https://timesofoman.com/article/179097-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-named-interim-ceo-by-board|100|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang resigns as Nvidia CEO, CFO Colette Kress named interim CEO by board - Times of Oman",
+      "text_len": 2500,
+      "paragraph_1": "New Delhi : Nvidia CEO Jensen Huang has opted to resign amidst mounting pressure, reported Reuters. Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday. Huang has been in the eye of a storm after it was revealed that he had an affair with Alice Huang (not his relation) a Chinese businesswoman who is alleged to be a intelligence asset. Jensen Huang was also reported have had another affair with a senior executive of Nvidia Kimberly Powell. Jensen Huang had acknowledged his affair with Alice Huang in a letter to Nvidia employees where he apologised for being unfaithful to his wife and violating her trust. Nvidia's board had also initiated an investigation into the matter, with the inquiry being led by law firm Wachtell, Lipton, Rosen & Katz. In May 2026 a Wall Street 'Short seller' Culper research had flagged Huang's alleged links to Alice Huang. According to CBS News, on May 13 this year Culper Research published a 40-page report highlighting Huang's ties to Alice Huang, a former television reporter and financial industry executive. According to the report, a copy of which is with ANI, Culper research said, \"Nvidia has repeatedly vouched for Megaspeed – its single largest Southeast Asian chip buyer currently under investigation by both U.S. Commerce and Singapore authorities.\" \"Nvidia CEO Jensen Huang has not only vouched for Megaspeed, but seems to have quite literally walked alongside Megaspeed at every step, while maintaining an uncomfortably close relationship with Megaspeed’s Alice Huang, a Chinese national. He was first spotted partying with Alice Huang in June 2024 – the same month the Apex/Alibaba pledge was filed. He then dined with Alice Huang in Taiwan in May 2025 – just weeks after the news of U.S. trade restrictions. Finally, per one current Megaspeed employee, Jensen visits Megaspeed-linked data centers “every few months” and “every single time” he visits, he is accompanied by representatives from Alibaba. The Megaspeed employee characterised their relationship with Jensen as “very close”, corroborating another former Nvidia employee’s suggestion to us that many Nvidia employees wondered if there was a special relationship,\" the report stated. Although Jensen Huang had got the backing of US President Donald Trump he was under extreme pressure with members of the US Congress flagging potential security risk of the affair with the alleged spy. Jensen Huang's exit puts the $4 trillion Nvidia in troubled waters and could potentially disrupt the AI industry which has been facing headwinds on the markets recently.",
+      "paragraph_2": "Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday. Huang has been in the eye of a storm after it was revealed that he had an affair with Alice Huang (not his relation) a Chinese businesswoman who is alleged to be a intelligence asset. Jensen Huang was also reported have had another affair with a senior executive of Nvidia Kimberly Powell. Jensen Huang had acknowledged his affair with Alice Huang in a letter to Nvidia employees where he apologised for being unfaithful to his wife and violating her trust. Nvidia's board had also initiated an investigation into the matter, with the inquiry being led by law firm Wachtell, Lipton, Rosen & Katz. In May 2026 a Wall Street 'Short seller' Culper research had flagged Huang's alleged links to Alice Huang. According to CBS News, on May 13 this year Culper Research published a 40-page report highlighting Huang's ties to Alice Huang, a former television reporter and financial industry executive. According to the report, a copy of which is with ANI, Culper research said, \"Nvidia has repeatedly vouched for Megaspeed – its single largest Southeast Asian chip buyer currently under investigation by both U.S. Commerce and Singapore authorities.\" \"Nvidia CEO Jensen Huang has not only vouched for Megaspeed, but seems to have quite literally walked alongside Megaspeed at every step, while maintaining an uncomfortably close relationship with Megaspeed’s Alice Huang, a Chinese national. He was first spotted partying with Alice Huang in June 2024 – the same month the Apex/Alibaba pledge was filed. He then dined with Alice Huang in Taiwan in May 2025 – just weeks after the news of U.S. trade restrictions. Finally, per one current Megaspeed employee, Jensen visits Megaspeed-linked data centers “every few months” and “every single time” he visits, he is accompanied by representatives from Alibaba. The Megaspeed employee characterised their relationship with Jensen as “very close”, corroborating another former Nvidia employee’s suggestion to us that many Nvidia employees wondered if there was a special relationship,\" the report stated. Although Jensen Huang had got the backing of US President Donald Trump he was under extreme pressure with members of the US Congress flagging potential security risk of the affair with the alleged spy. Jensen Huang's exit puts the $4 trillion Nvidia in troubled waters and could potentially disrupt the AI industry which has been facing headwinds on the markets recently.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 개인의 인사 문제와 스캔들을 다루고 있으며, 미국 정부와 대만 정부 간의 국가급 행위나 상호작용이 아니라 민간 기업 경영진의 개인적 문제입니다. 조건2: 아니오 — 기사의 실제 내용은 Nvidia CEO의 부도덕한 행동(불륜, 보안 위험)으로 인한 경영 진퇴 결정이며, 이는 미국-대만 간의 국가 간 갈등이나 충돌과 무관합니다. 조건3: 아니오 —"
+      }
+    },
+    "https://focustaiwan.tw:443/sci-tech/202611090012|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Lai highlights Taiwan's push for independent satellite launches - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 9 (CNA) President Lai Ching-te (賴清德) said Monday that Taiwan was working toward independently launching domestically manufactured satellites, highlighting increased government investment in space technology.",
+      "paragraph_2": "Speaking at the opening of the Taiwan International Assembly of Space Science, Technology and Industry (TASTI 2026) in Tainan, Lai said the government was supporting domestic satellite and rocket development while building the \"necessary testing and launch facilities.\"",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만의 독립적 위성 발사 능력 개발에 관한 것이며, NASA와의 상호작용은 \"NASA의 달 탐사 프로그램(Artemis)에 대만이 참여할 것\"이라는 단순 언급에 불과해 NASA→대만 간의 직접적 상호작용이나 일방적 행위가 아닙니다. 조건2: 예 — 기사의 실제 논조는 우호적 협력(위성 기술 개발 지원, NASA 아르테미스 프로그램 참여)으로 긍정적 코드"
+      }
+    },
+    "https://www.independent.co.uk/news/world/americas/us-politics/taiwan-us-arms-sales-koo-b3079672.html|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Key US ally insists its frozen 14 billion dollar military package is finally back on track | The Independent",
+      "text_len": 2500,
+      "paragraph_1": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+      "paragraph_2": "Already a member? Log in",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 미국의 대만에 대한 무기판매(방어능력 지원) 문제를 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 미국-대만 간의 양자 이슈입니다. 조건2: 아니오 — 기사의 실제 내용은 $14억 규모 무기판매 패키지가 \"교착 상태(stalled)\"에 있고, 트럼프 행정부가 이를 \"협상 칩\"으로 보류 중이며, 중국이 반발하는 등 긍정적이지 않은 상황을 다루고 있으나, GDELT"
+      }
+    },
+    "https://slguardian.org/nvidias-huang-falls-as-sex-and-espionage-scandal-exposes/|010|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia’s Huang Falls as Sex and Espionage Scandal Exposes",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO의 개인적 스캔들(성적 관계, 첩보 혐의)을 다루고 있으며, 미국과 대만 간의 국가급 행위나 양국 관계에 직접적으로 영향을 주는 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 부정적(스캔들, 타락, 의혹)이지만 GoldsteinScale +0.0으로 협력적/긍정적으로 분류되어 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://focustaiwan.tw/politics/202611120026|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "MAC urges Beijing to recognize ROC's existence after Xi's remarks - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 12 (CNA) The Mainland Affairs Council (MAC) on Thursday urged Beijing to recognize the continued existence of the Republic of China (ROC) and respect Taiwan's democracy after Chinese President Xi Jinping (習近平) reiterated that unification with Taiwan was inevitable.",
+      "paragraph_2": "Xi made the remarks at a ceremony in Beijing marking what China calls the 160th anniversary of the birth of Sun Yat-sen (孫中山), who led the revolution that overthrew the Qing dynasty and established the ROC in 1912.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국 주석의 통일 언급과 대만 정부의 공식 대응으로 이루어진 양국(정부급 행위자) 간의 직접적인 정치적 교환을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 통일 압박과 위협적 언사(통일은 \"필연적\", \"반드시 달성될 것\"), 그리고 대만 정부의 거부 및 항의로 이루어져 있어서 갈등·대립 성격이 강하므로, +3.4의 긍정적 코드와 불일치합니다. 최종:"
+      }
+    },
+    "http://inews24.com/view/2025767|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "엔비디아 임시 CEO \"젠슨이 33년간 쌓은 토대 위에서 나아갈 것\"",
+      "text_len": 1396,
+      "paragraph_1": "[아이뉴스24 박지은 기자] 젠슨 황이 물러난 엔비디아를 13년간 회사 재무를 맡아온 콜레트 크레스가 임시로 이끈다.",
+      "paragraph_2": "크레스는 첫 메시지에서 황이 쌓아온 사업 기반을 이어가겠다는 뜻을 밝혔다. 엔비디아 이사회는 임시 체제를 가동하는 동시에 정식 최고경영자(CEO)를 찾기 위해 사내외 후보 검토에 착수했다.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 엔비디아의 CEO 교체 인사와 경영진 변화만을 다루고 있으며, 대만과 중국 간의 정부·국가급 행위자 사이의 사건을 전혀 다루고 있지 않습니다. 조건2: 해당 없음 — 조건1에서 이미 부적합하므로 검토 대상이 아닙니다. 조건3: 해당 없음 — 조건1에서 이미 부적합하므로 검토 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "https://www.dw.com/id/jepang-khawatirkan-dampak-pemilu-sela-kepada-kebijakan-luar-negeri-as-di-asia-pasifik/a-79931628|050|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jepang Waspadai Perubahan Kebijakan Trump di Asia Pasifik",
+      "text_len": 2500,
+      "paragraph_1": "Dengan hanya sepekan jelang Konferensi Tingkat Tinggi Kerja Sama Ekonomi Asia Pasifik (APEC) di Shenzen, Cina , pemerintah Jepang memantau dengan seksama setiap jengkal pergeseran kebijakan Amerika Serikat terhadap Indo-Pasifik .",
+      "paragraph_2": "Pertemuan akbar itu akan digelar antara 18-19 November mendatang, dan bakal dihadiri Presiden AS Donald Trump, Presiden Rusia Vladimir Putin, selain tuan rumah Presiden Xi Jinping . Para pemimpin dijadwalkan bertemu langsung di sela-sela konferensi.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 주로 일본의 미국 정책 변화 우려와 미-중 관계를 다루고 있으며, 대만-중국 간 직접적인 국가급 행위(군사행동, 위협, 무력시위 등)를 다루지 않고 있습니다. 대만은 제3자 관점에서 협상의 도구로만 언급되어 있습니다. 조건2: 해당 없음 — 조건1이 충족되지 않아 평가 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "https://www.inewsgr.com/27/si-tzinpingk-i-epanenosi-me-tin-taivan-einai-anapofefkti.htm|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Σι Τζινπίνγκ: «Η επανένωση με την Ταϊβάν είναι αναπόφευκτη» - si tzinpingk: «i epanenosi me tin taivan einai anapofefkti»",
+      "text_len": 2500,
+      "paragraph_1": "Ο πρόεδρος της Κίνας Σι Τζινπίνγκ τόνισε την Πέμπτη ότι «η παλίρροια της ιστορίας δεν μπορεί να σταματήσει», καλώντας σε ειρηνική «επανένωση» με την Ταϊβάν , χωρίς να αναφερθεί στη χρήση βίας. Ωστόσο, η δήλωσή του προκάλεσε άμεση αντίδραση από την Ταϊπέι.",
+      "paragraph_2": "Η Κίνα θεωρεί την Ταϊβάν , η οποία διοικείται δημοκρατικά, ως δικό της έδαφος, παρά τη σθεναρή αντίδραση της Ταϊπέι σε αυτό τον ισχυρισμό. Το Πεκίνο έχει κατ’ επανάληψη προτείνει το μοντέλο «μία χώρα, δύο συστήματα» για την αυτονομία της Ταϊβάν , πρόταση που δεν στηρίζεται από κανένα μεγάλο πολιτικό κόμμα της Ταϊβάν .",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국 국가원수의 공식 연설 내용과 대만의 반응을 다루고 있으나, 실제 행동(미사일 발사, 영공 침범 등)이 아닌 언어적 주장과 정책 입장만을 다루고 있어 두 국가 간 직접적 상호작용 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 일방적인 통일 강요, 대만의 거부, 군사력 증강 등 갈등적·위협적 내용이나, GDELT는 GoldsteinScale +5"
+      }
+    },
+    "https://tribune.com.pk/story/2639932/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped|190|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+      "text_len": 2500,
+      "paragraph_1": "Chinese president says resolving the Taiwan question is an 'unwavering historical mission' of China's Communist Party",
+      "paragraph_2": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 통일 주장과 대만의 거부 입장, 그리고 중국군의 대만 주변 군사활동(29대 군용기 출동, 합동전투준비순찰)을 직접 다루고 있어 양국 간의 직접적인 안보 갈등을 주요 대상으로 하고 있습니다. 조건2: 예 — 기사의 논조는 중국의 일방적 통일 주장, 대만의 거부 입장(\"firm rebuff\"), 중국군의 대만 주변 군사활동 등을 보도하고 있어 실제로 갈등적·부정적 "
+      }
+    },
+    "https://bdnews24.com/world/2gsvctk709|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+      "text_len": 2500,
+      "paragraph_1": "Published : 12 Nov 2026, 08:45 PM",
+      "paragraph_2": "Updated : 12 Nov 2026, 08:45 PM",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만과의 \"평화적 통일\"을 촉구하는 연설과 함께 중국 군용기 29대의 대만 주변 합동전투태세순찰 등 대만을 겨냥한 직접적인 군사행동을 다루고 있으며, 이는 양자 간 안보에 직접 영향을 주는 사건입니다. 조건2: 아니오 — 기사의 실제 내용은 중국의 무력 위협 유지(군용기 출격, 해군함정 배치), 대만의 강한 거부 응답, \"평화적 통일\" 언사에도 불"
+      }
+    },
+    "https://aninews.in/news/world/asia/g7-foreign-ministers-warn-china8217s-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation20261112195628/|124|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "G7 Foreign Ministers warn China&#8217;s activities East of Taiwan threaten regional stability, freedom of navigation",
+      "text_len": 2500,
+      "paragraph_1": "ANI | Updated: Nov 12, 2026 19:56 IST",
+      "paragraph_2": "Paris [France] November 12 (ANI): Foreign ministers of the Group of Seven ( G7 ) have expressed concern over China 's increasingly assertive activities in the waters east of Taiwan , warning that the actions threaten regional stability, freedom of navigation and the safety of international shipping, according to a report by Taipei Times. The warning was issued in a joint declaration published late Wednesday following a meeting of G7 foreign ministers in Paris. According to the report, China , which claims Taiwan as part of its territory, has intensified its activities off Taiwan 's east coast since June, conducting regular patrols by its coast guard. Taiwan ese officials believe Beijing is practising for a potential maritime blockade by deploying overlapping military, paramilitary and civilian assets in the surrounding waters. The G7 statement marked a unified expression of concern over China 's activities east of Taiwan . France, Germany, the United Kingdom and the United States had previously voiced concerns about Beijing 's actions in the area. \" China 's increasingly assertive activities in the waters east of Taiwan threaten regional stability, freedom of navigation and the safety of international shipping,\" the joint declaration stated. The ministers also reaffirmed their opposition to unilateral attempts to change the status quo, particularly through force, coercion or the threat thereof.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 중국의 대만 동쪽 해역에서의 군사·준군사 활동(해안경비대 정기 순찰, 잠재적 해상 봉쇄 연습)이 대만의 안보에 직접 영향을 미치는 일방적 행위로서 중국과 대만 사이의 직접적인 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 부정적 논조는 주로 G7 외교장관들의 공동선언과 비판에서 비롯된 것이며, 중국의 실제 행위는 \"정기 순찰\", \"활동 강화\" 등으로 기술되어 있고"
+      }
+    },
+    "https://www.greaterbelize.com/belizes-foreign-policy-faces-global-pressure/|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Belize’s Foreign Policy Faces Global Pressure | Greater Belize Media Belize’s Foreign Policy Faces Global Pressure",
+      "text_len": 2500,
+      "paragraph_1": "Belize insists that its foreign policy is its own . But two developments, one involving Francis Fonseca and the other Godfrey Smith, show how difficult that independence becomes when Washington and Beijing are applying pressure. The issue is no longer simply whether Belize stands with Taiwan or turns to China. It is whether a small country can make that choice without consequences.",
+      "paragraph_2": "Paul Lopez, Reporting",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 벨리즈의 대만 외교정책을 둘러싼 미국과 중국의 압력이며, 중국의 제재는 벨리즈 외교관을 대상으로 한 것이지 대만(국가)을 직접 겨냥한 행위가 아닙니다. 조건2: 아니오 — 기사는 중국의 제재, 미국의 비자 철회 등 갈등적이고 대립적인 내용을 다루고 있으나, GDELT가 +2.8의 협력적/긍정적 코드를 부여했으므로 기사의 실제 논조와 불일치합니다. 최종:"
+      }
+    },
+    "https://dominicanrepublicpost.com/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen/|027|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen  - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
+      "text_len": 2500,
+      "paragraph_1": "Chinese President Xi Jinping has said the tide of history cannot be stopped, while urging peaceful “reunification” with Taiwan.",
+      "paragraph_2": "Resolving the Taiwan question is an “unwavering historical mission” of China’s Communist Party, Xi said in a speech at Beijing’s Great Hall of the People on Thursday.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 중국의 군사 행위(29대의 전투기와 무인기의 합동 전력 전시, 군함 운용)가 대만을 직접 겨냥한 일방적 행위로 명시되어 있으며, 이는 대만-중국 양국 간의 직접적인 안보 사건입니다. 조건2: 아니오 — 기사의 실제 내용은 중국의 군사력 전시, 재무장 위협, 무력 사용 미포기 등 갈등적/위협적 성격이 지배적이나, GDELT가 이를 \"+4.0(협력적/긍정적)\"으로 코딩하여 논조와"
+      }
+    },
+    "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen|027|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen | Xi Jinping News | Al Jazeera",
+      "text_len": 2500,
+      "paragraph_1": "Chinese President Xi Jinping has said the tide of history cannot be stopped, while urging peaceful “reunification” with Taiwan.",
+      "paragraph_2": "Resolving the Taiwan question is an “unwavering historical mission” of China’s Communist Party, Xi said in a speech at Beijing’s Great Hall of the People on Thursday.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만과의 \"평화적 통일\"을 촉구하면서 중국 군대의 대만 주변 일상적 군사활동(29대 항공기 및 함정의 \"연합전투준비순찰\")을 언급하고 있으며, 이는 대만의 안보에 직접 영향을 주는 중국의 일방적 군사행위를 다루고 있습니다. 조건2: 아니오 — 기사의 실제 내용은 중국의 무력 통일 의지 표현, 대만 정부의 강경한 거부, 중국 군사활동의 지속적 확대 "
+      }
+    },
+    "https://www.the-independent.com/tech/nvidia-trump-huang-affair-timeline-b3083695.html|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Timeline: How Nvidia’s Jensen Huang became one of Trump’s closest allies | The Independent",
+      "text_len": 2500,
+      "paragraph_1": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+      "paragraph_2": "Already a member? Log in",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 주로 트럼프와 엔비디아 CEO 젠슨 황의 개인적 관계와 미국 기업의 중국 수출 로비에 관한 것이며, 대만-중국 간의 직접적인 국가급 행위(군사행동, 외교갈등, 위협 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 젠슨 황의 중국 스파이 의혹, FBI 수사, 트럼프와의 의심스러운 친분 관계 등 부정적·갈등적 내용을 담고 있으나, GDELT는 이를 +6"
       }
     }
   }
