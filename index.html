@@ -71,7 +71,13 @@ body{background:#080d1a;color:#c9d4e8;font-family:'Courier New',monospace;paddin
 .dp-head{display:flex;flex-wrap:wrap;gap:.625rem;align-items:baseline;
   font-family:'Courier New',monospace;font-size:.5625rem;color:#38bdf8;margin-bottom:.4375rem}
 .dp-head span:last-child{color:#94a3b8}
-.dp-body{font-size:.6875rem;color:#e2e8f0;line-height:1.8;white-space:pre-wrap}
+.dp-body{font-size:.6875rem;color:#e2e8f0;line-height:1.8}
+.dp-body .dp-text{white-space:pre-wrap}
+.dp-body .sources{font-size:.625rem;color:#94a3b8;line-height:1.65;
+  border-top:1px solid #1e3a5f;padding-top:.5rem;margin-top:.65rem}
+.dp-body .sources a{display:block;margin-bottom:.3rem;text-indent:-.7rem;padding-left:.7rem;
+  color:#7dd3fc;text-decoration:none}
+.dp-body .sources a:hover{text-decoration:underline}
 .dp-body.empty{color:#64748b;font-size:.5625rem}
 .foot{background:#080d1a;border:1px solid #0a1628;border-radius:6px;padding:.5rem .75rem;font-size:.4375rem;color:#eef2fa;line-height:2}
 .foot strong{color:#eef2fa}
@@ -787,7 +793,11 @@ function llmValues(p, dir, domain, labels){
       if(!cells) return null;
     } else {
       const chs = day.channels;
-      if(!chs || !Object.keys(chs).length) return null;   // 채널 미계산
+      // **빈 객체와 없는 키를 가른다.** channels 자체가 없으면 그 날은 채널을
+      // 계산하지 않은 옛 기록이므로 null 이다. 빈 객체는 "계산했고 그 날 관련
+      // 기사가 0 건이었다"는 뜻이라 전체 도메인과 같은 규칙으로 0 이 맞다.
+      // (2026-10-24: 17건을 코딩했고 관련 0건 — 선이 거기서 끊겼다)
+      if(!chs) return null;
       cells = chs[ch] || {};                              // 그 채널에 증거 없음
     }
     const c = cells[key];
@@ -820,9 +830,25 @@ function vwidth(str){
   return n;
 }
 
+// 중국어·일본어에는 단어 사이 공백이 없다. 공백으로만 끊으면 문장 전체가
+// 한 덩어리가 되어 줄바꿈이 일어나지 않고 툴팁이 오른쪽으로 뻗는다.
+// 한 덩어리가 폭을 넘으면 글자 단위로 쪼갠다.
+function splitLong(w, width){
+  if(vwidth(w)<=width) return [w];
+  const parts=[]; let cur='';
+  for(const ch of w){
+    if(vwidth(cur+ch)>width){ parts.push(cur); cur=ch; }
+    else cur+=ch;
+  }
+  if(cur) parts.push(cur);
+  return parts;
+}
+
 function wrapLines(text, width, maxLines){
   const out=[]; let line='';
-  for(const w of String(text).split(/\s+/).filter(Boolean)){
+  const words=[];
+  for(const w of String(text).split(/\s+/).filter(Boolean)) words.push(...splitLong(w, width));
+  for(const w of words){
     if(!line) line=w;
     else if(vwidth(line+' '+w)<=width) line+=' '+w;
     else { out.push(line); line=w; if(out.length>=maxLines) break; }
@@ -998,7 +1024,16 @@ function showDay(day){
   // 아래에 중국 해설이 붙는다.
   const rec = LLMCOM && LLMCOM[d] && curPartner ? LLMCOM[d][curPartner] : null;
   const txt = rec && (rec[curLang] || rec.ko || rec.en);
-  if(txt){ body.textContent=txt; body.classList.remove('empty'); }
+  if(txt){
+    // 해설만 있고 근거를 못 보면 확인할 길이 없다. 상단 해설 패널과 같은
+    // 모양으로 기사 링크를 붙인다.
+    const esc=x=>String(x).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+    const links=(rec.sources||[]).map(x=>
+      `<a href="${esc(x.url)}" target="_blank" rel="noopener">&middot; ${esc(x.title||x.url)}</a>`).join('');
+    body.innerHTML = `<div class="dp-text">${esc(txt).replace(/\n/g,'<br>')}</div>`
+      + (links?`<div class="sources"><div class="src-label">${t('commentarySources')}</div>${links}</div>`:'');
+    body.classList.remove('empty');
+  }
   else{
     body.textContent = L3('이 날짜의 해설이 아직 없습니다.',
                           'No commentary for this date yet.',
