@@ -281,17 +281,16 @@ def thin_note(day, partner, cell):
                 "codebook_fingerprint": cell["fingerprint"],
                 "n_articles": 0, "thin": True, "empty": True,
                 "generated_at": time.strftime("%Y-%m-%dT%H:%M:%S"), "sources": []}
-    ko = (f"근거 기사가 {n}건뿐이라 {ANCHOR_KR}-{kr} 관계의 움직임으로 해석하지 않습니다. "
-          f"이 날 지수를 만든 기사는 다음과 같습니다.\n"
-          + "\n".join(f"· {a['title'][:120]}" for a in arts[:3]))
+    # **제목을 본문에 넣지 않는다.** 아래 '근거 기사' 에 링크로 같은 제목이
+    # 붙어서 두 번 보이고, 위쪽 글자만 본 사람은 링크가 없다고 읽는다.
+    ko = (f"근거 기사가 {n}건뿐이라 {ANCHOR_KR}-{kr} 관계의 움직임으로 해석하지 "
+          f"않습니다. 아래 근거 기사를 직접 보십시오.")
     eng = (f"Only {n} article{'s' if n != 1 else ''} — too thin to read as a movement "
-           f"in {ANCHOR_EN}–{en} relations. The article{'s' if n != 1 else ''} behind "
-           f"this day's value:\n"
-           + "\n".join(f"· {a['title'][:120]}" for a in arts[:3]))
+           f"in {ANCHOR_EN}–{en} relations. See the source article"
+           f"{'s' if n != 1 else ''} below.")
     zht = (f"佐證報導僅 {n} 篇，因此不將其解讀為{ANCHOR_ZH}與"
            f"{COUNTRY_ZH.get(partner, partner)}關係的變動。"
-           f"構成當日指數的報導如下。\n"
-           + "\n".join(f"· {a['title'][:120]}" for a in arts[:3]))
+           f"請直接參閱下方佐證報導。")
     return {"ko": ko, "en": eng, "zh": zht, "model": "none (thin evidence)",
             "codebook_fingerprint": cell["fingerprint"],
             "n_articles": n, "thin": True,
@@ -453,6 +452,11 @@ def main():
             # ②가 있어야 용어 목록을 고쳤을 때 해당 칸만 자동으로 다시 쓰인다.
             # 없으면 규칙만 바뀌고 글은 옛 표기로 남는다(2026-11-12: 大陸 2곳).
             # 사실기록은 기사 제목을 그대로 인용하므로 둘 다 적용하지 않는다.
+            # 사실기록·무사건은 모델을 부르지 않으므로 매번 다시 쓴다. 문구를
+            # 고쳐도 옛 글이 남지 않는다 (2026-11-13: 제목 중복을 뺐다).
+            if have.get("thin") or have.get("empty"):
+                todo.append((day, partner))
+                continue
             zh_now = have.get("zh") or ""
             zh_bad = (not have.get("thin") and zh_now
                       and ((not _zh_clean(zh_now) and not have.get("zh_mixed"))
