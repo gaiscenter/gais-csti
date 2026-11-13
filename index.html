@@ -863,9 +863,16 @@ function wrapLines(text, width, maxLines){
   return out.slice(0,maxLines);
 }
 
+// 첫 문장만 뽑는다. **중국어·일본어는 마침표 뒤에 공백이 없다** — 공백을
+// 요구하면 한 문장도 못 찾고 본문 전체가 툴팁에 들어가 화면을 가로지른다
+// (2026-11-13 실측: 15자짜리 첫 문장 대신 82자 전체가 들어갔다).
 function firstSentence(text){
-  const m=String(text).match(/^[\s\S]*?[.。!?]\s/);
-  return (m?m[0]:String(text)).trim();
+  const s = String(text);
+  // 전각 종결부호(。！？)는 바로 끊는다. 반각(.!?)은 뒤에 공백이나 끝이 와야
+  // 한다 — 소수점에서 잘리지 않게. 다만 "U.S. view" 같은 약어에서는 여전히
+  // 일찍 잘린다(기존 코드도 같았다). 툴팁 한 줄이라 그대로 둔다.
+  const m = s.match(/^[\s\S]*?(?:[。！？]|[.!?](?=\s|$))/);
+  return (m ? m[0] : s).trim();
 }
 
 
