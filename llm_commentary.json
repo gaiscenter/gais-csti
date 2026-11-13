@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T11:34:41",
+ "generated_at": "2026-11-13T02:00:35",
  "model": "claude-haiku-4-5-20251001",
- "n_days": 90,
- "n_cells": 180,
+ "n_days": 92,
+ "n_cells": 184,
  "days": {
   "2026-11-11": {
    "CHN": {
@@ -33,14 +33,14 @@
     ]
    },
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne\n· US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne\n· US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne\n· US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties",
@@ -55,14 +55,14 @@
   },
   "2026-08-15": {
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan detects four PLA aircraft sorties, eight PLAN vessels around its territory",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· Taiwan detects four PLA aircraft sorties, eight PLAN vessels around its territory",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan detects four PLA aircraft sorties, eight PLAN vessels around its territory",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "http://www.shanghainews.net/news/279242569/taiwan-detects-four-pla-aircraft-sorties-eight-plan-vessels-around-its-territory",
@@ -79,20 +79,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-08-16": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· “지금 쳐들어오면 어쩌냐”... 중국 막기 위해 1조 들인 ‘대드론 방어망’ 먹통에 발칵 뒤집힌 대만\n· Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· “지금 쳐들어오면 어쩌냐”... 중국 막기 위해 1조 들인 ‘대드론 방어망’ 먹통에 발칵 뒤집힌 대만\n· Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· “지금 쳐들어오면 어쩌냐”... 중국 막기 위해 1조 들인 ‘대드론 방어망’ 먹통에 발칵 뒤집힌 대만\n· Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.insight.co.kr/news/568516",
@@ -113,20 +113,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-08-17": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan's president says record defence spending an investment in peace, Asia News - AsiaOne",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Taiwan's president says record defence spending an investment in peace, Asia News - AsiaOne",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Taiwan's president says record defence spending an investment in peace, Asia News - AsiaOne",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.asiaone.com/asia/taiwans-president-says-record-defence-spending-investment-peace",
@@ -168,14 +168,14 @@
   },
   "2026-08-18": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwanese President Says Defense Spending Is Investment in Peace | The Epoch Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Taiwanese President Says Defense Spending Is Investment in Peace | The Epoch Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Taiwanese President Says Defense Spending Is Investment in Peace | The Epoch Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/taiwanese-president-says-defense-spending-is-investment-in-peace-6076439",
@@ -205,14 +205,14 @@
   },
   "2026-08-19": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· ताइवान पर हमले की तैयारीः चीन ने चारों तरफ से घेरा,  20 सैन्य विमानों व 7 युद्धपोतों ने ADIZ में की एंट्री - taiwan reco\n· Taiwan records heightened Chinese military activity around its territory - The Economic Times",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· ताइवान पर हमले की तैयारीः चीन ने चारों तरफ से घेरा,  20 सैन्य विमानों व 7 युद्धपोतों ने ADIZ में की एंट्री - taiwan reco\n· Taiwan records heightened Chinese military activity around its territory - The Economic Times",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· ताइवान पर हमले की तैयारीः चीन ने चारों तरफ से घेरा,  20 सैन्य विमानों व 7 युद्धपोतों ने ADIZ में की एंट्री - taiwan reco\n· Taiwan records heightened Chinese military activity around its territory - The Economic Times",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.punjabkesari.in/international/news/taiwan-records-heightened-chinese-military-activity-around-its-territory-2370365",
@@ -225,14 +225,14 @@
     ]
    },
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· First two of 66 F-16Vs from US may arrive soon - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· First two of 66 F-16Vs from US may arrive soon - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· First two of 66 F-16Vs from US may arrive soon - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/20/2003862795",
@@ -243,14 +243,14 @@
   },
   "2026-08-20": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan Unveils Record Defense Budget As China Threat Grows | \r\n\t\tThe Daily Caller\n· Taiwan proposes boosting 2027 defence spending by 18%  | FMT",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· Taiwan Unveils Record Defense Budget As China Threat Grows | \r\n\t\tThe Daily Caller\n· Taiwan proposes boosting 2027 defence spending by 18%  | FMT",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Taiwan Unveils Record Defense Budget As China Threat Grows | \r\n\t\tThe Daily Caller\n· Taiwan proposes boosting 2027 defence spending by 18%  | FMT",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://dailycaller.com/2026/08/20/taiwan-unveils-record-defense-budget-china-threat/",
@@ -284,14 +284,14 @@
   },
   "2026-08-21": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Apache, Black Hawk Drill in Taiwan Shows Impact of Ukraine's Drone War - Business Insider",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Apache, Black Hawk Drill in Taiwan Shows Impact of Ukraine's Drone War - Business Insider",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Apache, Black Hawk Drill in Taiwan Shows Impact of Ukraine's Drone War - Business Insider",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.businessinsider.com/apache-black-hawk-drill-taiwan-impact-ukraine-drone-war-2026-8",
@@ -329,14 +329,14 @@
   },
   "2026-08-23": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.yahoo.com/news/us/articles/us-navy-aircraft-transited-taiwan-004254091.html",
@@ -378,7 +378,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -411,14 +411,14 @@
   },
   "2026-08-26": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Opposition drone bill leaves major holes - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Opposition drone bill leaves major holes - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Opposition drone bill leaves major holes - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/27/2003863212",
@@ -427,14 +427,14 @@
     ]
    },
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Mainland China’s ship activity near Taiwan hits record for third month in a row | The Star\n· Администрация ДПП Тайваня является самым большим препятствием для обменов между двумя берегами Тайваньского пролива - Ка",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Mainland China’s ship activity near Taiwan hits record for third month in a row | The Star\n· Администрация ДПП Тайваня является самым большим препятствием для обменов между двумя берегами Тайваньского пролива - Ка",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Mainland China’s ship activity near Taiwan hits record for third month in a row | The Star\n· Администрация ДПП Тайваня является самым большим препятствием для обменов между двумя берегами Тайваньского пролива - Ка",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/26/mainland-chinas-ship-activity-near-taiwan-hits-record-for-third-month-in-a-row",
@@ -449,14 +449,14 @@
   },
   "2026-08-27": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· 대만, 美 최신 공격·정찰 드론 2032대 도입…1조2000억 규모",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· 대만, 美 최신 공격·정찰 드론 2032대 도입…1조2000억 규모",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· 대만, 美 최신 공격·정찰 드론 2032대 도입…1조2000억 규모",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.insight.co.kr/news/570532",
@@ -494,7 +494,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -519,14 +519,14 @@
   },
   "2026-08-29": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· FEATURE: Penghu troops prepare for strike - Taipei Times\n· Taiwan Parliament Approves Nearly $7.6 Billion Military Drone Plan Amid China Threat - Worthy Christian News",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· FEATURE: Penghu troops prepare for strike - Taipei Times\n· Taiwan Parliament Approves Nearly $7.6 Billion Military Drone Plan Amid China Threat - Worthy Christian News",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· FEATURE: Penghu troops prepare for strike - Taipei Times\n· Taiwan Parliament Approves Nearly $7.6 Billion Military Drone Plan Amid China Threat - Worthy Christian News",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/30/2003863370",
@@ -547,20 +547,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-08-30": {
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Beware of China’s long-arm acts: MAC - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· Beware of China’s long-arm acts: MAC - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Beware of China’s long-arm acts: MAC - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/31/2003863405",
@@ -569,14 +569,14 @@
     ]
    },
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· The terrifying holes in America's China defense as Iran war drains the arsenal: Just 1,000 missile interceptors left, 30",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.dailymail.com/news/article-16085533/america-china-defense-iran-war-strain.html",
@@ -587,14 +587,14 @@
   },
   "2026-08-31": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan, U.S. to boost semiconductor workforce cooperation: U.S. envoy - Focus Taiwan",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Taiwan, U.S. to boost semiconductor workforce cooperation: U.S. envoy - Focus Taiwan",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Taiwan, U.S. to boost semiconductor workforce cooperation: U.S. envoy - Focus Taiwan",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://focustaiwan.tw:443/sci-tech/202608310005",
@@ -636,7 +636,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -681,7 +681,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -722,7 +722,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -759,7 +759,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -800,7 +800,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -833,7 +833,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "USA": {
@@ -845,7 +845,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
@@ -859,7 +859,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "USA": {
@@ -871,7 +871,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
@@ -885,7 +885,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -914,14 +914,14 @@
   },
   "2026-09-09": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· US Envoy Warns Taiwan Conflict Would Inflict Greater Economic Toll Than World War II | The Epoch Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· US Envoy Warns Taiwan Conflict Would Inflict Greater Economic Toll Than World War II | The Epoch Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· US Envoy Warns Taiwan Conflict Would Inflict Greater Economic Toll Than World War II | The Epoch Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/us-envoy-warns-taiwan-conflict-would-inflict-greater-economic-toll-than-world-war-ii-6085132",
@@ -955,14 +955,14 @@
   },
   "2026-09-10": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Chinas grey zone pressure on Taiwan could trigger crisis, Stanford scholar warns\n· China reinforces Taiwan-facing artillery with upgraded 155mm howitzers this year",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Chinas grey zone pressure on Taiwan could trigger crisis, Stanford scholar warns\n· China reinforces Taiwan-facing artillery with upgraded 155mm howitzers this year",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Chinas grey zone pressure on Taiwan could trigger crisis, Stanford scholar warns\n· China reinforces Taiwan-facing artillery with upgraded 155mm howitzers this year",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://news.webindia123.com/news/Articles/World/20260910/4497027.html",
@@ -983,20 +983,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-09-11": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Віцепрезидентка Тайваню таємно приїхала до Європи на тлі погроз Китаю - Главком",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Віцепрезидентка Тайваню таємно приїхала до Європи на тлі погроз Китаю - Главком",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Віцепрезидентка Тайваню таємно приїхала до Європи на тлі погроз Китаю - Главком",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://glavcom.ua/world/world-politics/vitseprezidentka-tajvanju-tajemno-prijikhala-do-jevropi-na-tli-pohroz-kitaju-1142306.html",
@@ -1026,14 +1026,14 @@
   },
   "2026-09-13": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Китай заплашва да отмени срещата между Си Цзинпин и Доналд Тръмп заради оръжейни сделки с Тайван | Новини.бг\n· Taiwan in Ventotene, the challenge to Beijing's pressure: \"No island is so small that it has no voice\"",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Китай заплашва да отмени срещата между Си Цзинпин и Доналд Тръмп заради оръжейни сделки с Тайван | Новини.бг\n· Taiwan in Ventotene, the challenge to Beijing's pressure: \"No island is so small that it has no voice\"",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Китай заплашва да отмени срещата между Си Цзинпин и Доналд Тръмп заради оръжейни сделки с Тайван | Новини.бг\n· Taiwan in Ventotene, the challenge to Beijing's pressure: \"No island is so small that it has no voice\"",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://novini.bg/article/2026091303305945104",
@@ -1075,14 +1075,14 @@
   },
   "2026-09-14": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· SkyGuardian drones bought from US tested, source says - Taipei Times\n· what threat did jinping issue to trump immediately upon returning from brics - Prabhasakshi",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· SkyGuardian drones bought from US tested, source says - Taipei Times\n· what threat did jinping issue to trump immediately upon returning from brics - Prabhasakshi",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· SkyGuardian drones bought from US tested, source says - Taipei Times\n· what threat did jinping issue to trump immediately upon returning from brics - Prabhasakshi",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864279",
@@ -1128,14 +1128,14 @@
   },
   "2026-09-15": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Things Are Heating Up In The Taiwan Strait | \r\n\t\tThe Daily Caller\n· Up to 100,000 in Taiwan spying for China: expert - Taipei Times",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Things Are Heating Up In The Taiwan Strait | \r\n\t\tThe Daily Caller\n· Up to 100,000 in Taiwan spying for China: expert - Taipei Times",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Things Are Heating Up In The Taiwan Strait | \r\n\t\tThe Daily Caller\n· Up to 100,000 in Taiwan spying for China: expert - Taipei Times",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://dailycaller.com/2026/09/14/taiwan-strait-china-drills-heating-up/",
@@ -1148,14 +1148,14 @@
     ]
    },
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· The Perils of Mind-Reading in the Taiwan Strait – The Diplomat",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· The Perils of Mind-Reading in the Taiwan Strait – The Diplomat",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· The Perils of Mind-Reading in the Taiwan Strait – The Diplomat",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/",
@@ -1166,14 +1166,14 @@
   },
   "2026-09-16": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· U.S. will not tolerate change in Taiwan status by force: Senator Ricketts - Focus Taiwan\n· Politicization of defense spending raises concern - Taipei Times",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· U.S. will not tolerate change in Taiwan status by force: Senator Ricketts - Focus Taiwan\n· Politicization of defense spending raises concern - Taipei Times",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· U.S. will not tolerate change in Taiwan status by force: Senator Ricketts - Focus Taiwan\n· Politicization of defense spending raises concern - Taipei Times",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://focustaiwan.tw/politics/202609160006",
@@ -1211,14 +1211,14 @@
   },
   "2026-09-18": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US – Winnipeg Free Press\n· Chinese drone spotted monitoring Pingtung military exercise - Taipei Times",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US – Winnipeg Free Press\n· Chinese drone spotted monitoring Pingtung military exercise - Taipei Times",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US – Winnipeg Free Press\n· Chinese drone spotted monitoring Pingtung military exercise - Taipei Times",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.winnipegfreepress.com/world/2026/09/18/taiwan-holds-first-joint-military-drills-using-attack-drones-ahead-of-trump-xi-summit-in-the-us",
@@ -1252,14 +1252,14 @@
   },
   "2026-09-19": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Defence Firm Anduril Says US Delay on Taiwan Arms Sales Affecting Its Business\n· Trump and Xi Meet at White House With Trade Truce, Taiwan on the Line",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· Defence Firm Anduril Says US Delay on Taiwan Arms Sales Affecting Its Business\n· Trump and Xi Meet at White House With Trade Truce, Taiwan on the Line",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Defence Firm Anduril Says US Delay on Taiwan Arms Sales Affecting Its Business\n· Trump and Xi Meet at White House With Trade Truce, Taiwan on the Line",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.chronicle.lu/category/international-news/63477-defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business",
@@ -1272,14 +1272,14 @@
     ]
    },
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· China's maritime activities near Taiwan reflect 'more intrusive' form of coercion: Report",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· China's maritime activities near Taiwan reflect 'more intrusive' form of coercion: Report",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· China's maritime activities near Taiwan reflect 'more intrusive' form of coercion: Report",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.prokerala.com/news/articles/a1814294.html",
@@ -1290,14 +1290,14 @@
   },
   "2026-09-20": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· US defense firm Anduril says Taiwan arms sale delay affects business - The Korea Herald",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· US defense firm Anduril says Taiwan arms sale delay affects business - The Korea Herald",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· US defense firm Anduril says Taiwan arms sale delay affects business - The Korea Herald",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.koreaherald.com/article/10879531",
@@ -1314,20 +1314,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-09-21": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan will not yield to China's growing coercion: VP Hsiao - Focus Taiwan\n· Taiwan minister makes rare trip to China for APEC event, Asia News - AsiaOne",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Taiwan will not yield to China's growing coercion: VP Hsiao - Focus Taiwan\n· Taiwan minister makes rare trip to China for APEC event, Asia News - AsiaOne",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan will not yield to China's growing coercion: VP Hsiao - Focus Taiwan\n· Taiwan minister makes rare trip to China for APEC event, Asia News - AsiaOne",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://focustaiwan.tw/politics/202609210015",
@@ -1365,14 +1365,14 @@
   },
   "2026-09-27": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Тайван обвини Пекин в изопачаване на фактите след срещата Тръмп–Си ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ\n· Трамп и Си Цзиньпин: президент США рассказал, о чем он беседовал с лидером Китая",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Тайван обвини Пекин в изопачаване на фактите след срещата Тръмп–Си ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ\n· Трамп и Си Цзиньпин: президент США рассказал, о чем он беседовал с лидером Китая",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Тайван обвини Пекин в изопачаване на фактите след срещата Тръмп–Си ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ\n· Трамп и Си Цзиньпин: президент США рассказал, о чем он беседовал с лидером Китая",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://fakti.bg/world/1084049-taivan-obvini-pekin-v-izopachavane-na-faktite-sled-sreshtata-trampsi",
@@ -1414,14 +1414,14 @@
   },
   "2026-09-28": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Chinese FM releases bilingual video laying out historical legal basis for Taiwanâs status as part of China - Global Ti\n· Trump minimizou venda de armas a Taiwan e perguntou a Xi se queria comprar armas dos EUA, diz embaixador americano em Pe",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Chinese FM releases bilingual video laying out historical legal basis for Taiwanâs status as part of China - Global Ti\n· Trump minimizou venda de armas a Taiwan e perguntou a Xi se queria comprar armas dos EUA, diz embaixador americano em Pe",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Chinese FM releases bilingual video laying out historical legal basis for Taiwanâs status as part of China - Global Ti\n· Trump minimizou venda de armas a Taiwan e perguntou a Xi se queria comprar armas dos EUA, diz embaixador americano em Pe",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.globaltimes.cn/page/202609/1371494.shtml",
@@ -1467,14 +1467,14 @@
   },
   "2026-10-01": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Drones cannot replace jets in warfare, expert says - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Drones cannot replace jets in warfare, expert says - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Drones cannot replace jets in warfare, expert says - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/03/2003865328",
@@ -1508,14 +1508,14 @@
   },
   "2026-10-02": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Тајванска обалска стража воденим топом гађала кинески брод\n· Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Тајванска обалска стража воденим топом гађала кинески брод\n· Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Тајванска обалска стража воденим топом гађала кинески брод\n· Taiwan takes a page from Ukraine’s playbook in steeling society for an invasion",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.politika.rs/scc/clanak/790323/tajvanska-obalska-straza-vodenim-topom-gadala-kineski-brod",
@@ -1569,7 +1569,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -1602,14 +1602,14 @@
   },
   "2026-10-04": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua\n· US Senator warns China&#8217;s pressure on Taiwan could threaten global travel",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua\n· US Senator warns China&#8217;s pressure on Taiwan could threaten global travel",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua\n· US Senator warns China&#8217;s pressure on Taiwan could threaten global travel",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.larazon.es/actualidad/barco-chino-niega-abandonar-aguas-disputadas-taiwan-responde-canon-agua-b50m_202610046ac22cf6f7f8f566d14ce0e4.html",
@@ -1644,14 +1644,14 @@
   },
   "2026-10-09": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan to Raise Defense Spending to 5 Percent of GDP by 2030, President Says | The Epoch Times\n· Ministry confirms US presence at Han Kuang exercises - Taipei Times",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· Taiwan to Raise Defense Spending to 5 Percent of GDP by 2030, President Says | The Epoch Times\n· Ministry confirms US presence at Han Kuang exercises - Taipei Times",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Taiwan to Raise Defense Spending to 5 Percent of GDP by 2030, President Says | The Epoch Times\n· Ministry confirms US presence at Han Kuang exercises - Taipei Times",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/taiwan-to-raise-defense-spending-to-5-percent-of-gdp-by-2030-president-says-6101383",
@@ -1689,14 +1689,14 @@
   },
   "2026-10-10": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Official outlines plans for Stinger missiles from US - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Official outlines plans for Stinger missiles from US - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Official outlines plans for Stinger missiles from US - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865754",
@@ -1746,7 +1746,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -1771,14 +1771,14 @@
   },
   "2026-10-12": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· 《TAIPEI TIMES》 Six of new F-16s complete factory test - 焦點 - 自由時報電子報\n· China rejects US criticism of maritime activities east of Taiwan - Chinadaily.com.cn",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· 《TAIPEI TIMES》 Six of new F-16s complete factory test - 焦點 - 自由時報電子報\n· China rejects US criticism of maritime activities east of Taiwan - Chinadaily.com.cn",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· 《TAIPEI TIMES》 Six of new F-16s complete factory test - 焦點 - 自由時報電子報\n· China rejects US criticism of maritime activities east of Taiwan - Chinadaily.com.cn",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604146",
@@ -1832,7 +1832,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -1865,14 +1865,14 @@
   },
   "2026-10-15": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says | Hellenic Shipping News Worldwide",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says | Hellenic Shipping News Worldwide",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says | Hellenic Shipping News Worldwide",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.hellenicshippingnews.com/taiwan-agrees-to-buy-30-of-gas-from-alaska-lng-project-trump-says/",
@@ -1889,20 +1889,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-10-16": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· China sanctions company owned by Taiwanese lawmakers father\n· China Uses New Coercion Against Global Officials to Isolate Taiwan, Analysts Say | The Epoch Times",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· China sanctions company owned by Taiwanese lawmakers father\n· China Uses New Coercion Against Global Officials to Isolate Taiwan, Analysts Say | The Epoch Times",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· China sanctions company owned by Taiwanese lawmakers father\n· China Uses New Coercion Against Global Officials to Isolate Taiwan, Analysts Say | The Epoch Times",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://news.webindia123.com/news/Articles/World/20261016/4511744.html",
@@ -1923,20 +1923,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-10-18": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Joseph Wu urges Europe, Taiwan to work together - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Joseph Wu urges Europe, Taiwan to work together - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Joseph Wu urges Europe, Taiwan to work together - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866214",
@@ -1966,14 +1966,14 @@
   },
   "2026-10-19": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan says it drove away 16 Chinese ships involved in ‘maritime harassment’ | The Straits Times\n· Taiwan experts urge AI filters, media literacy to counter Chinese election disinformation",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Taiwan says it drove away 16 Chinese ships involved in ‘maritime harassment’ | The Straits Times\n· Taiwan experts urge AI filters, media literacy to counter Chinese election disinformation",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan says it drove away 16 Chinese ships involved in ‘maritime harassment’ | The Straits Times\n· Taiwan experts urge AI filters, media literacy to counter Chinese election disinformation",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.straitstimes.com/asia/east-asia/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment",
@@ -1994,20 +1994,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-10-20": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Global alarm - Chinese forces confront US warship - New tension with Taiwan",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Global alarm - Chinese forces confront US warship - New tension with Taiwan",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Global alarm - Chinese forces confront US warship - New tension with Taiwan",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.bankingnews.gr/diethni/articles/906127/global-alarm-chinese-forces-confront-us-warship-new-tension-with-taiwan",
@@ -2049,14 +2049,14 @@
   },
   "2026-10-22": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Загроза для Тайваню - Пекін тисне на союзників острова та розширює морські операції – ZN.ua\n· China accused of six tactics to interfere in Taiwan&#8217;s local elections",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Загроза для Тайваню - Пекін тисне на союзників острова та розширює морські операції – ZN.ua\n· China accused of six tactics to interfere in Taiwan&#8217;s local elections",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Загроза для Тайваню - Пекін тисне на союзників острова та розширює морські операції – ZN.ua\n· China accused of six tactics to interfere in Taiwan&#8217;s local elections",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://zn.ua/ukr/WORLD/kitaj-namahajetsja-izoljuvati-tajvan-i-pohrozhuje-sojuznikam-ostrova-ft.html",
@@ -2069,14 +2069,14 @@
     ]
    },
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· What’s holding up Washington’s US$14bil arms sale to Taiwan? | FMT",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· What’s holding up Washington’s US$14bil arms sale to Taiwan? | FMT",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· What’s holding up Washington’s US$14bil arms sale to Taiwan? | FMT",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.freemalaysiatoday.com/category/world/2026/10/22/what-s-holding-up-washington-s-us-14bil-arms-sale-to-taiwan",
@@ -2087,14 +2087,14 @@
   },
   "2026-10-23": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Chinese Ships Spotted Near Taiwan – Chennaionline\n· The China-Taiwan Diplomatic War Is More About Politics Than Economics – The Diplomat",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Chinese Ships Spotted Near Taiwan – Chennaionline\n· The China-Taiwan Diplomatic War Is More About Politics Than Economics – The Diplomat",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Chinese Ships Spotted Near Taiwan – Chennaionline\n· The China-Taiwan Diplomatic War Is More About Politics Than Economics – The Diplomat",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.chennaionline.com/news/chinese-ships-spotted-near-taiwan/",
@@ -2115,7 +2115,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
@@ -2129,7 +2129,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "USA": {
@@ -2141,20 +2141,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-10-25": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Китай отпраздновал присоединение Тайваня после введения на остров своих войск: Мир: Lenta.ru\n· Taiwan adopting 'unscripted' training format to boost combat readiness - Focus Taiwan",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Китай отпраздновал присоединение Тайваня после введения на остров своих войск: Мир: Lenta.ru\n· Taiwan adopting 'unscripted' training format to boost combat readiness - Focus Taiwan",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Китай отпраздновал присоединение Тайваня после введения на остров своих войск: Мир: Lenta.ru\n· Taiwan adopting 'unscripted' training format to boost combat readiness - Focus Taiwan",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://lenta.ru/news/2026/10/25/kitay-otprazdnoval-prisoedinenie-tayvanya-posle-vvedeniya-na-ostrov-svoih-voysk/",
@@ -2175,7 +2175,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
@@ -2189,7 +2189,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -2214,14 +2214,14 @@
   },
   "2026-10-27": {
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan rebuffs China’s commemorations for post-World War Two ‘restoration’ of island | 1330 & 101.5 WHBL",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· Taiwan rebuffs China’s commemorations for post-World War Two ‘restoration’ of island | 1330 & 101.5 WHBL",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan rebuffs China’s commemorations for post-World War Two ‘restoration’ of island | 1330 & 101.5 WHBL",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://whbl.com/2026/10/26/taiwan-rebuffs-chinas-commemorations-for-post-world-war-two-restoration-of-island/",
@@ -2238,20 +2238,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-10-28": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Indiana treasurer affirms Taiwan ties despite China’s warning - Taipei Times\n· In support of One-China policy, Pakistan bans Taiwanese airlines from using its airspace: report",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Indiana treasurer affirms Taiwan ties despite China’s warning - Taipei Times\n· In support of One-China policy, Pakistan bans Taiwanese airlines from using its airspace: report",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Indiana treasurer affirms Taiwan ties despite China’s warning - Taipei Times\n· In support of One-China policy, Pakistan bans Taiwanese airlines from using its airspace: report",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/28/2003866774",
@@ -2272,7 +2272,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
@@ -2286,7 +2286,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -2323,14 +2323,14 @@
   },
   "2026-10-30": {
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· CHINA MILITARY BUILDUP: Taiwan Warns Of Major Threat As 53 Chinese Vessels Deploy Across Pacific – The Yeshiva World",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· CHINA MILITARY BUILDUP: Taiwan Warns Of Major Threat As 53 Chinese Vessels Deploy Across Pacific – The Yeshiva World",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· CHINA MILITARY BUILDUP: Taiwan Warns Of Major Threat As 53 Chinese Vessels Deploy Across Pacific – The Yeshiva World",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.theyeshivaworld.com/news/general/2616726/china-military-buildup-taiwan-warns-of-major-threat-as-53-chinese-vessels-deploy-across-pacific.html",
@@ -2347,20 +2347,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-10-31": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure | The Star\n· Taiwan Maps 53 Chinese Ships, Calls Three-Front Threat 'Obvious'",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure | The Star\n· Taiwan Maps 53 Chinese Ships, Calls Three-Front Threat 'Obvious'",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure | The Star\n· Taiwan Maps 53 Chinese Ships, Calls Three-Front Threat 'Obvious'",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/taiwan-looks-to-autonomous-swarms-to-counter-beijings-grey-zone-pressure",
@@ -2381,7 +2381,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
@@ -2395,7 +2395,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -2440,7 +2440,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -2485,7 +2485,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -2518,7 +2518,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    },
    "CHN": {
@@ -2551,14 +2551,14 @@
   },
   "2026-11-05": {
    "CHN": {
-    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Beijing Poised to Escalate Drills, Clashes in Push to Control Taiwan’s Waters: Analysts | The Epoch Times\n· China targeted 131 people in 149 transnational repression incidents against Taiwan since 2005",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. The articles behind this day's value:\n· Beijing Poised to Escalate Drills, Clashes in Push to Control Taiwan’s Waters: Analysts | The Epoch Times\n· China targeted 131 people in 149 transnational repression incidents against Taiwan since 2005",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Beijing Poised to Escalate Drills, Clashes in Push to Control Taiwan’s Waters: Analysts | The Epoch Times\n· China targeted 131 people in 149 transnational repression incidents against Taiwan since 2005",
+    "ko": "근거 기사가 2건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–China relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/beijing-poised-to-escalate-drills-clashes-in-push-to-control-taiwans-waters-analysts-6118570",
@@ -2596,14 +2596,14 @@
   },
   "2026-11-06": {
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan to close representative office in Papua New Guinea, blames China | Politics News | Al Jazeera",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· Taiwan to close representative office in Papua New Guinea, blames China | Politics News | Al Jazeera",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan to close representative office in Papua New Guinea, blames China | Politics News | Al Jazeera",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
@@ -2620,20 +2620,20 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": []
    }
   },
   "2026-11-07": {
    "USA": {
-    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Second flight of\r\nF-16V jets from US expected today - Taipei Times",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. The article behind this day's value:\n· Second flight of\r\nF-16V jets from US expected today - Taipei Times",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Second flight of\r\nF-16V jets from US expected today - Taipei Times",
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/08/2003867363",
@@ -2642,14 +2642,14 @@
     ]
    },
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Pekin pręży muskuły na Pacyfiku. Ruchy ponad 100 okrętów wokół Tajwanu",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· Pekin pręży muskuły na Pacyfiku. Ruchy ponad 100 okrętów wokół Tajwanu",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Pekin pręży muskuły na Pacyfiku. Ruchy ponad 100 okrętów wokół Tajwanu",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://wiadomosci.wp.pl/pekin-prezy-muskuly-na-pacyfiku-ruchy-ponad-100-okretow-wokol-tajwanu-7348414795626944a",
@@ -2660,14 +2660,14 @@
   },
   "2026-11-08": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Tiga pesawat tempur F-16 AS kembali tiba di Taiwan - ANTARA News\n· Тайвань получил вторую партию американских истребителей F-16V ::  Новости дня  / ВЗГЛЯД",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· Tiga pesawat tempur F-16 AS kembali tiba di Taiwan - ANTARA News\n· Тайвань получил вторую партию американских истребителей F-16V ::  Новости дня  / ВЗГЛЯД",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· Tiga pesawat tempur F-16 AS kembali tiba di Taiwan - ANTARA News\n· Тайвань получил вторую партию американских истребителей F-16V ::  Новости дня  / ВЗГЛЯД",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.antaranews.com/berita/5839895/tiga-pesawat-tempur-f-16-as-kembali-tiba-di-taiwan",
@@ -2701,14 +2701,14 @@
   },
   "2026-11-09": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific | \r\n\t\tThe Daily Caller\n· ممثل تايوان لدى الولايات المتحدة يحث إدارة ترامب على التحرك بشأن صفقة أسلحة متعثرة - \r\n        بوابة الشروق",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific | \r\n\t\tThe Daily Caller\n· ممثل تايوان لدى الولايات المتحدة يحث إدارة ترامب على التحرك بشأن صفقة أسلحة متعثرة - \r\n        بوابة الشروق",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific | \r\n\t\tThe Daily Caller\n· ممثل تايوان لدى الولايات المتحدة يحث إدارة ترامب على التحرك بشأن صفقة أسلحة متعثرة - \r\n        بوابة الشروق",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://dailycaller.com/2026/11/09/us-army-practices-island-warfare-china-prepares-taiwan-fight/",
@@ -2721,14 +2721,14 @@
     ]
    },
    "CHN": {
-    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· Taiwan detains Communist Party chairman over suspected Chinese funding, election interference",
-    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. The article behind this day's value:\n· Taiwan detains Communist Party chairman over suspected Chinese funding, election interference",
-    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。構成當日指數的報導如下。\n· Taiwan detains Communist Party chairman over suspected Chinese funding, election interference",
+    "ko": "근거 기사가 1건뿐이라 대만-중국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–China relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與中國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://aninews.in/news/world/asia/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference20261109135712/",
@@ -2739,14 +2739,14 @@
   },
   "2026-11-10": {
    "USA": {
-    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 이 날 지수를 만든 기사는 다음과 같습니다.\n· US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific - The Maine Wire\n· Jensen Huang's ties to suspected Chinese spy helped fuel $7.5B in Nvidia chip sales to China: report",
-    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. The articles behind this day's value:\n· US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific - The Maine Wire\n· Jensen Huang's ties to suspected Chinese spy helped fuel $7.5B in Nvidia chip sales to China: report",
-    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。構成當日指數的報導如下。\n· US Army Practices Island Warfare As China’s Shadow Looms Large Over Pacific - The Maine Wire\n· Jensen Huang's ties to suspected Chinese spy helped fuel $7.5B in Nvidia chip sales to China: report",
+    "ko": "근거 기사가 2건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 2 articles — too thin to read as a movement in Taiwan–the United States relations. See the source articles below.",
+    "zh": "佐證報導僅 2 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
     "model": "none (thin evidence)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-12T10:38:46",
+    "generated_at": "2026-11-13T02:00:30",
     "sources": [
      {
       "url": "https://www.themainewire.com/2026/11/us-army-practices-island-warfare-as-chinas-shadow-looms-large-over-pacific/",
@@ -3715,13 +3715,14 @@
     ]
    },
    "CHN": {
-    "ko": "중국 방향의 긴장도가 +2.27로 상승했으며, 이는 군사와 외교 채널에서의 움직임에 기인합니다. 군사 채널에서는 중국이 대만 통제 남중국해 환초 주변에서 '질서 수호' 활동을 벌인 것으로 보도되었고, 외교 채널에서는 중국 정부가 대만 정부의 양안 교류 방해를 비난했습니다. 근거가 2건이라 추세 판단은 어렵습니다.",
-    "en": "Tensions toward China rose to +2.27, driven by activity in military and diplomatic channels. The military channel reported China conducting 'safeguarding order' operations around a Taiwan-controlled South China Sea atoll, while the diplomatic channel saw mainland authorities denounce Taiwan's government for obstructing cross-Strait exchanges. With only two reports, it is difficult to establish a definitive trend.",
-    "zh": "中國方向的緊張度上升至 +2.27，由軍事與外交管道的動向所致。軍事管道報導中國在臺灣控制的南中國海環礁周邊進行「維護秩序」活動，外交管道則見大陸當局譴責臺灣政府阻礙兩岸交流。因為僅有 2 則報導作為依據，難以判斷明確趨勢。",
+    "ko": "중국 방면에서 군사·외교 채널 모두에서 긴장이 올랐다. 군사 측면에서는 중국이 대만 통제 남중국해 환초 주변에서 '질서 수호' 활동을 벌였고, 외교 측면에서는 중국 언론이 대만 정부가 양안 교류를 방해한다고 비난했다. 근거가 2건뿐이라 추세를 단정하기는 어렵다.",
+    "en": "Tensions rose on China's side across both military and diplomatic channels. Militarily, China conducted 'safeguarding order' operations around Taiwan-controlled South China Sea features, while diplomatically, Chinese state media denounced Taiwan's government for obstructing cross-Strait exchanges. With only two pieces of evidence, it is difficult to establish a definite trend.",
+    "zh": "中國方面軍事與外交管道的緊張度均有上升。軍事層面，中國在臺灣控制的南中國海環礁周邊執行「維護秩序」行動；外交層面，中國官媒批評臺灣政府阻礙兩岸交流。由於僅有兩則報導為據，難以確定趨勢。",
+    "zh_mixed": null,
     "model": "claude-haiku-4-5-20251001",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 3,
-    "generated_at": "2026-11-12T10:39:43",
+    "generated_at": "2026-11-13T02:00:35",
     "sources": [
      {
       "url": "https://www.freemalaysiatoday.com/category/world/2026/10/21/china-safeguarding-order-around-taiwan-controlled-south-china-sea-atoll",
@@ -3732,6 +3733,78 @@
       "title": "Mainland denounces Taiwan authorities for hindering cross-Strait exchanges - People's Daily Online"
      }
     ]
+   }
+  },
+  "2026-11-12": {
+   "USA": {
+    "ko": "근거 기사가 1건뿐이라 대만-미국 관계의 움직임으로 해석하지 않습니다. 아래 근거 기사를 직접 보십시오.",
+    "en": "Only 1 article — too thin to read as a movement in Taiwan–the United States relations. See the source article below.",
+    "zh": "佐證報導僅 1 篇，因此不將其解讀為臺灣與美國關係的變動。請直接參閱下方佐證報導。",
+    "model": "none (thin evidence)",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 1,
+    "thin": true,
+    "generated_at": "2026-11-13T02:00:30",
+    "sources": [
+     {
+      "url": "https://www.theepochtimes.com/china/us-delay-in-taiwan-arms-sales-risks-emboldening-beijing-undermining-allied-confidence-experts-6124003",
+      "title": "US Delay in Taiwan Arms Sales Risks Emboldening Beijing, Undermining Allied Confidence: Experts | The Epoch Times"
+     }
+    ]
+   },
+   "CHN": {
+    "ko": "군사 채널에서 긴장도가 +4.30으로 크게 올랐다. G7 외교장관들이 대만 동쪽의 중국 활동이 안정을 위협한다고 경고한 것이 주된 근거다. 외교 채널에서도 +0.61 상승했는데, 대만 정부가 시진핑의 통일 언급에 대해 중국의 공화국 존재 인정을 촉구하며 대응한 기사들이 작용했다.",
+    "en": "Military tensions rose sharply to +4.30 as G7 foreign ministers warned that China's activities east of Taiwan threaten regional stability. Diplomatic channels also increased by +0.61, driven by Taiwan's government urging Beijing to recognize the ROC's existence following Xi's remarks on unification.",
+    "zh": "軍事管道緊張度大幅上升至 +4.30，七大工業國外交部長警告中國在臺灣東側的活動威脅區域穩定。外交管道也上升 +0.61，主要由臺灣政府敦促中國承認中華民國存在、回應習近平統一言論的報導所帶動。",
+    "zh_mixed": null,
+    "model": "claude-haiku-4-5-20251001",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 51,
+    "generated_at": "2026-11-13T02:00:35",
+    "sources": [
+     {
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/g7-members-raise-alarm-over-chinas-activities-near-taiwan/articleshow/135753356.cms",
+      "title": "G7 members raise alarm over China's activities near Taiwan - The Times of India"
+     },
+     {
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/12/2003867624",
+      "title": "G7 foreign ministers say China’s actions east of Taiwan threaten stability - Taipei Times"
+     },
+     {
+      "url": "https://focustaiwan.tw/politics/202611120026",
+      "title": "MAC urges Beijing to recognize ROC's existence after Xi's remarks - Focus Taiwan"
+     },
+     {
+      "url": "https://aninews.in/news/world/asia/taiwan-urges-china-to-respect-roc8217s-democracy-after-xi-reiterates-inevitable-unification20261112184915/",
+      "title": "Taiwan urges China to respect ROC&#8217;s democracy after Xi reiterates \"inevitable\" unification"
+     }
+    ]
+   }
+  },
+  "2026-11-13": {
+   "CHN": {
+    "ko": "이 날 기사 1건을 읽었고, 그중 대만-중국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "1 articles were read for this day and none reported an event between Taiwan and China. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 1 篇報導，其中沒有臺灣與中國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "model": "none (no events)",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 0,
+    "thin": true,
+    "empty": true,
+    "generated_at": "2026-11-13T02:00:30",
+    "sources": []
+   },
+   "USA": {
+    "ko": "이 날 기사 1건을 읽었고, 그중 대만-미국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "1 articles were read for this day and none reported an event between Taiwan and the United States. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 1 篇報導，其中沒有臺灣與美國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "model": "none (no events)",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 0,
+    "thin": true,
+    "empty": true,
+    "generated_at": "2026-11-13T02:00:30",
+    "sources": []
    }
   }
  }
