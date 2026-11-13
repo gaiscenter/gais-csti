@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-12T19:09:15.963538",
+ "saved_at": "2026-11-13T01:31:02.083360",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -13493,6 +13493,9 @@
    "v4": "diplomatic",
    "v5": "010",
    "conf": "high"
+  },
+  "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html": {
+   "v1": "no"
   }
  }
 }
