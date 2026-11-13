@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
   "prompt_version": 3,
-  "saved_at": "2026-11-13T01:30:58.086717",
+  "saved_at": "2026-11-13T09:56:15.977140",
   "entries": {
     "https://wiadomosci.wp.pl/pekin-prezy-muskuly-na-pacyfiku-ruchy-ponad-100-okretow-wokol-tajwanu-7348414795626944a|190|neg": {
       "ok": true,
@@ -1051,6 +1051,384 @@
         "c2": false,
         "c3": null,
         "reason": "조건1: 예 — 기사는 중국 군용기와 해군 함선의 대만 주변 활동, 중국 해경의 대만 동쪽 해역 순찰 등 중국의 대만을 겨냥한 군사·해양 활동을 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 행위입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사적 위협과 해양 활동 강화, 대만의 우려와 대응을 다루는 갈등·충돌 양상이므로 GoldsteinScale +0.0(협력적/긍정적)과 "
+      }
+    },
+    "https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/|160|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "GOP pick to lead House China committee vows to win ‘new Cold War’",
+      "text_len": 2500,
+      "paragraph_1": "WASHINGTON — The House on Tuesday voted 365-65 to establish a special committee on China, and the lawmaker Republicans tapped to lead the bipartisan panel has vowed that Congress will use it to “win the new Cold War.”",
+      "paragraph_2": "Rep. Mike Gallagher of Wisconsin — who served as the top Republican on the Armed Services Committee’s personnel panel in the last Congress — has laid out an agenda for the China committee that includes several key defense priorities. The 16-member committee will consist of nine Republicans and seven Democrats.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 미국 하원의 중국 위원회 설립과 그 의장의 정책 방향에 관한 것으로, 대만과 미국 사이의 직접적인 국가 간 행위(무력시위, 위협, 침범 등)가 아니라 미국이 중국에 대응하기 위해 대만을 언급하는 것입니다. 조건2: 예 — 기사의 논조는 \"새로운 냉전\"이라는 표현과 중국을 견제하려는 기조로 일관되어 있으며, 이는 갈등적/부정적 논조와 일치합니다. 조건3: 아니오 — "
+      }
+    },
+    "https://bdnews24.com/business/uoqggbm8lc|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "How Jensen Huang fell: An alleged spy, a chip war and the battle over China's AI future",
+      "text_len": 2500,
+      "paragraph_1": "Published : 13 Nov 2026, 01:15 PM",
+      "paragraph_2": "Updated : 13 Nov 2026, 01:28 PM",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 주로 Nvidia CEO 개인의 사생활 스캔들과 미국-중국 간 칩 전쟁을 다루며, 대만과 대만-미국 간의 국가급 행위(군사행동, 외교분쟁, 안보위협 등)를 직접 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 스파이 의혹, 개인 스캔들, 불륜 등 갈등적·부정적 내용이므로 GoldsteinScale +2.8의 \"협력적/긍정적\" 코드와 불일치합니다. 최종"
+      }
+    },
+    "https://www.moneycontrol.com/news/business/stocks/nvidia-sinks-amd-and-broadcom-rally-how-chip-stocks-have-traded-amid-jensen-huang-controversy-14079077.html|0831|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia sinks, AMD and Broadcom rally: How chip stocks have traded amid Jensen Huang controversy",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia shares fell 4.34% to $166.19 in after-hours trading on Friday, while rival chipmakers Advanced Micro Devices (AMD) and Broadcom moved in the opposite direction, gaining 5.86% and 5.54%.",
+      "paragraph_2": "AMD shares traded at $585.30, while Broadcom was at $364.36 in after-hours trade on November 13.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 교체와 칩 제조업체 간 주식 시장 움직임을 다루고 있으며, 대만과 미국 정부 간의 국가급 행위나 안보 관련 사건이 아니라 기업 뉴스입니다. 조건2: 아니오 — 기사의 실제 논조는 Nvidia의 위기(CEO 퇴임, 주가 급락)와 이로 인한 공급망 경쟁 변화 등 부정적 내용이지만, GDELT는 이를 \"+5.0 협력적/긍정적\"으로 분류했으므로 불일치합"
+      }
+    },
+    "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan, Asia News - AsiaOne",
+      "text_len": 2500,
+      "paragraph_1": "TAIPEI, Taiwan — Nvidia CEO Jensen Huang had been widely adored like a rock star in his birthplace, Taiwan. That image is now tainted after the FBI began an investigation into his affair with an alleged Chinese agent.",
+      "paragraph_2": "Like the rest of the world, the island was shocked by the scandal over Huang's relationship with Alice Huang, a Chinese businesswoman reportedly described as a Chinese spy by US officials. A video of the pair visiting a restaurant in the capital city of Taipei in 2025 went viral and was broadcast globally.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO 개인의 스캔들(부정행위, 중국 스파이 의혹)을 다루고 있으며, 대만과 NVIDIA(또는 미국) 간의 국가급 행위나 안보 문제를 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 Jensen Huang의 평판 추락, 스캔들, 도덕적 문제를 부정적으로 기술하고 있으나, GDELT의 분류는 GoldsteinScale +2.8로 \"협력적/긍"
+      }
+    },
+    "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang: How Nvidia lost its rockstar CEO",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia's board met late Wednesday to decide on CEO Jensen Huang's future as reports emerged of other extramarital affairs — this time with employees.",
+      "paragraph_2": "In a statement issued on Thursday, the world's most valuable chip supplier said Huang was resigning as president, CEO and board member, effective immediately.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia의 CEO 개인 스캔들(혼외 관계)을 다루는 것이며, 대만과 미국 정부/국가 간의 직접적인 행위나 안보 관련 상호작용을 다루지 않습니다. 조건2: 예 — 기사의 논조는 부정적이며(CEO 스캔들, 회사의 평판 손상, 스파이 의혹 등), 이는 \"갈등적/부정적\" 코드와 일치합니다. 조건3: 해당 없음 — 조건1이 충족되지 않으므로 평가 불필요입니다. 최종: 아"
+      }
+    },
+    "http://www.gazettextra.com/news/nation_world/chinese-dissident-who-admitted-spying-for-beijing-in-the-us-gets-no-jail-time/article_39d6529d-8e1f-599f-8a6a-e44b14701c56.html|110|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinese dissident who admitted spying for Beijing in the US gets no jail time | Nation/World | gazettextra.com",
+      "text_len": 2500,
+      "paragraph_1": "NEW YORK (AP) — A member of New York’s Chinese dissident community who admitted spying for five years on his fellow activists on behalf of the Chinese government avoided prison time at his sentencing Thursday in Manhattan federal court.",
+      "paragraph_2": "Yuanjun Tang, 69, an outspoken critic of the Chinese Communist Party for over three decades, was sentenced to three years' probation by Judge John G. Koeltl. The judge said claims by some individuals who believe they and their families were targeted for harm because of Tang's actions could not be proven.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국-미국 간 스파이 사건(중국의 미국 내 활동가 감시)을 다루고 있으며, 대만과 대만-미국 관계의 정부급 행위를 다루지 않습니다. 조건2: 예 — 기사의 논조는 중국의 스파이 활동, 활동가 배신, 국제 억압 캠페인을 비판하는 명백히 부정적인 내용입니다. 조건3: 해당 없음 — 조건1이 충족되지 않아 평가 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "https://www.chennaionline.com/news/china-conducts-secret-pacific-drills-near-taiwan/|150|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China Conducts Secret Pacific Drills Near Taiwan – Chennaionline",
+      "text_len": 1353,
+      "paragraph_1": "China recently held large military exercises in the western Pacific near Taiwan without prior announcement. Taiwanese officials labeled this as “silent intimidation,” aimed at applying pressure ahead of major international meetings.",
+      "paragraph_2": "These drills involved over 100 Chinese ships, including simulations of attacks on other countries and cities, notably Taiwan itself. This deployment was larger than China’s previous major drill targeting Taiwan from last year.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국이 대만을 겨냥하여 100척 이상의 함선을 동원한 대규모 군사훈련을 실시했으며, 이는 대만에 대한 공격 시뮬레이션을 포함하므로 두 국가 간 직접적인 군사 행위입니다. 조건2: 예 — 기사는 중국의 군사훈련을 \"침묵의 협박\"과 \"무력시위\"로 서술하고 있으며, 이는 갈등적·부정적 논조와 일치합니다. 조건3: 예 — 부정적 논조는 중국의 군사훈련 행위 자체에서 비롯되었으며, 대"
+      }
+    },
+    "https://www.ammonnews.net/article/1044636|190|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "مصادر: اليابان تشير لتخفيضات في الطلبيات الدفاعية بسبب ضغوط مالية | اقتصاد | وكالة عمون الاخبارية",
+      "text_len": 1892,
+      "paragraph_1": "عمون - ذكرت أربعة مصادر مطلعة أن مسؤولين يابانيين حذروا شركات الدفاع من تخفيضات كبيرة في الطلبيات المتوقعة، في ​ظل ضغوط مالية تهدد بتقليص خطط تعزيز القدرات العسكرية التي تقول ‌حكومة رئيسة الوزراء ساناي تاكايتشي إنها ضرورية لمواجهة الصين. وأوضحت المصادر المطلعة لرويترز أن مسؤولين في وزارة المالية اقترحوا الأسبوع الماضي تخصيص ما بين 50 تريليون و60 تريليون ين (313 مليارا ​إلى 376 مليار دولار) للإنفاق الدفاعي على مدى خمس سنوات، بداية ​من أبريل نيسان 2027. ورغم أن هذا المبلغ يزيد على المخصصات البالغة ⁠43 تريليون ين في الخطة الخمسية الحالية، فإنه يقل بكثير عن ميزانية ​بقيمة 80 تريليون ين كان بعض مسؤولي الدفاع ونواب الحزب الديمقراطي الحر الحاكم ​قد افترضوها واستخدموها في مفاوضاتهم مع شركات الدفاع. وقالت المصادر، التي طلبت عدم الكشف عن هوياتها لعدم حصولها على تفويض بالحديث إلى وسائل الإعلام حول هذا الأمر، إن خفض الإنفاق المقترح ​ربما يؤدي إلى تقليص المشتريات المخطط لها من بعض الصواريخ والطائرات سواء ​من موردين محليين أم أجانب، بنسب تصل إلى النصف، ويشمل ذلك مقاتلات إف-35 أمريكية الصنع. وقال ‌متحدث ⁠باسم وزارة الدفاع \"لم يتم اتخاذ أي قرار بعد بشأن حجم خطة تعزيز الدفاع المقبلة. موقفنا هو اتخاذ القرار بشأن ما تحتاجه اليابان لدفاعها، ثم وضع الميزانية بناء على ذلك\". ووفقا لحسابات رويترز، فإن الإنفاق المقترح الذي يصل إلى 60 تريليون ​ين يعني أن اليابان ​لن تحقق هدف ⁠رفع الإنفاق الدفاعي إلى اثنين بالمئة من الناتج المحلي الإجمالي، وذلك في وقت يضغط فيه الرئيس الأمريكي دونالد ترامب ​على حلفاء واشنطن لزيادة إنفاقهم على جيوشهم. وتطالب استراتيجية الدفاع الوطني ​الأمريكية ⁠لعام 2026 الحلفاء في جميع أنحاء العالم بإنفاق 3.5 بالمئة من الناتج المحلي الإجمالي على قواتهم المسلحة و1.5 بالمئة إضافية على الاحتياجات الأمنية الأوسع نطاقا. وتعمل اليابان على ⁠تعزيز قدراتها ​العسكرية لمواجهة القوة العسكرية الصينية المتنامية، وسط ​مخاوف بشأن احتمال شن الصين هجوما على تايوان. وتشعر طوكيو بالقلق من أن مثل هذا الصراع يمكن ​أن يهدد جزرها المجاورة وممراتها البحرية الحيوية. (الدولار = 159.6400 ين) رويترز",
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 일본의 국방력 강화 계획과 예산 책정에 관한 것이며, 중국-대만 간의 직접적인 행위(군사훈련, 위협, 침범 등)를 다루지 않고 있습니다. 조건2: 예 — 기사의 부정적 논조는 일본의 국방 예산 축소로 인한 군사력 약화 가능성을 다루고 있어 갈등적/부정적 성격과 일치합니다. 조건3: 해당 없음 — 조건1이 불만족하므로 조건3 검토 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html|190|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Regular Press Conference of the Ministry of National Defense on October 29, 2026 - China Military",
+      "text_len": 2500,
+      "paragraph_1": "Senior Colonel Zhang Xiaogang, spokesperson for the Ministry of National Defense (MND), answered questions at a regular press conference on the afternoon of October 29, 2026. (mod.gov.cn)",
+      "paragraph_2": "(The following English text is for reference. In case of any divergence of interpretation, the Chinese text shall prevail.)",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 중국 국방부의 정례브리핑으로서 중국-ASEAN 장교 교류, 외국 군사무관 방문, 국제 군사 사관생도 행사 등 제3국과의 군사 외교 활동만을 다루고 있으며, 대만을 언급하거나 대만-중국 간의 직접적인 행위나 상호작용을 포함하지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 국제 군사 교류와 협력의 증진으로 우호적이고 긍정적이나, GDELT가 부정적 코드(CAMEO"
+      }
+    },
+    "http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification|120|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification",
+      "text_len": 2500,
+      "paragraph_1": "ANI 13 Nov 2026, 07:05 GMT+",
+      "paragraph_2": "Taipei [Taiwan], November 12 (ANI): Taiwan's Mainland Affairs Council (MAC) on Thursday urged Beijing to acknowledge the continued existence of the Republic of China (ROC) and respect Taiwan's democratic system after Chinese President Xi Jinping reiterated that unification with Taiwan was inevitable, according to a report by Central News Agency (CNA).",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국 국가원수 시진핑이 대만과의 통일이 불가피하다는 주장을 공개적으로 표명하고, 대만 정부가 이에 직접 대응하는 공식 성명을 발표한 것으로, 두 국가 간 정치·안보 관련 직접적 충돌입니다. 조건2: 예 — 기사의 논조는 중국의 일방적 통일 주장과 대만의 민주주의·자결권에 대한 위협으로 일관되어 있으며, 이는 \"갈등적/부정적\" 코드(GoldsteinScale: -4.0)와 정확"
+      }
+    },
+    "https://news.az/news/china-stages-major-unannounced-military-drills-around-taiwan|1384|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China stages major unannounced military drills around Taiwan | News.az",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국이 대만을 겨냥하여 대만 주변에서 예고 없이 대규모 군사훈련을 실시한 것으로, 대만의 안보에 직접 영향을 주는 일방적 군사행위입니다. 조건2: 예 — 기사 제목의 \"stages major unannounced military drills\"는 군사훈련 실시 자체를 보도하는 내용으로, GoldsteinScale -7.0의 갈등적/부정적 코딩과 일치합니다. 조건3: 예 — 부정"
+      }
+    },
+    "http://www.chinanationalnews.com/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification|120|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification",
+      "text_len": 2500,
+      "paragraph_1": "ANI 13 Nov 2026, 07:05 GMT+10",
+      "paragraph_2": "Taipei [Taiwan], November 12 (ANI): Taiwan's Mainland Affairs Council (MAC) on Thursday urged Beijing to acknowledge the continued existence of the Republic of China (ROC) and respect Taiwan's democratic system after Chinese President Xi Jinping reiterated that unification with Taiwan was inevitable, according to a report by Central News Agency (CNA).",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국 지도자의 통일 주장과 대만 정부의 직접적인 응수로, 양측 간 정치·외교적 대립을 다루는 양자 사건입니다. 조건2: 예 — 기사의 논조는 중국의 통일 강조와 대만의 민주주의 존중 요구 간 갈등을 담고 있어 부정적/갈등적 특성과 일치합니다. 조건3: 예 — 부정적 논조는 중국(Xi의 통일 발언)과 대만(MAC의 반박)이 직접 만들어낸 것으로, 제3자의 비판이나 반응이"
+      }
+    },
+    "http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification|120|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification",
+      "text_len": 2500,
+      "paragraph_1": "ANI 13 Nov 2026, 07:05 GMT+",
+      "paragraph_2": "Taipei [Taiwan], November 12 (ANI): Taiwan's Mainland Affairs Council (MAC) on Thursday urged Beijing to acknowledge the continued existence of the Republic of China (ROC) and respect Taiwan's democratic system after Chinese President Xi Jinping reiterated that unification with Taiwan was inevitable, according to a report by Central News Agency (CNA).",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국 주석의 대만 통일 언급과 대만 정부의 이에 대한 공식 대응이라는 양측 간의 직접적인 정치·외교 상호작용을 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 통일 주장을 \"부정적\"으로 묘사하고(역사 왜곡 비난, 민주주의 존중 촉구, '하나의 국가, 두 가지 제도' 거부), 대만 정부의 반발을 담고 있어 갈등적·부정적 분류와 일치합니다. 조건3: 예 — 부정적 "
+      }
+    },
+    "https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "“HISTORY CANNOT BE STOPPED”: Xi Vows Taiwan Will Be Brought Under Beijing’s Rule As Chinese Warplanes Circle The Island – The Yeshiva World",
+      "text_len": 2203,
+      "paragraph_1": "Chinese President Xi Jinping declared on Thursday that Taiwan’s “reunification” with mainland China is an unstoppable historical mission, telling an audience in Beijing’s Great Hall of the People that “the complete reunification of the motherland must be realized, and it will certainly be realized.”",
+      "paragraph_2": "“The tide of history cannot be stopped,” Xi said, calling the resolution of the Taiwan issue an “unwavering historical mission” of the Chinese Communist Party. He pledged to pursue the goal peacefully under Beijing’s “one country, two systems” formula and did not mention the use of force, which China has never renounced.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석의 대만 \"통일\" 강경 발언과 중국 전투기 29대의 대만 주변 합동전투태세순찰 등 중국의 대만을 직접 겨냥한 군사시위 및 정치적 위협을 주요 내용으로 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 무력 위협, 군사 도발, 정치적 압박을 보도하는 갈등적·위협적 성격이지만, GDELT가 부여한 GoldsteinScale +7.0(협력적/"
+      }
+    },
+    "https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html|128|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Pacific Islands Forum admits Israel as a dialogue partner - World Socialist Web Site",
+      "text_len": 2500,
+      "paragraph_1": "The 18-member Pacific Islands Forum (PIF), the Pacific region’s main inter-governmental organisation, announced on October 21 that Israel had been admitted as a “partner” of the Forum.",
+      "paragraph_2": "The decision was initially made behind closed doors at the annual PIF Leaders’ summit held in Palau in September. It followed a visit by Israeli Foreign Minister Gideon Sa’ar to Fiji in June, during which he met with PIF General Secretary Baron Waqa and presented Israel’s request to join.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 태평양도서국포럼의 이스라엘 수용 결정이며, 대만-중국 간 직접적인 행위(군사 행동, 위협, 제재 등)가 아니라 대만이 제3국(태평양도서국포럼) 활동에 참여한 것에 대한 중국의 반발만 언급되어 있습니다. 조건2: 아니오 — 기사의 실제 논조는 이스라엘의 포럼 가입 승인과 관련된 내용이 중심이며, 대만-중국 관계 자체에 대한 갈등적 내용이 아닙니다. 조건3"
+      }
+    },
+    "https://www.asiaone.com/china/xi-jinping-taiwan-reunification|190|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped, China News - AsiaOne",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING - The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday (Nov 12), while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+      "paragraph_2": "China views democratically-governed Taiwan as its own territory, despite Taipei's strong rejection of that claim, and has repeatedly offered a \"one country, two systems\" model of autonomy not supported by any major Taiwanese political party.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국의 일방적 군사활동(29대 항공기 및 함정의 연합전투준비순찰)이 대만을 겨냥한 직접적 행위로 명시되어 있어 두 국가 간 사건에 해당합니다. 조건2: 예 — 기사의 실제 논조는 중국의 무력통일 압박, 대만의 거부, 중국의 일상적 군사위협 등으로 일관되게 갈등적·부정적입니다. 조건3: 예 — 부정적 논조는 중국의 통일 강요 발언과 군사훈련이라는 중국의 일방적 행위에서 비롯되었"
+      }
+    },
+    "https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/|120|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Xi Declares Taiwan Reunification an ‘Unstoppable’ Historical Mission",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 시진핑의 대만 통일 선언은 중국이 대만을 겨냥하여 공개적으로 한 위협적 성격의 정치 선언으로, 대만의 안보에 직접 영향을 주는 양측 간 사건입니다. 조건2: 예 — 기사의 제목과 본문이 중국의 일방적인 통일 목표 선언을 다루고 있으며, GoldsteinScale -4.0의 갈등적 코드와 일치합니다. 조건3: 예 — 부정적 논조는 중국 지도자의 위협적 선언 자체에서 비롯된 것으"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Former Seychelles president decries overflight revocation - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Former Seychelles president Wavel Ramkalawan yesterday said that his government's last-minute revocation of overflight permission in April for President William Lai's (賴清德) chartered aircraft en route to Eswatini was wrong and should never happen again.",
+      "paragraph_2": "The decision \"was totally wrong. And this is why I stood up, and the leader of the opposition also stood up to condemn that decision. And I hope this doesn't happen again,\" Ramkalawan told the Central News Agency during an interview in Taipei.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 세이셸의 영공 통과 금지 결정에 대한 전직 대통령의 비판이며, 대만-중국 간의 직접적인 행위(미사일, 군사훈련, 영공침범 등)가 아니라 제3국(세이셸)의 중개된 행위에 관한 것입니다. 조건2: 아니오 — 기사의 실제 논조는 영공 통과 금지라는 제약/충돌 행위를 비판하는 부정적 내용이나, GDELT가 +2.8의 긍정적 점수를 부여하여 불일치합니다. 최종: 아니"
+      }
+    },
+    "https://www.europapress.es/internacional/noticia-taiwan-acusa-pekin-utilizar-aniversario-lider-sun-yat-sen-ensalzar-pensamiento-politico-xi-20261113085958.html|112|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwán acusa a Pekín de utilizar el aniversario del líder Sun Yat Sen para ensalzar el pensamiento político de Xi",
+      "text_len": 2500,
+      "paragraph_1": "MADRID 13 Nov. (EUROPA PRESS) -",
+      "paragraph_2": "El portavoz del Consejo de Asuntos Continentales de Taiwán, Liang Wenjie, ha acusado este viernes al Partido Comunista Chino (PCCh) de instrumentalizar el 160 aniversario del nacimiento del líder Sun Yat Sen para reivindicar la legitimidad de su Gobierno y ensalzar el pensamiento político del presidente chino, Xi Jinping.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국 지도자 시진핑의 연설과 그에 대한 대만 정부 대변인의 공개적 비난/비판을 다루고 있으며, 이는 대만과 중국 간의 통일 정책, 대만 독립 거부 등 양국 간 핵심 쟁점에 직접 관련된 사건입니다. 조건2: 예 — 기사의 실제 논조는 대만이 중국의 정치적 선전 행위를 \"비난하고 비판\"하는 내용이며, 이는 갈등적/부정적 방향과 일치합니다. 조건3: 예 — 부정적 논조는 대"
+      }
+    },
+    "https://www.rtp.pt/noticias/mundo/academicos-chineses-veem-politica-de-trump-como-preludio-de-abandono-de-taiwan-pelos-eua_n1777287|120|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Académicos chineses veem política de Trump como \"prelúdio de abandono\" de Taiwan pelos EUA",
+      "text_len": 2500,
+      "paragraph_1": "Dois académicos chineses consideram que a política do Presidente norte-americano, Donald Trump, visa extrair o máximo de benefícios económicos e estratégicos de Taiwan, enquanto reduz os riscos de uma intervenção militar, preparando um eventual abandono da ilha.",
+      "paragraph_2": "Numa análise publicada recentemente pela revista académica Taiwan Studies, do Instituto de Estudos de Taiwan da Academia Chinesa de Ciências Sociais (CASS), Guan Chenglong e Yuan Zheng defendem que a política de Washington para Taiwan atravessa uma transformação profunda, marcada pela erosão do consenso estratégico que durante décadas sustentou o apoio norte-americano à ilha.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 미국의 대만 정책에 대한 중국 학자들의 분석·평가일 뿐, 대만과 중국 간의 직접적인 행위(군사행동, 위협, 무력시위 등)를 다루지 않습니다. 조건2: 예 — 기사의 논조는 미국이 대만을 \"버릴 준비\"를 하고 있다는 부정적·갈등적 해석으로 일관되어 있습니다. 조건3: 아니오 — 부정적 논조의 주체가 제3국(미국의 정책 평가)이며, 대만과 중국 사이의 행위나 중국이 직"
+      }
+    },
+    "https://focustaiwan.tw:443/politics/202611130008|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Lai overflight clearance revocation 'totally wrong': Ex-Seychelles president - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 13 (CNA) Former Seychelles President Wavel Ramkalawan said Thursday that his government's last-minute revocation of overflight permission in April for President Lai Ching-te's (賴清德) chartered aircraft en route to Eswatini was wrong and should never happen again.",
+      "paragraph_2": "\"This [the decision] was totally wrong. And this is why I stood up, and the leader of the opposition also stood up to condemn that decision. And I hope this doesn't happen again,\" Ramkalawan told CNA during an interview in Taipei.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 세이셸의 영공 통과 허가 취소 결정에 대한 전직 대통령의 비판이며, 대만-중국 간의 직접적인 국가급 행위(위협, 군사행동, 영공침범 등)가 아니라 제3국(세이셸)의 중재 역할과 그에 대한 평가에 관한 것입니다. 조건2: 아니오 — 기사의 실제 논조는 세이셸의 영공 통과 허가 취소를 \"totally wrong\"이라고 비판하는 부정적·갈등적 내용이나, GDELT"
+      }
+    },
+    "http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation|124|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "G7 Foreign Ministers warn China's activities East of Taiwan threaten regional stability, freedom of navigation",
+      "text_len": 2500,
+      "paragraph_1": "ANI 13 Nov 2026, 07:30 GMT+10",
+      "paragraph_2": "Paris [France] November 12 (ANI): Foreign ministers of the Group of Seven (G7) have expressed concern over China's increasingly assertive activities in the waters east of Taiwan, warning that the actions threaten regional stability, freedom of navigation and the safety of international shipping, according to a report by Taipei Times.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 중국이 대만 동쪽 해역에서 벌인 해경 순찰, 군사·준군사·민간 자산 배치 등 대만의 안보에 직접 영향을 주는 일방적 행위를 다루고 있으며, 이는 대만과 중국 간의 핵심 사건입니다. 조건2: 아니오 — 기사의 부정적 논조는 중국의 행위 자체가 아니라 G7 외교장관들의 비판, 경고, 선언으로부터 비롯되었으며, 기사의 주요 내용은 \"G7이 경고했다\", \"G7이 선언했다\"는 "
+      }
+    },
+    "https://www.moneycontrol.com/world/xi-jinping-says-taiwan-reunification-must-be-realised-reiterates-china-s-one-country-two-systems-policy-article-14078374.html|027|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi Jinping says Taiwan reunification 'must be realised', reiterates China's 'one country, two systems' policy",
+      "text_len": 2500,
+      "paragraph_1": "Chinese President Xi Jinping has reiterated Beijing's determination to bring Taiwan under its control, declaring that the island's eventual reunification with mainland China is inevitable, even as Taipei rejected his proposal and warned against accepting Communist Party rule.",
+      "paragraph_2": "Addressing an event commemorating the 160th birth anniversary of revolutionary leader Sun Yat-sen in Beijing on Thursday, Xi said China's reunification was an unfinished historical responsibility that would eventually be fulfilled.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 시진핑의 대만 통일 선언과 대만의 거부 반응, 그리고 중국의 대만 주변 군사활동 증가를 다루고 있어 중국과 대만 간의 직접적인 양자 관계 사건입니다. 조건2: 아니오 — 기사의 실제 내용은 중국의 군사적 위협, 강압적 통일 주장, 대만의 자결권 거부, 군사활동 증가 등 갈등과 위협으로 가득 차 있으나, GDELT가 부여한 GoldsteinScale +4.0(협력적/긍정"
+      }
+    },
+    "https://focustaiwan.tw/business/202611110022|125|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan",
+      "text_len": 2121,
+      "paragraph_1": "Taipei, Nov. 11 (CNA) Acer Group founder and Honorary Chairman Stan Shih (施振榮) has been named Taiwan's envoy to the 2026 Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China, the Presidential Office said on Wednesday.",
+      "paragraph_2": "President Lai Ching-te (賴清德) chose Shih for his international perspective and industry expertise, hoping he would bring Taiwan's views and experience on economic and trade issues to the summit, Presidential Office spokesperson Karen Kuo (郭雅慧) said.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만이 APEC 정상회의에 특사를 파견하는 외교적 참여 사건이며, 중국의 직접적인 행위(위협, 군사행동, 제재 등)가 없고, 중국은 \"일방적 주장\"을 제기하는 배경 요소일 뿐이므로 두 국가 간 상호작용 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 대만의 국제 외교 참여와 국제무대에서의 입지 강화라는 우호적·긍정적 내용이므로, 음수 Golds"
+      }
+    },
+    "https://www.heise.de/en/news/Nvidia-CEO-Jensen-Huang-steps-down-after-second-affair-comes-to-light-11522989.html|0831|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia CEO Jensen Huang steps down after second affair comes to light | heise online",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA의 CEO 개인의 부도덕한 행동(불륜)과 그로 인한 사직을 다루고 있으며, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용이 아니라 민간 기업의 임원 개인사 문제입니다. 조건2: 아니오 — 기사의 실제 논조는 부정적(CEO의 스캔들, 사직 강요, 주가 급락)이지만 GDELT가 +5.0의 긍정적 코드를 부여했으므로 논조와 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://h21.hani.co.kr/arti/world/world_general/60182.html|010|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "앨리스는 사라지고, 젠슨은 사퇴하고… 엔비디아 최대 위기",
+      "text_len": 1052,
+      "paragraph_1": "2025년 5월22일 젠슨 황 엔비디아 최고경영자와 그의 연인으로 알려진 앨리스 황이 대만 타이베이의 식당에 함께 있는 모습이 현지 방송 카메라에 잡혔다. AP 연합뉴스",
+      "paragraph_2": "엔비디아의 창업자 젠슨 황이 2026년 11월12일 최고경영자(CEO) 자리에서 물러났다. 연인으로 알려진 앨리스 황이 ‘중국 스파이’란 의혹에 휩싸인 데 이어, 자사 여성 임원과의 사내 불륜 사실까지 추가로 폭로되면서다. 미국 기업 엔비디아는 기업의 상징 격인 수장이 불명예 퇴진하면서 창사 이래 최대 위기를 맞게 됐다.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 엔비디아 CEO의 개인적 스캔들(불륜, 연인의 중국 스파이 의혹)이며, 대만과 미국 정부 간의 직접적인 국가 간 사건이 아니라 미국 기업과 개인의 문제입니다. 조건2: 아니오 — 기사의 실제 논조는 엔비디아의 \"최대 위기\", CEO의 \"불명예 퇴진\", 중국 우회 수출 의혹, 스캔들 등 부정적 내용이 주를 이루는데, GDELT의 GoldsteinScale +0"
+      }
+    },
+    "https://www.rtp.pt/noticias/mundo/taiwan-denuncia-exercicios-militares-chineses-de-negacao-de-area-no-pacifico-ocidental_n1778019|111|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan denuncia exercícios militares chineses de \"negação de área\" no Pacífico ocidental",
+      "text_len": 2500,
+      "paragraph_1": "A China está a realizar exercícios militares de negação de área no Pacífico ocidental, com a participação do grupo de combate do porta-aviões Liaoning e de outras formações navais, afirmou hoje o ministro da Defesa de Taiwan.",
+      "paragraph_2": "Em declarações citadas pela agência de notícias taiwanesa CNA, Wellington Koo denunciou que a \"dissuasão militar\" chinesa \"visa minar a paz e a estabilidade\" na região do Indo-Pacífico, sublinhando que as autoridades de Taiwan mantêm um \"controlo rigoroso\" da situação.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 군사훈련(항모 랴오닝함 전투단 참여, 지역거부 전략)이 대만을 대상으로 한 것으로 명확히 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 일방적 군사 행위입니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련을 \"평화와 안정을 위협하는\" 군사적 위협으로 표현하고 있어, 부정적/갈등적 코드(-2.0)와 일치합니다. 조건3: 예 — 부정적 논조는 대만 국방부 "
       }
     }
   }

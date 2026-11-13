@@ -1,2 +1,154 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-13,TAIWAN,WASHINGTON,160,-4.0,2,False,False,False,https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/
+2026-11-13,TAIWAN,WASHINGTON,010,0.0,8,False,False,False,https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/
+2026-11-13,CHINESE,TAIWAN,020,3.0,1,False,False,False,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,CHINESE,TAIWAN,020,3.0,3,False,False,False,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,CHINESE,TAIWAN,020,3.0,1,False,False,False,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,TAIWAN,WASHINGTON,160,-4.0,8,False,False,False,https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/
+2026-11-13,TAIWAN,BEIJING,020,3.0,7,False,False,True,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,TAIWAN,BEIJING,120,-4.0,6,False,False,True,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,TAIWAN,CHINA,120,-4.0,2,False,False,True,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,TAIWAN,CHINA,020,3.0,1,False,False,True,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,TAIWAN,BEIJING,120,-4.0,2,False,False,True,https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/
+2026-11-13,CHINESE,TAIWAN,030,4.0,2,False,False,False,https://article.wn.com/view/2026/11/13/Xi_Jinping_vows_historic_mission_to_bring_Taiwan_under_China/
+2026-11-13,TAIWAN,UNITED STATES,010,0.0,2,False,False,False,https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/
+2026-11-13,TAIWAN,CHINESE,043,2.8,4,False,False,True,https://focustaiwan.tw:443/politics/202611130008
+2026-11-13,CHINA,TAIWAN,1384,-7.0,5,False,False,False,https://news.az/news/china-stages-major-unannounced-military-drills-around-taiwan
+2026-11-13,CHINESE,TAIWAN,042,1.9,4,False,False,True,https://focustaiwan.tw:443/politics/202611130008
+2026-11-13,TAIWAN,CHINA,112,-2.0,4,False,False,False,https://focustaiwan.tw:443/politics/202611130008
+2026-11-13,TAIWAN,BEIJING,112,-2.0,10,False,False,False,https://www.europapress.es/internacional/noticia-taiwan-acusa-pekin-utilizar-aniversario-lider-sun-yat-sen-ensalzar-pensamiento-politico-xi-20261113085958.html
+2026-11-13,TAIWAN,BEIJING,112,-2.0,10,False,False,False,https://www.europapress.es/internacional/noticia-taiwan-acusa-pekin-utilizar-aniversario-lider-sun-yat-sen-ensalzar-pensamiento-politico-xi-20261113085958.html
+2026-11-13,CHINA,TAIWAN,190,-10.0,6,False,False,False,https://www.ammonnews.net/article/1044636
+2026-11-13,CHINA,TAIWAN,190,-10.0,2,False,False,False,https://www.ammonnews.net/article/1044636
+2026-11-13,CHINA,TAIWAN,190,-10.0,2,False,False,False,https://www.ammonnews.net/article/1044636
+2026-11-13,BEIJING,TAIWAN,020,3.0,2,False,False,False,https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece
+2026-11-13,CHINA,TAIWAN,1044,-5.0,3,False,False,False,https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece
+2026-11-13,CHINA,TAIWAN,1044,-5.0,2,False,False,False,https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece
+2026-11-13,NVIDIA,TAIWAN,0831,5.0,4,False,False,False,https://www.heise.de/en/news/Nvidia-CEO-Jensen-Huang-steps-down-after-second-affair-comes-to-light-11522989.html
+2026-11-13,TAIWAN,WASHINGTON,010,0.0,8,False,False,False,https://www.sentinelassam.com/more-news/international/india-and-japan-bolster-indo-pacific-security-amid-shifting-us-priorities-report
+2026-11-13,TAIWAN,CHINA,040,1.0,4,False,False,False,https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073
+2026-11-13,REUTERS,TAIPEI,042,1.9,1,False,False,False,https://bdnews24.com/business/uoqggbm8lc
+2026-11-13,TAIWAN,CHINA,013,0.4,2,False,False,False,https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073
+2026-11-13,TAIWAN,CHINA,013,0.4,2,False,False,True,https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073
+2026-11-13,TAIWAN,CHINA,090,-2.0,2,False,False,True,https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073
+2026-11-13,CHINA,TAIWAN,040,1.0,4,False,False,False,https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073
+2026-11-13,TAIPEI,REUTERS,043,2.8,10,False,False,False,https://bdnews24.com/business/uoqggbm8lc
+2026-11-13,REUTERS,TAIPEI,042,1.9,2,False,False,False,https://bdnews24.com/business/uoqggbm8lc
+2026-11-13,REUTERS,TAIPEI,042,1.9,7,False,False,False,https://bdnews24.com/business/uoqggbm8lc
+2026-11-13,TAIWAN,CHINA,112,-2.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,CHINESE,TAIWAN,042,1.9,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,TAIWAN,CHINESE,043,2.8,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,TAIWAN,CHINA,112,-2.0,6,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,CHINA,TAIWAN,111,-2.0,2,False,False,False,https://www.manilatimes.net/2026/11/13/world/asia-oceania/takaichi-to-attend-apec-in-first-china-trip-as-pm/2469323
+2026-11-13,CHINA,TAIWAN,130,-4.4,2,False,False,False,http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html
+2026-11-13,CHINA,TAIWAN,130,-4.4,6,False,False,False,http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html
+2026-11-13,CHINESE,TAIWAN,190,-10.0,1,False,False,False,http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html
+2026-11-13,CHINESE,TAIWAN,090,-2.0,5,False,False,False,http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html
+2026-11-13,CHINA,TAIWAN,130,-4.4,2,False,False,False,http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html
+2026-11-13,CHINESE,TAIWAN,042,1.9,8,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,TAIWAN,CHINA,112,-2.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,TAIWAN,CHINESE,043,2.8,8,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688
+2026-11-13,CHINESE,TAIWAN,190,-10.0,4,False,False,False,http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html
+2026-11-13,UNITED STATES,TAIWAN,090,-2.0,1,False,False,False,https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972
+2026-11-13,CHINESE,TAIWAN,1125,-2.0,2,False,False,False,https://www.gulte.com/trends/441518/from-toilet-cleaner-to-ai-rockstar-the-dramatic-story-of-jensen
+2026-11-13,TAIWAN,UNITED STATES,172,-5.0,1,False,False,False,https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972
+2026-11-13,UNITED STATES,TAIWAN,090,-2.0,1,False,False,False,https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972
+2026-11-13,TAIWAN,UNITED STATES,172,-5.0,1,False,False,False,https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972
+2026-11-13,CHINA,TAIWAN,016,-2.0,5,False,False,False,https://www.theyeshivaworld.com/news/general/2622437/china-warning-g7-condemns-pressure-east-of-taiwan-as-officials-raise-fears-of-blockade-preparations.html
+2026-11-13,CHINA,TAIWAN,111,-2.0,10,False,False,False,https://www.newindianexpress.com/world/2026/Nov/13/sanae-takaichi-to-attend-apec-in-first-china-trip-as-prime-minister
+2026-11-13,CHINA,TAIWAN,190,-10.0,1,False,False,False,https://slguardian.org/japan-plans-major-defence-overhaul-as-analysts-warn-of-rising-tensions-with-china/
+2026-11-13,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline
+2026-11-13,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline
+2026-11-13,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline
+2026-11-13,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline
+2026-11-13,CHINA,TAIWAN,190,-10.0,1,False,False,False,https://slguardian.org/japan-plans-major-defence-overhaul-as-analysts-warn-of-rising-tensions-with-china/
+2026-11-13,TAIWAN,CHINESE,010,0.0,1,False,False,False,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,TAIWAN,US OFFICIAL,090,-2.0,1,False,False,True,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,TAIWAN,US OFFICIAL,090,-2.0,2,False,False,True,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,BEIJING,TAIWAN,090,-2.0,2,False,False,False,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,BEIJING,TAIWAN,090,-2.0,1,False,False,False,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,NVIDIA,TAIWAN,042,1.9,4,False,False,False,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,TAIWAN,NVIDIA,043,2.8,4,False,False,False,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,TAIWAN,CHINESE,010,0.0,1,False,False,False,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,TAIWAN,US OFFICIAL,090,-2.0,1,False,False,True,https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan
+2026-11-13,CHINA,TAIWAN,150,-7.2,10,False,False,False,https://www.chennaionline.com/news/china-conducts-secret-pacific-drills-near-taiwan/
+2026-11-13,TAIWAN,BEIJING,120,-4.0,2,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,BEIJING,110,-2.0,4,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,CHINA,TAIWAN,173,-5.0,10,False,False,False,https://www.chennaionline.com/news/china-conducts-secret-pacific-drills-near-taiwan/
+2026-11-13,TAIWAN,BEIJING,120,-4.0,8,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,CHINA,128,-5.0,2,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,CHINA,128,-5.0,8,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,BEIJING,110,-2.0,2,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,CHINA,110,-2.0,2,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,BEIJING,110,-2.0,2,False,False,False,https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html
+2026-11-13,TAIWAN,NVIDIA,0831,5.0,4,False,False,False,https://www.moneycontrol.com/news/business/stocks/nvidia-sinks-amd-and-broadcom-rally-how-chip-stocks-have-traded-amid-jensen-huang-controversy-14079077.html
+2026-11-13,CHINESE,TAIWAN,051,3.4,8,False,False,False,http://www.chinanationalnews.com/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINESE,TAIWAN,120,-4.0,8,False,False,False,http://www.chinanationalnews.com/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,BEIJING,TAIWAN,173,-5.0,4,False,False,False,http://en.people.cn/n3/2026/1113/c90000-20518757.html
+2026-11-13,BEIJING,TAIWAN,010,0.0,4,False,False,False,https://www.liputan6.com/global/read/8334270/xi-jinping-penyatuan-taiwan-dengan-china-pasti-terwujud
+2026-11-13,BEIJING,TAIWAN,010,0.0,6,False,False,True,https://www.liputan6.com/global/read/8334270/xi-jinping-penyatuan-taiwan-dengan-china-pasti-terwujud
+2026-11-13,CHINA,TAIWAN,010,0.0,5,False,False,False,http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation
+2026-11-13,CHINA,TAIPEI,011,-0.1,7,False,False,True,http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation
+2026-11-13,CHINA,TAIWAN,124,-4.0,1,False,False,True,http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation
+2026-11-13,CHINA,TAIPEI,124,-4.0,6,False,False,True,http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation
+2026-11-13,TAIPEI,XI JINPING,010,0.0,2,False,False,True,http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINESE,TAIWAN,051,3.4,8,False,False,False,http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINESE,TAIWAN,120,-4.0,8,False,False,False,http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIPEI,CHINA,015,0.0,3,False,False,False,http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINA,TAIWAN,010,0.0,20,False,False,False,https://focustaiwan.tw/society/202611130005
+2026-11-13,CHINA,TAIWAN,051,3.4,2,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,BEIJING,TAIWAN,080,5.0,1,False,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,CHINA,TAIWAN,120,-4.0,2,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINA,TAIWAN,080,5.0,1,False,False,True,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,TAIPEI,CHINA,015,0.0,5,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,CHINA,020,3.0,12,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,BEIJING,020,3.0,11,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,BEIJING,110,-2.0,4,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIPEI,XI JINPING,010,0.0,3,False,False,True,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,CHINA,010,0.0,8,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,UNITED STATES,110,-2.0,2,False,False,False,http://www.gazettextra.com/news/nation_world/chinese-dissident-who-admitted-spying-for-beijing-in-the-us-gets-no-jail-time/article_39d6529d-8e1f-599f-8a6a-e44b14701c56.html
+2026-11-13,TAIWAN,CHINESE,190,-10.0,2,False,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,TAIWAN,CHINESE,190,-10.0,3,True,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,CHINESE,TAIWAN,051,3.4,8,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINESE,TAIWAN,120,-4.0,9,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,CHINA,TAIWAN,080,5.0,2,False,False,True,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,BEIJING,TAIWAN,080,5.0,1,False,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,CHINA,TAIWANESE,110,-2.0,2,False,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,CHINA,TAIWANESE,120,-4.0,1,False,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,CHINA,TAIWAN,080,5.0,5,False,False,True,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,TAIWAN,CHINA,010,0.0,2,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,BEIJING,110,-2.0,1,False,False,False,http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification
+2026-11-13,TAIWAN,CHINESE,190,-10.0,2,False,False,False,https://www.asiaone.com/china/xi-jinping-taiwan-reunification
+2026-11-13,TAIWAN,UNITED STATES,110,-2.0,2,False,False,False,http://www.gazettextra.com/news/nation_world/chinese-dissident-who-admitted-spying-for-beijing-in-the-us-gets-no-jail-time/article_39d6529d-8e1f-599f-8a6a-e44b14701c56.html
+2026-11-13,TAIWAN,CHINESE,160,-4.0,2,False,False,False,https://www.australiandefence.com.au/news/news/acsl-secures-fourth-japanese-drone-tender
+2026-11-13,TAIWAN,CHINESE,160,-4.0,4,False,False,False,https://www.australiandefence.com.au/news/news/acsl-secures-fourth-japanese-drone-tender
+2026-11-13,TAIWAN,CHINA,160,-4.0,1,False,False,False,https://www.australiandefence.com.au/news/news/acsl-secures-fourth-japanese-drone-tender
 2026-11-13,TAIWAN,AMERICAN,090,-2.0,10,False,False,True,https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html
+2026-11-13,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16287029/Nvidia-Jensen-Huang-introduced-Chinese-spy-husband-Kang-Wei.html
+2026-11-13,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16287029/Nvidia-Jensen-Huang-introduced-Chinese-spy-husband-Kang-Wei.html
+2026-11-13,TAIPEI,CHINA,043,2.8,2,False,False,False,https://www.dailymail.com/news/article-16287029/Nvidia-Jensen-Huang-introduced-Chinese-spy-husband-Kang-Wei.html
+2026-11-13,CHINA,TAIPEI,042,1.9,2,False,False,False,https://www.dailymail.com/news/article-16287029/Nvidia-Jensen-Huang-introduced-Chinese-spy-husband-Kang-Wei.html
+2026-11-13,CHINA,TAIWAN,046,7.0,3,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,CHINA,TAIWAN,046,7.0,1,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,TAIWAN,BEIJING,011,-0.1,4,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,TAIWAN,CHINA,046,7.0,2,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,TAIWAN,CHINA,046,7.0,8,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,CHINA,TAIWAN,046,7.0,1,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,CHINA,TAIWAN,046,7.0,4,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,CHINA,TAIWAN,046,7.0,1,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,TAIWAN,BEIJING,011,-0.1,1,False,False,False,https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html
+2026-11-13,TAIWAN,UNITED STATES,010,0.0,2,False,False,False,https://www.wikitree.co.kr/articles/1174240
+2026-11-13,TAIWAN,UNITED STATES,010,0.0,2,False,False,False,https://www.wikitree.co.kr/articles/1174240
+2026-11-13,TAIWAN,BEIJING,020,3.0,2,False,False,False,https://econotimes.com/Taiwan-Council-Says-Island-s-Future-Should-Be-Decided-by-Its-People-1776144
+2026-11-13,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11
+2026-11-13,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11
+2026-11-13,NVIDIA,TAIWAN,010,0.0,2,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60182.html
+2026-11-13,NVIDIA,TAIWAN,010,0.0,6,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60182.html
+2026-11-13,NVIDIA,TAIWAN,010,0.0,2,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60182.html
+2026-11-13,TAIWAN,CHINA,0831,5.0,2,False,False,False,https://www.insight.co.kr/news/581862
+2026-11-13,TAIWAN,CHINA,0831,5.0,2,False,False,False,https://www.insight.co.kr/news/581862
+2026-11-13,TAIWANESE,REUTERS,013,0.4,10,False,False,False,https://www.shephardmedia.com/news/naval-warfare/chinese-maritime-militia-puts-naval-surveillance-to-the-test/
+2026-11-13,TAIWAN,CHINESE,010,0.0,2,False,False,True,https://www.ddaily.co.kr:443/page/view/2026111312573570948
+2026-11-13,TAIWAN,CHINESE,010,0.0,4,False,False,True,https://www.ddaily.co.kr:443/page/view/2026111312573570948
+2026-11-13,TAIWAN,CHINESE,010,0.0,2,False,False,True,https://www.ddaily.co.kr:443/page/view/2026111312573570948
+2026-11-13,TAIWAN,CHINESE,010,0.0,2,False,False,True,https://www.ddaily.co.kr:443/page/view/2026111312573570948

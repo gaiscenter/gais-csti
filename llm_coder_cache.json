@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-13T01:31:02.083360",
+ "saved_at": "2026-11-13T09:58:16.021843",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -13495,6 +13495,197 @@
    "conf": "high"
   },
   "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/society/202611130005": {
+   "v1": "no"
+  },
+  "http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.europapress.es/internacional/noticia-taiwan-acusa-pekin-utilizar-aniversario-lider-sun-yat-sen-ensalzar-pensamiento-politico-xi-20261113085958.html": {
+   "v1": "no"
+  },
+  "https://www.newindianexpress.com/world/2026/Nov/13/sanae-takaichi-to-attend-apec-in-first-china-trip-as-prime-minister": {
+   "v1": "no"
+  },
+  "https://www.chennaionline.com/news/china-conducts-secret-pacific-drills-near-taiwan/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.shephardmedia.com/news/naval-warfare/chinese-maritime-militia-puts-naval-surveillance-to-the-test/": {
+   "v1": "unjudgeable"
+  },
+  "https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/": {
+   "v1": "no"
+  },
+  "https://www.sentinelassam.com/more-news/international/india-and-japan-bolster-indo-pacific-security-amid-shifting-us-priorities-report": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688": {
+   "v1": "no"
+  },
+  "https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html": {
+   "v1": "no"
+  },
+  "http://www.chinanationalnews.com/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation": {
+   "v1": "no"
+  },
+  "https://www.ammonnews.net/article/1044636": {
+   "v1": "no"
+  },
+  "http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html": {
+   "v1": "no"
+  },
+  "https://www.liputan6.com/global/read/8334270/xi-jinping-penyatuan-taiwan-dengan-china-pasti-terwujud": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://h21.hani.co.kr/arti/world/world_general/60182.html": {
+   "v1": "no"
+  },
+  "https://news.az/news/china-stages-major-unannounced-military-drills-around-taiwan": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.theyeshivaworld.com/news/general/2622437/china-warning-g7-condemns-pressure-east-of-taiwan-as-officials-raise-fears-of-blockade-preparations.html": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com/china/xi-jinping-taiwan-reunification": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://focustaiwan.tw:443/politics/202611130008": {
+   "v1": "no"
+  },
+  "https://www.heise.de/en/news/Nvidia-CEO-Jensen-Huang-steps-down-after-second-affair-comes-to-light-11522989.html": {
+   "v1": "no"
+  },
+  "https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan": {
+   "v1": "no"
+  },
+  "https://www.moneycontrol.com/news/business/stocks/nvidia-sinks-amd-and-broadcom-rally-how-chip-stocks-have-traded-amid-jensen-huang-controversy-14079077.html": {
+   "v1": "no"
+  },
+  "http://en.people.cn/n3/2026/1113/c90000-20518757.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.australiandefence.com.au/news/news/acsl-secures-fourth-japanese-drone-tender": {
+   "v1": "no"
+  },
+  "https://www.ddaily.co.kr:443/page/view/2026111312573570948": {
+   "v1": "no"
+  },
+  "https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://article.wn.com/view/2026/11/13/Xi_Jinping_vows_historic_mission_to_bring_Taiwan_under_China/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.manilatimes.net/2026/11/13/world/asia-oceania/takaichi-to-attend-apec-in-first-china-trip-as-pm/2469323": {
+   "v1": "no"
+  },
+  "https://www.gulte.com/trends/441518/from-toilet-cleaner-to-ai-rockstar-the-dramatic-story-of-jensen": {
+   "v1": "no"
+  },
+  "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline": {
+   "v1": "no"
+  },
+  "http://www.gazettextra.com/news/nation_world/chinese-dissident-who-admitted-spying-for-beijing-in-the-us-gets-no-jail-time/article_39d6529d-8e1f-599f-8a6a-e44b14701c56.html": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/news/article-16287029/Nvidia-Jensen-Huang-introduced-Chinese-spy-husband-Kang-Wei.html": {
+   "v1": "no"
+  },
+  "https://www.wikitree.co.kr/articles/1174240": {
+   "v1": "no"
+  },
+  "https://econotimes.com/Taiwan-Council-Says-Island-s-Future-Should-Be-Decided-by-Its-People-1776144": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.insight.co.kr/news/581862": {
+   "v1": "no"
+  },
+  "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972": {
+   "v1": "no"
+  },
+  "https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11": {
    "v1": "no"
   }
  }

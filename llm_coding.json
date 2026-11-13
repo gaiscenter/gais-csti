@@ -1,29 +1,388 @@
 {
  "date": "2026-11-13",
- "generated_at": "2026-11-13T01:31:02.095972",
+ "generated_at": "2026-11-13T09:58:16.033664",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 1,
- "n_coded": 1,
- "n_relevant": 0,
+ "n_articles": 44,
+ "n_coded": 43,
+ "n_relevant": 13,
  "stats": {
-  "api_calls": 1,
+  "api_calls": 43,
   "api_failures": 0,
-  "unparseable": 0,
+  "unparseable": 1,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 0,
-  "input_uncached": 234,
+  "cache_read": 463512,
+  "input_uncached": 6998,
   "folded": 0
  },
  "articles": {
+  "https://focustaiwan.tw/society/202611130005": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Rain expected to move into western Taiwan, Yilan Saturday afternoon - Focus Taiwan"
+  },
+  "http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification"
+  },
+  "https://www.europapress.es/internacional/noticia-taiwan-acusa-pekin-utilizar-aniversario-lider-sun-yat-sen-ensalzar-pensamiento-politico-xi-20261113085958.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwán acusa a Pekín de utilizar el aniversario del líder Sun Yat Sen para ensalzar el pensamiento político de Xi"
+  },
+  "https://www.newindianexpress.com/world/2026/Nov/13/sanae-takaichi-to-attend-apec-in-first-china-trip-as-prime-minister": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Sanae Takaichi to attend APEC in first China trip as Prime Minister"
+  },
+  "https://www.chennaionline.com/news/china-conducts-secret-pacific-drills-near-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "China Conducts Secret Pacific Drills Near Taiwan – Chennaionline"
+  },
   "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
    "title": "La caída de Huang deja tocada a Nvidia, expone al Gobierno estadounidense y refuerza a quienes piden más controles a las exportaciones de chips | Empresas"
+  },
+  "https://www.shephardmedia.com/news/naval-warfare/chinese-maritime-militia-puts-naval-surveillance-to-the-test/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Chinese maritime militia puts naval surveillance to the test | Shephard"
+  },
+  "https://www.c4isrnet.com:443/home/2023/01/10/gop-pick-to-lead-house-china-committee-vows-to-win-new-cold-war/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "GOP pick to lead House China committee vows to win ‘new Cold War’"
+  },
+  "https://www.sentinelassam.com/more-news/international/india-and-japan-bolster-indo-pacific-security-amid-shifting-us-priorities-report": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "India and Japan bolster Indo-Pacific security amid shifting US priorities: Report"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Former Seychelles president decries overflight revocation - Taipei Times"
+  },
+  "https://www.wsws.org/en/articles/2026/11/13/epdc-n13.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Pacific Islands Forum admits Israel as a dialogue partner - World Socialist Web Site"
+  },
+  "http://www.chinanationalnews.com/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification"
+  },
+  "http://www.shanghainews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification"
+  },
+  "https://www.theyeshivaworld.com/news/general/2622537/history-cannot-be-stopped-xi-vows-taiwan-will-be-brought-under-beijings-rule-as-chinese-warplanes-circle-the-island.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "“HISTORY CANNOT BE STOPPED”: Xi Vows Taiwan Will Be Brought Under Beijing’s Rule As Chinese Warplanes Circle The Island – The Yeshiva World"
+  },
+  "https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "Xi Declares Taiwan Reunification an ‘Unstoppable’ Historical Mission"
+  },
+  "http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "G7 Foreign Ministers warn China's activities East of Taiwan threaten regional stability, freedom of navigation"
+  },
+  "https://www.ammonnews.net/article/1044636": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "مصادر: اليابان تشير لتخفيضات في الطلبيات الدفاعية بسبب ضغوط مالية | اقتصاد | وكالة عمون الاخبارية"
+  },
+  "http://eng.chinamil.com.cn/2025xb/V_251452/16499506.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Regular Press Conference of the Ministry of National Defense on October 29, 2026 - China Military"
+  },
+  "https://www.liputan6.com/global/read/8334270/xi-jinping-penyatuan-taiwan-dengan-china-pasti-terwujud": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi Jinping: Penyatuan Taiwan dengan China Pasti Terwujud"
+  },
+  "https://h21.hani.co.kr/arti/world/world_general/60182.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "앨리스는 사라지고, 젠슨은 사퇴하고… 엔비디아 최대 위기"
+  },
+  "https://news.az/news/china-stages-major-unannounced-military-drills-around-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China stages major unannounced military drills around Taiwan | News.az"
+  },
+  "https://www.theyeshivaworld.com/news/general/2622437/china-warning-g7-condemns-pressure-east-of-taiwan-as-officials-raise-fears-of-blockade-preparations.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "CHINA WARNING: G7 Condemns Pressure East Of Taiwan As Officials Raise Fears Of Blockade Preparations – The Yeshiva World"
+  },
+  "https://www.asiaone.com/china/xi-jinping-taiwan-reunification": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped, China News - AsiaOne"
+  },
+  "https://focustaiwan.tw:443/politics/202611130008": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Lai overflight clearance revocation 'totally wrong': Ex-Seychelles president - Focus Taiwan"
+  },
+  "https://www.heise.de/en/news/Nvidia-CEO-Jensen-Huang-steps-down-after-second-affair-comes-to-light-11522989.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia CEO Jensen Huang steps down after second affair comes to light | heise online"
+  },
+  "https://www.deccanchronicle.com/world/taiwan-shocked-as-nvidia-ceo-jensen-huangs-image-hit-by-china-spy-scandal-2004073": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan Shocked As Nvidia CEO Jensen Huang's Image Hit By China Spy Scandal"
+  },
+  "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan, Asia News - AsiaOne"
+  },
+  "https://www.moneycontrol.com/news/business/stocks/nvidia-sinks-amd-and-broadcom-rally-how-chip-stocks-have-traded-amid-jensen-huang-controversy-14079077.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia sinks, AMD and Broadcom rally: How chip stocks have traded amid Jensen Huang controversy"
+  },
+  "http://en.people.cn/n3/2026/1113/c90000-20518757.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Does Taiwan really understand major signals from this commemorative event? - People's Daily Online"
+  },
+  "https://www.australiandefence.com.au/news/news/acsl-secures-fourth-japanese-drone-tender": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "ACSL secures fourth Japanese drone tender - Australian Defence Magazine"
+  },
+  "https://www.ddaily.co.kr:443/page/view/2026111312573570948": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "대만, 젠슨 황 전 엔비디아 CEO 관련 `중국 간첩 의혹` 美와 공동 조사 - 디지털데일리"
+  },
+  "https://www.thehindu.com/news/international/china-stages-unannounced-pacific-drills-in-silent-intimidation-of-taiwan-officials-say/article71696589.ece": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "China stages unannounced Pacific drills in ‘silent intimidation’ of Taiwan, officials say - The Hindu"
+  },
+  "https://article.wn.com/view/2026/11/13/Xi_Jinping_vows_historic_mission_to_bring_Taiwan_under_China/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Xi Jinping vows 'historic mission' to bring Taiwan under China's control: 'No chance of independence' - Worldnews.com"
+  },
+  "https://www.manilatimes.net/2026/11/13/world/asia-oceania/takaichi-to-attend-apec-in-first-china-trip-as-pm/2469323": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Takaichi to attend APEC in first China trip as PM | The Manila Times"
+  },
+  "https://www.gulte.com/trends/441518/from-toilet-cleaner-to-ai-rockstar-the-dramatic-story-of-jensen": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From Toilet Cleaner To AI Rockstar: The Dramatic Story Of Jensen -"
+  },
+  "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang | Nvidia | The Guardian"
+  },
+  "http://www.gazettextra.com/news/nation_world/chinese-dissident-who-admitted-spying-for-beijing-in-the-us-gets-no-jail-time/article_39d6529d-8e1f-599f-8a6a-e44b14701c56.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinese dissident who admitted spying for Beijing in the US gets no jail time | Nation/World | gazettextra.com"
+  },
+  "https://www.dailymail.com/news/article-16287029/Nvidia-Jensen-Huang-introduced-Chinese-spy-husband-Kang-Wei.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia boss was introduced to his Chinese 'spy' mistress by her husband who 'accepted' the affair, report claims | Daily Mail Online"
+  },
+  "https://www.wikitree.co.kr/articles/1174240": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "앨리스황(젠슨 황 불륜녀) 남편, 아내의 외도 알고도 묵인했나 | 위키트리"
+  },
+  "https://econotimes.com/Taiwan-Council-Says-Island-s-Future-Should-Be-Decided-by-Its-People-1776144": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Taiwan Council Says Island's Future Should Be Decided by Its People | EconoTimes"
+  },
+  "https://www.insight.co.kr/news/581862": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "젠슨 황 전 엔비디아 CEO, 불륜 상대 ‘중국 스파이’ 확정 땐 최고 징역 20년형 관측"
+  },
+  "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Jensen Huang: How Nvidia lost its rockstar CEO"
+  },
+  "https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "The Rise and Fall of Jensen Huang: AI Rock Star Exits Nvidia in Scandal - Business Insider"
   }
  }
 }
