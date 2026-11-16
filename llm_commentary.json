@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T02:00:35",
+ "generated_at": "2026-11-16T02:54:37",
  "model": "claude-haiku-4-5-20251001",
- "n_days": 92,
- "n_cells": 184,
+ "n_days": 95,
+ "n_cells": 190,
  "days": {
   "2026-11-11": {
    "CHN": {
@@ -40,7 +40,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties",
@@ -62,7 +62,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "http://www.shanghainews.net/news/279242569/taiwan-detects-four-pla-aircraft-sorties-eight-plan-vessels-around-its-territory",
@@ -79,7 +79,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -92,7 +92,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.insight.co.kr/news/568516",
@@ -113,7 +113,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -126,7 +126,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.asiaone.com/asia/taiwans-president-says-record-defence-spending-investment-peace",
@@ -175,7 +175,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/taiwanese-president-says-defense-spending-is-investment-in-peace-6076439",
@@ -212,7 +212,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.punjabkesari.in/international/news/taiwan-records-heightened-chinese-military-activity-around-its-territory-2370365",
@@ -232,7 +232,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/20/2003862795",
@@ -250,7 +250,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://dailycaller.com/2026/08/20/taiwan-unveils-record-defense-budget-china-threat/",
@@ -291,7 +291,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.businessinsider.com/apache-black-hawk-drill-taiwan-impact-ukraine-drone-war-2026-8",
@@ -336,7 +336,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.yahoo.com/news/us/articles/us-navy-aircraft-transited-taiwan-004254091.html",
@@ -378,7 +378,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -418,7 +418,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/27/2003863212",
@@ -434,7 +434,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/26/mainland-chinas-ship-activity-near-taiwan-hits-record-for-third-month-in-a-row",
@@ -456,7 +456,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.insight.co.kr/news/570532",
@@ -494,7 +494,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -526,7 +526,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/30/2003863370",
@@ -547,7 +547,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -560,7 +560,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/31/2003863405",
@@ -576,7 +576,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.dailymail.com/news/article-16085533/america-china-defense-iran-war-strain.html",
@@ -594,7 +594,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://focustaiwan.tw:443/sci-tech/202608310005",
@@ -636,7 +636,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -681,7 +681,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -722,7 +722,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -759,7 +759,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -800,7 +800,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -833,7 +833,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "USA": {
@@ -845,7 +845,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -859,7 +859,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "USA": {
@@ -871,7 +871,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -885,7 +885,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -921,7 +921,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/us-envoy-warns-taiwan-conflict-would-inflict-greater-economic-toll-than-world-war-ii-6085132",
@@ -962,7 +962,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://news.webindia123.com/news/Articles/World/20260910/4497027.html",
@@ -983,7 +983,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -996,7 +996,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://glavcom.ua/world/world-politics/vitseprezidentka-tajvanju-tajemno-prijikhala-do-jevropi-na-tli-pohroz-kitaju-1142306.html",
@@ -1033,7 +1033,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://novini.bg/article/2026091303305945104",
@@ -1082,7 +1082,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/09/15/2003864279",
@@ -1135,7 +1135,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://dailycaller.com/2026/09/14/taiwan-strait-china-drills-heating-up/",
@@ -1155,7 +1155,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://thediplomat.com/2026/09/the-perils-of-mind-reading-in-the-taiwan-strait/",
@@ -1173,7 +1173,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://focustaiwan.tw/politics/202609160006",
@@ -1218,7 +1218,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.winnipegfreepress.com/world/2026/09/18/taiwan-holds-first-joint-military-drills-using-attack-drones-ahead-of-trump-xi-summit-in-the-us",
@@ -1259,7 +1259,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.chronicle.lu/category/international-news/63477-defence-firm-anduril-says-us-delay-on-taiwan-arms-sales-affecting-its-business",
@@ -1279,7 +1279,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.prokerala.com/news/articles/a1814294.html",
@@ -1297,7 +1297,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.koreaherald.com/article/10879531",
@@ -1314,7 +1314,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -1327,7 +1327,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://focustaiwan.tw/politics/202609210015",
@@ -1372,7 +1372,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://fakti.bg/world/1084049-taivan-obvini-pekin-v-izopachavane-na-faktite-sled-sreshtata-trampsi",
@@ -1421,7 +1421,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.globaltimes.cn/page/202609/1371494.shtml",
@@ -1474,7 +1474,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/03/2003865328",
@@ -1515,7 +1515,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.politika.rs/scc/clanak/790323/tajvanska-obalska-straza-vodenim-topom-gadala-kineski-brod",
@@ -1569,7 +1569,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -1609,7 +1609,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.larazon.es/actualidad/barco-chino-niega-abandonar-aguas-disputadas-taiwan-responde-canon-agua-b50m_202610046ac22cf6f7f8f566d14ce0e4.html",
@@ -1651,7 +1651,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/taiwan-to-raise-defense-spending-to-5-percent-of-gdp-by-2030-president-says-6101383",
@@ -1696,7 +1696,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865754",
@@ -1746,7 +1746,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -1778,7 +1778,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://news.ltn.com.tw/news/focus/breakingnews/5604146",
@@ -1832,7 +1832,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -1872,7 +1872,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.hellenicshippingnews.com/taiwan-agrees-to-buy-30-of-gas-from-alaska-lng-project-trump-says/",
@@ -1889,7 +1889,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -1902,7 +1902,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://news.webindia123.com/news/Articles/World/20261016/4511744.html",
@@ -1923,7 +1923,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -1936,7 +1936,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/19/2003866214",
@@ -1973,7 +1973,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.straitstimes.com/asia/east-asia/taiwan-says-drives-away-16-chinese-ships-involved-in-maritime-harassment",
@@ -1994,7 +1994,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2007,7 +2007,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.bankingnews.gr/diethni/articles/906127/global-alarm-chinese-forces-confront-us-warship-new-tension-with-taiwan",
@@ -2056,7 +2056,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://zn.ua/ukr/WORLD/kitaj-namahajetsja-izoljuvati-tajvan-i-pohrozhuje-sojuznikam-ostrova-ft.html",
@@ -2076,7 +2076,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.freemalaysiatoday.com/category/world/2026/10/22/what-s-holding-up-washington-s-us-14bil-arms-sale-to-taiwan",
@@ -2094,7 +2094,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.chennaionline.com/news/chinese-ships-spotted-near-taiwan/",
@@ -2115,7 +2115,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2129,7 +2129,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "USA": {
@@ -2141,7 +2141,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2154,7 +2154,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://lenta.ru/news/2026/10/25/kitay-otprazdnoval-prisoedinenie-tayvanya-posle-vvedeniya-na-ostrov-svoih-voysk/",
@@ -2175,7 +2175,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2189,7 +2189,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -2221,7 +2221,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://whbl.com/2026/10/26/taiwan-rebuffs-chinas-commemorations-for-post-world-war-two-restoration-of-island/",
@@ -2238,7 +2238,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2251,7 +2251,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/28/2003866774",
@@ -2272,7 +2272,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2286,7 +2286,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -2330,7 +2330,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.theyeshivaworld.com/news/general/2616726/china-military-buildup-taiwan-warns-of-major-threat-as-53-chinese-vessels-deploy-across-pacific.html",
@@ -2347,7 +2347,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2360,7 +2360,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/31/taiwan-looks-to-autonomous-swarms-to-counter-beijings-grey-zone-pressure",
@@ -2381,7 +2381,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2395,7 +2395,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -2440,7 +2440,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -2485,7 +2485,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -2518,7 +2518,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "CHN": {
@@ -2558,7 +2558,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/beijing-poised-to-escalate-drills-clashes-in-push-to-control-taiwans-waters-analysts-6118570",
@@ -2603,7 +2603,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
@@ -2620,7 +2620,7 @@
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   },
@@ -2633,7 +2633,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/08/2003867363",
@@ -2649,7 +2649,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://wiadomosci.wp.pl/pekin-prezy-muskuly-na-pacyfiku-ruchy-ponad-100-okretow-wokol-tajwanu-7348414795626944a",
@@ -2667,7 +2667,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.antaranews.com/berita/5839895/tiga-pesawat-tempur-f-16-as-kembali-tiba-di-taiwan",
@@ -2708,7 +2708,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://dailycaller.com/2026/11/09/us-army-practices-island-warfare-china-prepares-taiwan-fight/",
@@ -2728,7 +2728,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://aninews.in/news/world/asia/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference20261109135712/",
@@ -2746,7 +2746,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 2,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.themainewire.com/2026/11/us-army-practices-island-warfare-as-chinas-shadow-looms-large-over-pacific/",
@@ -3744,7 +3744,7 @@
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 1,
     "thin": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": [
      {
       "url": "https://www.theepochtimes.com/china/us-delay-in-taiwan-arms-sales-risks-emboldening-beijing-undermining-allied-confidence-experts-6124003",
@@ -3783,27 +3783,149 @@
   },
   "2026-11-13": {
    "CHN": {
-    "ko": "이 날 기사 1건을 읽었고, 그중 대만-중국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
-    "en": "1 articles were read for this day and none reported an event between Taiwan and China. A value of zero means no event was found, not that data is missing.",
-    "zh": "當日共讀取 1 篇報導，其中沒有臺灣與中國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "ko": "중국이 대만 근처 태평양에서 사전 공지 없이 군사 훈련을 실시했다. 동시에 시진핑 주석은 대만과 중국의 통일이 '필연적'이며 '역사적 사명'이라고 재차 표명했으며, 대만 정부는 중국이 대만의 민주주의를 존중할 것을 촉구했다.",
+    "en": "China conducted unannounced military drills near Taiwan in the Pacific, while Xi Jinping reiterated that Taiwan's unification with China is 'inevitable' and a 'historic mission.' Taiwan's government in response urged China to respect Taiwan's democracy.",
+    "zh": "中國在臺灣附近的太平洋進行未經事先通知的軍事演習。同時，習近平主席重申臺灣與中國統一是「必然的」及「歷史使命」，臺灣政府則敦促中國尊重臺灣的民主制度。",
+    "zh_mixed": null,
+    "model": "claude-haiku-4-5-20251001",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 13,
+    "generated_at": "2026-11-16T02:54:36",
+    "sources": [
+     {
+      "url": "https://www.chennaionline.com/news/china-conducts-secret-pacific-drills-near-taiwan/",
+      "title": "China Conducts Secret Pacific Drills Near Taiwan – Chennaionline"
+     },
+     {
+      "url": "http://www.britainnews.net/news/279429789/taiwan-urges-china-to-respect-roc-democracy-after-xi-reiterates-inevitable-unification",
+      "title": "Taiwan urges China to respect ROC's democracy after Xi reiterates \"inevitable\" unification"
+     },
+     {
+      "url": "https://article.wn.com/view/2026/11/13/Xi_Jinping_vows_historic_mission_to_bring_Taiwan_under_China/",
+      "title": "Xi Jinping vows 'historic mission' to bring Taiwan under China's control: 'No chance of independence' - Worldnews.com"
+     }
+    ]
+   },
+   "USA": {
+    "ko": "이 날 기사 43건을 읽었고, 그중 대만-미국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "43 articles were read for this day and none reported an event between Taiwan and the United States. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 43 篇報導，其中沒有臺灣與美國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
     "model": "none (no events)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
+    "sources": []
+   }
+  },
+  "2026-11-14": {
+   "USA": {
+    "ko": "이 날 기사 37건을 읽었고, 그중 대만-미국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "37 articles were read for this day and none reported an event between Taiwan and the United States. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 37 篇報導，其中沒有臺灣與美國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "model": "none (no events)",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 0,
+    "thin": true,
+    "empty": true,
+    "generated_at": "2026-11-16T02:54:33",
+    "sources": []
+   },
+   "CHN": {
+    "ko": "중국이 대만 동쪽 해역에서 공식 발표 없이 군사 훈련을 실시했으며, 대만 해안경비대와 무선 충돌이 발생했다. 중국 선박들의 활동이 대만 정부의 감시 대상이 되었고, 중국 → 대만 군사 긴장도가 +3.93으로 상승했다.",
+    "en": "China conducted undisclosed military drills off Taiwan's eastern coast, with a radio clash occurring between Chinese vessels and Taiwan's coast guard. The incident prompted Taiwan to monitor Chinese ship movements, raising China-to-Taiwan military tension to +3.93.",
+    "zh": "中國在臺灣東方海域進行未公開宣布的軍事演習，中國船隻與臺灣海巡單位發生無線電對峙。事件促使臺灣政府監控中國船隻活動，中國對臺灣的軍事緊張度升至 +3.93。",
+    "zh_mixed": null,
+    "model": "claude-haiku-4-5-20251001",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 9,
+    "generated_at": "2026-11-16T02:54:36",
+    "sources": [
+     {
+      "url": "https://www.zerohedge.com/geopolitical/reuters-catches-chinas-silent-war-drill-taiwan-blockade-fears-put-conflict-free-supply",
+      "title": "China's 'Silent' War Drill: Taiwan Blockade Fears Put Conflict-Free Supply Chains In Focus<!-- --> | ZeroHedge"
+     },
+     {
+      "url": "https://focustaiwan.tw/politics/202611140008",
+      "title": "Taiwan monitors Chinese ships after radio clash off eastern coast - Focus Taiwan"
+     },
+     {
+      "url": "https://focustaiwan.tw:443/politics/202611140008",
+      "title": "Taiwan monitors Chinese ships after radio clash off eastern coast - Focus Taiwan"
+     },
+     {
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867776",
+      "title": "Coast guard tracks PRC vessel after radio spat - Taipei Times"
+     }
+    ]
+   }
+  },
+  "2026-11-15": {
+   "USA": {
+    "ko": "이 날 기사 32건을 읽었고, 그중 대만-미국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "32 articles were read for this day and none reported an event between Taiwan and the United States. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 32 篇報導，其中沒有臺灣與美國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "model": "none (no events)",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 0,
+    "thin": true,
+    "empty": true,
+    "generated_at": "2026-11-16T02:54:33",
+    "sources": []
+   },
+   "CHN": {
+    "ko": "2026년 11월 15일 중국의 대만 향 긴장도는 군사·외교 채널 모두에서 상승했습니다. 군사 채널에서는 중국이 대만 주변에 100척 이상의 함선을 배치했다는 보도가 지수를 끌어올렸고, 외교 채널에서는 중국 지도부의 대만 통일 관련 발언 3건이 반영되었습니다. 다만 외교 채널의 경우 근거가 3건으로 제한적입니다.",
+    "en": "On November 15, 2026, China's tension index toward Taiwan rose across both military and diplomatic channels. The military channel was driven by reports of China deploying over 100 ships around Taiwan, while the diplomatic channel reflected three statements by Chinese leadership regarding Taiwan reunification. However, the diplomatic channel is based on limited evidence with only three reports.",
+    "zh": "2026年11月15日，中國對臺灣的緊張度指數在軍事與外交管道均呈上升。軍事管道因中國在臺灣周邊部署超過100艘艦艇的報導而上升；外交管道則反映了中國領導層關於臺灣統一的三項聲明。不過外交管道的根據僅限3件報導。",
+    "zh_mixed": null,
+    "model": "claude-haiku-4-5-20251001",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 4,
+    "generated_at": "2026-11-16T02:54:37",
+    "sources": [
+     {
+      "url": "http://www.milwaukeesun.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan",
+      "title": "China deploys more than 100 ships around Taiwan"
+     },
+     {
+      "url": "https://www.tekniikkatalous.fi/uutiset/a/29e28588-7294-4470-b9e9-cc23c2146508",
+      "title": "Kiinan presidentti julisti juhlassa suoran uhkauksen | Tekniikka&Talous"
+     },
+     {
+      "url": "http://www.milwaukeesun.com/news/279429078/xi-says-taiwan-reunification-is-inevitable",
+      "title": "Xi says Taiwan reunification is inevitable"
+     },
+     {
+      "url": "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan",
+      "title": "Xi calls for peaceful reunification with Taiwan"
+     }
+    ]
+   }
+  },
+  "2026-11-16": {
+   "CHN": {
+    "ko": "이 날 기사 4건을 읽었고, 그중 대만-중국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "4 articles were read for this day and none reported an event between Taiwan and China. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 4 篇報導，其中沒有臺灣與中國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "model": "none (no events)",
+    "codebook_fingerprint": "c7f5b2daf3d781e5",
+    "n_articles": 0,
+    "thin": true,
+    "empty": true,
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    },
    "USA": {
-    "ko": "이 날 기사 1건을 읽었고, 그중 대만-미국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
-    "en": "1 articles were read for this day and none reported an event between Taiwan and the United States. A value of zero means no event was found, not that data is missing.",
-    "zh": "當日共讀取 1 篇報導，其中沒有臺灣與美國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
+    "ko": "이 날 기사 4건을 읽었고, 그중 대만-미국 사이의 사건은 없었습니다. 지수 0 은 '자료가 없다'가 아니라 '사건이 확인되지 않았다'는 뜻입니다.",
+    "en": "4 articles were read for this day and none reported an event between Taiwan and the United States. A value of zero means no event was found, not that data is missing.",
+    "zh": "當日共讀取 4 篇報導，其中沒有臺灣與美國之間的事件。指數為 0 並非「沒有資料」，而是「未發現事件」。",
     "model": "none (no events)",
     "codebook_fingerprint": "c7f5b2daf3d781e5",
     "n_articles": 0,
     "thin": true,
     "empty": true,
-    "generated_at": "2026-11-13T02:00:30",
+    "generated_at": "2026-11-16T02:54:33",
     "sources": []
    }
   }
