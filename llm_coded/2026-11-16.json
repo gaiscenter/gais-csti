@@ -1,18 +1,22 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T02:53:21",
+ "generated_at": "2026-11-16T03:04:12.603695",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
- "mode": "backfill",
+ "mode": "backfill+shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_population": 4,
  "n_articles": 4,
- "n_no_text": 0,
  "n_coded": 4,
  "n_relevant": 0,
- "complete": true,
- "n_missing": 0,
- "missing": [],
- "population_source": "window_archive",
+ "stats": {
+  "api_calls": 0,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 0,
+  "cache_read": 0,
+  "input_uncached": 0,
+  "folded": 0
+ },
  "articles": {
   "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html": {
    "tags": {
@@ -42,5 +46,10 @@
    "mentions": 2,
    "title": "Jensen Huang carried a secret for more than a year. It led to his downfall. – East Bay Times"
   }
- }
+ },
+ "complete": true,
+ "n_population": 4,
+ "n_no_text": 0,
+ "n_missing": 0,
+ "missing": []
 }
