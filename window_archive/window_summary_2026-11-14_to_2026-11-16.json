@@ -1,0 +1,267 @@
+{
+  "window": {
+    "start": "2026-11-14",
+    "end": "2026-11-16"
+  },
+  "query_bytes_gb": 0.043,
+  "generated_at": "2026-11-16T02:49:42.373992",
+  "note": "Two counts are reported because GDELT ingests late: rows are selected by partition time (padded) and then also classified by event date (SQLDATE). Appendix B.1 reports N = 1,847; compare against both definitions.",
+  "counts": {
+    "partition_window": {
+      "total_events": 219,
+      "by_partner": {
+        "CHN": {
+          "events": 148,
+          "mentions": 528,
+          "negative_events": 62,
+          "negative_mention_weighted_signal": 1235.6
+        },
+        "USA": {
+          "events": 71,
+          "mentions": 233,
+          "negative_events": 20,
+          "negative_mention_weighted_signal": 294.2
+        }
+      }
+    },
+    "event_date_window": {
+      "total_events": 219,
+      "by_partner": {
+        "CHN": {
+          "events": 148,
+          "mentions": 528,
+          "negative_events": 62,
+          "negative_mention_weighted_signal": 1235.6
+        },
+        "USA": {
+          "events": 71,
+          "mentions": 233,
+          "negative_events": 20,
+          "negative_mention_weighted_signal": 294.2
+        }
+      }
+    }
+  },
+  "china_top20_by_absolute_impact": [
+    {
+      "rank": 1,
+      "event_date": "2026-11-15",
+      "actor1": "CHINESE",
+      "actor2": "TAIWAN",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 8,
+      "absolute_impact": 80.0,
+      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art45485151-tajemniczy-smok-i-jego-morski-brat-czyli-chinskie-drony-stealth-do-walki-z-tajwanem-i-indiami"
+    },
+    {
+      "rank": 2,
+      "event_date": "2026-11-15",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 8,
+      "absolute_impact": 80.0,
+      "url": "https://profile.ru/news/abroad/ssha-i-kitaj-gotovyat-memorandum-dlya-predotvrashheniya-voennyh-incidentov-a999-1924097/"
+    },
+    {
+      "rank": 3,
+      "event_date": "2026-11-14",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "130",
+      "goldstein": -4.4,
+      "mentions": 16,
+      "absolute_impact": 70.4,
+      "url": "https://www.zerohedge.com/geopolitical/reuters-catches-chinas-silent-war-drill-taiwan-blockade-fears-put-conflict-free-supply"
+    },
+    {
+      "rank": 4,
+      "event_date": "2026-11-15",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "150",
+      "goldstein": -7.2,
+      "mentions": 9,
+      "absolute_impact": 64.8,
+      "url": "http://www.milwaukeesun.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan"
+    },
+    {
+      "rank": 5,
+      "event_date": "2026-11-14",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 6,
+      "absolute_impact": 60.0,
+      "url": "https://www.emaratalyoum.com/politics/news/2026-11-14-1.2102544"
+    },
+    {
+      "rank": 6,
+      "event_date": "2026-11-14",
+      "actor1": "TAIPEI",
+      "actor2": "CHINESE",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 6,
+      "absolute_impact": 60.0,
+      "url": "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701"
+    },
+    {
+      "rank": 7,
+      "event_date": "2026-11-14",
+      "actor1": "TAIWANESE",
+      "actor2": "CHINA",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 6,
+      "absolute_impact": 60.0,
+      "url": "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html"
+    },
+    {
+      "rank": 8,
+      "event_date": "2026-11-16",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "061",
+      "goldstein": 6.4,
+      "mentions": 8,
+      "absolute_impact": 51.2,
+      "url": "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html"
+    },
+    {
+      "rank": 9,
+      "event_date": "2026-11-16",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "061",
+      "goldstein": 6.4,
+      "mentions": 8,
+      "absolute_impact": 51.2,
+      "url": "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html"
+    },
+    {
+      "rank": 10,
+      "event_date": "2026-11-15",
+      "actor1": "BEIJING",
+      "actor2": "TAIWAN",
+      "event_code": "100",
+      "goldstein": -5.0,
+      "mentions": 10,
+      "absolute_impact": 50.0,
+      "url": "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan"
+    },
+    {
+      "rank": 11,
+      "event_date": "2026-11-15",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 5,
+      "absolute_impact": 50.0,
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/as-japan-looks-to-strengthen-its-defences-and-security-strategy-analysts-warn-of-escalation"
+    },
+    {
+      "rank": 12,
+      "event_date": "2026-11-15",
+      "actor1": "CHINESE",
+      "actor2": "TAIWAN",
+      "event_code": "130",
+      "goldstein": -4.4,
+      "mentions": 10,
+      "absolute_impact": 44.0,
+      "url": "https://www.tekniikkatalous.fi/uutiset/a/29e28588-7294-4470-b9e9-cc23c2146508"
+    },
+    {
+      "rank": 13,
+      "event_date": "2026-11-14",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "150",
+      "goldstein": -7.2,
+      "mentions": 6,
+      "absolute_impact": 43.2,
+      "url": "https://www.actualno.com/asia/bezshumno-zaplashvane-kitaj-provede-neobjaveni-voenni-uchenija-okolo-tajvan-news_2662798.html"
+    },
+    {
+      "rank": 14,
+      "event_date": "2026-11-14",
+      "actor1": "TAIPEI",
+      "actor2": "CHINA",
+      "event_code": "190",
+      "goldstein": -10.0,
+      "mentions": 4,
+      "absolute_impact": 40.0,
+      "url": "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701"
+    },
+    {
+      "rank": 15,
+      "event_date": "2026-11-15",
+      "actor1": "CHINESE",
+      "actor2": "TAIWAN",
+      "event_code": "080",
+      "goldstein": 5.0,
+      "mentions": 8,
+      "absolute_impact": 40.0,
+      "url": "https://www.perthnow.com.au/news/world/next-12-months-australia-facing-very-big-decisions-on-taiwan-jacqui-lambie-warns-c-23164171"
+    },
+    {
+      "rank": 16,
+      "event_date": "2026-11-15",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "160",
+      "goldstein": -4.0,
+      "mentions": 10,
+      "absolute_impact": 40.0,
+      "url": "https://www.theepochtimes.com/world/beijing-corners-taiwan-in-pacific-despite-economic-pain-at-home-analysts-6125194"
+    },
+    {
+      "rank": 17,
+      "event_date": "2026-11-14",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "090",
+      "goldstein": -2.0,
+      "mentions": 16,
+      "absolute_impact": 32.0,
+      "url": "https://focustaiwan.tw/politics/202611140008"
+    },
+    {
+      "rank": 18,
+      "event_date": "2026-11-14",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "150",
+      "goldstein": -7.2,
+      "mentions": 4,
+      "absolute_impact": 28.8,
+      "url": "https://www.actualno.com/asia/bezshumno-zaplashvane-kitaj-provede-neobjaveni-voenni-uchenija-okolo-tajvan-news_2662798.html"
+    },
+    {
+      "rank": 19,
+      "event_date": "2026-11-14",
+      "actor1": "TAIWAN",
+      "actor2": "BEIJING",
+      "event_code": "051",
+      "goldstein": 3.4,
+      "mentions": 8,
+      "absolute_impact": 27.2,
+      "url": "https://executivedigest.sapo.pt/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china/"
+    },
+    {
+      "rank": 20,
+      "event_date": "2026-11-15",
+      "actor1": "CHINA",
+      "actor2": "TAIWANESE",
+      "event_code": "051",
+      "goldstein": 3.4,
+      "mentions": 8,
+      "absolute_impact": 27.2,
+      "url": "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan"
+    }
+  ]
+}
