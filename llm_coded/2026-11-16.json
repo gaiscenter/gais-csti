@@ -1,0 +1,46 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T02:53:21",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 4,
+ "n_articles": 4,
+ "n_no_text": 0,
+ "n_coded": 4,
+ "n_relevant": 0,
+ "complete": true,
+ "n_missing": 0,
+ "missing": [],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Mid Cap Stocks To Follow Now – November 12th - Markets Daily"
+  },
+  "https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Tears and disbelief in Taiwan, where Jensen Huang is a celebrity - NZ Herald"
+  },
+  "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Jensen Huang allies push Nvidia board to reinstate former CEO: report | Fox Business"
+  },
+  "https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Jensen Huang carried a secret for more than a year. It led to his downfall. – East Bay Times"
+  }
+ }
+}

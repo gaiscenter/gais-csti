@@ -1,0 +1,264 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-16T02:53:17",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 34,
+ "n_articles": 33,
+ "n_no_text": 1,
+ "n_coded": 32,
+ "n_relevant": 4,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.theepochtimes.com/world/beijing-corners-taiwan-in-pacific-despite-economic-pain-at-home-analysts-6125194"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.hindustantimes.com/world-news/jensen-huang-seen-cozying-up-with-alleged-chinese-spy-alice-in-pics-clicked-by-daughter-report-101794740726977.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Jensen Huang seen cozying up with alleged Chinese spy Alice in pics clicked by daughter: Report | World News"
+  },
+  "http://www.milwaukeesun.com/news/279429078/xi-says-taiwan-reunification-is-inevitable": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Xi says Taiwan reunification is inevitable"
+  },
+  "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Xi calls for peaceful reunification with Taiwan"
+  },
+  "https://www.jns.org/feature/ive-never-had-a-big-group-of-jewish-friends-who-just-get-it": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "For Jewish teens raised in Asia, a Hong Kong confab offers chance to feel 'part of something much bigger' - Israel & Jewish News - JNS"
+  },
+  "https://www.dailymail.com/news/article-16293845/Saturday-Night-Live-Nvidia-boss-Chinese-spy-affair.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Saturday Night Live mocks Nvidia boss's Chinese spy affair scandal as Bowen Yang makes surprise return as Jensen Huang | Daily Mail Online"
+  },
+  "https://www.indiatimes.com/trending/ex-nvidia-ceo-jensen-huangs-hand-around-chinese-spy-alice-huangs-waist-at-2024-taiwan-event-emerges-in-newly-surfaced-photos/articleshow/135847527.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Ex-Nvidia CEO Jensen Huang's hand around 'Chinese spy' Alice Huang's waist at 2024 Taiwan event emerges in newly surfaced photos"
+  },
+  "http://www.milwaukeesun.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 9,
+   "title": "China deploys more than 100 ships around Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867824": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Police investigate suspected shooting at official’s vehicle - Taipei Times"
+  },
+  "https://www.perthnow.com.au/news/world/next-12-months-australia-facing-very-big-decisions-on-taiwan-jacqui-lambie-warns-c-23164171": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Independent senator Jacqui Lambie warns Australia is facing ‘very big decisions’ on Taiwan | PerthNow"
+  },
+  "https://www.theepochtimes.com/china/beijing-bets-on-proxies-to-subvert-taiwanese-democracy-analysts-6125045": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Beijing Bets on Proxies to Subvert Taiwanese Democracy: Analysts | The Epoch Times"
+  },
+  "https://www.tekniikkatalous.fi/uutiset/a/29e28588-7294-4470-b9e9-cc23c2146508": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Kiinan presidentti julisti juhlassa suoran uhkauksen | Tekniikka&Talous"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/as-japan-looks-to-strengthen-its-defences-and-security-strategy-analysts-warn-of-escalation": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "As Japan looks to strengthen its defences and security strategy, analysts warn of escalation | The Star"
+  },
+  "https://nypost.com/2026/11/15/us-news/treasury-secretary-scott-bessent-says-nvidia-should-look-outside-the-company-for-jensen-huangs-successor/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Treasury Secretary Scott Bessent says Nvidia should look outside the company for Jensen Huang's successor"
+  },
+  "https://radar.rp.pl/przemysl-zbrojeniowy/art45485151-tajemniczy-smok-i-jego-morski-brat-czyli-chinskie-drony-stealth-do-walki-z-tajwanem-i-indiami": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "GJ-11 i GJ-21: chińskie drony stealth wchodzą do służby na lądzie i morzu - rp.pl"
+  },
+  "https://www.index.hr/vijesti/clanak/zasto-japan-strahuje-od-americkokineskog-dogovora/2857137.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Zašto Japan strahuje od američko-kineskog dogovora? - Index.hr"
+  },
+  "https://www.bankingnews.gr/diethni/articles/911197/kinezika-mme-diapragmateyseis-gia-symfonia-apotropis-stratiotikon-kriseon-enopsei-tis-synantisis-trump-kai-xi-ektos-atzentas-to-oukraniko": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Κινεζικά ΜΜΕ: Διαπραγματεύσεις για συμφωνία αποτροπής στρατιωτικών κρίσεων ενόψει της συνάντησης Trump και Xi – Εκτός ατζέντας το Ουκρανικό"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867804": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "‘Nvidia loves Taiwan,’ tech executive says - Taipei Times"
+  },
+  "https://www.techtimes.com/articles/330602/20261114/nvidia-doj-investigation-semafor-says-only-one-three-probes-targets-chipmaker.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Nvidia DOJ Investigation: Semafor Says Only One of Three Probes Targets Chipmaker"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5641940": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "《TAIPEI TIMES》 Navy planning for submarine rescue vessel - 焦點 - 自由時報電子報"
+  },
+  "https://www.dw.com/bs/japan-strepi-od-mogu%C4%87eg-zaokreta-ameri%C4%8Dke-politike-u-aziji/a-79930532": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Zašto Japan strahuje od američko-kineskog dogovora?"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/16/2003867798": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "[ LETTER ] - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867823": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Navy planning for submarine rescue vessel - Taipei Times"
+  },
+  "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "World leaders head to Asia for back-to-back diplomatic summits | Apec summit | The Guardian"
+  },
+  "https://profile.ru/news/abroad/ssha-i-kitaj-gotovyat-memorandum-dlya-predotvrashheniya-voennyh-incidentov-a999-1924097/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "США и Китай готовят меморандум для предотвращения военных инцидентов - Информационное агентство Деловой журнал Профиль - profile.ru"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/16/2003867796": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Rupert Hammond-Chambers On Taiwan: America’s Bipartisan Support for Taiwan Remains the Bedrock for Enduring Ties - Taipei Times"
+  },
+  "https://www.ibtimes.co.uk/furman-warns-ai-layoffs-could-become-permanent-1832287": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Economists Warn of Permanent AI Layoffs and Weigh Donald Trump's Stimulus Options in a Potential Tech Bust | IBTimes UK"
+  },
+  "https://biz.chosun.com/stock/stock_general/2026/11/16/LOKOUOQM3ZEB7FCYWIVQ3DXVHQ/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "이사회 의장 없던 엔비디아… ‘황제 CEO’ 견제도, 승계 준비도 실패 - 조선비즈"
+  },
+  "https://www.thedailybeast.com/sex-mad-ceo-jensen-huangs-reign-of-terror-exposed": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Sex-Mad CEO Jensen Huangâs Reign of Terror Exposed"
+  },
+  "https://thenextweb.com/news/nvidia-taiwan-officials-indicted-manager-smuggling": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia pressed Taiwan officials over its indicted manager"
+  },
+  "https://annabaa.org/arabic/reports/47999": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "فضيحة مؤسس إنفيديا.. قصة سقوط أحد رؤساء عمالقة التكنولوجيا السبعة"
+  },
+  "https://www.thenews.com.pk/latest/1423650-philippines-china-rift-deepens-in-south-china-sea-what-to-know": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Philippines, China rift deepens in South China sea: What to know"
+  },
+  "https://www.business-standard.com/world-news/the-secret-jensen-huang-kept-for-more-than-a-year-led-to-his-downfall-126111500121_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "The secret Jensen Huang kept for more than a year led to his downfall | World News - Business Standard"
+  }
+ }
+}

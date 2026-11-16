@@ -47,7 +47,7 @@
   "generated_at": "2026-11-12T10:28:28"
  },
  "_meta": {
-  "updated_at": "2026-11-13T09:58:16.035872",
+  "updated_at": "2026-11-16T02:53:21.262393",
   "note": "날짜별 LLM 코딩 지수. llm_index.json 은 그날치만 담고 매 실행 덮이므로, 전환 후 그래프가 쓸 과거는 이 파일에만 있다. 날짜마다 codebook_fingerprint 를 적어 방법론 전환일을 남긴다."
  },
  "2026-08-14": {
@@ -4578,5 +4578,90 @@
   "model": "claude-haiku-4-5-20251001",
   "mode": "shadow",
   "generated_at": "2026-11-13T09:58:16.033664"
+ },
+ "2026-11-14": {
+  "cells": {
+   "CHN_threat": {
+    "value": 4.4979,
+    "raw": 7.3091,
+    "e": 8,
+    "mentions": 66
+   },
+   "CHN_response": {
+    "value": 1.2,
+    "raw": 7.2,
+    "e": 1,
+    "mentions": 4
+   }
+  },
+  "channels": {
+   "military": {
+    "CHN_threat": {
+     "value": 3.9273,
+     "raw": 7.2,
+     "e": 6,
+     "mentions": 62
+    },
+    "CHN_response": {
+     "value": 1.2,
+     "raw": 7.2,
+     "e": 1,
+     "mentions": 4
+    }
+   }
+  },
+  "n_articles": 38,
+  "n_coded": 37,
+  "n_relevant": 9,
+  "codebook_fingerprint": "c7f5b2daf3d781e5",
+  "model": "claude-haiku-4-5-20251001",
+  "mode": "backfill",
+  "generated_at": "2026-11-16T02:52:58"
+ },
+ "2026-11-15": {
+  "cells": {
+   "CHN_threat": {
+    "value": 1.3816,
+    "raw": 3.1086,
+    "e": 4,
+    "mentions": 35
+   }
+  },
+  "channels": {
+   "military": {
+    "CHN_threat": {
+     "value": 1.2,
+     "raw": 7.2,
+     "e": 1,
+     "mentions": 9
+    }
+   },
+   "diplomatic": {
+    "CHN_threat": {
+     "value": 0.6346,
+     "raw": 1.6923,
+     "e": 3,
+     "mentions": 26
+    }
+   }
+  },
+  "n_articles": 33,
+  "n_coded": 32,
+  "n_relevant": 4,
+  "codebook_fingerprint": "c7f5b2daf3d781e5",
+  "model": "claude-haiku-4-5-20251001",
+  "mode": "backfill",
+  "generated_at": "2026-11-16T02:53:17"
+ },
+ "2026-11-16": {
+  "cells": {},
+  "channels": {},
+  "n_articles": 4,
+  "n_coded": 4,
+  "n_relevant": 0,
+  "codebook_fingerprint": "c7f5b2daf3d781e5",
+  "model": "claude-haiku-4-5-20251001",
+  "mode": "backfill",
+  "generated_at": "2026-11-16T02:53:21"
  }
 }

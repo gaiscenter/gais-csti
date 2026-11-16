@@ -1,0 +1,324 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-16T02:52:58",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "backfill",
+ "model": "claude-haiku-4-5-20251001",
+ "n_population": 40,
+ "n_articles": 38,
+ "n_no_text": 2,
+ "n_coded": 37,
+ "n_relevant": 9,
+ "complete": false,
+ "n_missing": 1,
+ "missing": [
+  "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701"
+ ],
+ "population_source": "window_archive",
+ "articles": {
+  "https://www.emaratalyoum.com/politics/news/2026-11-14-1.2102544": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "الضغوط المالية تهدد بتقليص خطط تعزيز القدرات العسكرية اليابانية"
+  },
+  "https://www.zerohedge.com/geopolitical/reuters-catches-chinas-silent-war-drill-taiwan-blockade-fears-put-conflict-free-supply": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "China's 'Silent' War Drill: Taiwan Blockade Fears Put Conflict-Free Supply Chains In Focus<!-- --> | ZeroHedge"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867820": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "NTU honors alumni, awards honorary degrees - Taipei Times"
+  },
+  "https://www.pravda.ru/economics/2442549-jensen-huang-nvidia-otstavka/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Ð£ÑÐ¾Ð´ Ð¥ÑÐ°Ð½Ð³Ð° Ð¸Ð· NVIDIA Ð¿ÐµÑÐµÐºÑÐ°Ð¸Ð²Ð°ÐµÑ Ð´Ð¾ÑÑÑÐ¿ Ðº ÑÐ¸Ð¿Ð°Ð¼ Ð´Ð»Ñ ÑÑÐ½ÐºÐ¾Ð² ÐÐ¸ÑÐ°Ñ Ð¸ Ð Ð¾ÑÑÐ¸Ð¸"
+  },
+  "https://www.dailymail.com/debate/article-16293001/SARAH-VINE-digital-doomsday-Microsoft.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "SARAH VINE: I don't fear the digital doomsday one bit. In fact, it'll be pure bliss | Daily Mail Online"
+  },
+  "https://www.sentinelassam.com/more-news/international/g7-raises-alarm-over-chinas-aggressive-moves-near-taiwan-citing-regional-stability-risks": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "G7 Raises Alarm Over China's Aggressive Moves Near Taiwan, Citing Regional Stability Risks"
+  },
+  "https://www.winnipegfreepress.com/world/2026/11/13/violent-attacks-on-critics-of-china-in-taiwan-raise-concern-over-transnational-repression": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "low"
+   },
+   "mentions": 10,
+   "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression – Winnipeg Free Press"
+  },
+  "http://www.bignewsnetwork.com/news/279432644/china-sun-yat-sen-celebrations-seen-as-united-front-strategy-to-influence-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China's Sun Yat-sen celebrations seen as 'United Front' strategy to influence Taiwan"
+  },
+  "https://www.theglobeandmail.com/business/article-nvidia-after-jensen-huang-will-big-techs-key-man-ethos-live-on/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia after Jensen Huang: Will Big Tech’s ‘key man’ ethos live on? - The Globe and Mail"
+  },
+  "https://www.actualno.com/asia/bezshumno-zaplashvane-kitaj-provede-neobjaveni-voenni-uchenija-okolo-tajvan-news_2662798.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "\"Безшумно заплашване\": Китай проведе необявени военни учения около Тайван  | Actualno.com"
+  },
+  "https://www.actualno.com/asia/kitaj-repetiral-tajno-napadenie-sreshtu-tajvan-predi-sreshtata-na-si-s-trymp-i-putin-news_2662628.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Китай репетирал тайно нападение срещу Тайван преди срещата на Си с Тръмп и Путин  | Actualno.com"
+  },
+  "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "180",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression - ABC News"
+  },
+  "https://www.thedailybeast.com/brazen-photo-surfaces-of-sex-mad-nvidia-ceo-jensen-huang-embracing-alleged-spy-lover-alice-huang": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Brazen Photo Surfaces of Sex-Mad Nvidia CEO Jensen Huang Embracing Alleged Spy Lover Alice Huang"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867777": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "FEATURE: Taiwan faces a void after Huang leaves Nvidia - Taipei Times"
+  },
+  "https://www.enikos.gr/international/trimeris-synantisi-trab-si-kai-poutin-stin-kina-ektos-atzentas-i-oukrania-sto-epikentro-to-iran-kai-ta-pyrinika/2676426/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Τριμερής συνάντηση Τραμπ, Σι και Πούτιν στην Κίνα – Εκτός ατζέντας η Ουκρανία, στο επίκεντρο το Ιράν και τα πυρηνικά"
+  },
+  "https://www.almasryalyoum.com/news/details/4409471": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "33 عامًا من القيادة تنتهي بفضيحة.. القصة الكاملة لرحيل جنسن هوانج عن «إنفيديا» | المصري اليوم"
+  },
+  "https://organiser.org/2026/11/14/426287/world/china-and-its-stolen-tech-empire-how-espionage-drives-rise-of-beijing-and-poses-a-greater-challenge-than-soviet-kgb/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China Tech Theft: How Beijing acquired western technologies"
+  },
+  "https://focustaiwan.tw:443/politics/202611140008": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan monitors Chinese ships after radio clash off eastern coast - Focus Taiwan"
+  },
+  "https://focustaiwan.tw/politics/202611140008": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "Taiwan monitors Chinese ships after radio clash off eastern coast - Focus Taiwan"
+  },
+  "https://www.heise.de/en/news/Reports-detail-Nvidia-antitrust-probe-and-another-affair-involving-ex-CEO-11523641.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Reports detail Nvidia antitrust probe and another affair involving ex-CEO | heise online"
+  },
+  "https://www.munhwa.com:443/article/11631213": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "“앨리스 황, 中국가안전부 반도체팀 소속” 의혹 제기 대만매체 | 문화일보"
+  },
+  "https://www.theage.com.au/world/asia/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying-20261114-p61e52.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia scandal raises new concerns about scale of Chinese spying"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261114/4519627.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Chinas Sun Yat-sen celebrations seen as United Front strategy to influence Taiwan"
+  },
+  "https://openthemagazine.com/business/why-does-elon-musk-want-jensen-huang-back-at-nvidia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Elon Musk's Campaign to Reinstate Jensen Huang: A Critical Move for Nvidia's AI Future"
+  },
+  "https://yalibnan.com/2026/11/14/nvidia-scandal-ex-ceo-misled-top-lawyer-on-affair-with-chinese-spy-sources-say/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia scandal: Ex- CEO misled top lawyer on affair with Chinese spy, report – Ya Libnan"
+  },
+  "https://executivedigest.sapo.pt/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Casa Branca confirma encontro entre Trump, Xi e Putin na China"
+  },
+  "https://biz.heraldcorp.com/article/10936995": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "“젠슨황, 엔비디아 임원진에 ‘앨리스 황’ 관계 거짓 해명해와” - 헤럴드경제"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867776": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Coast guard tracks PRC vessel after radio spat - Taipei Times"
+  },
+  "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips | Business | kten.com"
+  },
+  "https://www.hindustantimes.com/world-news/us-news/elon-musk-warns-nvidia-will-lose-critical-deals-without-jensen-huang-101794668617377.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Elon Musk warns Nvidia will lose 'critical' deals without Jensen Huang | Hindustan Times"
+  },
+  "https://www.boston.com/food/food-news/2026/11/13/din-tai-fung-seeks-liquor-license-for-proposed-prudential-center-restaurant/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Din Tai Fung seeks liquor license for Prudential Center restaurant"
+  },
+  "https://www.moneycontrol.com/world/elon-musk-warns-nvidia-could-lose-critical-deals-after-jensen-huang-s-exit-article-14080268.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Elon Musk warns Nvidia could lose 'critical' deals after Jensen Huang's exit"
+  },
+  "http://www.goskagit.com/news/world/violent-attacks-on-critics-of-china-in-taiwan-raise-concern-over-transnational-repression/article_98ea06fa-797b-5d6e-8695-b3512927647d.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "180",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "Violent attacks on critics of China in Taiwan raise concern over transnational repression | News | goskagit.com"
+  },
+  "https://www.munhwa.com:443/article/11631274": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "대만 매체 “앨리스 황, 中 국가안전부 반도체팀 소속” | 문화일보"
+  },
+  "https://nypost.com/2026/11/14/us-news/huang-and-chinese-spy-snapped-canoodling-in-taiwan-as-nvidia-faces-legal-exposure-over-lack-of-insurance/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Romantic photos show ex-Nvidia boss Jensen Huang with alleged Chinese spy lover as company faces legal peril"
+  },
+  "https://www.ibtimes.com.au/jensen-huang-nvidia-exit-heritage-debate-1878567": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Would a White CEO Have Been Ousted? Chinese Commentators Claim Jensen Huang Fell Because of His Heritage"
+  },
+  "https://www.odnako.org/who-is-colette-kress-the-interim-ceo-of-nvidia-after-huangs-departure/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Who is Colette Kress, the interim CEO of Nvidia after Huang's departure"
+  }
+ }
+}

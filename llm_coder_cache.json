@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-13T09:58:16.021843",
+ "saved_at": "2026-11-16T02:53:21.266713",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -13686,6 +13686,290 @@
    "v1": "no"
   },
   "https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11": {
+   "v1": "no"
+  },
+  "https://www.emaratalyoum.com/politics/news/2026-11-14-1.2102544": {
+   "v1": "no"
+  },
+  "https://www.zerohedge.com/geopolitical/reuters-catches-chinas-silent-war-drill-taiwan-blockade-fears-put-conflict-free-supply": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867820": {
+   "v1": "no"
+  },
+  "https://www.pravda.ru/economics/2442549-jensen-huang-nvidia-otstavka/": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/debate/article-16293001/SARAH-VINE-digital-doomsday-Microsoft.html": {
+   "v1": "no"
+  },
+  "https://www.sentinelassam.com/more-news/international/g7-raises-alarm-over-chinas-aggressive-moves-near-taiwan-citing-regional-stability-risks": {
+   "v1": "no"
+  },
+  "https://www.winnipegfreepress.com/world/2026/11/13/violent-attacks-on-critics-of-china-in-taiwan-raise-concern-over-transnational-repression": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "low"
+  },
+  "http://www.bignewsnetwork.com/news/279432644/china-sun-yat-sen-celebrations-seen-as-united-front-strategy-to-influence-taiwan": {
+   "v1": "no"
+  },
+  "https://www.theglobeandmail.com/business/article-nvidia-after-jensen-huang-will-big-techs-key-man-ethos-live-on/": {
+   "v1": "no"
+  },
+  "https://www.actualno.com/asia/bezshumno-zaplashvane-kitaj-provede-neobjaveni-voenni-uchenija-okolo-tajvan-news_2662798.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.actualno.com/asia/kitaj-repetiral-tajno-napadenie-sreshtu-tajvan-predi-sreshtata-na-si-s-trymp-i-putin-news_2662628.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "other",
+   "v5": "180",
+   "conf": "low"
+  },
+  "https://www.thedailybeast.com/brazen-photo-surfaces-of-sex-mad-nvidia-ceo-jensen-huang-embracing-alleged-spy-lover-alice-huang": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867777": {
+   "v1": "no"
+  },
+  "https://www.enikos.gr/international/trimeris-synantisi-trab-si-kai-poutin-stin-kina-ektos-atzentas-i-oukrania-sto-epikentro-to-iran-kai-ta-pyrinika/2676426/": {
+   "v1": "no"
+  },
+  "https://www.almasryalyoum.com/news/details/4409471": {
+   "v1": "no"
+  },
+  "https://organiser.org/2026/11/14/426287/world/china-and-its-stolen-tech-empire-how-espionage-drives-rise-of-beijing-and-poses-a-greater-challenge-than-soviet-kgb/": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw:443/politics/202611140008": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://focustaiwan.tw/politics/202611140008": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.heise.de/en/news/Reports-detail-Nvidia-antitrust-probe-and-another-affair-involving-ex-CEO-11523641.html": {
+   "v1": "no"
+  },
+  "https://www.munhwa.com:443/article/11631213": {
+   "v1": "no"
+  },
+  "https://www.theage.com.au/world/asia/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying-20261114-p61e52.html": {
+   "v1": "no"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261114/4519627.html": {
+   "v1": "no"
+  },
+  "https://openthemagazine.com/business/why-does-elon-musk-want-jensen-huang-back-at-nvidia": {
+   "v1": "no"
+  },
+  "https://yalibnan.com/2026/11/14/nvidia-scandal-ex-ceo-misled-top-lawyer-on-affair-with-chinese-spy-sources-say/": {
+   "v1": "no"
+  },
+  "https://executivedigest.sapo.pt/casa-branca-confirma-encontro-entre-trump-xi-e-putin-na-china/": {
+   "v1": "no"
+  },
+  "https://biz.heraldcorp.com/article/10936995": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/15/2003867776": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html": {
+   "v1": "no"
+  },
+  "https://www.hindustantimes.com/world-news/us-news/elon-musk-warns-nvidia-will-lose-critical-deals-without-jensen-huang-101794668617377.html": {
+   "v1": "no"
+  },
+  "https://www.boston.com/food/food-news/2026/11/13/din-tai-fung-seeks-liquor-license-for-proposed-prudential-center-restaurant/": {
+   "v1": "no"
+  },
+  "https://www.moneycontrol.com/world/elon-musk-warns-nvidia-could-lose-critical-deals-after-jensen-huang-s-exit-article-14080268.html": {
+   "v1": "no"
+  },
+  "http://www.goskagit.com/news/world/violent-attacks-on-critics-of-china-in-taiwan-raise-concern-over-transnational-repression/article_98ea06fa-797b-5d6e-8695-b3512927647d.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "other",
+   "v5": "180",
+   "conf": "low"
+  },
+  "https://www.munhwa.com:443/article/11631274": {
+   "v1": "no"
+  },
+  "https://nypost.com/2026/11/14/us-news/huang-and-chinese-spy-snapped-canoodling-in-taiwan-as-nvidia-faces-legal-exposure-over-lack-of-insurance/": {
+   "v1": "no"
+  },
+  "https://www.ibtimes.com.au/jensen-huang-nvidia-exit-heritage-debate-1878567": {
+   "v1": "no"
+  },
+  "https://www.odnako.org/who-is-colette-kress-the-interim-ceo-of-nvidia-after-huangs-departure/": {
+   "v1": "no"
+  },
+  "https://www.hindustantimes.com/world-news/jensen-huang-seen-cozying-up-with-alleged-chinese-spy-alice-in-pics-clicked-by-daughter-report-101794740726977.html": {
+   "v1": "no"
+  },
+  "http://www.milwaukeesun.com/news/279429078/xi-says-taiwan-reunification-is-inevitable": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.jns.org/feature/ive-never-had-a-big-group-of-jewish-friends-who-just-get-it": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/news/article-16293845/Saturday-Night-Live-Nvidia-boss-Chinese-spy-affair.html": {
+   "v1": "no"
+  },
+  "https://www.indiatimes.com/trending/ex-nvidia-ceo-jensen-huangs-hand-around-chinese-spy-alice-huangs-waist-at-2024-taiwan-event-emerges-in-newly-surfaced-photos/articleshow/135847527.html": {
+   "v1": "no"
+  },
+  "http://www.milwaukeesun.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867824": {
+   "v1": "no"
+  },
+  "https://www.perthnow.com.au/news/world/next-12-months-australia-facing-very-big-decisions-on-taiwan-jacqui-lambie-warns-c-23164171": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/china/beijing-bets-on-proxies-to-subvert-taiwanese-democracy-analysts-6125045": {
+   "v1": "no"
+  },
+  "https://www.tekniikkatalous.fi/uutiset/a/29e28588-7294-4470-b9e9-cc23c2146508": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/as-japan-looks-to-strengthen-its-defences-and-security-strategy-analysts-warn-of-escalation": {
+   "v1": "no"
+  },
+  "https://nypost.com/2026/11/15/us-news/treasury-secretary-scott-bessent-says-nvidia-should-look-outside-the-company-for-jensen-huangs-successor/": {
+   "v1": "no"
+  },
+  "https://radar.rp.pl/przemysl-zbrojeniowy/art45485151-tajemniczy-smok-i-jego-morski-brat-czyli-chinskie-drony-stealth-do-walki-z-tajwanem-i-indiami": {
+   "v1": "no"
+  },
+  "https://www.index.hr/vijesti/clanak/zasto-japan-strahuje-od-americkokineskog-dogovora/2857137.aspx": {
+   "v1": "no"
+  },
+  "https://www.bankingnews.gr/diethni/articles/911197/kinezika-mme-diapragmateyseis-gia-symfonia-apotropis-stratiotikon-kriseon-enopsei-tis-synantisis-trump-kai-xi-ektos-atzentas-to-oukraniko": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/16/2003867804": {
+   "v1": "no"
+  },
+  "https://www.techtimes.com/articles/330602/20261114/nvidia-doj-investigation-semafor-says-only-one-three-probes-targets-chipmaker.htm": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5641940": {
+   "v1": "no"
+  },
+  "https://www.dw.com/bs/japan-strepi-od-mogu%C4%87eg-zaokreta-ameri%C4%8Dke-politike-u-aziji/a-79930532": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/16/2003867798": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867823": {
+   "v1": "no"
+  },
+  "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean": {
+   "v1": "no"
+  },
+  "https://profile.ru/news/abroad/ssha-i-kitaj-gotovyat-memorandum-dlya-predotvrashheniya-voennyh-incidentov-a999-1924097/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/16/2003867796": {
+   "v1": "no"
+  },
+  "https://www.ibtimes.co.uk/furman-warns-ai-layoffs-could-become-permanent-1832287": {
+   "v1": "no"
+  },
+  "https://biz.chosun.com/stock/stock_general/2026/11/16/LOKOUOQM3ZEB7FCYWIVQ3DXVHQ/": {
+   "v1": "no"
+  },
+  "https://www.thedailybeast.com/sex-mad-ceo-jensen-huangs-reign-of-terror-exposed": {
+   "v1": "no"
+  },
+  "https://thenextweb.com/news/nvidia-taiwan-officials-indicted-manager-smuggling": {
+   "v1": "no"
+  },
+  "https://annabaa.org/arabic/reports/47999": {
+   "v1": "no"
+  },
+  "https://www.thenews.com.pk/latest/1423650-philippines-china-rift-deepens-in-south-china-sea-what-to-know": {
+   "v1": "no"
+  },
+  "https://www.business-standard.com/world-news/the-secret-jensen-huang-kept-for-more-than-a-year-led-to-his-downfall-126111500121_1.html": {
+   "v1": "no"
+  },
+  "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html": {
+   "v1": "no"
+  },
+  "https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/": {
+   "v1": "no"
+  },
+  "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report": {
+   "v1": "no"
+  },
+  "https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/": {
    "v1": "no"
   }
  }
