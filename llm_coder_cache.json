@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-16T03:04:12.593732",
+ "saved_at": "2026-11-16T23:03:57.940105",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -13970,6 +13970,132 @@
    "v1": "no"
   },
   "https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw:443/business/202611160007": {
+   "v1": "no"
+  },
+  "http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan": {
+   "v1": "unjudgeable"
+  },
+  "https://focustaiwan.tw/politics/202611160006": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "030",
+   "conf": "high"
+  },
+  "https://askanews.it/2026/11/16/apec-a-shenzhen-il-trilaterale-trump-xi-putin-dominera-il-vertice/": {
+   "v1": "no"
+  },
+  "https://www.hankookilbo.com/news/article/A2026111611080001113": {
+   "v1": "no"
+  },
+  "https://wccftech.com/jensen-huang-gets-taiwanese-industry-backing-as-taipei-101-skyscraper-lights-up-with-taiwan-loves-jensen-messages-after-his-surprise-resignation-from-nvidia/": {
+   "v1": "no"
+  },
+  "https://www.munhwa.com:443/article/11631719": {
+   "v1": "no"
+  },
+  "https://www.bankingnews.gr/diethni/articles/911312/sok-apo-tin-kina-oi-tesseris-ksifomaxoi-vgainoun-ston-ourano-to-neo-stealth-j-35a-allazei-tous-kanones-tou-polemou": {
+   "v1": "no"
+  },
+  "http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable": {
+   "v1": "unjudgeable"
+  },
+  "http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal": {
+   "v1": "unjudgeable"
+  },
+  "https://www.vecernji.ba/svijet/jedna-sila-izrazito-se-boji-dogovora-amerike-i-kine-oni-plan-b-nemaju-2013803": {
+   "v1": "no"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=02223846645646376&mediaCodeNo=257": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867880": {
+   "v1": "no"
+  },
+  "http://en.people.cn/n3/2026/1116/c90000-20519306.html": {
+   "v1": "no"
+  },
+  "https://inosmi.ru/20261116/voyna-281204074.html": {
+   "v1": "no"
+  },
+  "https://mignews.com/news/economics/tajvan-predlagaet-tehnologii-dlya-stroitelstva-metro-v-izraile.html": {
+   "v1": "no"
+  },
+  "http://inews24.com/view/2026842": {
+   "v1": "no"
+  },
+  "https://www.riotimesonline.com/somalia-president-israel-taiwan-threat-sovereignty/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863": {
+   "v1": "no"
+  },
+  "https://www.latintimes.com/joshua-wong-10-year-sentence-hong-kong-601373": {
+   "v1": "no"
+  },
+  "https://www.affarsvarlden.se/kronika/huangs-honungsfalla-gav-kina-chip-for-7-5-miljarder-dollar": {
+   "v1": "no"
+  },
+  "https://www.theglobeandmail.com/podcasts/article-talking-heads-podcast/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "030",
+   "conf": "high"
+  },
+  "https://www.aol.com/articles/silicon-valley-leaders-back-call-134613000.html": {
+   "v1": "no"
+  },
+  "https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/": {
+   "v1": "no"
+  },
+  "https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.the-independent.com/tech/jensen-huang-nvidia-ceo-b3085567.html": {
+   "v1": "no"
+  },
+  "https://warontherocks.com/taiwans-political-and-security-future/": {
+   "v1": "no"
+  },
+  "https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/17/2003867850": {
+   "v1": "no"
+  },
+  "https://www.okaz.com.sa/politics/na/2275828": {
+   "v1": "no"
+  },
+  "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/17/2003867857": {
+   "v1": "no"
+  },
+  "https://www.obozrevatel.com/section-politics-news/news-ameryka-nikoly-ne-kydala-svoyikh-tak-chasto-pyat-zrad-trampa-16-11-2026.html": {
+   "v1": "no"
+  },
+  "https://timesofindia.indiatimes.com/defence/international/hope-i-was-wrong-us-admirals-chilling-2027-china-warning-returns-as-taiwan-defence-gaps-persist/articleshow/135883625.cms": {
+   "v1": "no"
+  },
+  "https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt": {
    "v1": "no"
   }
  }

@@ -1,20 +1,20 @@
 {
  "date": "2026-11-16",
- "generated_at": "2026-11-16T03:04:12.603695",
+ "generated_at": "2026-11-16T23:03:57.950897",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "backfill+shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 4,
- "n_coded": 4,
- "n_relevant": 0,
+ "n_articles": 41,
+ "n_coded": 41,
+ "n_relevant": 3,
  "stats": {
-  "api_calls": 0,
+  "api_calls": 37,
   "api_failures": 0,
   "unparseable": 0,
   "unpriced": 0,
-  "cache_write": 0,
-  "cache_read": 0,
-  "input_uncached": 0,
+  "cache_write": 11036,
+  "cache_read": 397296,
+  "input_uncached": 6937,
   "folded": 0
  },
  "articles": {
@@ -45,6 +45,280 @@
    },
    "mentions": 2,
    "title": "Jensen Huang carried a secret for more than a year. It led to his downfall. – East Bay Times"
+  },
+  "https://focustaiwan.tw:443/business/202611160007": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Jensen Huang's exit to have 'short-term' impact on Taiwan suppliers: Yang - Focus Taiwan"
+  },
+  "http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 18,
+   "title": "Just a moment..."
+  },
+  "https://focustaiwan.tw/politics/202611160006": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 12,
+   "title": "Lai calls for Taiwan-U.S. tax pact during Idaho governor's visit - Focus Taiwan"
+  },
+  "https://askanews.it/2026/11/16/apec-a-shenzhen-il-trilaterale-trump-xi-putin-dominera-il-vertice/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Apec, a Shenzhen il trilaterale Trump-Xi-Putin dominerà il vertice"
+  },
+  "https://www.hankookilbo.com/news/article/A2026111611080001113": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "美中러 3자 회담 현실로… 핵군축·전쟁 종식 ‘그들만의 거래’ 경고음-정치ㅣ한국일보"
+  },
+  "https://wccftech.com/jensen-huang-gets-taiwanese-industry-backing-as-taipei-101-skyscraper-lights-up-with-taiwan-loves-jensen-messages-after-his-surprise-resignation-from-nvidia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Jensen Huang Gets Taiwanese Industry Backing As Taipei 101 Skyscraper Lights Up With 'Taiwan Loves Jensen' Messages After His Surprise Resignation From NVIDIA"
+  },
+  "https://www.munhwa.com:443/article/11631719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "“모함받고 있는 젠슨황인데요, 4천만 보내주시면…” 피싱 주의보[아하대만] | 문화일보"
+  },
+  "https://www.bankingnews.gr/diethni/articles/911312/sok-apo-tin-kina-oi-tesseris-ksifomaxoi-vgainoun-ston-ourano-to-neo-stealth-j-35a-allazei-tous-kanones-tou-polemou": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Τρόμος από την Κίνα: Οι «τέσσερις ξιφομάχοι» βγαίνουν στον ουρανό – Το νέο stealth J-35A αλλάζει τους κανόνες του πολέμου"
+  },
+  "http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Just a moment..."
+  },
+  "http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 10,
+   "title": "Just a moment..."
+  },
+  "https://www.vecernji.ba/svijet/jedna-sila-izrazito-se-boji-dogovora-amerike-i-kine-oni-plan-b-nemaju-2013803": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Jedna sila izrazito se boji dogovora Amerike i Kine: ‘Oni plan B nemaju‘ - www.vecernji.ba"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=02223846645646376&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "\"젠슨황입니다, 모함을 받고 있어요\"..대만서 등장한 피싱 문자"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867880": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "2026 Elections: KMT’s Lee Shu-chuan narrowly leads in New Taipei City mayoral race: poll - Taipei Times"
+  },
+  "http://en.people.cn/n3/2026/1116/c90000-20519306.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China's sanctions on politicians of Paraguay and Belize: What do they signal? - People's Daily Online"
+  },
+  "https://inosmi.ru/20261116/voyna-281204074.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Большая эскалация (Der Spiegel, Германия) | 16.11.2026, ИноСМИ"
+  },
+  "https://mignews.com/news/economics/tajvan-predlagaet-tehnologii-dlya-stroitelstva-metro-v-izraile.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Тайвань предлагает технологии для строительства метро в Израиле | MIGnews"
+  },
+  "http://inews24.com/view/2026842": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "\"대만은 젠슨 황을 사랑합니다\"…타이베이101에 응원 메시지"
+  },
+  "https://www.riotimesonline.com/somalia-president-israel-taiwan-threat-sovereignty/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Somali Leader Calls Israel, Taiwan Threats"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Donovan’s Deep Dives: Cheng, Lu and the battle to shape 2028 - Taipei Times"
+  },
+  "https://www.latintimes.com/joshua-wong-10-year-sentence-hong-kong-601373": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Hong Kong Extends Joshua Wong's Imprisonment Until the 2030s — Student Protester to Political Prisoner Until His 40s"
+  },
+  "https://www.affarsvarlden.se/kronika/huangs-honungsfalla-gav-kina-chip-for-7-5-miljarder-dollar": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Huangs honungsfälla gav Kina chip för 7,5 miljarder dollar"
+  },
+  "https://www.theglobeandmail.com/podcasts/article-talking-heads-podcast/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Talking Heads podcast: Andrew Coyne speaks with historian and author Margaret MacMillan - The Globe and Mail"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "Lai urges Taiwan-US tax pact during Idaho governor’s visit - Taipei Times"
+  },
+  "https://www.aol.com/articles/silicon-valley-leaders-back-call-134613000.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia rules out Huang comeback as campaign for his return grows - AOL"
+  },
+  "https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "As Jensen Huang's $136 billion net worth tumbles, he is being praised for being willing to pay tax | Fortune"
+  },
+  "https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "APEC 2027 Shenzhen: Will Trump Get Played by Putin and Xi?"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 3,
+   "title": "Budgets show effort to beat 2027 warning - Taipei Times"
+  },
+  "https://www.the-independent.com/tech/jensen-huang-nvidia-ceo-b3085567.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "170,000 people sign petition to restore Jensen Huang as Nvidia CEO | The Independent"
+  },
+  "https://warontherocks.com/taiwans-political-and-security-future/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan’s Political and Security Future"
+  },
+  "https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump supports Huang return to Nvidia despite Chinese spy drama"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/17/2003867850": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia’s CEO search draws fire with Bessent’s call - Taipei Times"
+  },
+  "https://www.okaz.com.sa/politics/na/2275828": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "قمة ثلاثية تجمع ترمب وشي وبوتين في الصين.. التجارة وتايوان والذكاء الاصطناعي على الطاولة - أخبار السعودية | صحيفة عكاظ"
+  },
+  "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/17/2003867857": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Sun’s ideas came with a built-in time limit - Taipei Times"
+  },
+  "https://www.obozrevatel.com/section-politics-news/news-ameryka-nikoly-ne-kydala-svoyikh-tak-chasto-pyat-zrad-trampa-16-11-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Дмитрий Галко: Америка никогда не бросала своих так часто: пять предательств Трампа — Блоги | OBOZ.UA"
+  },
+  "https://timesofindia.indiatimes.com/defence/international/hope-i-was-wrong-us-admirals-chilling-2027-china-warning-returns-as-taiwan-defence-gaps-persist/articleshow/135883625.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "'Hope I was wrong': US admiral's chilling 2027 China warning returns as Taiwan defence gaps persist - The Times of India"
+  },
+  "https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "America's growing crisis of competence | Fox News"
   }
  },
  "complete": true,

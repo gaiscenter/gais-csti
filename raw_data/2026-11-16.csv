@@ -1,19 +1,143 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
-2026-11-16,CHINA,TAIWAN,061,6.4,8,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
+2026-11-16,CHINA,TAIWAN,141,-6.5,2,False,False,False,https://japantoday.com/category/politics/frosty-china-welcome-likely-for-japan-pm-due-to-taiwan-row
+2026-11-16,BEIJING,TAIWAN,051,3.4,1,False,False,False,https://www.riotimesonline.com/somalia-president-israel-taiwan-threat-sovereignty/
+2026-11-16,BEIJING,TAIWAN,051,3.4,7,False,False,False,https://www.riotimesonline.com/somalia-president-israel-taiwan-threat-sovereignty/
+2026-11-16,CHINA,TAIWAN,010,0.0,10,False,False,False,https://askanews.it/2026/11/16/apec-a-shenzhen-il-trilaterale-trump-xi-putin-dominera-il-vertice/
+2026-11-16,UNITED STATES,TAIWAN,080,5.0,10,False,False,False,https://www.hankookilbo.com/news/article/A2026111611080001113
+2026-11-16,JAMESTOWN FOUNDATION,TAIWAN,090,-2.0,2,False,False,False,https://warontherocks.com/taiwans-political-and-security-future/
+2026-11-16,JAMESTOWN FOUNDATION,TAIWAN,154,-7.2,2,False,False,False,https://warontherocks.com/taiwans-political-and-security-future/
+2026-11-16,NVIDIA,TAIWAN,042,1.9,10,False,False,False,https://wccftech.com/jensen-huang-gets-taiwanese-industry-backing-as-taipei-101-skyscraper-lights-up-with-taiwan-loves-jensen-messages-after-his-surprise-resignation-from-nvidia/
+2026-11-16,TAIWAN,NVIDIA,043,2.8,10,False,False,False,https://wccftech.com/jensen-huang-gets-taiwanese-industry-backing-as-taipei-101-skyscraper-lights-up-with-taiwan-loves-jensen-messages-after-his-surprise-resignation-from-nvidia/
+2026-11-16,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921
+2026-11-16,CHINA,TAIPEI,110,-2.0,1,False,False,False,https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921
+2026-11-16,UNITED STATES,TAIPEI,110,-2.0,1,False,False,False,https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921
+2026-11-16,BEIJING,TAIPEI,110,-2.0,2,False,False,False,https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921
+2026-11-16,CHINA,TAIPEI,110,-2.0,1,False,False,False,https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921
+2026-11-16,UNITED STATES,TAIWAN,110,-2.0,3,False,False,False,https://foreignpolicy.com/2026/11/16/trump-xi-jinping-putin-summit-shenzhen-apec-nvidia-jensen-huang/?tpcc=recirc_trending062921
+2026-11-16,NVIDIA,TAIWAN,0831,5.0,10,False,False,False,https://www.munhwa.com:443/article/11631719
+2026-11-16,TAIPEI,CHINA,051,3.4,4,False,False,False,https://www.aol.com/articles/silicon-valley-leaders-back-call-134613000.html
+2026-11-16,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,CHINA,TAIWAN,043,2.8,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,TAIWAN,CHINA,042,1.9,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,TAIWAN,CHINA,042,1.9,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,CHINA,TAIWAN,043,2.8,2,False,False,False,https://www.bostonherald.com/2026/11/16/trump-backs-jensen-huang-return-nvidia-chinese-spy/
+2026-11-16,CHINA,TAIWAN,180,-9.0,5,False,False,False,https://www.theglobeandmail.com/podcasts/article-talking-heads-podcast/
+2026-11-16,CHINA,TAIWAN,161,-4.0,2,False,False,True,http://en.people.cn/n3/2026/1116/c90000-20519306.html
+2026-11-16,TAIWAN,CHINA,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863
+2026-11-16,CHANGHUA COUNTY,CHINESE,043,2.8,4,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863
 2026-11-16,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
-2026-11-16,TAIWAN,CHINA,061,6.4,8,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
 2026-11-16,UNITED STATES,TAIWAN,061,6.4,10,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
-2026-11-16,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
-2026-11-16,TAIWAN,UNITED STATES,061,6.4,2,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
-2026-11-16,TAIWAN,UNITED STATES,061,6.4,8,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
+2026-11-16,TAIWAN,CHINA,061,6.4,8,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
+2026-11-16,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/17/2003867850
+2026-11-16,CHINESE,TAIWAN,0311,5.2,2,False,False,False,https://www.okaz.com.sa/politics/na/2275828
+2026-11-16,CHINESE,TAIWAN,042,1.9,2,False,False,False,https://www.okaz.com.sa/politics/na/2275828
+2026-11-16,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
+2026-11-16,TAIWAN,CHINESE,0331,5.2,2,False,False,False,https://www.insurancejournal.com/news/international/2026/11/16/892698.htm
+2026-11-16,TAIWAN,UNITED STATES,012,-0.4,10,False,False,False,https://www.bankingnews.gr/diethni/articles/911312/sok-apo-tin-kina-oi-tesseris-ksifomaxoi-vgainoun-ston-ourano-to-neo-stealth-j-35a-allazei-tous-kanones-tou-polemou
+2026-11-16,CHINA,TAIWAN,150,-7.2,2,False,False,False,http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-16,TAIWAN,CHINESE,043,2.8,2,False,False,False,https://www.okaz.com.sa/politics/na/2275828
+2026-11-16,TAIPEI,CHINESE,051,3.4,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/17/2003867857
+2026-11-16,TAIWAN,CHINESE,138,-7.0,1,False,False,False,https://timesofindia.indiatimes.com/defence/international/hope-i-was-wrong-us-admirals-chilling-2027-china-warning-returns-as-taiwan-defence-gaps-persist/articleshow/135883625.cms
+2026-11-16,BEIJING,TAIWAN,020,3.0,6,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,CHINA,TAIWAN,020,3.0,2,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,TAIWAN,CHINA,120,-4.0,2,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,TAIWAN,CHINA,120,-4.0,2,False,False,False,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,UNITED STATES,TAIWAN,010,0.0,1,False,False,False,https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt
+2026-11-16,UNITED STATES,TAIWAN,051,3.4,1,False,False,False,https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt
+2026-11-16,UNITED STATES,TAIWAN,090,-2.0,1,False,False,False,https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt
+2026-11-16,TAIWAN,CHINESE,043,2.8,1,False,False,False,https://www.okaz.com.sa/politics/na/2275828
+2026-11-16,TAIWAN,CHINA,111,-2.0,6,False,False,False,https://www.latintimes.com/joshua-wong-10-year-sentence-hong-kong-601373
+2026-11-16,TAIWAN,BEIJING,120,-4.0,8,False,False,False,https://inosmi.ru/20261116/voyna-281204074.html
+2026-11-16,TAIWAN,THE US,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877
+2026-11-16,THE US,TAIWAN,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877
+2026-11-16,TAIWAN,CHINA,010,0.0,10,False,False,False,https://www.vecernji.ba/svijet/jedna-sila-izrazito-se-boji-dogovora-amerike-i-kine-oni-plan-b-nemaju-2013803
+2026-11-16,TAIWAN,CHINA,111,-2.0,2,False,False,False,https://www.latintimes.com/joshua-wong-10-year-sentence-hong-kong-601373
+2026-11-16,TAIWAN,BEIJING,120,-4.0,2,False,False,False,https://inosmi.ru/20261116/voyna-281204074.html
+2026-11-16,CHINESE,TAIWAN,0311,5.2,1,False,False,False,https://www.okaz.com.sa/politics/na/2275828
+2026-11-16,CHINESE,TAIWAN,042,1.9,1,False,False,False,https://www.okaz.com.sa/politics/na/2275828
+2026-11-16,UNITED STATES,TAIWAN,010,0.0,1,False,False,False,https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt
+2026-11-16,UNITED STATES,TAIWAN,051,3.4,1,False,False,False,https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt
+2026-11-16,UNITED STATES,TAIWAN,090,-2.0,1,False,False,False,https://www.foxnews.com/opinion/perpetual-paralysis-why-everything-grinding-halt
+2026-11-16,CHINA,TAIWAN,061,6.4,8,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
+2026-11-16,KENTUCKY,TAIWAN,043,2.8,3,False,False,False,https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/
+2026-11-16,KENTUCKY,TAIWAN,075,7.0,4,False,False,False,https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/
 2026-11-16,NVIDIA,TAIWANESE,051,3.4,6,False,False,False,https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report
-2026-11-16,TAIWAN,AMERICAN,043,2.8,1,False,False,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
-2026-11-16,UNITED STATES,TAIWAN,172,-5.0,2,False,False,False,https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/
+2026-11-16,TAIWAN,CHINA,111,-2.0,2,False,False,False,https://www.latintimes.com/joshua-wong-10-year-sentence-hong-kong-601373
+2026-11-16,TAIWAN,WASHINGTON,051,3.4,2,False,False,False,https://mignews.com/news/economics/tajvan-predlagaet-tehnologii-dlya-stroitelstva-metro-v-izraile.html
+2026-11-16,TAIWAN,AMERICAN,010,0.0,2,False,False,False,https://www.obozrevatel.com/section-politics-news/news-ameryka-nikoly-ne-kydala-svoyikh-tak-chasto-pyat-zrad-trampa-16-11-2026.html
+2026-11-16,TAIWAN,THE US,084,7.0,10,False,False,False,https://www.edaily.co.kr/News/Read?newsId=02223846645646376&mediaCodeNo=257
+2026-11-16,CHINA,TAIWAN,161,-4.0,8,False,False,True,http://en.people.cn/n3/2026/1116/c90000-20519306.html
+2026-11-16,BEIJING,TAIWAN,010,0.0,6,False,False,False,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,CHINA,TAIWAN,020,3.0,2,False,False,False,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,CHINA,TAIWANESE,051,3.4,8,False,False,True,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,BEIJING,TAIWAN,010,0.0,4,False,False,False,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,BEIJING,TAIWAN,020,3.0,8,False,False,False,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,BEIJING,TAIWAN,100,-5.0,10,False,False,False,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,BEIJING,TAIWAN,010,0.0,6,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,BEIJING,TAIWAN,010,0.0,4,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,BEIJING,TAIWAN,100,-5.0,10,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,CHINA,TAIWANESE,051,3.4,8,False,False,True,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,BEIJING,TAIWAN,020,3.0,2,False,False,False,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,CHINA,TAIWAN,051,3.4,2,False,False,True,http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable
+2026-11-16,CHINA,TAIWAN,051,3.4,2,False,False,True,http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal
+2026-11-16,CHINA,TAIWAN,150,-7.2,18,False,False,False,http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-16,CHINESE,TAIWAN,020,3.0,8,False,False,False,http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-16,CHINESE,TAIWAN,020,3.0,6,False,False,True,http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
 2026-11-16,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
-2026-11-16,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
+2026-11-16,CHANGHUA COUNTY,CHINESE,043,2.8,2,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863
+2026-11-16,CHINA,TAIPEI,090,-2.0,2,False,False,False,https://www.the-independent.com/tech/jensen-huang-nvidia-ceo-b3085567.html
+2026-11-16,TAIPEI,REUTERS,090,-2.0,3,False,False,False,https://www.the-independent.com/tech/jensen-huang-nvidia-ceo-b3085567.html
+2026-11-16,TAIWAN,REUTERS,090,-2.0,1,False,False,False,https://www.the-independent.com/tech/jensen-huang-nvidia-ceo-b3085567.html
+2026-11-16,CHINESE,CHANGHUA COUNTY,042,1.9,7,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863
+2026-11-16,CHINESE,KAOHSIUNG,0831,5.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867880
 2026-11-16,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
 2026-11-16,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
 2026-11-16,TAIWAN,AMERICAN,043,2.8,1,False,False,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
 2026-11-16,AMERICAN,TAIWAN,042,1.9,1,False,False,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
+2026-11-16,CHINA,TAIPEI,172,-5.0,8,False,False,False,http://inews24.com/view/2026842
+2026-11-16,NVIDIA,TAIPEI,057,8.0,20,False,False,False,https://focustaiwan.tw:443/business/202611160007
+2026-11-16,TAIPEI,NVIDIA,030,4.0,20,False,False,False,https://focustaiwan.tw:443/business/202611160007
+2026-11-16,TAIPEI,NVIDIA,057,8.0,20,False,False,False,https://focustaiwan.tw:443/business/202611160007
+2026-11-16,TAIWAN,IDAHO,020,3.0,4,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,UNITED STATES,054,6.0,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,IDAHO,026,4.0,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,IDAHO,036,4.0,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,IDAHO,TAIWAN,036,4.0,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,UNITED STATES,054,6.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,REUTERS,090,-2.0,1,False,False,False,https://www.the-independent.com/tech/jensen-huang-nvidia-ceo-b3085567.html
+2026-11-16,IDAHO,TAIWAN,026,4.0,4,False,False,False,https://focustaiwan.tw/politics/202611160006
+2026-11-16,IDAHO,TAIPEI,036,4.0,8,False,False,False,https://focustaiwan.tw/politics/202611160006
+2026-11-16,UNITED STATES,TAIWAN,036,4.0,1,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,UNITED STATES,TAIWAN,036,4.0,1,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
 2026-11-16,AMERICAN,TAIWAN,042,1.9,1,False,False,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
 2026-11-16,UNITED STATES,TAIWAN,172,-5.0,2,False,False,False,https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/
+2026-11-16,TAIWAN,THE US,043,2.8,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877
+2026-11-16,THE US,TAIWAN,042,1.9,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877
+2026-11-16,TAIWAN,THE US,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877
+2026-11-16,THE US,TAIWAN,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867877
+2026-11-16,TAIWAN,UNITED STATES,090,-2.0,2,False,False,False,https://www.affarsvarlden.se/kronika/huangs-honungsfalla-gav-kina-chip-for-7-5-miljarder-dollar
+2026-11-16,TAIWAN,UNITED STATES,090,-2.0,2,False,False,False,https://www.affarsvarlden.se/kronika/huangs-honungsfalla-gav-kina-chip-for-7-5-miljarder-dollar
+2026-11-16,TAIWAN,UNITED STATES,090,-2.0,6,False,False,False,https://www.affarsvarlden.se/kronika/huangs-honungsfalla-gav-kina-chip-for-7-5-miljarder-dollar
+2026-11-16,KENTUCKY,TAIWAN,075,7.0,1,False,False,False,https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/
+2026-11-16,TAIWAN,CHINESE,138,-7.0,1,False,False,False,https://timesofindia.indiatimes.com/defence/international/hope-i-was-wrong-us-admirals-chilling-2027-china-warning-returns-as-taiwan-defence-gaps-persist/articleshow/135883625.cms
+2026-11-16,TAIWAN,WASHINGTON,051,3.4,8,False,False,False,https://mignews.com/news/economics/tajvan-predlagaet-tehnologii-dlya-stroitelstva-metro-v-izraile.html
+2026-11-16,TAIWAN,AMERICAN,010,0.0,2,False,False,False,https://www.obozrevatel.com/section-politics-news/news-ameryka-nikoly-ne-kydala-svoyikh-tak-chasto-pyat-zrad-trampa-16-11-2026.html
+2026-11-16,TAIPEI,IDAHO,026,4.0,8,False,False,False,https://focustaiwan.tw/politics/202611160006
+2026-11-16,TAIPEI,IDAHO,036,4.0,8,False,False,False,https://focustaiwan.tw/politics/202611160006
+2026-11-16,TAIPEI,IDAHO,026,4.0,12,False,False,True,https://focustaiwan.tw/politics/202611160006
+2026-11-16,TAIWAN,IDAHO,020,3.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,UNITED STATES,036,4.0,1,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,IDAHO,054,6.0,5,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,UNITED STATES,036,4.0,1,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,IDAHO,TAIWAN,026,4.0,4,False,False,False,https://focustaiwan.tw/politics/202611160006
+2026-11-16,IDAHO,TAIWAN,026,4.0,12,False,False,True,https://focustaiwan.tw/politics/202611160006
+2026-11-16,TAIWAN,IDAHO,020,3.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839
+2026-11-16,TAIWAN,KENTUCKY,042,1.9,3,False,False,False,https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/
+2026-11-16,TAIWAN,AMERICAN,043,2.8,1,False,False,False,https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/
+2026-11-16,UNITED STATES,TAIWAN,172,-5.0,2,False,False,False,https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/
+2026-11-16,TAIWAN,UNITED STATES,061,6.4,2,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
+2026-11-16,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html
+2026-11-16,TAIWAN,UNITED STATES,061,6.4,8,False,True,False,https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html

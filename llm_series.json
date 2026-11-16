@@ -47,7 +47,7 @@
   "generated_at": "2026-11-12T10:28:28"
  },
  "_meta": {
-  "updated_at": "2026-11-16T03:04:12.605189",
+  "updated_at": "2026-11-16T23:03:57.953082",
   "note": "날짜별 LLM 코딩 지수. llm_index.json 은 그날치만 담고 매 실행 덮이므로, 전환 후 그래프가 쓸 과거는 이 파일에만 있다. 날짜마다 codebook_fingerprint 를 적어 방법론 전환일을 남긴다."
  },
  "2026-08-14": {
@@ -4654,14 +4654,44 @@
   "generated_at": "2026-11-16T02:53:17"
  },
  "2026-11-16": {
-  "cells": {},
-  "channels": {},
-  "n_articles": 4,
-  "n_coded": 4,
-  "n_relevant": 0,
+  "cells": {
+   "USA_response": {
+    "value": -1.1429,
+    "raw": -4.0,
+    "e": 2,
+    "mentions": 17
+   },
+   "CHN_response": {
+    "value": 1.2,
+    "raw": 7.2,
+    "e": 1,
+    "mentions": 3
+   }
+  },
+  "channels": {
+   "military": {
+    "CHN_response": {
+     "value": 1.2,
+     "raw": 7.2,
+     "e": 1,
+     "mentions": 3
+    }
+   },
+   "economic": {
+    "USA_response": {
+     "value": -1.1429,
+     "raw": -4.0,
+     "e": 2,
+     "mentions": 17
+    }
+   }
+  },
+  "n_articles": 41,
+  "n_coded": 41,
+  "n_relevant": 3,
   "codebook_fingerprint": "c7f5b2daf3d781e5",
   "model": "claude-haiku-4-5-20251001",
   "mode": "shadow",
-  "generated_at": "2026-11-16T03:04:12.603695"
+  "generated_at": "2026-11-16T23:03:57.950897"
  }
 }
