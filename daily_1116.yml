@@ -1,0 +1,87 @@
+name: CSTI Daily Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 3시간마다 실행 (하루 8회). 예전엔 하루 1번(자정 직후)만 돌아서, 낮에 발생한 사건이
+    # 최대 24시간 뒤에야 반영되는 문제가 있었음 — 조기경보 목적상 이 지연은 너무 김.
+    # BigQuery 처리량은 매 실행 1~2GB 수준이라, 8배 늘려도 월 무료한도(1TB)에 여유 있음.
+    #
+    # 2026-10-20 수정 — '1 */3 * * *' 에서 바꿈. 두 가지를 고친다.
+    #
+    # (1) 분을 37로. 정시 직후(0~5분)는 GitHub 예약 작업이 가장 혼잡한 구간이고,
+    #     예약 실행은 best-effort 라 부하가 몰리면 누락된다. 실측으로 10/15~10/20
+    #     동안 하루 8회 요청 중 3~5회만 실제로 떴다. 10/20 에는 00:01 슬롯 하나만
+    #     뜨고 03:01·06:01 이 통째로 누락됐다.
+    #
+    # (2) 00시 슬롯 제거. UTC 자정 직후에는 GDELT 에 그날 기사가 거의 없다.
+    #     10/20 00:08 실행 시점의 당일 레코드는 2건(고유 URL 1건)이었고, 07:34 에는
+    #     187건(고유 URL 60건)이었다. 자정 직후 실행은 거의 빈 날을 찍어 그 값을
+    #     '현재값'으로 올리므로, 완벽히 전달되더라도 쓸모가 없다. 축적 속도가
+    #     시간당 약 25건이므로 02:37 이면 주요 국가쌍이 채워진다.
+    # 2026-11-16: 하루 8회 -> 2회. 시연용 지수에 3시간 간격이 필요 없고,
+    # KBTI 와 크레딧·BigQuery 를 나눠 쓰기 때문이다. 8회로 돌리던 사흘간
+    # 두 파이프라인 합쳐 $15 가 나갔고, 그중 감사 계층은 캐시가 0이라
+    # 매 호출 5만 토큰을 새로 보낸다(csti_output.json 의 stats.audit 참조).
+    # 발표 직전처럼 최신성이 필요하면 수동 실행(Run workflow)으로 보충한다.
+    - cron: '37 1,13 * * *'
+
+# 수동으로 여러 번 연달아 눌러도 동시에 병렬 실행되지 않고 순서대로 하나씩 기다리도록 함.
+# (동시 실행 시 git 커밋 경쟁으로 raw_data 등의 파일이 유실될 수 있는 문제를 방지)
+# 저장소에 쓰는 작업은 전부 이 그룹을 공유한다(백필·수확·재수집 포함).
+# 2026-10-27 에 백필과 겹쳐 백필 결과 1,202건이 푸시 충돌로 날아갔다.
+concurrency:
+  group: csti-repo-write
+  cancel-in-progress: false
+
+jobs:
+  update-csti:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 패키지 설치
+        run: pip install -r requirements.txt
+
+      - name: GCP 인증
+        run: |
+          echo '${{ secrets.GCP_KEY }}' > /tmp/gcp-key.json
+          export GOOGLE_APPLICATION_CREDENTIALS=/tmp/gcp-key.json
+          echo "GOOGLE_APPLICATION_CREDENTIALS=/tmp/gcp-key.json" >> $GITHUB_ENV
+
+      - name: CSTI 파이프라인 실행
+        env:
+          GCP_PROJECT: ${{ secrets.GCP_PROJECT }}
+          GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp-key.json
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline.py
+
+      # 날짜별 해설. 이미 쓴 칸은 건너뛰므로 하루에 서너 칸만 새로 만든다(haiku,
+      # 실행당 1센트 미만). 이 단계가 없으면 그래프는 매일 늘어나는데 해설은
+      # 백필 마지막 날에서 멈춘다 — 2026-11-02 에 실제로 그랬다.
+      # 실패해도 파이프라인 결과는 커밋되어야 하므로 continue-on-error 를 쓴다.
+      - name: 날짜별 해설
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python build_day_commentary.py
+
+      - name: 결과 커밋
+        run: |
+          git config user.name "GAIS Bot"
+          git config user.email "bot@gaiscenter.org"
+          # **직접 rebase 하지 않는다.** 2026-11-12 에 백필과 겹쳐 llm_series.json
+          # 과 llm_coder_cache.json 이 충돌했고, 재시도 루프가 충돌 상태를 정리하지
+          # 않아 네 번 모두 "unmerged files" 로 죽었다. 그 회차 산출물이 버려졌다.
+          #
+          # 줄 단위 병합으로는 못 푼다 — 일일 실행은 오늘 날짜 키를, 백필은 과거
+          # 날짜 키를 넣는다. 충돌을 '우리 것 우선'으로 풀면 백필 90일이 날아간다.
+          # commit_outputs.py 가 origin/main 위로 리셋한 뒤 **키 단위로** 합친다.
+          PRESERVE_PATHS="csti_output.json audit_log.json audit_cache.json cyber_cache.json daily_history.json audited_series.json llm_coding.json llm_index.json llm_coder_cache.json llm_series.json llm_coded llm_text raw_data" \
+            COMMIT_MSG="CSTI update $(date +%Y-%m-%d)" python commit_outputs.py
