@@ -1,20 +1,20 @@
 {
  "date": "2026-11-17",
- "generated_at": "2026-11-17T09:50:23.962880",
+ "generated_at": "2026-11-17T21:57:18.266054",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 35,
- "n_coded": 30,
- "n_relevant": 3,
+ "n_articles": 72,
+ "n_coded": 62,
+ "n_relevant": 8,
  "stats": {
-  "api_calls": 35,
+  "api_calls": 42,
   "api_failures": 0,
-  "unparseable": 5,
+  "unparseable": 10,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 375224,
-  "input_uncached": 4917,
+  "cache_read": 452476,
+  "input_uncached": 11621,
   "folded": 0
  },
  "articles": {
@@ -242,6 +242,255 @@
    },
    "mentions": 1,
    "title": "Everything You Need To Know About The NVIDIA Scandal"
+  },
+  "https://focustaiwan.tw/society/202611170020": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "other",
+    "v5": "090",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Three indicted for allegedly spying on YouTubers for China - Focus Taiwan"
+  },
+  "https://www.lbc.co.uk/article/taiwan-japan-russia-putin-china-5HjdmRk_2/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Taiwan and Japan flag incursions by Russian aircraft as Putin set to arrive in China | LBC"
+  },
+  "https://espreso.tv/svit-bez-pidgotovki-kraev-nazvav-zustrich-trampa-putina-i-si-zakhodom-dlya-pidvishchennya-doviri": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Без підготовки: Краєв назвав зустріч Трампа, Путіна і Сі заходом \"для підвищення довіри\""
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867951": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Chinese student enrollment in Taiwan falls to 34 - Taipei Times"
+  },
+  "https://www.elwatannews.com/news/details/8398276": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "أمريكا تضغط على وكالة تابعة للأمم المتحدة بشأن قيود الطيران المتعلقة بتايوان.. والصين ترد - الوطن"
+  },
+  "http://www.newstomato.com/ReadNews.aspx?no=1320808": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "북·미 회담 성사…시진핑에 달렸다"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-congress-nvidia-ceo-affair-b3086532.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Ex-Nvidia CEO Jensen Huang to appear before Congress as national security questions intensify | The Independent"
+  },
+  "https://www.lrt.lt/naujienos/pasaulyje/6/3117044/taivanas-jav-14-mlrd-doleriu-ginklu-sandoris-priklauso-nuo-trumpo": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taivanas: JAV 14 mlrd. doleriÅ³ ginklÅ³ sandoris priklauso nuo Trumpo - LRT"
+  },
+  "https://espreso.tv/svit-ideya-novoi-yalti-pro-yaku-govoryat-u-kremli-e-toksichnoyu-dlya-kitayu-sultanskiy": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Ідея нової Ялти, про яку говорять у Кремлі, є токсичною для Китаю, - Султанський"
+  },
+  "https://www.dgabc.com.br/Noticia/4369214/trump-afirma-que-pretende-pressionar-putin-e-xi-jinping-por-fim-da-guerra-na-ucrania": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Trump afirma que pretende pressionar Putin e Xi Jinping por fim da guerra na Ucrânia - 17/11/2026 | Diário do Grande ABC"
+  },
+  "https://noticias.r7.com/internacional/trump-diz-que-ira-pagara-caro-se-ameacar-os-eua-nao-podem-ter-uma-arma-nuclear-17112026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump diz que Irã ‘pagará caro’ se ameaçar os EUA: ‘Não podem ter uma arma nuclear’ – R7 Notícias"
+  },
+  "https://warontherocks.com/the-military-strategic-drivers-behind-chinas-nuclear-expansion/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "The Military Strategic Drivers Behind China’s Nuclear Expansion"
+  },
+  "https://lamag.com/news/embattled-nvidia-ceo-breaks-silence-admits-regrets-over-reputed-spy-scandal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Jensen Huang Breaks Silence on Nvidia Spy Scandal"
+  },
+  "https://www.kyivpost.com/post/90360": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Japan Launches Fighters as Taiwan Tracks 2 Russian Planes"
+  },
+  "https://frognews.bg/novini/ruski-voenni-samoleti-kray-tayvan-yaponiya-predi-sreshtata-kitay-tokio-vdigna-iztrebiteli.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Руски военни самолети край Тайван и Япония преди срещата в Китай, Токио вдигна изтребители | Frognews"
+  },
+  "https://bdnews24.com/world/americas/iu8bcnix0v": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "070",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Taiwan sees continued US arms sale support after midterm election"
+  },
+  "https://nypost.com/2026/11/17/business/nvidia-reports-strong-earnings-as-embattled-ai-giant-reels-from-jensen-huang-scandal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia reports strong earnings as embattled AI giant reels from Jensen Huang scandal"
+  },
+  "https://www.koreatimes.co.kr/world/20261118/nvidias-huang-says-willing-to-return-as-ceo-board-creates-national-security-panel": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia's Huang says willing to return as CEO; board creates national security panel - The Korea Times"
+  },
+  "https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "040",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan foreign minister makes second US trip in space of two months, Asia News - AsiaOne"
+  },
+  "https://www.techradar.com/computing/gpu/nvidias-board-reportedly-not-considering-reinstating-jensen-huang-despite-growing-support-for-the-ex-ceo-with-trump-saying-having-him-return-certainly-isnt-a-bad-idea": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia's board reportedly 'not considering reinstating Jensen Huang' despite growing support for the ex-CEO — with Trump saying having him return 'certainly isn't a bad idea' | TechRadar"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867947": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan urged to stockpile 5,500 uncrewed vessels - Taipei Times"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/taipei-101-lit-up-in-support-of-jensen-huang-skyscraper-adorned-with-messages-of-support-following-resignation-as-nvidia-ceo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taipei 101 lit up in support of Jensen Huang — skyscraper adorned with messages of support following resignation as Nvidia CEO | Tom's Hardware"
+  },
+  "https://www.thenewsherald.com/2026/11/17/column-making-sense-of-nvidia-huang-china-and-trump/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Column: Making sense of Nvidia, Huang, China and Trump – The News Herald"
+  },
+  "https://www.thedailybeast.com/new-pics-show-sex-mad-trumpy-ceo-with-alleged-spy-lover": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "New Pics Show Sex-Mad Trumpy CEO With Alleged Spy Lover"
+  },
+  "https://www.greeleytribune.com/2026/11/17/taiwan-trump-xi-meeting-apec/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan may take a backseat when Xi and Trump meet at an APEC summit"
+  },
+  "https://econotimes.com/Taiwan-Says-It-Would-Welcome-Quad-Outcomes-That-Bolster-Security-1778365": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan Says It Would Welcome Quad Outcomes That Bolster Security | EconoTimes"
+  },
+  "https://www.enikos.gr/international/ipa-vathys-dichasmos-ston-lefko-oiko-ligo-prin-apo-ti-synantisi-metaxy-trab-kai-si-stin-kina-ti-fovountai-stin-ouasingkton/2677885/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "ΗΠΑ: Βαθύς διχασμός στον Λευκό Οίκο λίγο πριν από τη συνάντηση μεταξύ Τραμπ και Σι στην Κίνα - Τι φοβούνται στην Ουάσινγκτον"
+  },
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-strikes-putin-zelensky-crimea-b3086122.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Ukraine-Russia war latest: Russian military plane crashes in Siberia killing all 19 on board | The Independent"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867912": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan likely to take backseat at APEC, experts say - Taipei Times"
+  },
+  "https://www.dailymaverick.co.za/article/2026-11-17-taiwan-japan-flag-incursions-by-russian-aircraft-as-putin-set-to-arrive-in-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan, Japan flag incursions by Russian aircraft as Putin set to arrive in China"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867944": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Foreign minister Lin Chia-lung visits Texas - Taipei Times"
+  },
+  "https://www.dailymail.com/news/article-16299425/jensen-huang-madison-nvidia-bullying.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Jensen Huang's daughter Madison was Nvidia nepo hire from hell whose screaming and insults drove 12 executives to quit... but bosses were too scared to report her to her philandering father, reports claim | Daily Mail Online"
   }
  }
 }

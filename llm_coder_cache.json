@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-17T09:50:23.951573",
+ "saved_at": "2026-11-17T21:57:18.253992",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -14201,6 +14201,127 @@
    "v1": "no"
   },
   "https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/society/202611170020": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "other",
+   "v5": "090",
+   "conf": "high"
+  },
+  "https://www.lbc.co.uk/article/taiwan-japan-russia-putin-china-5HjdmRk_2/": {
+   "v1": "no"
+  },
+  "https://espreso.tv/svit-bez-pidgotovki-kraev-nazvav-zustrich-trampa-putina-i-si-zakhodom-dlya-pidvishchennya-doviri": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867951": {
+   "v1": "no"
+  },
+  "https://www.elwatannews.com/news/details/8398276": {
+   "v1": "no"
+  },
+  "http://www.newstomato.com/ReadNews.aspx?no=1320808": {
+   "v1": "no"
+  },
+  "https://www.independent.co.uk/news/world/americas/us-politics/jensen-huang-congress-nvidia-ceo-affair-b3086532.html": {
+   "v1": "no"
+  },
+  "https://www.lrt.lt/naujienos/pasaulyje/6/3117044/taivanas-jav-14-mlrd-doleriu-ginklu-sandoris-priklauso-nuo-trumpo": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "military",
+   "v5": "070",
+   "conf": "high"
+  },
+  "https://espreso.tv/svit-ideya-novoi-yalti-pro-yaku-govoryat-u-kremli-e-toksichnoyu-dlya-kitayu-sultanskiy": {
+   "v1": "no"
+  },
+  "https://www.dgabc.com.br/Noticia/4369214/trump-afirma-que-pretende-pressionar-putin-e-xi-jinping-por-fim-da-guerra-na-ucrania": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "030",
+   "conf": "high"
+  },
+  "https://noticias.r7.com/internacional/trump-diz-que-ira-pagara-caro-se-ameacar-os-eua-nao-podem-ter-uma-arma-nuclear-17112026/": {
+   "v1": "no"
+  },
+  "https://warontherocks.com/the-military-strategic-drivers-behind-chinas-nuclear-expansion/": {
+   "v1": "no"
+  },
+  "https://lamag.com/news/embattled-nvidia-ceo-breaks-silence-admits-regrets-over-reputed-spy-scandal/": {
+   "v1": "no"
+  },
+  "https://www.kyivpost.com/post/90360": {
+   "v1": "no"
+  },
+  "https://frognews.bg/novini/ruski-voenni-samoleti-kray-tayvan-yaponiya-predi-sreshtata-kitay-tokio-vdigna-iztrebiteli.html": {
+   "v1": "no"
+  },
+  "https://bdnews24.com/world/americas/iu8bcnix0v": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "070",
+   "conf": "high"
+  },
+  "https://nypost.com/2026/11/17/business/nvidia-reports-strong-earnings-as-embattled-ai-giant-reels-from-jensen-huang-scandal/": {
+   "v1": "no"
+  },
+  "https://www.koreatimes.co.kr/world/20261118/nvidias-huang-says-willing-to-return-as-ceo-board-creates-national-security-panel": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "diplomatic",
+   "v5": "040",
+   "conf": "high"
+  },
+  "https://www.techradar.com/computing/gpu/nvidias-board-reportedly-not-considering-reinstating-jensen-huang-despite-growing-support-for-the-ex-ceo-with-trump-saying-having-him-return-certainly-isnt-a-bad-idea": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867947": {
+   "v1": "no"
+  },
+  "https://www.tomshardware.com/tech-industry/big-tech/taipei-101-lit-up-in-support-of-jensen-huang-skyscraper-adorned-with-messages-of-support-following-resignation-as-nvidia-ceo": {
+   "v1": "no"
+  },
+  "https://www.thenewsherald.com/2026/11/17/column-making-sense-of-nvidia-huang-china-and-trump/": {
+   "v1": "no"
+  },
+  "https://www.thedailybeast.com/new-pics-show-sex-mad-trumpy-ceo-with-alleged-spy-lover": {
+   "v1": "no"
+  },
+  "https://www.greeleytribune.com/2026/11/17/taiwan-trump-xi-meeting-apec/": {
+   "v1": "no"
+  },
+  "https://econotimes.com/Taiwan-Says-It-Would-Welcome-Quad-Outcomes-That-Bolster-Security-1778365": {
+   "v1": "no"
+  },
+  "https://www.enikos.gr/international/ipa-vathys-dichasmos-ston-lefko-oiko-ligo-prin-apo-ti-synantisi-metaxy-trab-kai-si-stin-kina-ti-fovountai-stin-ouasingkton/2677885/": {
+   "v1": "no"
+  },
+  "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-strikes-putin-zelensky-crimea-b3086122.html": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867912": {
+   "v1": "no"
+  },
+  "https://www.dailymaverick.co.za/article/2026-11-17-taiwan-japan-flag-incursions-by-russian-aircraft-as-putin-set-to-arrive-in-china/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867944": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/news/article-16299425/jensen-huang-madison-nvidia-bullying.html": {
    "v1": "no"
   }
  }
