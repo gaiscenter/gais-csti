@@ -1,0 +1,247 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T09:50:23.962880",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 35,
+ "n_coded": 30,
+ "n_relevant": 3,
+ "stats": {
+  "api_calls": 35,
+  "api_failures": 0,
+  "unparseable": 5,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 375224,
+  "input_uncached": 4917,
+  "folded": 0
+ },
+ "articles": {
+  "https://focustaiwan.tw:443/society/202611170004": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://focustaiwan.tw/culture/202611170016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Chinese student enrollment at Taiwanese universities falls to 34 - Focus Taiwan"
+  },
+  "https://focustaiwan.tw/politics/202611170013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Taiwan gov't welcomes efforts to promote regional cooperation as Trump arrives in Asia - Focus Taiwan"
+  },
+  "https://www.asiaone.com/asia/taiwan-japan-flag-incursions-russian-aircraft-putin-set-arrive-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan, Japan flag incursions by Russian aircraft as Putin set to arrive in China, Asia News - AsiaOne"
+  },
+  "https://dnes.dir.bg/svyat/tayvan-zaseche-ruski-iztrebiteli-na-iztochnoto-si-kraybrezhie": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Тайван засече руски изтребители на източното си крайбрежие | dnes.dir.bg"
+  },
+  "https://www.newspim.com/news/view/20261117000561": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "엔비디아 루빈 공급망 '이중 병목'설…삼성·SK HBM4에 두산 기판 소재까지"
+  },
+  "https://www.arthosuchak.com/archives/982720/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%9A%E0%A6%BF%E0%A6%AA-%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "চিপ রপ্তানিতে যুক্তরাষ্ট্রের নিষেধাজ্ঞা, দক্ষিণ-পূর্ব এশিয়ার পুঁজিবাজারে ধস"
+  },
+  "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit – Winnipeg Free Press"
+  },
+  "https://13wham.com/news/nation-world/trump-xi-and-putins-historic-meeting-breakthrough-or-photo-op": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump, Xi and Putin's historic meeting: Breakthrough or photo op?"
+  },
+  "http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 9,
+   "title": "China deploys more than 100 ships around Taiwan"
+  },
+  "https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan urged to pursue affordable AI, as Jensen Huang's Nvidia exit adds uncertainty to AI hardware standards"
+  },
+  "https://www.livemint.com/global/nvidia-scandal-threatens-china-s-charm-offensive-ahead-of-trump-summit-11794877787962.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Nvidia scandal threatens China’s charm offensive ahead of Trump summit | Mint"
+  },
+  "https://www.zavtra.ru/blogs/vashington_i_pekin": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Вашингтон и Пекин"
+  },
+  "https://www.iltalehti.fi/ulkomaat/a/8f1d3b98-b6c1-42c3-a364-9eb3997da449": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Analyysi: IskeekÃ¶ Kiina pian?"
+  },
+  "https://www.jpost.com/international/article-915127": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "US investigates Nvidia partner Megaspeed over China spy suspicions | The Jerusalem Post"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=04532966645646704&mediaCodeNo=257": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 5,
+   "title": "美 \"대만 총통기 비행 차단은 위험한 선례\"…中 \"정치 조작\" 반발"
+  },
+  "https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Ruski vojni avioni ušli u tajvansku obrambenu zonu - Index.hr"
+  },
+  "https://www.digitimes.com/topic/ai_infra/": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 4,
+   "title": "DIGITIMES AI Infra news"
+  },
+  "https://www.businesstimes.com.sg/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "George Yeo says Singapore must resist external pressure when reputation at stake - The Business Times"
+  },
+  "https://www.digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "TSMC leads company mentions in petition seeking Jensen Huang's return"
+  },
+  "https://www.digit.in/news/general/nvidia-board-not-considering-jensen-huangs-return-as-ceo-despite-growing-public-support-report.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia board not considering Jensen Huang’s return as CEO despite growing public support: Report"
+  },
+  "https://www.wgauradio.com/news/world/taiwan-may-take/QSXWK4W5OIZPZIABT5WLW4DNKE/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Xi Jinping and Donald Trump to meet at APEC amid rising China tensions - WGAU"
+  },
+  "https://www.huffingtonpost.kr:443/article/262124": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "허프포스트코리아"
+  },
+  "https://www.digitimes.com/news/a20261116PD206/taiwan-nvidia-jensen-huang-investigation.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Huang's resignation casts doubt on Nvidia orders; Taiwan suppliers eye mid-2027 pivot"
+  },
+  "https://isp.netscape.com:443/news/world/story/0001/20261117/eb211c849fa45cf3ddaa54102412a423": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit - Netscape News"
+  },
+  "https://www.nzherald.co.nz/business/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/premium/2BPXII2FTJEXBMCKOK6EM5YN24/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Jensen Huang carried a secret for more than a year. It led to his downfall - NZ Herald"
+  },
+  "https://www.business-standard.com/world-news/taiwan-may-take-backseat-when-xi-trump-meet-for-third-time-at-apec-summit-126111700186_1.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan may take backseat when Xi, Trump meet for third time at APEC summit | World News - Business Standard"
+  },
+  "https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump’s Advisers Are at War Over China Ahead of Xi Summit | World News"
+  },
+  "https://www.clickondetroit.com/news/world/2026/11/17/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit"
+  },
+  "https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Everything You Need To Know About The NVIDIA Scandal"
+  }
+ }
+}

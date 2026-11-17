@@ -1,0 +1,121 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-17,TAIPEI,BEIJING,016,-2.0,4,False,False,True,https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi
+2026-11-17,TAIWAN,CHINA,016,-2.0,2,False,False,True,https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi
+2026-11-17,TAIPEI,BEIJING,016,-2.0,1,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi
+2026-11-17,BEIJING,TAIWAN,110,-2.0,6,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi
+2026-11-17,BEIJING,TAIWAN,110,-2.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi
+2026-11-17,TAIWAN,BEIJING,016,-2.0,6,False,False,False,https://lufkindailynews.com/news_reuters/top_news/exclusive-us-presses-un-agency-over-taiwan-flight-restrictions-china-hits-back/article_016a678f-87a9-554f-b376-6640d3da7b86.html
+2026-11-17,TAIWAN,UNITED STATES,046,7.0,2,False,False,False,https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx
+2026-11-17,UNITED STATES,TAIWAN,046,7.0,2,False,False,False,https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx
+2026-11-17,UNITED STATES,TAIPEI,046,7.0,4,False,False,False,https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx
+2026-11-17,UNITED STATES,TAIPEI,046,7.0,4,False,False,False,https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx
+2026-11-17,TAIPEI,UNITED STATES,046,7.0,4,False,False,False,https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx
+2026-11-17,TAIPEI,UNITED STATES,046,7.0,4,False,False,False,https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx
+2026-11-17,TAIWAN,CHINESE,013,0.4,2,False,False,False,https://www.iltalehti.fi/ulkomaat/a/8f1d3b98-b6c1-42c3-a364-9eb3997da449
+2026-11-17,TAIWANESE,CHINESE,013,0.4,6,True,False,False,https://www.iltalehti.fi/ulkomaat/a/8f1d3b98-b6c1-42c3-a364-9eb3997da449
+2026-11-17,CHINA,TAIWAN,150,-7.2,1,False,False,False,http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-17,TAIWAN,BEIJING,016,-2.0,8,False,False,False,https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/
+2026-11-17,TAIWAN,THE US,051,3.4,10,False,False,True,https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/
+2026-11-17,TAIWAN,CHINA,016,-2.0,2,False,False,False,https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/
+2026-11-17,CHINA,TAIWAN,150,-7.2,9,False,False,False,http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-17,CHINESE,TAIWAN,020,3.0,4,False,False,False,http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-17,CHINESE,TAIWAN,020,3.0,3,False,False,True,http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan
+2026-11-17,TAIWAN,BEIJING,016,-2.0,4,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,CHINA,TAIWAN,044,2.5,1,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,CHINA,TAIWAN,050,3.5,1,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,TAIWAN,CHINA,044,2.5,1,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,TAIWAN,CHINESE,044,2.5,4,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,TAIWAN,CHINA,042,1.9,6,False,False,False,https://www.asiaone.com/asia/taiwan-japan-flag-incursions-russian-aircraft-putin-set-arrive-china
+2026-11-17,CHINA,TAIWAN,043,2.8,10,False,False,False,https://www.asiaone.com/asia/taiwan-japan-flag-incursions-russian-aircraft-putin-set-arrive-china
+2026-11-17,CHINESE,TAIWAN,044,2.5,4,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,CHINESE,TAIWAN,050,3.5,3,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,CHINA,TAIWAN,050,3.5,1,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,TAIWAN,BEIJING,016,-2.0,1,False,False,False,https://www.asiaone.com/asia/taiwan-foreign-minister-makes-second-us-trip-space-two-months
+2026-11-17,TAIWAN,CHINA,042,1.9,2,False,False,False,https://www.asiaone.com/asia/taiwan-japan-flag-incursions-russian-aircraft-putin-set-arrive-china
+2026-11-17,TAIWAN,CHINA,042,1.9,2,False,False,False,https://www.asiaone.com/asia/taiwan-japan-flag-incursions-russian-aircraft-putin-set-arrive-china
+2026-11-17,NVIDIA,TAIPEI,046,7.0,2,False,False,False,https://www.jpost.com/international/article-915127
+2026-11-17,TAIPEI,NVIDIA,046,7.0,2,False,False,False,https://www.jpost.com/international/article-915127
+2026-11-17,TAIPEI,NVIDIA,046,7.0,2,False,False,False,https://www.jpost.com/international/article-915127
+2026-11-17,NVIDIA,TAIPEI,046,7.0,2,False,False,False,https://www.jpost.com/international/article-915127
+2026-11-17,NVIDIA,TAIPEI,046,7.0,6,False,False,False,https://www.jpost.com/international/article-915127
+2026-11-17,TAIPEI,NVIDIA,046,7.0,6,False,False,False,https://www.jpost.com/international/article-915127
+2026-11-17,XI JINPING,TAIWAN,036,4.0,1,False,False,True,https://www.business-standard.com/world-news/taiwan-may-take-backseat-when-xi-trump-meet-for-third-time-at-apec-summit-126111700186_1.html
+2026-11-17,CHINA,TAIWAN,1384,-7.0,10,False,False,False,https://dnes.dir.bg/svyat/tayvan-zaseche-ruski-iztrebiteli-na-iztochnoto-si-kraybrezhie
+2026-11-17,CHINA,TAIWANESE,172,-5.0,4,False,False,False,https://focustaiwan.tw/culture/202611170016
+2026-11-17,TAIWAN,CHINESE,030,4.0,4,False,False,False,https://focustaiwan.tw/culture/202611170016
+2026-11-17,TAIWAN,CHINESE,030,4.0,6,False,False,False,https://focustaiwan.tw/culture/202611170016
+2026-11-17,TAIPEI,SHENZHEN,042,1.9,12,False,False,False,https://focustaiwan.tw/politics/202611170013
+2026-11-17,CHINA,TAIWANESE,172,-5.0,16,False,False,False,https://focustaiwan.tw/culture/202611170016
+2026-11-17,TAIWAN,CHINA,036,4.0,4,False,False,False,https://focustaiwan.tw/politics/202611170013
+2026-11-17,SHENZHEN,TAIPEI,043,2.8,12,False,False,False,https://focustaiwan.tw/politics/202611170013
+2026-11-17,CHINA,TAIWAN,043,2.8,8,False,False,False,https://focustaiwan.tw/politics/202611170013
+2026-11-17,TAIWAN,CHINA,042,1.9,8,False,False,False,https://focustaiwan.tw/politics/202611170013
+2026-11-17,TAIWAN,MORGAN STANLEY,010,0.0,10,False,False,False,https://www.newspim.com/news/view/20261117000561
+2026-11-17,CHINA,TAIWAN,120,-4.0,3,False,False,False,https://www.edaily.co.kr/News/Read?newsId=04532966645646704&mediaCodeNo=257
+2026-11-17,CHINA,TAIWAN,120,-4.0,5,False,False,False,https://www.edaily.co.kr/News/Read?newsId=04532966645646704&mediaCodeNo=257
+2026-11-17,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.digit.in/news/general/nvidia-board-not-considering-jensen-huangs-return-as-ceo-despite-growing-public-support-report.html
+2026-11-17,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.digit.in/news/general/nvidia-board-not-considering-jensen-huangs-return-as-ceo-despite-growing-public-support-report.html
+2026-11-17,CHINA,TAIWAN,020,3.0,2,False,False,False,https://www.wgauradio.com/news/world/taiwan-may-take/QSXWK4W5OIZPZIABT5WLW4DNKE/
+2026-11-17,TAIPEI,CHINA,036,4.0,2,False,False,False,https://www.wgauradio.com/news/world/taiwan-may-take/QSXWK4W5OIZPZIABT5WLW4DNKE/
+2026-11-17,TAIWAN,NVIDIA,020,3.0,8,False,False,False,https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html
+2026-11-17,TAIWAN,UNITED STATES,043,2.8,2,False,False,True,https://www.huffingtonpost.kr:443/article/262124
+2026-11-17,UNITED STATES,TAIWAN,042,1.9,2,False,False,True,https://www.huffingtonpost.kr:443/article/262124
+2026-11-17,TAIWAN,CHINA,020,3.0,1,False,False,False,https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html
+2026-11-17,TAIWAN,WASHINGTON,040,1.0,1,False,False,False,https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html
+2026-11-17,TAIWAN,CHINA,020,3.0,1,False,False,False,https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html
+2026-11-17,WASHINGTON,TAIWAN,040,1.0,1,False,False,False,https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html
+2026-11-17,TAIWAN,WASHINGTON,040,1.0,1,False,False,False,https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html
+2026-11-17,WASHINGTON,TAIWAN,040,1.0,1,False,False,False,https://www.hindustantimes.com/world-news/trumps-advisers-are-at-war-over-china-ahead-of-xi-summit-101794886090592.html
+2026-11-17,NVIDIA,TAIWANESE,043,2.8,3,False,False,False,https://www.digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html
+2026-11-17,TAIWAN,NVIDIA,012,-0.4,2,False,False,False,https://www.digitimes.com/news/a20261116PD206/taiwan-nvidia-jensen-huang-investigation.html
+2026-11-17,TAIWANESE,NVIDIA,042,1.9,3,False,False,False,https://www.digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html
+2026-11-17,TAIWAN,NVIDIA,110,-2.0,2,False,False,False,https://www.digitimes.com/news/a20261116PD206/taiwan-nvidia-jensen-huang-investigation.html
+2026-11-17,NVIDIA,TAIWAN,060,6.0,4,False,False,False,https://www.digitimes.com/topic/ai_infra/
+2026-11-17,CHINA,TAIPEI,036,4.0,2,False,False,False,https://isp.netscape.com:443/news/world/story/0001/20261117/eb211c849fa45cf3ddaa54102412a423
+2026-11-17,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.arthosuchak.com/archives/982720/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%9A%E0%A6%BF%E0%A6%AA-%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0/
+2026-11-17,TAIWAN,CHINA,043,2.8,8,False,False,False,https://www.arthosuchak.com/archives/982720/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%9A%E0%A6%BF%E0%A6%AA-%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0/
+2026-11-17,CHINA,TAIWAN,042,1.9,10,False,False,False,https://www.arthosuchak.com/archives/982720/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%9A%E0%A6%BF%E0%A6%AA-%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0/
+2026-11-17,TAIWAN,THE US,010,0.0,1,False,False,False,https://www.businesstimes.com.sg/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when
+2026-11-17,TAIWAN,THE US,010,0.0,4,False,False,False,https://www.businesstimes.com.sg/companies-markets/if-theres-price-be-paid-so-be-it-george-yeo-says-singapore-must-resist-external-pressure-when
+2026-11-17,TAIPEI,CHINESE,030,4.0,3,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,CHINA,112,-2.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,CHINA,112,-2.0,6,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,CHINA,TAIWAN,030,4.0,1,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,CHINA,112,-2.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,CHINESE,036,4.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,SHENZHEN,046,7.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,CHINA,TAIWAN,030,4.0,1,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,CHINESE,TAIWAN,036,4.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,CHINESE,TAIWAN,036,4.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,CHINESE,036,4.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,TAIWAN,SHENZHEN,046,7.0,2,False,False,False,https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump
+2026-11-17,XI JINPING,TAIWAN,036,4.0,1,False,False,True,https://www.clickondetroit.com/news/world/2026/11/17/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit/
+2026-11-17,TAIPEI,CHINA,036,4.0,2,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,TAIPEI,CHINA,036,4.0,1,False,False,False,https://www.clickondetroit.com/news/world/2026/11/17/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit/
+2026-11-17,TAIWAN,CHINA,191,-9.5,1,False,False,False,https://www.clickondetroit.com/news/world/2026/11/17/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit/
+2026-11-17,TAIWAN,CHINA,191,-9.5,1,False,False,False,https://www.clickondetroit.com/news/world/2026/11/17/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit/
+2026-11-17,CHINA,TAIWAN,173,-5.0,2,True,False,True,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,BEIJING,TAIWAN,173,-5.0,10,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,BEIJING,TAIWAN,173,-5.0,4,True,False,True,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,TAIWAN,CHINA,036,4.0,3,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,CHINA,TAIPEI,036,4.0,6,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,BEIJING,TAIWAN,154,-7.2,10,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,BEIJING,TAIWAN,154,-7.2,4,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,BEIJING,TAIWAN,173,-5.0,4,False,False,False,https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit
+2026-11-17,TAIWAN,XI JINPING,036,4.0,1,False,False,True,https://www.clickondetroit.com/news/world/2026/11/17/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit/
+2026-11-17,CHINA,TAIWAN,030,4.0,2,False,False,False,https://www.livemint.com/global/nvidia-scandal-threatens-china-s-charm-offensive-ahead-of-trump-summit-11794877787962.html
+2026-11-17,CHINA,TAIWAN,110,-2.0,2,False,False,False,https://www.livemint.com/global/nvidia-scandal-threatens-china-s-charm-offensive-ahead-of-trump-summit-11794877787962.html
+2026-11-17,CHINA,TAIWAN,030,4.0,8,False,False,False,https://www.livemint.com/global/nvidia-scandal-threatens-china-s-charm-offensive-ahead-of-trump-summit-11794877787962.html
+2026-11-17,CHINA,TAIWAN,110,-2.0,8,False,False,False,https://www.livemint.com/global/nvidia-scandal-threatens-china-s-charm-offensive-ahead-of-trump-summit-11794877787962.html
+2026-11-17,CHINA,TAIWAN,036,4.0,10,False,False,False,https://13wham.com/news/nation-world/trump-xi-and-putins-historic-meeting-breakthrough-or-photo-op
+2026-11-17,CHINA,TAIWAN,036,4.0,10,False,False,False,https://13wham.com/news/nation-world/trump-xi-and-putins-historic-meeting-breakthrough-or-photo-op
+2026-11-17,CHINA,TAIWAN,190,-10.0,8,False,False,False,https://www.zavtra.ru/blogs/vashington_i_pekin
+2026-11-17,CHINA,TAIWAN,190,-10.0,2,False,False,False,https://www.zavtra.ru/blogs/vashington_i_pekin
+2026-11-17,UNITED STATES,TAIWAN,172,-5.0,2,False,False,False,https://www.nzherald.co.nz/business/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/premium/2BPXII2FTJEXBMCKOK6EM5YN24/
+2026-11-17,UNITED STATES,TAIWAN,172,-5.0,2,False,False,False,https://www.nzherald.co.nz/business/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/premium/2BPXII2FTJEXBMCKOK6EM5YN24/
+2026-11-17,TAIPEI,CHINA,040,1.0,20,False,False,False,https://focustaiwan.tw:443/society/202611170004
+2026-11-17,CHINA,TAIPEI,040,1.0,16,False,False,False,https://focustaiwan.tw:443/society/202611170004
+2026-11-17,CHINA,TAIWAN,040,1.0,4,False,False,False,https://focustaiwan.tw:443/society/202611170004
+2026-11-17,TAIWAN,CHINA,046,7.0,1,False,False,True,https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/
+2026-11-17,TAIWAN,CHINA,050,3.5,1,False,False,True,https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/
+2026-11-17,CHINA,TAIWAN,046,7.0,1,False,False,True,https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/

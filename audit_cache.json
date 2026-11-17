@@ -1,246 +1,8 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "prompt_version": 3,
-  "saved_at": "2026-11-16T23:01:51.351390",
+  "saved_at": "2026-11-17T09:48:23.232354",
   "entries": {
-    "https://noticias.perfil.com/noticias/opinion/la-noche-triste-de-trump.phtml|030|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "La noche triste de Trump | Noticias",
-      "text_len": 2500,
-      "paragraph_1": "Como nos advirtió Heráclito, en este universo nada es permanente, pero incluso el filósofo griego se habría sorprendido ante la rapidez con la que cambian las cosas en el mundo político actual en que lo que un día parece inevitable puede esfumarse por  completo el siguiente. Hace apenas dos años, muchos analistas norteamericanos daban por moribundo al Partido Demócrata, cuya candidata, Kamala Harris, acababa de sufrir una contundente derrota en la contienda presidencial frente a un resurgido Donald Trump. Sin embargo, a pesar de seguir divididos y sin darse el trabajo de modificar sus propuestas, los demócratas lograron recuperarse lo suficiente como para cosechar una victoria espectacular en las elecciones de mitad de mandato de la semana pasada.",
-      "paragraph_2": "Desde entonces, quienes predijeron la inminente desaparición del Partido Demócrata están diciendo prácticamente lo mismo sobre el Republicano y, claro está, sobre el propio Trump, para quien los resultados fueron un desastre absoluto. Durante al menos los próximos dos años, demócratas sedientos de revancha, cuyo odio y desprecio hacia Trump no conocen límites, controlarán ambas cámaras del Congreso. Algunos intentarán someterlo a un juicio político con la esperanza de destituirlo, otros se conformarán con hacer todo lo posible por obligarlo a suavizar su postura en cuestiones como la inmigración ilegal -algo que, para sorpresa de muchos, dice estar dispuesto a hacer-, además de cohonestar las cuotas raciales destinadas a favorecer a minorías étnicas, garantizar los derechos adquiridas de las personas transexuales y otros temas que obsesionan a los activistas.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국 내 트럼프와 민주당 간의 정치적 갈등에 관한 것으로, 중국-대만 간의 국가급 행위자 사이의 사건을 다루지 않습니다. 조건2: 아니오 — 기사 내용이 중국-대만 관계와 무관하므로 논조 일치 여부를 판단할 수 없습니다. 최종: 아니오"
-      }
-    },
-    "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/china-s-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "China’s Xi says Taiwan ‘reunification’ must happen as history cannot be stopped - Internazionale",
-      "text_len": 2500,
-      "paragraph_1": "BEIJING, Nov 12 (Reuters) - The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, as he urged complete “reunification” of Taiwan with the motherland and pledged to do so peacefully, making no mention of the use of force.",
-      "paragraph_2": "China views democratically-governed Taiwan as its own territory, despite Taipei’s strong rejection of that claim, and has repeatedly offered a “one country, two systems” model of autonomy not supported by any major Taiwanese political party.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하고 있으며, 동시에 중국 군부대의 대만 주변 군사활동(29대의 항공기와 전함의 \"전투준비태세 순찰\")을 직접 다루고 있어 양국 간 직접적인 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 내용은 일방적 통일 주장, 무력 미사용 언급에도 불구한 군사력 과시, 대만의 독립 분리 세력 반대 촉구 등으로 대만에 대한 압박과 위협"
-      }
-    },
-    "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan|051|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Xi calls for peaceful reunification with Taiwan",
-      "text_len": 2500,
-      "paragraph_1": "BEIJING, China: Chinese President Xi Jinping has renewed his call for Taiwan's reunification with China, saying it was an unavoidable historical goal. He called for a peaceful solution but did not mention the possibility of using force.",
-      "paragraph_2": "Taiwan rejected his remarks on Friday, saying its people would not accept Chinese rule.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 중국과 대만 간의 직접적인 상호작용(시진핑의 통일 촉구 발언, 대만의 거부 응답, 중국군 항공기의 대만 주변 군사활동)을 다루고 있으며, 중국의 군사 활동은 대만의 안보에 직접 영향을 주는 일방적 행위입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 통일 주장, 대만의 강한 거부, 중국군의 빈번한 군사활동 및 위협 암시 등으로 충돌과 대립적 성격을 보이고 있어서,"
-      }
-    },
-    "https://bdnews24.com/world/2gsvctk709|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
-      "text_len": 2500,
-      "paragraph_1": "Published : 12 Nov 2026, 08:45 PM",
-      "paragraph_2": "Updated : 12 Nov 2026, 08:45 PM",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만과의 \"평화적 통일\"을 촉구하는 연설을 했고, 이에 대해 대만 정부가 공식 반박했으며, 중국 군용기 29대가 대만 주변에서 \"연합전력준비순찰\"을 실시한 사건으로, 명백히 중국-대만 두 국가 간의 직접적인 상호작용 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 통일 압박, 대만의 거부, 중국 군용기의 대만 주변 활동 등 갈등과 긴장의"
-      }
-    },
-    "https://www.asiaone.com/china/xi-jinping-taiwan-reunification|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped, China News - AsiaOne",
-      "text_len": 2500,
-      "paragraph_1": "BEIJING - The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday (Nov 12), while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
-      "paragraph_2": "China views democratically-governed Taiwan as its own territory, despite Taipei's strong rejection of that claim, and has repeatedly offered a \"one country, two systems\" model of autonomy not supported by any major Taiwanese political party.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 시진핑의 통일 발언과 대만의 거부 반응, 그리고 중국 군용기 29대의 \"연합 전투준비 순찰\"을 포함하여 중국-대만 간 직접적인 국가급 상호작용을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사 위협(일일 군사 활동, 29대 전투기 출동, 무력 행사 보유 입장)과 대만의 강력한 거부를 강조하는 갈등/긴장 상황이지만, GDELT는 이를 +5.0의 협력"
-      }
-    },
-    "https://aninews.in/news/world/asia/g7-foreign-ministers-warn-china8217s-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation20261112195628/|124|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "G7 Foreign Ministers warn China&#8217;s activities East of Taiwan threaten regional stability, freedom of navigation",
-      "text_len": 2500,
-      "paragraph_1": "ANI | Updated: Nov 12, 2026 19:56 IST",
-      "paragraph_2": "Paris [France] November 12 (ANI): Foreign ministers of the Group of Seven ( G7 ) have expressed concern over China 's increasingly assertive activities in the waters east of Taiwan , warning that the actions threaten regional stability, freedom of navigation and the safety of international shipping, according to a report by Taipei Times. The warning was issued in a joint declaration published late Wednesday following a meeting of G7 foreign ministers in Paris. According to the report, China , which claims Taiwan as part of its territory, has intensified its activities off Taiwan 's east coast since June, conducting regular patrols by its coast guard. Taiwan ese officials believe Beijing is practising for a potential maritime blockade by deploying overlapping military, paramilitary and civilian assets in the surrounding waters. The G7 statement marked a unified expression of concern over China 's activities east of Taiwan . France, Germany, the United Kingdom and the United States had previously voiced concerns about Beijing 's actions in the area. \" China 's increasingly assertive activities in the waters east of Taiwan threaten regional stability, freedom of navigation and the safety of international shipping,\" the joint declaration stated. The ministers also reaffirmed their opposition to unilateral attempts to change the status quo, particularly through force, coercion or the threat thereof.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": false,
-        "reason": "조건1: 예 — 기사는 중국의 대만 동쪽 해역에서의 해안경비대 순찰, 군사·준군사·민간 자산 배치 등 중국의 일방적 군사행동이 대만의 안보에 직접 영향을 미치는 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 부정적 논조는 중국의 행동 자체가 아니라 G7 외교장관들의 비판과 경고, 그리고 대만의 환영 성명 등 제3자(G7)와 대만의 반응에서 비롯되었으며, 중국의 실제 행동(순찰, 군사 활"
-      }
-    },
-    "https://www.moneycontrol.com/world/xi-jinping-says-taiwan-reunification-must-be-realised-reiterates-china-s-one-country-two-systems-policy-article-14078374.html|027|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Xi Jinping says Taiwan reunification 'must be realised', reiterates China's 'one country, two systems' policy",
-      "text_len": 2500,
-      "paragraph_1": "Chinese President Xi Jinping has reiterated Beijing's determination to bring Taiwan under its control, declaring that the island's eventual reunification with mainland China is inevitable, even as Taipei rejected his proposal and warned against accepting Communist Party rule.",
-      "paragraph_2": "Addressing an event commemorating the 160th birth anniversary of revolutionary leader Sun Yat-sen in Beijing on Thursday, Xi said China's reunification was an unfinished historical responsibility that would eventually be fulfilled.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 시진핑의 대만 통일 주장, 중국의 군사 활동, 대만의 반발이라는 중국과 대만 간의 직접적인 상호작용과 갈등을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 강경한 통일 요구, 대만의 거부, 중국의 군사 활동 증강 등 대립과 갈등을 담고 있으나, GDELT 코드는 +4.0의 협력적/긍정적 점수를 부여하여 명백히 불일치합니다. 최종: 아니오"
-      }
-    },
-    "https://www.ibtimes.co.uk/xi-taiwan-unification-warning-chinese-aircraft-1832045|020|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Xi Jinping Issues Chilling Taiwan Warning as 29 Chinese Aircraft and Drones Circle Island Ahead of Trump Talks | IBTimes UK",
-      "text_len": 2500,
-      "paragraph_1": "Chinese President Xi Jinping, speaking at a Beijing event, renewed his call for Taiwan's reunification with mainland China. His message came on 12 November, the same day Taiwan reported detecting 29 Chinese military aircraft around its shores.",
-      "paragraph_2": "The timing is significant. Xi is due to meet US President Donald Trump at next week's APEC summit in Shenzhen, and Taiwan heads to local elections soon after. Beijing's latest statements have drawn renewed attention to regional security and the risk of further tensions.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 중국의 29대 항공기/무인기 출동과 해상 순찰, 시진핑의 '통일' 발언은 대만의 안보에 직접 영향을 주는 중국의 일방적 군사 위협 행위이며, 이는 중국과 대만 간의 직접적인 양자 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사적 위협, 대만에 대한 압박, 지역 긴장 고조를 다루고 있어 명백히 부정적/갈등적이나, GDELT는 이를 +3.0(협력적/긍정적)으로 코"
-      }
-    },
-    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688|042|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Former Seychelles president decries overflight revocation - Taipei Times",
-      "text_len": 2500,
-      "paragraph_1": "Former Seychelles president Wavel Ramkalawan yesterday said that his government's last-minute revocation of overflight permission in April for President William Lai's (賴清德) chartered aircraft en route to Eswatini was wrong and should never happen again.",
-      "paragraph_2": "The decision \"was totally wrong. And this is why I stood up, and the leader of the opposition also stood up to condemn that decision. And I hope this doesn't happen again,\" Ramkalawan told the Central News Agency during an interview in Taipei.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 세이셸의 영공 통과 거부 결정에 대한 전직 대통령의 비판이며, 중국-대만 간 직접적인 안보 행위(미사일, 무력시위, 영공침범 등)가 아니라 제3국(세이셸)을 통한 간접적 영향에 관한 것입니다. 조건2: 아니오 — 기사의 실제 논조는 대만 대사의 영공 통과 거부라는 부정적/갈등적 사건을 다루고 있으나, GDELT의 +1.9 긍정적 점수는 이러한 내용과 불"
-      }
-    },
-    "https://tribune.com.pk/story/2639932/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
-      "text_len": 2500,
-      "paragraph_1": "Chinese president says resolving the Taiwan question is an 'unwavering historical mission' of China's Communist Party",
-      "paragraph_2": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 중국과 대만 간의 직접적인 사건을 다루고 있으며, 중국의 군사 활동(29대의 전투기와 무인기를 동원한 \"합동전투준비순찰\")이 대만을 겨냥한 것으로 명확히 기술되어 있습니다. 조건2: 아니오 — 기사의 실제 논조는 강력한 군사 위협과 갈등을 보여주고 있습니다(군사 항공기 출격, 영공 진입, 대만의 거부 반응, \"분리주의\" 반대 표현 등)으로, 이는 GoldsteinSca"
-      }
-    },
-    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867820|051|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "NTU honors alumni, awards honorary degrees - Taipei Times",
-      "text_len": 2500,
-      "paragraph_1": "Academia Sinica President Chen  Chien-jen (陳建仁), who helped strengthen Taiwan’s  disease-control system following the 2003 SARS outbreak,  received National Taiwan University’s (NTU) Distinguished  Alumni Award yesterday.",
-      "paragraph_2": "Speaking on behalf of the nine recipients at a ceremony  marking NTU’s 98th anniversary, Chen said he hoped to  continue being “the salt of the earth and the light of the  world,” a biblical expression referring to the role of  believers in society.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 국립대만대학의 동문상 수여식으로, 중국(Academia Sinica)과 대만 간의 국가급 행위자 간 직접 상호작용(군사, 외교, 안보)이 아니라 학술기관의 명예 행사에 관한 내용입니다. 조건2: 예 — 기사의 실제 논조는 학문적 성취를 인정하는 긍정적이고 우호적인 내용으로, 협력적/긍정적 코드(GoldsteinScale +3.4)와 일치합니다. 최종: 아니오"
-      }
-    },
-    "https://economictimes.indiatimes.com/news/international/world-news/tide-of-history-cannot-be-stopped-xi-renews-call-for-taiwan-reunification/articleshow/135755299.cms|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "'Tide of history cannot be stopped': Xi renews call for Taiwan reunification - The Economic Times",
-      "text_len": 1717,
-      "paragraph_1": "Explore More Stories",
-      "paragraph_2": "Sass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사 본문에 대만 관련 내용이 없으며, 제목만 있고 실제 기사 본문은 캐나다 사건들(헬기 추락, 교사 성폭행, NASCAR 인물 사망 등)과 무관한 잡다한 뉴스로 구성되어 있어 중국-대만 간 실질적 상호작용을 다루지 않음. 조건2: 아니오 — Xi의 대만 통일 촉구는 본질적으로 일방적 정치적 선언으로, 협력적이거나 긍정적인 내용이 아니며 대만의 정치적 지위를 강제하려는 성"
-      }
-    },
-    "https://focustaiwan.tw/business/202611110022|125|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan",
-      "text_len": 2121,
-      "paragraph_1": "Taipei, Nov. 11 (CNA) Acer Group founder and Honorary Chairman Stan Shih (施振榮) has been named Taiwan's envoy to the 2026 Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China, the Presidential Office said on Wednesday.",
-      "paragraph_2": "President Lai Ching-te (賴清德) chose Shih for his international perspective and industry expertise, hoping he would bring Taiwan's views and experience on economic and trade issues to the summit, Presidential Office spokesperson Karen Kuo (郭雅慧) said.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만의 APEC 정상회담 참석 관련 인사 발표로, 대만과 중국 간의 직접적인 갈등 행위(위협, 무력시위, 영공침범, 군사훈련 등)가 아니라 국제기구 참석 절차에 관한 내용입니다. 조건2: 아니오 — 기사의 실제 논조는 대만의 정당한 국제 참여를 주장하는 우호적·긍정적 내용이지만, GDELT는 GoldsteinScale -5.0의 갈등적 코드를 부여했으므로 불일치합니"
-      }
-    },
-    "http://www.milwaukeesun.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan|020|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "China deploys more than 100 ships around Taiwan",
-      "text_len": 2500,
-      "paragraph_1": "Mohan Sinha 16 Nov 2026, 02:05 GMT+10",
-      "paragraph_2": "TAIPEI, Taiwan: China has carried out a large, unannounced military exercise across the western Pacific and around Taiwan, deploying more than 100 naval and coast guard vessels to project military strength ahead of major international meetings.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 중국이 대만을 겨냥한 100척 이상의 해군·해경함정 배치, 모의 공격 훈련, 대륙간탄도미사일 발사 등으로 대만의 안보에 직접 영향을 주는 군사행동을 수행하고 있으며, 이는 명백히 중국-대만 두 국가 간의 사건입니다. 조건2: 아니오 — 기사의 실제 내용은 군사 위협, 무력 시위, 모의 공격, \"침묵의 협박(silent intimidation)\"으로 표현된 강압 행위 등 전형적"
-      }
-    },
-    "https://blog.wenxuecity.com/myblog/72453/202611/7617.html|130|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "黄乐，她到底是谁？（中英文） - 博客 | 文学城",
-      "text_len": 2500,
-      "paragraph_1": null,
-      "paragraph_2": null,
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 황러(Alice Huang)라는 개인을 중심으로 한 인물 탐사 기사이며, 중국-대만 간의 국가급 행위(군사행동, 정책, 공식 성명 등)를 다루지 않습니다. 조건2: 해당 없음 — 조건1에서 이미 부정되었으므로 평가 불필요합니다. 조건3: 해당 없음 — 조건1에서 이미 부정되었으므로 평가 불필요합니다. 최종: 아니오"
-      }
-    },
-    "https://dominicanrepublicpost.com/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen/|027|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen  - Dominican Republic Post – Caribbean News, Business, Travel & Culture",
-      "text_len": 2500,
-      "paragraph_1": "Chinese President Xi Jinping has said the tide of history cannot be stopped, while urging peaceful “reunification” with Taiwan.",
-      "paragraph_2": "Resolving the Taiwan question is an “unwavering historical mission” of China’s Communist Party, Xi said in a speech at Beijing’s Great Hall of the People on Thursday.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 중국의 시진핑이 대만과의 \"통일\" 촉구, 군사 활동(29대의 중국 군용기와 군함의 \"합동 전투준비 순찰\"), 그리고 무력 사용 포기 거부 등 대만을 직접 겨냥한 행위들을 다루고 있어 양측 국가 간의 직접적인 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 무력시위, 군사 위협, 강압적 통일 촉구 등 갈등적/위협적 내용이므로 Goldstein Scale +4.0(협력"
-      }
-    },
-    "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen|027|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen | Xi Jinping News | Al Jazeera",
-      "text_len": 2500,
-      "paragraph_1": "Chinese President Xi Jinping has said the tide of history cannot be stopped, while urging peaceful “reunification” with Taiwan.",
-      "paragraph_2": "Resolving the Taiwan question is an “unwavering historical mission” of China’s Communist Party, Xi said in a speech at Beijing’s Great Hall of the People on Thursday.",
-      "detail": {
-        "c1": true,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 중국의 시진핑이 대만과의 \"완전한 통일\"을 주장하고, 중국군이 대만 주변에서 29대의 군용기와 함께 \"연합전투태세 순찰\"을 실시하며, 대만의 국방부가 이를 감지·보도한 사건으로서, 중국과 대만 간의 직접적인 안보 대립 상황을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 내용은 일방적 군사 위협(통일 강요, 군사 순찰, 무력 불포기), 영토 분쟁, 대만의 명시적 거"
-      }
-    },
     "https://www.courrierinternational.com/article/geopolitique-a-taiwan-des-elections-locales-sous-influence-chinoise_286179|071|pos": {
       "ok": false,
       "article_fetched": true,
@@ -252,7 +14,7 @@
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만 국내 지방선거에서 중국의 영향력(자금 지원, 선거 관여 의혹)을 다루고 있으나, 이는 대만-중국 정부 간의 국가급 행위(군사행동, 외교적 대응 등)가 아니라 개별 정치인들의 선거 부정 혐의에 관한 것입니다. 조건2: 아니오 — 기사의 논조는 중국의 선거 개입, 뇌물 혐의, 대만 당국의 체포라는 부정적·갈등적 내용을 다루고 있으나, GDELT가 부여한 Golds"
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만 내 선거 후보자들의 중국발 뇌물 혐의와 선거 개입 시도를 다루고 있으며, 이는 대만과 중국 정부 간의 직접적인 국가급 행위(군사 행동, 외교 조치, 공식 성명 등)가 아니라 중국의 개별 정치 활동가들에 의한 비공식적 영향력 행사입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 선거 개입, 뇌물 혐의, 불법 자금 조달 등 명백한 갈등과 위협 행"
       }
     },
     "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html|190|neg": {
@@ -260,27 +22,41 @@
       "article_fetched": true,
       "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips | Business | kten.com",
       "text_len": 2500,
-      "paragraph_1": null,
-      "paragraph_2": null,
+      "paragraph_1": "The logo of data center company Megaspeed International is pictured at its office in the Ocean Financial Centre in Singapore on November 10.",
+      "paragraph_2": "People walk across Jubilee bridge at Marina Bay in Singapore on May 5.",
       "detail": {
         "c1": false,
         "c2": true,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국의 대중국 반도체 수출 통제 정책과 싱가포르 기업(Megaspeed)을 통한 우회 경로에 관한 것으로, 대만과 중국 간의 직접적인 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 예 — 기사의 실제 논조는 중국이 미국 반도체에 접근하려는 시도와 이를 돕는 기업/개인들을 비판하는 부정적 내용으로, \"갈등적/부정적\" 코드와 일치합니다. 조건3: 예|아니오 — 조"
+        "reason": "조건1: 아니오 — 기사는 미국의 반도체 수출통제 정책과 싱가포르 기업(Megaspeed)을 통한 중국으로의 칩 유출 의혹을 다루고 있으며, 대만-중국 간의 직접적인 국가 행위(군사행동, 위협, 영토분쟁 등)를 다루지 않습니다. 조건2: 예 — 기사의 논조는 중국이 미국의 수출통제를 우회하여 첨단 반도체에 접근하려 한다는 내용으로 갈등적/부정적이며, 이는 GoldsteinScale -10.0"
+      }
+    },
+    "https://noticias.perfil.com/noticias/opinion/la-noche-triste-de-trump.phtml|030|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "La noche triste de Trump | Noticias",
+      "text_len": 2500,
+      "paragraph_1": "Como nos advirtió Heráclito, en este universo nada es permanente, pero incluso el filósofo griego se habría sorprendido ante la rapidez con la que cambian las cosas en el mundo político actual en que lo que un día parece inevitable puede esfumarse por  completo el siguiente. Hace apenas dos años, muchos analistas norteamericanos daban por moribundo al Partido Demócrata, cuya candidata, Kamala Harris, acababa de sufrir una contundente derrota en la contienda presidencial frente a un resurgido Donald Trump. Sin embargo, a pesar de seguir divididos y sin darse el trabajo de modificar sus propuestas, los demócratas lograron recuperarse lo suficiente como para cosechar una victoria espectacular en las elecciones de mitad de mandato de la semana pasada.",
+      "paragraph_2": "Desde entonces, quienes predijeron la inminente desaparición del Partido Demócrata están diciendo prácticamente lo mismo sobre el Republicano y, claro está, sobre el propio Trump, para quien los resultados fueron un desastre absoluto. Durante al menos los próximos dos años, demócratas sedientos de revancha, cuyo odio y desprecio hacia Trump no conocen límites, controlarán ambas cámaras del Congreso. Algunos intentarán someterlo a un juicio político con la esperanza de destituirlo, otros se conformarán con hacer todo lo posible por obligarlo a suavizar su postura en cuestiones como la inmigración ilegal -algo que, para sorpresa de muchos, dice estar dispuesto a hacer-, además de cohonestar las cuotas raciales destinadas a favorecer a minorías étnicas, garantizar los derechos adquiridas de las personas transexuales y otros temas que obsesionan a los activistas.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국 내 트럼프와 민주당 간의 정치적 갈등을 다루고 있으며, 대만과 중국 간의 국가급 행위자 간 사건을 전혀 다루지 않고 있습니다. 조건2: 아니오 — 조건1을 충족하지 않으므로 평가 대상이 아닙니다. 최종: 아니오"
       }
     },
     "https://phayul.com/2026/11/xi-says-taiwan-reunification-unstoppable-rules-out-independence/|190|neg": {
       "ok": true,
       "article_fetched": true,
-      "title": "Xi says Taiwan reunification ‘unstoppable’, rules out independence",
+      "title": "Xi says Taiwan reunification ‘unstoppable’, rules out independence - Phayul",
       "text_len": 2500,
-      "paragraph_1": null,
-      "paragraph_2": null,
+      "paragraph_1": "DHARAMSHALA, Nov. 13: Chinese President Xi Jinping has renewed Beijing’s insistence on bringing Taiwan under its control, declaring that the island’s eventual reunification with mainland China is an “unwavering historical mission” of the Chinese Communist Party (CCP) and warning that there would be no room for Taiwan independence.",
+      "paragraph_2": "Xi made the remarks on Thursday at the Great Hall of the People in Beijing during a commemorative gathering marking the 160th birth anniversary of Sun Yat-sen, the revolutionary leader who helped overthrow China’s Qing dynasty in the 1911 Revolution and subsequently founded the Republic of China.",
       "detail": {
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 시진핑의 대만 통일 발언과 타이베이의 대응으로, 대만과 중국 간의 직접적인 정치·안보 갈등을 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 일방적 통일 주장과 대만 독립 거부, 그리고 타이베이의 강경한 반발로, 명확히 갈등적/부정적입니다. 조건3: 예 — 부정적 논조는 중국(시진핑)의 통일 주장과 대만(타이베이 행정당국)의 반박에서 비롯된 것으로, 두 나라 간"
+        "reason": "조건1: 예 — 시진핑의 대만 통일 압박 발언과 대만 정부의 공식 반박이 양측 국가급 행위자 간의 직접적 대립 사건을 구성합니다. 조건2: 예 — 기사의 실제 논조는 중국의 일방적 통일 압박, 대만 독립 불용 선언, 그리고 대만의 강한 반발로 표현되는 명백한 갈등 상황이며, 부정적 코드와 일치합니다. 조건3: 예 — 부정적 논조의 주체는 중국(시진핑의 위협적 발언)과 대만(공식 반박)이며, "
       }
     },
     "https://www.naturalnews.com/2026-11-12-xi-taiwan-reunification-trump-meeting.html|190|neg": {
@@ -294,7 +70,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 시진핑의 대만 통일 선언은 대만을 직접 겨냥한 일방적 위협·경고로서 대만의 안보에 직접 영향을 주는 행위입니다. 조건2: 예 — 기사의 실제 논조는 시진핑의 강경한 통일 선언, 대만의 거부, 양측의 갈등 구도를 다루고 있어 부정적/갈등적 방향과 일치합니다. 조건3: 예 — 부정적 논조는 중국(시진핑)의 대만 통일 선언이라는 행위 자체에서 비롯된 것이며, 중국은 이 쌍의 당사자"
+        "reason": "조건1: 예 — 시진핑의 대만 통일 불가피성 선언은 대만을 겨냥한 일방적 위협·경고로서 대만의 안보에 직접 영향을 주는 대만-중국 간 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 위협적 선언, 대만의 거부, 양측의 대립 구도로 일관되어 있으며, 이는 \"갈등적/부정적\" 코드와 일치합니다. 조건3: 예 — 부정적 논조의 주체는 중국(시진핑의 위협적 발언)과 대만(거부 입장)이며, 제3"
       }
     },
     "https://www.dsnews.ua/ukr/world/si-czinpin-zayaviv-pro-namir-dosyagti-povnogo-vozz-yednannya-z-tayvanem-12112026-471700|120|neg": {
@@ -308,7 +84,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 중국의 대만 통일 의도 표명, \"일국두제\" 제안, 그리고 중국 군용기의 대만 근처 활동(29대 전투기 및 무인기의 \"전투준비태세 순찰\")이라는 대만을 겨냥한 구체적 군사행동을 다루고 있으며, 대만의 공식 거부 입장도 포함하고 있어 양측 간의 직접적 상호작용입니다. 조건2: 예 — 기사의 논조는 중국의 위협적 입장(무력 시나리오 포기 거부, 군사 증강), 군사적 압박(2"
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일 의도를 공식 연설로 선언하고, 중국 군이 대만 근처에서 29대의 전투기와 함께 \"전투준비 순찰\"을 벌인 행위를 다루고 있으며, 대만 정부가 이를 거부하고 대응하는 양측 간 직접적 사건입니다. 조건2: 예 — 기사의 논조는 중국의 무력 통일 의지 표현, 군사적 압박 강화, 대만의 거부 대응 등으로 일관되게 갈등적·부정적이며, Goldste"
       }
     },
     "https://www.dw.com/en/china-taiwan-xi-jinping-reunification/a-79929738|120|neg": {
@@ -322,7 +98,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 시진핑이 대만 통일을 강조하면서 \"대만 독립 분리주의 활동에 어떤 형태로든 여지를 남기지 않겠다\"고 명시적으로 대만을 겨냥한 일방적 정치적 입장 표명으로, 대만과 중국 사이의 핵심 쟁점에 관한 직접적인 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 통일 강요 입장 vs 대만의 명확한 거부라는 대립 구도를 다루고 있으며, 이는 GoldsteinScale -4.0의 \"갈"
+        "reason": "조건1: 예 — 시진핑의 대만 통일 촉구 발언과 대만 정부의 즉각적 반박이 양국 간 직접적인 정치·안보적 대립을 명확히 보여주며, 이는 대만과 중국 간의 핵심 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 통일 압박(군사력 불사언급 포함)과 대만의 거부 대응으로, 명확히 갈등적·부정적 성격을 띠고 있습니다. 조건3: 예 — 부정적 논조는 중국(Xi의 통일 촉구)과 대만(반박)이라는 "
       }
     },
     "https://slguardian.org/xi-declares-taiwan-reunification-an-unstoppable-historical-mission/|120|neg": {
@@ -336,7 +112,21 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 시진핑이 대만 통일을 \"멈출 수 없는\" 역사적 사명으로 선언한 것은 중국이 대만을 직접 겨냥한 정치적 입장 표현으로, 대만의 안보와 주권에 직접 영향을 미치는 국가급 행위에 해당합니다. 조건2: 예 — 기사 제목과 본문의 논조는 중국의 일방적 통일 선언으로서 갈등적·부정적 성격을 명확히 드러내며, GoldsteinScale -4.0의 \"갈등/위협\" 코딩과 일치합니다. 조건3:"
+        "reason": "조건1: 예 — 시진핑이 대만 통일을 \"피할 수 없는 역사적 사명\"이라고 선언한 것은 중국이 대만을 겨냥한 명시적 정치적 입장 표현으로, 대만의 안보와 주권에 직접 영향을 주는 중국의 일방적 행위입니다. 조건2: 예 — 기사 제목과 내용이 중국의 대만 통일 의지를 강경하게 표현하고 있으며, 이는 GoldsteinScale -4.0(갈등적/부정적)과 일치합니다. 조건3: 예 — 부정적 논조는 "
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Former Seychelles president decries overflight revocation - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Former Seychelles president Wavel Ramkalawan yesterday said that his government's last-minute revocation of overflight permission in April for President William Lai's (賴清德) chartered aircraft en route to Eswatini was wrong and should never happen again.",
+      "paragraph_2": "The decision \"was totally wrong. And this is why I stood up, and the leader of the opposition also stood up to condemn that decision. And I hope this doesn't happen again,\" Ramkalawan told the Central News Agency during an interview in Taipei.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 사건은 세이셸의 오버플라이트 허가 취소이며, 이는 대만-중국 간의 직접적 국가 행위가 아니라 제3국(세이셸)의 행동에 대한 대만의 반응과 그에 대한 비판이 중심입니다. 조건2: 아니오 — 기사의 실제 논조는 세이셸의 오버플라이트 취소 결정을 \"완전히 잘못된 것\"이라고 비판하는 갈등적/부정적 내용이므로, 긍정적 코드(GoldsteinScale +2.8)와 불일치"
       }
     },
     "https://istoe.com.br/china-pressiona-taiwan-g7-alerta-risco-conflito|052|pos": {
@@ -350,21 +140,7 @@
         "c1": true,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 예 — 기사는 중국의 군사작전 증가, Xi Jinping의 재통일 재확인, G7의 우려 표현 등 대만-중국 간 직접적인 안보 갈등(군사 위협, 영해 침범 가능성, 봉쇄 시뮬레이션)을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 군사적 긴장 고조, 위협, 갈등을 다루고 있으나, GDELT가 부여한 GoldsteinScale +3.5는 \"협력적/긍정적\"을 의미하므로 심각한 "
-      }
-    },
-    "https://news.webindia123.com/news/Articles/World/20261109/4517593.html|111|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Taiwan condemns China for distorting UN resolution, reasserts sovereignty",
-      "text_len": 2500,
-      "paragraph_1": "According to a report by Taipei Times, the Taiwanese Foreign Ministry made the remarks after China issued a statement following talks between Chinese President Xi Jinping and Gabonese President Brice Clotaire Oligui Nguema on Friday. The Chinese statement highlighted Gabons reaffirmation of its adherence to the one China principle. Taiwans MOFA criticised the statement, accusing Beijing of distorting United Nations General Assembly Resolution 2758 to advance its political claims over Taiwan. UN General Assembly Resolution 2758, adopted in 1971, addresses China's representation at the United Nations and does not explicitly mention Taiwan. However, Beijing interprets the resolution as granting it the right to represent Taiwan. As cited by Taipei Times, MOFA accused the Chinese government of repeatedly using bilateral meetings with other countries to pressure them into issuing statements that undermine the sovereignty of the Republic of China. Reaffirming Taiwan's position, the ministry said the ROC is a sovereign and independent country and that Taiwan has never been ruled by the People's Republic of China (PRC). It further maintained that only Taiwan's democratically elected government has the authority to represent its people in international affairs, including within the United Nations system. The Taiwanese Foreign Ministry also accused Beijing of attempting to undermine the international order by incorporating its one China principle into bilateral documents signed with other countries. MOFA urged Gabon not to fall for what it described as Beijing's political manipulation, stressing that the political status of Taiwan cannot be altered through China's diplomatic pressure or unilateral claims. The ministry reiterated that the two sides of the Taiwan Strait are not subordinate to each other, describing this as an established fact that cannot be changed. (ANI)",
-      "paragraph_2": "According to a report by Taipei Times, the Taiwanese Foreign Ministry made the remarks after China issued a statement following talks between Chinese President Xi Jinping and Gabonese President Brice Clotaire Oligui Nguema on Friday.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 중심은 중국-가봉 양자회담에서 가봉이 일중정책을 재확인한 사건이며, 대만-중국 간의 직접적인 행위(군사행동, 위협, 침범 등)가 아니라 대만이 제3국(가봉)을 향한 중국의 외교활동에 대해 사후적으로 비판하는 것입니다. 조건2: 예 — 기사의 논조는 대만의 비판과 반박으로 일관하며, 중국의 행위를 \"왜곡\", \"정치적 조작\", \"압력\"으로 표현하는 등 명백히 갈등적/부"
+        "reason": "조건1: 예 — 기사는 중국의 군사 활동 증가, Xi Jinping의 대만 통일 의지 재확인, 대만 주변 해역의 중국 선박 증가 등 중국과 대만 간의 직접적인 안보 갈등 사항을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사 압박 증가, G7의 우려 표현, 대만 해협 긴장 고조 등 명확히 갈등적이고 부정적인 내용이지만, GDELT가 부여한 GoldsteinScale +3"
       }
     },
     "https://www.developingtelecoms.com/telecom-technology/optical-fixed-networks/21103-chilean-navy-partners-with-cirion-gtd-and-telxius-on-subsea-cable-protection.html|120|neg": {
@@ -376,9 +152,9 @@
       "paragraph_2": null,
       "detail": {
         "c1": false,
-        "c2": false,
-        "c3": false,
-        "reason": "조건1: 아니오 — 기사는 칠레 해군과 칠레 통신사들 간의 해저 케이블 보호 협력에 관한 것으로, 대만과 중국(베이징) 간의 사건을 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 우호적 협력(MoU 체결, 보안 강화를 위한 조율)이지만, GoldsteinScale -4.0은 갈등적/부정적을 나타내므로 불일치합니다. 조건3: 아니오 — 조건1에서 이미 대만-중국 사이의 사건이 "
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 칠레 해군과 칠레 통신사들 간의 해저케이블 보호 협력에 관한 것으로, 대만과 중국(베이징) 간의 사건을 전혀 다루지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 평가 불필요합니다. 조건3: 해당 없음 — 조건1이 충족되지 않았으므로 평가 불필요합니다. 최종: 아니오"
       }
     },
     "https://www.okaz.com.sa/politics/na/2275234|090|neg": {
@@ -392,7 +168,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석의 대만 통일 성명과 이에 동시적으로 일어난 중국의 29대 전투기 등 군사력 전개를 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 중국의 일방적 무력시위 행위입니다. 조건2: 예 — 기사의 실제 논조는 중국의 군사적 압박(29대 전투기 출동, 군사훈련) 및 통일 강경 입장과 이에 대한 대만의 거부 및 긴장으로 일관되어 있으며, 이는 \"갈등적/부"
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 대만 통일 성명과 중국군 29대 항공기의 대만 주변 군사활동을 주요 내용으로 다루고 있으며, 이는 대만과 중국 간 직접적인 군사·정치적 대립 사건입니다. 조건2: 예 — 기사의 실제 논조는 갈등적/부정적입니다. 중국의 일방적 통일 주장, 대만의 명확한 거부, 그리고 동시적 군사력 증강(29대 항공기 출동)이 모두 긴장과 대립을 보여주며, Goldstein"
       }
     },
     "https://fakti.bg/world/1099977-si-dzinpin-nama-masto-za-separatistkite-deistvia-za-taivan|016|neg": {
@@ -400,13 +176,13 @@
       "article_fetched": true,
       "title": "Си Дзинпин: Няма място за сепаратизъм за Тайван",
       "text_len": 2500,
-      "paragraph_1": "12 Ноември, 2026 05:31 1 157 4",
+      "paragraph_1": "12 Ноември, 2026 05:31 1 189 4",
       "paragraph_2": "Китай няма да остави никакво пространство за каквато и да е форма на сепаратистка дейност от страна на поддръжниците на независимостта на Тайван. Това заяви китайският президент Си Дзинпин по време на събрание в Пекин, посветено на 160-ата годишнина от рождението на Сун Ятсен.",
       "detail": {
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 시진핑이 대만 독립파에 대한 \"분리주의 활동을 위한 공간을 남기지 않겠다\"는 명시적 위협·경고를 발표했으며, 이는 대만을 직접 상정한 중국의 일방적 행위로서 대만-중국 양국 간 사건에 해당합니다. 조건2: 예 — 기사의 실제 내용은 중국의 위협·강경 입장(분리주의 활동 불용, 무력 옵션 포기 거부)을 다루고 있으며, 이는 GoldsteinScale -2.0의 \"갈등적/부정적\""
+        "reason": "조건1: 예 — 시진핑 주석이 대만 독립 지지자들의 분리주의 활동을 용납하지 않겠다고 명시적으로 경고하는 것으로, 중국이 대만을 겨냥한 직접적인 위협·경고 행위입니다. 조건2: 예 — 기사의 실제 논조는 중국의 강경한 위협과 경고로 일관하고 있으며, 이는 \"갈등적/부정적\" 코드와 완전히 일치합니다. 조건3: 예 — 부정적 논조는 시진핑과 중국 지도부의 직접적인 발언과 위협에서 비롯된 것이므로"
       }
     },
     "https://bworldonline.com/world/2026/11/11/793170/taiwan-appoints-acer-founder-as-apec-envoy-calls-for-written-guarantees-from-china/|036|pos": {
@@ -420,7 +196,7 @@
         "c1": true,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 예 — 대만과 중국 간 APEC 정상회담 참석 및 평등한 참여 보장을 둘러싼 양국 정부 간의 직접적인 외교 분쟁으로, 대만의 국제 무대 참여 권리와 중국의 주권 주장이 맞서는 양자 간 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 긴장된 양국 관계, 중국의 비협조적 태도(이메일로만 초대장 전달, 공식 보장 거부), 대만의 평등 참여 요구 등으로 명백히 갈등적이지만, GDELT는"
+        "reason": "조건1: 예 — 대만과 중국 간 APEC 정상회담 참석을 둘러싼 직접적인 국가급 행위(대만의 참석 보장 요구, 중국의 \"일중 원칙\" 적용)로서 양측 정부 간의 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 긴장관계(중국의 위협적 태도, 초청장 미전달, 평등 참석 조건 미보장 등)를 보도하고 있어 갈등·분쟁 성격이 강하므로, +4.0의 \"협력적/긍정적\" 코드와 불일치합니다. 최종: 아니오"
       }
     },
     "https://www.dailymirror.lk/international/Taiwan-says-China-is-conducting-area-denial-drills-in-Western-Pacific/107-354644|016|neg": {
@@ -434,7 +210,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 중국이 대만을 겨냥한 \"지역거부(area denial)\" 군사훈련을 수행하고 있으며, 이는 대만의 안보에 직접 영향을 미치는 일방적 군사행동으로서 두 국가 간의 사건입니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련을 \"지역거부 전술\"로 표현하고, 대만 국방부장관이 \"평화와 안정을 훼손하려는 의도\"라고 비판하는 등 명확히 갈등적/부정적입니다. 조건3: 예 — 부정적 논조의"
+        "reason": "조건1: 예 — 중국이 대만을 겨냥한 군사훈련(항모전단 \"지역거부\" 훈련)을 실시하고 있으며, 이는 대만의 안보에 직접 영향을 주는 일방적 군사행위로서 두 국가 간 사건에 해당합니다. 조건2: 예 — 기사의 실제 논조는 중국의 군사훈련을 \"지역거부\" 전술로 표현하고, 대만 국방부가 이를 \"인도태평양 지역의 평화와 안정을 훼손하려는 군사억지\"라고 비판하는 갈등적·부정적 내용으로 일관되어 있습니"
       }
     },
     "https://www.ibtimes.com/china-unannounced-naval-deployment-taiwan-blockade-3809720|016|neg": {
@@ -448,515 +224,305 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 중국이 대만을 겨냥하여 100여 척 이상의 함정과 경비정을 대만 주변 해역에 배치하고 대만을 상정한 모의 공격 훈련을 수행한 것으로, 대만의 안보에 직접 영향을 주는 일방적 군사 행위입니다. 조건2: 예 — 기사의 논조는 중국의 무장 함정 대규모 배치, 봉쇄 리허설 의혹, '무성의 위협'(silent intimidation)이라는 표현으로 일관되게 부정적이며, 이는 갈등적/위"
+        "reason": "조건1: 예 — 중국이 대만을 겨냥한 100척 이상의 함정과 해경선박을 배치하고 대만을 포함한 목표에 대한 모의 공격을 실시한 것으로, 대만의 안보에 직접 영향을 주는 일방적 군사행위입니다. 조건2: 예 — 기사의 논조는 중국의 무장력 전시, 봉쇄 연습, \"무언의 위협(silent intimidation)\"이라는 표현으로 일관되게 부정적이며, 갈등적/부정적 코드와 일치합니다. 조건3: 예 —"
       }
     },
-    "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html|061|pos": {
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/14/2003867728|043|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "Mid Cap Stocks To Follow Now – November 12th - Markets Daily",
+      "title": "Ex-Seychelles leader condemns treatment of Lai - Taipei Times",
       "text_len": 2500,
-      "paragraph_1": "Posted by Kim Johansen on Nov 16th, 2026",
-      "paragraph_2": "IREN, American Airlines Group, Twist Bioscience, CareTrust REIT, Corteva, Applied Optoelectronics,  and TeraWulf are the seven Mid Cap stocks to watch today, according to MarketBeat’s stock screener tool. Mid-cap stocks are shares of companies with a medium-sized market value, generally falling between small-cap and large-cap stocks, though exact size ranges vary by index or market. Investors may view them as offering more growth potential than large-cap stocks, while often carrying more volatility and risk. These companies had the highest dollar trading volume of any Mid Cap stocks within the last several days.",
+      "paragraph_1": "Former Seychelles president Wavel Ramkalawan on Thursday said that his government’s last-minute revocation of overflight permission in April for President William Lai’s (賴清德) chartered aircraft en route to Eswatini was wrong and should never happen again.",
+      "paragraph_2": "“This [the decision] was totally wrong. And this is why I stood up, and the leader of the opposition also stood up to condemn that decision. And I hope this doesn’t happen again,” Ramkalawan said in an interview in Taipei.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 세이셸의 과거 지도자가 현 정부의 결정을 비판하는 것으로, 대만-중국 간 직접적 행위(군사행동, 위협, 영공침범 등)가 아니라 제3국(세이셸)의 정책 결정과 그에 대한 비판에 관한 것입니다. 조건2: 아니오 — 기사의 실제 논조는 \"대만 대통령의 항공편 거부\"라는 부정적/제한적 행위에 대한 비판이므로, 양수의 협력적/긍정적 코드와 명백히 불일치합니다. "
+      }
+    },
+    "https://focustaiwan.tw/culture/202611170016|030|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinese student enrollment at Taiwanese universities falls to 34 - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 17 (CNA) The number of Chinese students enrolled in degree programs at Taiwanese universities has dropped to 34, more than six years after Beijing suspended new applications amid the COVID-19 pandemic, according to new data.",
+      "paragraph_2": "Statistics from Taiwan's University Entrance Committee for Mainland Chinese Students showed that Chinese students began enrolling in Taiwanese university degree programs in 2011, with enrollment peaking at 3,019 students in 2015.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국 정부의 2020년 유학생 신규 지원 금지 조치와 그 이후 현황을 다루고 있으나, 이는 국가 간 직접적인 군사적·안보적 행위(미사일, 위협, 침범, 훈련 등)가 아닌 교육정책 수준의 행정 조치일 뿐입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 유학생 지원 금지 조치로 인한 대만 대학 입학 감소(3,019명→34명)를 보도하는 부정적 내용이므로, Gold"
+      }
+    },
+    "https://focustaiwan.tw/politics/202611170013|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan gov't welcomes efforts to promote regional cooperation as Trump arrives in Asia - Focus Taiwan",
+      "text_len": 2456,
+      "paragraph_1": "Taipei, Nov. 17 (CNA) Taiwan's government is closely watching United States President Donald Trump's Asian trip this week, during which he is expected to attend a Quad leaders' meeting and meet with Chinese and Russian leaders on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit, the Ministry of Foreign Affairs said Tuesday.",
+      "paragraph_2": "Trump departed Washington on Monday morning local time and is expected to arrive in the Philippines on Tuesday, according to the White House.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 트럼프의 아시아 외교 활동(필리핀 쿼드 회담, 중국 APEC 참석)이며, 대만-중국 간의 직접적인 국가 행위(군사 행동, 위협, 영토 침범 등)가 아니라 대만이 제3자 입장에서 미국의 외교 활동을 모니터링하는 것만 다루고 있습니다. 조건2: 예 — 기사의 논조는 역내 협력 증진과 인도-태평양 안정을 환영하는 우호적이고 협력적인 내용으로, Goldstei"
+      }
+    },
+    "https://www.arthosuchak.com/archives/982720/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%9A%E0%A6%BF%E0%A6%AA-%E0%A6%B0%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0/|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "চিপ রপ্তানিতে যুক্তরাষ্ট্রের নিষেধাজ্ঞা, দক্ষিণ-পূর্ব এশিয়ার পুঁজিবাজারে ধস",
+      "text_len": 2500,
+      "paragraph_1": "দক্ষিণ-পূর্ব এশিয়ার দেশগুলোতে উন্নত প্রযুক্তির চিপ রপ্তানিতে নতুন বিধিনিষেধ আরোপ করেছে যুক্তরাষ্ট্র। এতে অঞ্চলটির ১০০ বিলিয়ন ডলারের বেশি মূল্যের কৃত্রিম বুদ্ধিমত্তা (এআই) ও ডেটা সেন্টার শিল্প চাপে পড়েছে। এর প্রভাবে মঙ্গলবার (১৭ নভেম্বর) দক্ষিণ-পূর্ব এশিয়ার বিভিন্ন প্রযুক্তি ও ডেটা সেন্টার-সংশ্লিষ্ট কোম্পানির শেয়ারের দর উল্লেখযোগ্যভাবে কমেছে।",
+      "paragraph_2": "নতুন মার্কিন নিয়মে মালয়েশিয়া, সিঙ্গাপুর ও থাইল্যান্ডের মতো দেশগুলোতে উন্নত প্রযুক্তির চিপ সরবরাহ সীমিত করা হয়েছে। এসব দেশের কিছু চীনা প্রতিষ্ঠান এআই মডেল প্রশিক্ষণের জন্য প্রয়োজনীয় কম্পিউটিং সক্ষমতা পেতে ব্যবহার করে আসছিল। পাশাপাশি চীনে সদর দপ্তর থাকা প্রতিষ্ঠানগুলোকে বিপুল পরিমাণ কম্পিউটিং সক্ষমতা সরবরাহকারী বিদেশি ডেটা সেন্টারগুলোর ওপরও নতুন শর্ত আরোপ করা হয়েছে।",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 칩 수출 제재 정책과 동남아시아 시장 영향을 다루며, 대만-중국 간 직접적인 국가 간 사건(군사행동, 외교분쟁, 위협 등)을 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 미국 제재로 인한 부정적 경제 영향(주가 하락, 산업 압박)을 다루고 있으나, GDELT 코드는 협력적/긍정적(GoldsteinScale +2.8)으로 분류되어 명백히 불일"
+      }
+    },
+    "https://focustaiwan.tw:443/society/202611170004|040|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan headline news - Focus Taiwan",
+      "text_len": 491,
+      "paragraph_1": "Taipei, Nov. 17 (CNA) The lead stories in major Taiwan dailies on Tuesday are as follows:",
+      "paragraph_2": "@United Daily News: U.S.-China-Russia summit to be held on Nov. 19",
       "detail": {
         "c1": false,
         "c2": null,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국 중형주(Mid Cap stocks) 투자 정보를 다루는 금융/시장 뉴스일 뿐, 중국과 대만 간의 정부/국가급 행위자 간 사건(군사 행동, 외교 분쟁, 안보 관련 사건)을 전혀 다루고 있지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 검토 불필요입니다. 최종: 아니오"
+        "reason": "조건1: 아니오 — 기사는 대만 국내 뉴스 헤드라인 모음일 뿐 대만과 중국 간의 직접적인 국가급 행위(군사행동, 위협, 공식 외교 상호작용 등)를 다루고 있지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았습니다. 최종: 아니오"
       }
     },
-    "https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/|061|pos": {
+    "https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/|016|neg": {
       "ok": false,
       "article_fetched": true,
-      "title": "Tears and disbelief in Taiwan, where Jensen Huang is a celebrity - NZ Herald",
+      "title": "US presses UN agency over Taiwan flight restrictions, China hits back",
       "text_len": 2500,
-      "paragraph_1": "Linjiang Night Market in Taipei. The scandal involving Nvidia’s Jensen Huang and his subsequent resignation has shocked the public in his birthplace of Taipei. Photo / An Rong Xu, The New York Times",
-      "paragraph_2": "The Nvidia chief executive’s resignation shocked people in his birthplace, where he is called ‘“the people’s dad’.",
+      "paragraph_1": "LAI CHING-TE. Taiwan President Lai Ching-te speaks at the annual congress of the ruling Democratic Progressive Party in Taipei, Taiwan, July 19, 2026.",
+      "paragraph_2": "This is AI-generated. Read the article for full context. Report any errors .",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 미국이 UN 항공기구(ICAO)에 제출한 문건과 중국의 반박이며, 대만-중국 간 직접적인 군사행동·위협·충돌이 아니라 모리셔스와 세이셸의 비행금지 결정에 대한 미국의 국제기구 차원 항의이므로, 대만과 중국(베이징) 간의 직접적 국가 행위가 아닙니다. 조건2: 예 — 기사의 논조는 중국의 비행 제한과 국제 참여 제약, 미국-중국 간 갈등과 긴장을 부정적으로 묘"
+      }
+    },
+    "https://www.freemalaysiatoday.com/category/world/2026/11/17/taiwan-says-us-14bil-arms-sale-decision-up-to-trump|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan says US$14bil arms sale ‘up to’ Trump | FMT",
+      "text_len": 2500,
+      "paragraph_1": "Taiwan has been waiting months for Trump to approve the record sale of weapons and equipment that the island says it needs to strengthen its defence capabilities to deter a potential Chinese attack.",
+      "paragraph_2": "Beijing claims the island democracy is part of its territory and has threatened to use force to annex it.",
       "detail": {
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia CEO Jensen Huang 개인의 스캔들과 사직에 관한 것이며, 대만과 중국(또는 중국 정부) 간의 국가 차원의 행위나 안보 관련 사건을 다루지 않습니다. 조건2: 아니오 — 기사의 논조는 Huang의 사직으로 인한 대만의 실망과 충격을 다루고 있어 부정적이며, GDELT의 긍정적 코드(+6.4)와 불일치합니다. 최종: 아니오"
+        "reason": "조건1: 아니오 — 기사의 중심은 미국(트럼프 행정부)의 대만 무기 판매 승인 여부이며, 대만-중국 간 직접적인 군사행동이나 대면(미사일 시험, 영공 침범, 위협 등)이 아니라 미국을 중심으로 한 삼자 관계에 관한 것입니다. 조건2: 아니오 — 기사의 실제 논조는 긴장과 갈등(중국의 무력 위협, 무기 판매 지연, 전략적 경쟁)을 중심으로 하고 있어서 긍정적 협력보다는 안보 위협과 대립 구도를"
       }
     },
-    "https://www.dailypolitical.com/2026/11/12/mid-cap-stocks-to-follow-now-november-12th.html|061|pos": {
+    "https://www.zavtra.ru/blogs/vashington_i_pekin|190|neg": {
       "ok": false,
       "article_fetched": true,
-      "title": "Mid Cap Stocks To Follow Now – November 12th - Daily Political",
+      "title": "Вашингтон и Пекин",
       "text_len": 2500,
-      "paragraph_1": "Posted by Stacy Sanders on Nov 12th, 2026",
-      "paragraph_2": "IREN, American Airlines Group, Twist Bioscience, CareTrust REIT, Corteva, Applied Optoelectronics,  and TeraWulf are the seven Mid Cap stocks to watch today, according to MarketBeat’s stock screener tool. Mid-cap stocks are shares of companies with a medium-sized market value, generally falling between small-cap and large-cap stocks, though exact size ranges vary by index or market. Investors may view them as offering more growth potential than large-cap stocks, while often carrying more volatility and risk. These companies had the highest dollar trading volume of any Mid Cap stocks within the last several days.",
+      "paragraph_1": "«С момента возвращения в Белый дом президент Трамп сделал ставку на то, что, если Вашингтон займёт более лояльную позицию по отношению к амбициям Китая в Азии, Пекин ответит сдержаннее.",
+      "paragraph_2": "Администрация Трампа сократила масштабы ключевых военных операций в регионе и отказалась от поддержки Тайваня и союзников США, подвергающихся давлению со стороны Китая. Надежда заключалась в том, что такие меры помогут предотвратить потенциальное столкновение с Китаем. Однако спустя почти два года после начала его второго срока подход Трампа дает обратный эффект, подталкивая Китай к усилению своего влияния в Азии и повышая риск военного кризиса».",
       "detail": {
         "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국 중형주 주식 정보를 다루는 금융/투자 기사일 뿐, 중국-대만 간의 국가급 행위자 사이의 어떤 사건(군사행동, 위협, 외교활동 등)도 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 내용은 중국-대만 관계와 무관하므로 논조 일치 여부를 평가할 수 없습니다. 최종: 아니오"
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 미국의 대중국 정책 변화와 그에 따른 대만 지원 여부를 다루고 있으나, 대만과 중국 간의 직접적인 국가 간 행위(군사행동, 위협, 충돌 등)를 다루지 않고 있습니다. 조건2: 예 — 기사의 실제 논조는 트럼프 행정부의 유화 정책이 중국의 영향력 강화와 군사 위기 위험을 초래했다는 비판으로, 갈등적/부정적 방향과 일치합니다. 조건3: 아니오 — 부정적 논조의 출처는 "
       }
     },
-    "https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan|061|pos": {
+    "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit|154|neg": {
       "ok": false,
       "article_fetched": true,
-      "title": "Jensen Huang affair sparks Taiwan security concerns | The Straits Times",
+      "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit – Winnipeg Free Press",
       "text_len": 2500,
-      "paragraph_1": "Field Notes from Taipei",
-      "paragraph_2": "Sign up now: Get insights on Asia's fast-moving developments",
+      "paragraph_1": "TAIPEI, Taiwan (AP) — Taiwan is likely to be overshadowed as presidents Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia Pacific Economic Forum this week, even as the threat from China evolves and grows stronger.",
+      "paragraph_2": "Read this article for free:",
       "detail": {
         "c1": false,
-        "c2": false,
+        "c2": true,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국 기업 CEO의 개인적 불륜 스캔들을 다루고 있으며, 중국 스파이의 입국 경로 문제를 언급하지만 이는 대만-중국 간 국가급 행위(군사 행동, 공식 정책, 국가 간 분쟁)가 아니라 개인 신원 위장에 관한 행정 문제일 뿐입니다. 조건2: 아니오 — 기사의 전반적 논조는 부정적이며(스파이 의혹, 보안 위협, 이민 감시 강화), +6.4의 긍정적 코드와 일치하지 않습니"
+        "reason": "조건1: 아니오 — 기사의 실질적 내용은 중국-미국 간의 정상회담과 미중 기술 경쟁에 관한 것이며, 대만은 그 회담에서 \"뒷전으로 밀릴 것\"이라는 간접적 언급만 있을 뿐 대만과 중국(또는 대만과 중국) 간의 직접적인 국가 간 행위(군사 위협, 무력시위, 영공·영해 침범 등)를 다루지 않습니다. 조건2: 예 — 기사의 논조는 \"대만이 overshadow될 것\" \"threat from China"
       }
     },
-    "https://www.the-independent.com/tech/nvidia-trump-huang-affair-timeline-b3083695.html|061|pos": {
+    "https://dnes.dir.bg/svyat/tayvan-zaseche-ruski-iztrebiteli-na-iztochnoto-si-kraybrezhie|1384|neg": {
       "ok": false,
       "article_fetched": true,
-      "title": "Timeline: How Nvidia’s Jensen Huang became one of Trump’s closest allies | The Independent",
-      "text_len": 2500,
-      "paragraph_1": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
-      "paragraph_2": "Already a member? Log in",
+      "title": "Тайван засече руски изтребители на източното си крайбрежие | dnes.dir.bg",
+      "text_len": 1260,
+      "paragraph_1": "#Русия на Путин #Китай",
+      "paragraph_2": "Самолетите са навлезли от североизток в зоната за идентификация на противовъздушната отбрана",
       "detail": {
         "c1": false,
-        "c2": false,
+        "c2": true,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 중국-대만 간 정부 차원의 사건이 아니라, 미국 기업인 Nvidia의 CEO와 트럼프 행정부 간의 개인적/기업적 관계, 그리고 미국-중국 간 칩 수출 정책을 다루고 있으며, 대만은 공급망의 일부로만 부수적으로 언급될 뿐 중국-대만 간의 직접적 상호작용이 없다. 조건2: 아니오 — 기사의 실제 내용은 Huang의 중국 스파이 의혹, FBI 조사, 개인적 스캔들 등 부"
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 러시아 군용기의 대만 방공식별구역 진입이며, 중국-대만 간의 직접적인 행위나 충돌이 아니라 제3국(러시아)의 행동을 다루고 있습니다. 조건2: 예 — 기사의 논조는 러시아 군용기의 영공 침범 사건을 보도하는 것으로, Goldstein Scale -7.0의 \"갈등적/부정적\" 코딩과 일치합니다. 조건3: 해당 없음 — 조건1에서 이미 중국-대만 간의 사건이"
       }
     },
-    "https://www.china-files.com/xi-celebra-sun-yat-sen-col-pensiero-a-taiwan/|163|neg": {
+    "http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan|150|neg": {
       "ok": true,
       "article_fetched": true,
-      "title": "Xi celebra Sun Yat-sen, col pensiero a Taiwan | China Files",
+      "title": "China deploys more than 100 ships around Taiwan",
       "text_len": 2500,
-      "paragraph_1": "Il Partito comunista commemora il 160esimo anniversario della nascita del rivoluzionario anti imperialista. A Taipei, il governo chiede di non partecipare",
-      "paragraph_2": "Nel centro di Taipei, il suo memoriale è chiuso da oltre due anni per interventi di restauro, che non termineranno prima del 2027 inoltrato. A Pechino, invece, il suo ritratto campeggia al centro della grande sala del popolo, con dieci bandiere rosse ai lati e l’intero comitato permanente presente. Il Partito comunista celebra Sun Yat-sen, il fondatore della Repubblica di Cina che dal 1949 si è trasferita a Taiwan dopo che Mao Zedong ha sconfitto il Kuomintang che fu dello stesso Sun. Giovedì 12 novembre, Xi Jinping ha presieduto un evento per ricordare il 160esimo anniversario della nascita di Sun, trasformando il ricordo del rivoluzionario anti imperialista in una rivendicazione di continuità politica. Con il pensiero rivolto alla “riunificazione”. Dall’altra sponda dello Stretto, Taipei denuncia l’uso della commemorazione per promuovere l'”unificazione”, dopo aver invitato i cittadini a non partecipare.",
+      "paragraph_1": "Mohan Sinha 16 Nov 2026, 02:05 GMT+10",
+      "paragraph_2": "TAIPEI, Taiwan: China has carried out a large, unannounced military exercise across the western Pacific and around Taiwan, deploying more than 100 naval and coast guard vessels to project military strength ahead of major international meetings.",
       "detail": {
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 시진핑의 손중산 기념 행사에서 대만 통일을 명시적으로 언급한 것과 타이페이 정부의 이에 대한 대응(보이콧 호소, 행사 참석 금지)을 다루고 있으며, 이는 대만-중국 간 직접적인 정치적 대립 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 일방적 통일 주장과 대만 정부의 거부·비판으로 명확하게 갈등적/부정적이며, 이는 음수 GoldsteinScale 점수와 일치합"
+        "reason": "조건1: 예 — 중국이 100척 이상의 함정을 배치하여 대만을 겨냥한 대규모 미공표 군사훈련을 실시했으며, 이는 대만의 안보에 직접적으로 영향을 주는 군사력 과시 행위이다. 조건2: 예 — 기사의 논조는 중국의 군사적 위협, 모의 공격, \"무음의 위협\" 캠페인 등을 부정적으로 묘사하고 있으며, GoldsteinScale -7.2의 갈등적 평가와 일치한다. 조건3: 예 — 부정적 논조의 주요 "
       }
     },
-    "https://focustaiwan.tw/business/202611130015|061|pos": {
+    "https://13wham.com/news/nation-world/trump-xi-and-putins-historic-meeting-breakthrough-or-photo-op|036|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "Taiwan chip suppliers see limited impact from Nvidia leadership change - Focus Taiwan",
+      "title": "Trump, Xi and Putin's historic meeting: Breakthrough or photo op?",
       "text_len": 2500,
-      "paragraph_1": "Taipei, Nov. 13 (CNA) Nvidia Corp. co-founder Jensen Huang's (黃仁勳) departure could accelerate diversification in the artificial intelligence (AI) chip market but is unlikely to significantly disrupt Taiwan's semiconductor supply chain, industry executives and investment advisers said Friday.",
-      "paragraph_2": "Huang resigned as Nvidia's president, CEO, and a member of its board Thursday, following reports of extramarital relationships with two women, including a businesswoman whom U.S. intelligence officials suspect of having ties to Chinese intelligence.",
+      "paragraph_1": "by CORY SMITH | The National News Desk",
+      "paragraph_2": "(TNND) — Experts have mixed expectations for President Donald Trump's historic three-way meeting this week with Chinese President Xi Jinping and Russian leader Vladimir Putin.",
       "detail": {
         "c1": false,
         "c2": true,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia 경영진 교체가 대만 반도체 산업에 미치는 경제적 영향을 다루고 있으며, 대만과 중국 정부 간의 직접적인 국가급 행위(군사행동, 위협, 영토분쟁 등)를 다루지 않습니다. 조건2: 예 — 기사의 실제 논조는 대만 반도체 산업의 안정성과 지속적인 공급망 역할을 긍정적으로 평가하고 있어, 협력적/긍정적 코드와 일치합니다. 최종: 아니오"
+        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자회담을 주요 내용으로 다루고 있으며, 대만은 Trump이 \"논의할 수 있는 주제\" 중 하나로만 언급될 뿐 대만-중국 간의 직접적인 행위나 사건을 다루지 않습니다. 조건2: 예 — 기사의 논조는 삼자회담의 가능성과 외교적 접촉을 다루는 긍정적/협력적 내용으로, +4.0의 긍정적 코드와 일치합니다. 최종: 아니오"
       }
     },
-    "https://aninews.in/news/world/asia/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference20261109135712/|071|pos": {
+    "https://www.livemint.com/global/nvidia-scandal-threatens-china-s-charm-offensive-ahead-of-trump-summit-11794877787962.html|030|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "Taiwan detains Communist Party chairman over suspected Chinese funding, election interference",
+      "title": "Nvidia scandal threatens China’s charm offensive ahead of Trump summit | Mint",
       "text_len": 2500,
-      "paragraph_1": "ANI | Updated: Nov 09, 2026 13:57 IST",
-      "paragraph_2": "Taipei [ Taiwan ], November 9 (ANI): Taiwan ese authorities have detained the founder and chairman of the Taiwan People's Communist Party on suspicion of receiving funding and instructions from China to influence upcoming local elections, according to a report by Central News Agency (CNA). Citing the Tainan District Prosecutors Office, CNA reported that party chairman Lin Te-wang allegedly accepted instructions and financial support from the Chinese Communist Party (CCP) to contest the election for Tainan Ward chief in the Xinying District of Tainan. Following questioning, prosecutors sought Lin's detention on suspicion of violating Taiwan 's Anti-Infiltration Act and Election and Recall Act. They cited concerns that he could flee or collude with others to destroy evidence. The Tainan District Court approved the detention request and ordered that Lin be held incommunicado, prohibiting outside contact. According to the prosecutors' office, the investigation was launched through a joint effort between the Tainan and Hsinchu District Prosecutors' Offices after both received information suggesting that overseas forces were attempting to influence Taiwan 's November 28 local elections.",
+      "paragraph_1": "This is a Mint Premium article gifted to you. Subscribe to enjoy similar stories.",
+      "paragraph_2": "Chinese leader Xi Jinping is confronting a precarious moment in his global diplomatic offensive, as the Nvidia spy scandal engulfs relations with Washington ahead of an unprecedented trilateral gathering with President Trump and Russian leader Vladimir Putin.",
       "detail": {
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만 정부가 대만 내 정치인을 체포한 사건이며, 중국 정부와 대만 정부 간의 직접적인 국가 간 상호작용(무력시위, 위협, 영공침범 등)이 아니라 국내 사법 집행 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 선거 개입 의혹과 자금 지원, 체포 및 구금이라는 갈등적/부정적 내용이나, GDELT는 이를 +7.4의 협력적/긍정적 코드로 분류하였으므로 불일치합"
+        "reason": "조건1: 아니오 — 기사는 중국-미국-러시아 삼자회담과 미중 관계, 반도체 수출 규제 등을 주로 다루고 있으며, 대만은 직접 주체나 객체로 등장하지 않고 제3국 맥락에서 간접적으로만 언급됩니다. 조건2: 아니오 — Nvidia CEO 스캔들, 중국 스파이 혐의, 미국 내 대중국 강경론 대두, 칩 수출 규제 강화 논의 등 기사의 실제 내용은 중국-미국 간 긴장과 갈등을 다루고 있어 \"협력적/긍"
       }
     },
-    "https://www.mk.ru/politics/2026/11/12/si-czinpin-zayavil-o-neizbezhnom-vossoedinenii-s-tayvanem.html|163|neg": {
+    "https://www.jpost.com/international/article-915127|046|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "Си Цзиньпин заявил о неизбежном воссоединении с Тайванем - МК",
+      "title": "US investigates Nvidia partner Megaspeed over China spy suspicions | The Jerusalem Post",
       "text_len": 2500,
       "paragraph_1": null,
       "paragraph_2": null,
       "detail": {
-        "c1": true,
+        "c1": false,
         "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사는 미국이 싱가포르 기반 회사 Megaspeed와 그 임원을 조사하는 내용으로, 대만(TAIPEI)과 미국 사이의 국가급 행위나 상호작용이 아니라 제3국(싱가포르)의 민간기업에 관한 미국의 단독 조사이며, 대만은 행위자로서 직접 관여하지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 미국의 수출규제 위반 조사, 스파이 혐의, CEO 체포·사임 등 부정적이고 갈등"
+      }
+    },
+    "https://www.index.hr/vijesti/clanak/ruski-vojni-avioni-usli-u-tajvansku-obrambenu-zonu/2857745.aspx|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Ruski vojni avioni ušli u tajvansku obrambenu zonu - Index.hr",
+      "text_len": 1349,
+      "paragraph_1": "DVA RUSKA vojna aviona ušla su rano ujutro u tajvansku identifikacijsku zonu protuzračne obrane, priopćilo je ministarstvo obrane u Taipeiju. Avioni su u zonu ušli sa sjeveroistoka, preletjeli zračni prostor istočno od otoka i zatim izašli južno od okruga Taitung, prenosi Reuters .",
+      "paragraph_2": "Ministarstvo je objavilo da je pratilo letjelice svojim obavještajnim, nadzornim i izviđačkim sustavima te da je \"prikladno odgovorilo\". U priopćenju nisu navedeni dodatni detalji o prirodi odgovora.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 러시아 군용기의 대만 방공식별구역 진입 사건이며, 대만-미국 간의 직접적인 상호작용이나 대면 행위가 아니라 대만이 러시아에 대해 취한 행동입니다. 조건2: 아니오 — 기사의 실제 논조는 러시아 군용기의 영공 침범이라는 갈등적·위협적 사건을 다루고 있으나, GDELT가 부여한 GoldsteinScale +7.0(협력적/긍정적)과 불일치합니다. 최종: 아니"
+      }
+    },
+    "https://www.digitimes.com/news/a20261116PD238/taiwan-nvidia-jensen-huang-affordable-edge-ai-hardware.html|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan urged to pursue affordable AI, as Jensen Huang's Nvidia exit adds uncertainty to AI hardware standards",
+      "text_len": 563,
+      "paragraph_1": "Taiwan's Minister of the National Science and Technology Council Cheng-wen Wu pointed out at a recent press conference on November 16 that the technology rivalry between the US and China is highly complex, with many US strategies contradicting one another...",
+      "paragraph_2": "Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the 'Keep me signed in' box in the log-in section. This will save the password on the computer you're using to access the site.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 주로 대만의 AI 정책 추구와 미-중 기술 경쟁에 대한 대만의 입장을 다루고 있으며, 대만과 미국(또는 중국) 간의 직접적인 국가 행위(군사행동, 위협, 협력 사건 등)를 구체적으로 다루지 않습니다. 조건2: 아니오 — 기사의 실제 내용은 기술 경쟁의 불확실성, 미-중 갈등, 그리고 긴장 관계에 초점을 맞추고 있어 협력적/긍정적 논조와 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "TSMC leads company mentions in petition seeking Jensen Huang's return",
+      "text_len": 551,
+      "paragraph_1": "TSMC stands out among the public signatures supporting Jensen Huang's return to Nvidia: 485 entries name the chipmaker, more than four times the number naming any other Taiwanese technology company, based on an analysis of the campaign's records.",
+      "paragraph_2": "Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the 'Keep me signed in' box in the log-in section. This will save the password on the computer you're using to access the site.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 TSMC와 Nvidia의 개인 경영진(Jensen Huang)에 관한 민간 청원 서명 현황을 다루고 있으며, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용이 아닙니다. 조건2: 예 — 기사의 논조는 TSMC가 Nvidia 경영진의 복귀를 지지하는 긍정적 성향을 보이는 내용으로, 협력적/우호적 성격과 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.huffingtonpost.kr:443/article/262124|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "허프포스트코리아",
+      "text_len": 1802,
+      "paragraph_1": "엔비디아 이사회가 젠슨 황 전 엔비디아 최고경영자(CEO)의 복귀를 고려하지 않는 것으로 전해졌다.",
+      "paragraph_2": "도널드 트럼프 미국 대통령과 일론 머스크 테슬라·스페이스X CEO 등이 황 전 CEO의 복귀를 지지하고 있지만, 엔비디아 이사회는 복귀를 검토하지 않겠다는 입장이다.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 엔비디아 CEO 인사 문제이며, 대만은 타이베이101 조명 메시지로만 곁가지로 언급되었을 뿐 대만-미국 두 국가 간의 직접적인 국가급 행위나 상호작용을 다루고 있지 않습니다. 조건2: 해당 없음 최종: 아니오"
+      }
+    },
+    "https://www.digitimes.com/topic/ai_infra/|060|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "DIGITIMES AI Infra news",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 주로 대만의 반도체 산업 뉴스 모음이며, NVIDIA와 대만 간의 직접적인 국가급 상호작용(정부 행위, 외교, 군사 행동 등)을 다루지 않고, 오직 NVIDIA CEO의 개인적 법적 문제와 대만 공급업체의 비즈니스 영향만을 곁가지로 언급하고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 \"Huang의 resignation이 NVIDIA 주문에 의문을 던지고 대만"
+      }
+    },
+    "https://www.nzherald.co.nz/business/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/premium/2BPXII2FTJEXBMCKOK6EM5YN24/|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang carried a secret for more than a year. It led to his downfall - NZ Herald",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+      "paragraph_2": "Jensen Huang was agitated.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 엔비디아 CEO 젠슨 황의 개인적 비리(부도덕한 관계 은폐)에 관한 것이며, 대만 정부나 미국 정부 간의 국가급 행위나 안보 관련 직접 행동이 아닙니다. 조건2: 예 — 기사의 실제 논조는 부정적입니다(CEO의 비리, 거짓 진술, 사임). 조건3: 예|아니오 — 적용 불가능 (조건1 불충족으로 인해 조건3을 평가할 대상이 없음). 최종: 아니오"
+      }
+    },
+    "https://tribune.com.pk/story/2639932/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped|190|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+      "text_len": 2500,
+      "paragraph_1": "Chinese president says resolving the Taiwan question is an 'unwavering historical mission' of China's Communist Party",
+      "paragraph_2": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+      "detail": {
+        "c1": true,
+        "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 시진핑이 대만과의 \"재통일\"이 불가피하다고 공개 선언한 것으로, 대만을 겨냥한 중국의 정치적·이념적 입장 표현이며 대만의 안보와 정치적 지위에 직접 영향을 주는 행위입니다. 조건2: 아니오 — 기사의 실제 내용은 시진핝이 \"평화적 방식\"과 \"일국양제\" 모델을 제시했으며 \"무력 사용 가능성을 언급하지 않았다\"고 명시하고 있으므로, 실질적 행위는 평화적·협력적 성격이나 음수 코드"
-      }
-    },
-    "https://www.hindustantimes.com/world-news/how-jensen-huang-s-affair-spiraled-into-a-national-security-nightmare-101794291438001.html|071|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare | World News",
-      "text_len": 2500,
-      "paragraph_1": "In June 2024, Nvidia Chief Executive Jensen Huang was in Taipei for an annual computer-industry trade show.",
-      "paragraph_2": "Late one night, a group of technology executives gathered at a bar. Among them was Alice Huang, then a top leader at a Singapore-based data center company.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 이 기사는 미국 정부의 대중국 칩 수출 정책, Nvidia의 로비 활동, 개인의 부정행위 의혹 등을 다루고 있으며, 대만과 중국 간의 국가급 행위자 간 직접적인 상호작용이나 안보 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 첩보 활동 의혹, 국가안보 위협, 부정행위 등 부정적 내용이 주를 이루고 있어서 GoldsteinScale의 긍정적(+7.4) 코드와 불일"
-      }
-    },
-    "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea|071|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Taiwan, China tap market rescue funds. Why won't Korea? - The Korea Times",
-      "text_len": 2500,
-      "paragraph_1": "KOSPI is displayed on a board at the Korea Exchange's office in Seoul, Friday, when the index fell below 5,000 in intraday trading before rebounding to close at 5,059.69. Yonhap",
-      "paragraph_2": "China and Taiwan have tapped market rescue funds to reverse last week's sharp stock sell-off, triggered by the U.S. midterm elections. Korea, meanwhile, is holding back, resisting calls from retail investors to deploy what policymakers consider a weapon of last resort.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 한국의 주식시장 안정화 기금 정책을 주된 주제로 다루고 있으며, 대만과 중국 간의 직접적인 국가급 행위나 상호작용(안보 위협, 군사행동, 외교 분쟁 등)을 다루지 않고 있습니다. 대만과 중국의 시장 개입은 한국과의 비교 맥락에서 부수적으로만 언급됩니다. 조건2: 예 — 기사에서 대만과 중국이 \"시장 구제 자금을 활용했다\"는 내용은 경제 정책 협력/우호적 조치로 표현"
-      }
-    },
-    "http://www.bignewsnetwork.com/news/279423215/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference|071|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Taiwan detains Communist Party chairman over suspected Chinese funding, election interference",
-      "text_len": 2500,
-      "paragraph_1": "Taipei [Taiwan], November 9 (ANI): Taiwanese authorities have detained the founder and chairman of the Taiwan People's Communist Party on suspicion of receiving funding and instructions from China to influence upcoming local elections, according to a report by Central News Agency (CNA).",
-      "paragraph_2": "Citing the Tainan District Prosecutors Office, CNA reported that party chairman Lin Te-wang allegedly accepted instructions and financial support from the Chinese Communist Party (CCP) to contest the election for Tainan Ward chief in the Xinying District of Tainan.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만 정부의 국내 법 집행(선거 개입 혐의 인물 체포)을 다루고 있으며, 중국 정부의 직접적인 행위나 대만에 대한 안보 위협 행위(미사일 발사, 영공 침범, 공개 위협 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 선거 개입 시도, 자금 지원, 주민 매수 시도 등 부정적·갈등적 내용이므로, +7.4의 긍정적 코드와 명백히 불일치합니다. 최종"
-      }
-    },
-    "https://www.aol.co.uk/articles/ai-poster-boy-chinese-spy-200105000.html|061|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security - AOL",
-      "text_len": 2500,
-      "paragraph_1": "A hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance.",
-      "paragraph_2": "But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국 기업 임원의 개인적 스캔들과 미국 정부의 수출 통제 정책을 다루고 있으며, 대만과 중국 두 국가(정부/국가급 행위자) 간의 직접적인 상호작용이나 일방적 행위(군사행동, 위협 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 논조는 중국의 정보 활동, 미국 국가안보 우려, 칩 밀수 의혹 등 갈등적/부정적 내용을 다루고 있으므로 GoldsteinScale +6."
-      }
-    },
-    "https://www.foxbusiness.com/technology/jensen-huang-weighs-nvidia-ceo-comeback-ally-plans-war-room-report|051|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Jensen Huang allies push Nvidia board to reinstate former CEO: report | Fox Business",
-      "text_len": 2500,
-      "paragraph_1": "Moor Insights & Strategy founder Patrick Moorhead joins 'Fox News Live' to discuss the Nvidia CEO shake-up.",
-      "paragraph_2": "Former Nvidia CEO Jensen Huang is discussing with close confidants the possibility of returning to the company as chief executive, according to the Financial Times.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 NVIDIA 내부의 경영진 교체 논란을 다루고 있으며, 대만 또는 대만 정부가 행위자로 등장하지 않고, 양국 간의 국가급 군사·안보·외교 행위도 기술되지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않아 검토 불필요 최종: 아니오"
-      }
-    },
-    "https://www.eastbaytimes.com/2026/11/14/jensen-huang-carried-a-secret-for-more-than-a-year-it-led-to-his-downfall/|172|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Jensen Huang carried a secret for more than a year. It led to his downfall. – East Bay Times",
-      "text_len": 2500,
-      "paragraph_1": "Jensen Huang was agitated.",
-      "paragraph_2": "It was September 2025, and The New York Times had just called his company about a Singaporean data center firm called Megaspeed that had been led by a Chinese woman named Alice Huang, or Huang Le. The Times was reporting that Jensen Huang, CEO of the chipmaker Nvidia, had a close relationship with her.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia CEO Jensen Huang의 개인적 비위 스캔들과 이에 따른 미국 정부의 AI 수출규제 정책 검토를 다루고 있으며, 대만 또는 대만-미국 정부 간 직접적인 행위나 상호작용을 다루지 않고 있습니다. 조건2: 예 — 기사의 논조는 부정적입니다(스캔들, 거짓 진술, 비위, 사임 등). 조건3: 예|아니오 — 조건1이 충족되지 않으므로 평가 대상이 아닙니다"
-      }
-    },
-    "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/|071|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO | TechCrunch",
-      "text_len": 2500,
-      "paragraph_1": "Jensen Huang has resigned from his position as president and chief executive of Nvidia, the company said on Thursday, just a few days after he admitted to a romantic affair with an alleged Chinese spy, sparking a U.S. national security crisis.",
-      "paragraph_2": "In a regulatory filing , Nvidia said its board accepted Huang’s resignation on Wednesday.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia의 CEO Jensen Huang의 개인적 스캔들과 회사 경영진 교체에 관한 것으로, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 해당 없음 — 조건1이 불만족되어 평가 불필요합니다. 최종: 아니오"
-      }
-    },
-    "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties|071|pos": {
-      "ok": true,
-      "article_fetched": true,
-      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne",
-      "text_len": 2107,
-      "paragraph_1": "TAIPEI — Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, the de facto US embassy said on Wednesday (Nov 11).",
-      "paragraph_2": "The US, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
-      "detail": {
-        "c1": true,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 미국과 대만 간의 정부 차원 협력 프로그램(Taiwan Fellowship Program)을 직접 다루고 있으며, 이는 양국 정부 행위자 간의 공식적인 사건입니다. 조건2: 예 — 기사의 논조는 \"강화된 협력\", \"우호적 관계\", \"강한 양당적 지지\" 등 명확히 우호적이고 협력적이며, CAMEO 코드 071(긍정적 외교)과 GoldsteinScale +7.4(협력)가 "
-      }
-    },
-    "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/|071|pos": {
-      "ok": true,
-      "article_fetched": true,
-      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - KSEV Radio 700",
-      "text_len": 2275,
-      "paragraph_1": "TAIPEI, Nov 11 (Reuters) – Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, the de facto US embassy said on Wednesday.",
-      "paragraph_2": "The United States, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
-      "detail": {
-        "c1": true,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 미국 연방 직원이 대만 정부 기관에서 근무하는 새로운 프로그램에 대해 다루고 있으며, 이는 미국과 대만 두 국가(정부급 행위자) 간의 직접적인 협력 사건입니다. 조건2: 예 — 기사의 논조는 \"강화된 유대\", \"긍정적 파트너십 확대\", \"강한 초당적 지지\"를 강조하는 명백한 우호적·협력적 내용이며, 이는 GoldsteinScale +7.4(협력적/긍정적)와 완벽하게 일"
-      }
-    },
-    "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/|071|pos": {
-      "ok": true,
-      "article_fetched": true,
-      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
-      "text_len": 2210,
-      "paragraph_1": "TAIPEI, Nov 11 (Reuters) – Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, ​the de facto US embassy said on Wednesday.",
-      "paragraph_2": "The United ‌States, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
-      "detail": {
-        "c1": true,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 미국과 대만 정부 간의 Taiwan Fellowship Program 수립이라는 국가급 행위자 간 직접적인 사건을 다루고 있습니다. 조건2: 예 — 기사의 논조는 양국 간 협력 강화, 우호적 관계 증진, 교육 및 인적 교류 확대를 긍정적으로 보도하고 있으며, 이는 CAMEO 071(협력/지원)과 GoldsteinScale +7.4(협력적/긍정적)과 일치합니다. 최종: "
-      }
-    },
-    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867625|057|pos": {
-      "ok": true,
-      "article_fetched": true,
-      "title": "Classified data off limits to US staff participating in study program - Taipei Times",
-      "text_len": 2500,
-      "paragraph_1": "US federal government employees participating in a new study program in Taiwan would not have access to sensitive or confidential Taiwanese government information, Deputy Minister of Foreign Affairs Chen Ming-chi (陳明祺) said today.",
-      "paragraph_2": "The Taiwan Fellowship Program (TFP) offers participants training in regional and language studies, with the aim of helping them gain a deeper understanding of Taiwan, Chen told reporters on the sidelines of a legislative hearing.",
-      "detail": {
-        "c1": true,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 예 — 기사는 미국과 대만 정부 간의 Taiwan Fellowship Program 양해각서 체결이라는 정부급 행위를 직접 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 양국 간의 협력적 교육/인력교류 프로그램 출범으로, \"+8.0\"의 긍정적 코드(협력/지원/우호)와 일치합니다. 최종: 예"
-      }
-    },
-    "https://www.houstonpublicmedia.org/articles/news/health-science/2026/11/13/567082/satisfactory-performer-how-a-serial-polluter-keeps-thriving-in-texas/|084|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "‘Satisfactory Performer’: How a Serial Polluter Keeps Thriving in Texas – Houston Public Media",
-      "text_len": 2500,
-      "paragraph_1": "Public Health Watch is a nonprofit investigative news organization based in Austin, Texas.",
-      "paragraph_2": "POINT COMFORT, Texas — For more than four decades, the Formosa Plastics plant here has been a picture of turmoil and indulgence. Situated in Calhoun County, on the Texas Gulf Coast, it has amassed a record of environmental contamination and workplace calamity that, in theory, should have subjected it to rigorous oversight and limited its ability to grow.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만 기업(Formosa Plastics)의 미국 텍사스 내 환경오염 문제를 다루고 있으며, 미국-대만 두 국가(정부) 간의 외교적·안보적 상호작용(위협, 군사행동, 영토분쟁 등)을 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 Formosa의 환경오염, 규제회피, 작업장 재해 등 부정적 내용으로 가득 차 있으나, GDELT는 이를 GoldsteinSca"
-      }
-    },
-    "https://thenextweb.com/news/nvidia-megaspeed-ban-gb300-imports-bloomberg|043|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia says it cut off Megaspeed in 2025, but Bloomberg found later imports",
-      "text_len": 2500,
-      "paragraph_1": "Nvidia says it banned all sales and shipments to Megaspeed in June 2025, and that the ban is still in place, a company spokesman told The Wall Street Journal . Since then, Commerce has allowed Nvidia to send it parts and replacement components, the spokesman said.",
-      "paragraph_2": "Malaysian trade records show that Megaspeed imported at least 17,544 of Nvidia’s GB300 chips, worth about $787m, in November 2025, Mackenzie Hawkins reported for Bloomberg . Nvidia gave US officials a count of chips sold to Megaspeed through hardware partners. It was 50,000 units short, Bloomberg found. Megaspeed is still an official Nvidia Cloud Partner. TNW has not independently verified the reports.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국-싱가포르 기업(Megaspeed) 간의 칩 수출 통제 및 스캔들을 다루고 있으며, 대만이나 대만-미국 간의 국가급 행위자 사건이 아니다. 조건2: 아니오 — 기사의 실제 내용은 Nvidia의 수출 통제 위반 의혹, 정보 조사, 정부 규제 등 부정적 성격인데 GoldsteinScale +2.8의 협력적/긍정적 분류와 불일치한다. 최종: 아니오"
-      }
-    },
-    "https://www.theepochtimes.com/china/us-federal-employees-to-work-in-taiwan-government-offices-under-new-program-6123748|057|pos": {
-      "ok": true,
-      "article_fetched": true,
-      "title": "US Federal Employees to Work in Taiwan Government Offices Under New Program | The Epoch Times",
-      "text_len": 2500,
-      "paragraph_1": "The United States and Taiwan have signed an agreement allowing American federal employees to work in Taiwanese government offices for up to a year.",
-      "paragraph_2": "Under the Taiwan Fellowship Program, participants will receive intensive Mandarin-language training and regional studies before taking assignments in Taiwan’s legislature, government ministries, other agencies, or organizations outside the public sector.",
-      "detail": {
-        "c1": true,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 예 — 미국과 대만 정부 간 공식 협정(Taiwan Fellowship Program)을 체결한 국가급 행위로, 두 나라 사이의 직접적인 사건입니다. 조건2: 예 — 기사의 논조는 인적 교류, 언어 교육, 전문성 개발을 통한 협력으로 명확히 우호적이며, Goldstein Scale +8.0의 협력적/긍정적 분류와 일치합니다. 최종: 예"
-      }
-    },
-    "https://patriotpost.us/articles/1002708-the-jensen-huang-scandal|040|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "The Jensen Huang Scandal | The Patriot Post",
-      "text_len": 2500,
-      "paragraph_1": "Depending on the actual facts, this could be very serious. But the hypocrisy already on display by the Left is breathtaking.",
-      "paragraph_2": "By Gary Bauer · November 11, 2026 https://patriotpost.us /articles / 1002708-the-jensen-huang-scandal",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 젠슨 황(Nvidia CEO)의 개인적 스캔들과 미국 내 통상정책 논쟁을 다루고 있으며, 대만과 미국 간의 직접적인 국가급 행위나 상호작용을 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 위협을 경고하고 미국의 대중국 정책을 비판하는 대립적/부정적 내용이므로, GoldsteinScale +1.0(협력적/긍정적)과 명백히 불일치합니다. 최종: "
-      }
-    },
-    "https://timesofoman.com/article/179097-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-named-interim-ceo-by-board|100|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Jensen Huang resigns as Nvidia CEO, CFO Colette Kress named interim CEO by board - Times of Oman",
-      "text_len": 2500,
-      "paragraph_1": "New Delhi : Nvidia CEO Jensen Huang has opted to resign amidst mounting pressure, reported Reuters. Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday. Huang has been in the eye of a storm after it was revealed that he had an affair with Alice Huang (not his relation) a Chinese businesswoman who is alleged to be a intelligence asset. Jensen Huang was also reported have had another affair with a senior executive of Nvidia Kimberly Powell. Jensen Huang had acknowledged his affair with Alice Huang in a letter to Nvidia employees where he apologised for being unfaithful to his wife and violating her trust. Nvidia's board had also initiated an investigation into the matter, with the inquiry being led by law firm Wachtell, Lipton, Rosen & Katz. In May 2026 a Wall Street 'Short seller' Culper research had flagged Huang's alleged links to Alice Huang. According to CBS News, on May 13 this year Culper Research published a 40-page report highlighting Huang's ties to Alice Huang, a former television reporter and financial industry executive. According to the report, a copy of which is with ANI, Culper research said, \"Nvidia has repeatedly vouched for Megaspeed – its single largest Southeast Asian chip buyer currently under investigation by both U.S. Commerce and Singapore authorities.\" \"Nvidia CEO Jensen Huang has not only vouched for Megaspeed, but seems to have quite literally walked alongside Megaspeed at every step, while maintaining an uncomfortably close relationship with Megaspeed’s Alice Huang, a Chinese national. He was first spotted partying with Alice Huang in June 2024 – the same month the Apex/Alibaba pledge was filed. He then dined with Alice Huang in Taiwan in May 2025 – just weeks after the news of U.S. trade restrictions. Finally, per one current Megaspeed employee, Jensen visits Megaspeed-linked data centers “every few months” and “every single time” he visits, he is accompanied by representatives from Alibaba. The Megaspeed employee characterised their relationship with Jensen as “very close”, corroborating another former Nvidia employee’s suggestion to us that many Nvidia employees wondered if there was a special relationship,\" the report stated. Although Jensen Huang had got the backing of US President Donald Trump he was under extreme pressure with members of the US Congress flagging potential security risk of the affair with the alleged spy. Jensen Huang's exit puts the $4 trillion Nvidia in troubled waters and could potentially disrupt the AI industry which has been facing headwinds on the markets recently.",
-      "paragraph_2": "Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday. Huang has been in the eye of a storm after it was revealed that he had an affair with Alice Huang (not his relation) a Chinese businesswoman who is alleged to be a intelligence asset. Jensen Huang was also reported have had another affair with a senior executive of Nvidia Kimberly Powell. Jensen Huang had acknowledged his affair with Alice Huang in a letter to Nvidia employees where he apologised for being unfaithful to his wife and violating her trust. Nvidia's board had also initiated an investigation into the matter, with the inquiry being led by law firm Wachtell, Lipton, Rosen & Katz. In May 2026 a Wall Street 'Short seller' Culper research had flagged Huang's alleged links to Alice Huang. According to CBS News, on May 13 this year Culper Research published a 40-page report highlighting Huang's ties to Alice Huang, a former television reporter and financial industry executive. According to the report, a copy of which is with ANI, Culper research said, \"Nvidia has repeatedly vouched for Megaspeed – its single largest Southeast Asian chip buyer currently under investigation by both U.S. Commerce and Singapore authorities.\" \"Nvidia CEO Jensen Huang has not only vouched for Megaspeed, but seems to have quite literally walked alongside Megaspeed at every step, while maintaining an uncomfortably close relationship with Megaspeed’s Alice Huang, a Chinese national. He was first spotted partying with Alice Huang in June 2024 – the same month the Apex/Alibaba pledge was filed. He then dined with Alice Huang in Taiwan in May 2025 – just weeks after the news of U.S. trade restrictions. Finally, per one current Megaspeed employee, Jensen visits Megaspeed-linked data centers “every few months” and “every single time” he visits, he is accompanied by representatives from Alibaba. The Megaspeed employee characterised their relationship with Jensen as “very close”, corroborating another former Nvidia employee’s suggestion to us that many Nvidia employees wondered if there was a special relationship,\" the report stated. Although Jensen Huang had got the backing of US President Donald Trump he was under extreme pressure with members of the US Congress flagging potential security risk of the affair with the alleged spy. Jensen Huang's exit puts the $4 trillion Nvidia in troubled waters and could potentially disrupt the AI industry which has been facing headwinds on the markets recently.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 이 기사는 Nvidia CEO의 개인적 스캔들(부정행위, 정보원 의혹)을 다루고 있으며, 미국과 대만 정부 또는 국가급 행위자 사이의 사건이 아닙니다. 조건2: 예 — 기사의 논조는 Jensen Huang의 resignation, 안보 위협 우려, 의회의 비판 등으로 실제로 부정적입니다. 조건3: 해당 없음 — 조건1에서 이미 미국-대만 국가급 사건이 아니므로 조건3을 평"
-      }
-    },
-    "https://www.nzherald.co.nz/business/chip-inquiry-in-us-was-halted-after-nvidia-intervention/premium/TT5NDCLE5NDEJFWCM3ADBXZLTE/|046|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Chip inquiry in US was halted after Nvidia intervention - NZ Herald",
-      "text_len": 2500,
-      "paragraph_1": "Nvidia said that it was opening an investigation into Jensen Huang, after he acknowledged he had been intimate with an executive at a Singaporean company suspected of smuggling chips into China. Photo / Manuel Orbegozo, The New York Times",
-      "paragraph_2": "Investigators at the US Commerce Department were deep into a months-long investigation of a Singaporean company that they suspected of smuggling Nvidia’s artificial intelligence chips into China when their work came to a sudden halt late last year.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만과 대만-미국 관계가 아니라 미국-싱가포르 회사, 미국 상무부 수사, NVIDIA CEO의 개인적 스캔들을 중심으로 다루고 있으며, 대만은 사건의 배경에서만 부수적으로 언급됩니다. 조건2: 아니오 — 기사의 실제 논조는 NVIDIA의 부정적 행위(규제 회피, 이해충돌, 정부 절차 위반 의혹)와 CEO의 스캔들을 다루고 있어 \"협력적/긍정적\"(+7.0)과 불일치합"
-      }
-    },
-    "https://focustaiwan.tw:443/sci-tech/202611090012|043|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Lai highlights Taiwan's push for independent satellite launches - Focus Taiwan",
-      "text_len": 2500,
-      "paragraph_1": "Taipei, Nov. 9 (CNA) President Lai Ching-te (賴清德) said Monday that Taiwan was working toward independently launching domestically manufactured satellites, highlighting increased government investment in space technology.",
-      "paragraph_2": "Speaking at the opening of the Taiwan International Assembly of Space Science, Technology and Industry (TASTI 2026) in Tainan, Lai said the government was supporting domestic satellite and rocket development while building the \"necessary testing and launch facilities.\"",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만의 독립적 위성 발사 능력 개발 계획이며, NASA와의 직접적인 양자 상호작용(협력, 갈등, 위협, 영향)을 다루고 있지 않고, NASA 아르테미스 프로그램 참여는 단순히 한 문장으로 언급된 수준입니다. 조건2: 예 — 기사 내용은 우주 기술 투자, 시설 건설, 국제 협력 참여 등 실제로 협력적이고 긍정적인 성격입니다. 최종: 아니오"
-      }
-    },
-    "https://www.koreaherald.com/article/10931215|040|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia's shares slide as chip giant probes CEO over spy claims - The Korea Herald",
-      "text_len": 2500,
-      "paragraph_1": null,
-      "paragraph_2": null,
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia CEO의 개인적 스캔들과 중국 관련 첩보 의혹을 다루고 있으며, 미국과 대만 정부 간의 직접적인 국가급 행위(군사행동, 정책, 외교 조치 등)를 다루지 않고 있습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 평가 불필요합니다. 최종: 아니오"
-      }
-    },
-    "https://slguardian.org/nvidias-huang-falls-as-sex-and-espionage-scandal-exposes/|010|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia’s Huang Falls as Sex and Espionage Scandal Exposes",
-      "text_len": 2500,
-      "paragraph_1": null,
-      "paragraph_2": null,
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia CEO의 개인 스캔들(중국 스파이와의 관계)을 다루고 있으며, 미국과 대만 정부/국가급 행위자 간의 직접적인 국가 사건이 아니라 민간 기업 임원의 개인적 문제입니다. 조건2: 아니오 — 기사의 실제 논조는 부정적(스캔들, 추문, 권력 집중 문제)이나 GDELT가 긍정적 코드(GoldsteinScale: +0.0)를 부여했으므로 불일치입니다. 최종: 아니"
-      }
-    },
-    "https://www.fnnews.com/news/202611101814537024|193|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "앨리스 황 행방 묘연… 싱가포르 현지 사무실도 폐쇄 - 파이낸셜뉴스",
-      "text_len": 1149,
-      "paragraph_1": "간첩 스캔들로 9일(현지시간) 엔비디아 시가총액을 약 258조원어치 지워버린 42세 중국인 앨리스 황(중국명 황러)의 행방에 전 세계의 이목이 쏠리고 있다. 서방 매체들은 중국 안밖에서 기록된 앨리스 황의 이력 전체가 불분명하다고 지적했다.",
-      "paragraph_2": "미국 월스트리트저널(WSJ)은 9일 관계자 2명을 인용해 앨리스 황이 올해 초에는 중국에 있었지만 이후 행방을 알 수 없다고 전했다. 이달 스캔들 이전에 먼저 공개돼 있던 앨리스 황의 이력을 살펴보면 그는 중국중앙(CC)TV와 후난 위성TV에서 약 4년간 방송 기자로 일했다. 이어 다국적 투자은행 HSBC와 중국 최대 증권사 중신증권에서 8년 동안 자산 운용 업무를 맡았다고 알려졌다. 2016년에는 중국 상하이의 사모투자회사 허시투자에서 집행이사로 활동했다.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 중국인 앨리스 황이 엔비디아 AI 장비를 중국에 밀반입한 혐의 사건을 다루고 있으며, 대만과 대만-미국 간의 국가급 행위자 사이의 사건이 아니라 중국-미국 간의 제재/규제 위반 사건입니다. 조건2: 예|아니오 — (조건1 불충족으로 검토 불필요) 조건3: 예|아니오 — (조건1 불충족으로 검토 불필요) 최종: 아니오"
-      }
-    },
-    "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129|190|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Megaspeed: Nvidia partner at the center of the spy affair",
-      "text_len": 2500,
-      "paragraph_1": "As Nvidia , one of the world's most valuable companies, grapples with CEO Jensen Huang's romantic relationship with an alleged Chinese spy , attention is turning to the much smaller company she worked for.",
-      "paragraph_2": "Alice H., the alleged spy, worked as an executive for Megaspeed, a Singapore-based data center and AI computing company. It manages data center access, including for some major Chinese tech firms such as Alibaba.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": false,
-        "reason": "조건1: 아니오 — 기사는 대만과 대만-미국 간의 직접적인 행위나 충돌을 다루지 않으며, 중국의 칩 우회 수입, 미국의 수출통제, 싱가포르 회사의 스파이 사건 등 제3국 관련 사건들을 다룹니다. 조건2: 예 — 기사의 논조는 미국 수출통제 위반 혐의, 칩 밀반출 의심, 스파이 사건 등을 중심으로 부정적·갈등적입니다. 조건3: 아니오 — 부정적 논조는 미국의 수출통제 정책 위반 혐의와 싱가포르"
-      }
-    },
-    "https://www.hankookilbo.com/news/article/A2026110910250005036|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "허리 감싸고 볼에 입맞춰… 젠슨 황·'中 스파이 의혹' 여성 영상 재조명-국제ㅣ한국일보",
-      "text_len": 922,
-      "paragraph_1": "젠슨 황 엔비디아 최고경영자(CEO)가 지난해 5월 대만 타이베이의 식당에서 메가스피드 임원인 앨리스 황과 인사하고 있다. 대만 싼리신문 캡처",
-      "paragraph_2": "젠슨 황 엔비디아 최고경영자(CEO)가 자신의 불륜 상대로 지목된 중국인 여성 기업인과 다정하게 어울리는 모습이 담긴 과거 사진과 영상이 공개돼 주목받고 있다.",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": null,
-        "reason": "조건1: 아니오 — 이 기사는 대만과 대만 사이의 국가급 행위자 간 사건이 아니라, 개인(NVIDIA CEO 젠슨 황)과 개인(앨리스 황) 간의 사적 만남 및 개인적 스캔들을 다루고 있으며, 중국 정보당국의 의혹이 언급되나 대만 정부의 공식적 행위나 대만-미국 간 국가급 상호작용이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 젠슨 황의 불륜 스캔들, 중국 간첩 활동 의혹 등 부정적·갈등"
-      }
-    },
-    "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html|090|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "La caída de Huang deja tocada a Nvidia, expone al Gobierno estadounidense y refuerza a quienes piden más controles a las exportaciones de chips | Empresas",
-      "text_len": 2500,
-      "paragraph_1": "Sus relaciones con los proveedores en Taiwán o su 3,5% de las acciones de la compañía hacen su sustitución muy complicada para la compañía",
-      "paragraph_2": "Jensen Huang, consejero delegado, presidente, fundador y el hombre que convirtió una empresa de chips especializada en videojuegos en la compañía con mayor capitalización bursátil del planeta, por encima de los cinco billones de dólares, ha dimitido forzosamente este jueves de todos sus cargos en Nvidia , después de que la sucesión de escándalos por sus infidelidades , incluyendo una relación con una presunta espía de China, le haya costado a la empresa casi un tercio de su valor en el último mes.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Nvidia의 최고경영자 Jensen Huang의 개인적 스캔들과 경영진 교체에 관한 것이며, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용을 다루지 않고 있습니다. 조건2: 예 — 기사의 논조는 Huang의 추문, 회사 가치 하락, 미국 상원의원의 국가안보 우려 표현 등 부정적/갈등적 내용으로 일치합니다. 조건3: 예|아니오 — 적용 불가능 (조건1에서 이미"
-      }
-    },
-    "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842|090|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia chips worth at least $7.5 billion reach China, YTN reports | EconoTimes",
-      "text_len": 2500,
-      "paragraph_1": "Nvidia artificial intelligence chips worth at least $7.5 billion reached Chinese companies through a network linked to Alice Huang despite U.S. export controls, YTN reported in a Nov. 10 broadcast.",
-      "paragraph_2": "The network supplied chips or access to their computing power, allowing Chinese companies to use equipment affected by U.S. restrictions. The account did not establish how much reached China physically.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": false,
-        "reason": "조건1: 아니오 — 기사는 대만과 미국 정부 간의 직접적인 행위나 상호작용을 다루지 않으며, 대만 기업이나 정부가 미국을 겨냥하거나 미국 안보에 직접 영향을 주는 행위를 하지 않고 있다. 조건2: 예 — 기사의 논조는 미국 수출 규제 우회, 칩 밀수입, 제재 회피 등으로 일관되어 있어 실제로 갈등적/부정적이다. 조건3: 아니오 — 부정적 논조는 중국 기업과 개인의 불법적 칩 획득 행위에서 비"
-      }
-    },
-    "https://economictimes.indiatimes.com/news/international/world-news/once-adored-like-a-rock-star-nvidia-ceo-jensen-huang-now-faces-awkward-questions-at-home-in-taiwan/articleshow/135767704.cms|090|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Once adored like a rock star, Nvidia CEO Jensen Huang now faces awkward questions at home in Taiwan - The Economic Times",
-      "text_len": 1717,
-      "paragraph_1": "Explore More Stories",
-      "paragraph_2": "Sass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?",
-      "detail": {
-        "c1": false,
-        "c2": false,
-        "c3": false,
-        "reason": "조건1: 아니오 — 기사 본문이 대만과 미국 간의 국가급 사건을 다루지 않으며, 제시된 텍스트는 Nvidia CEO Jensen Huang에 관한 제목만 있고 실제 본문 내용은 캐나다 록가수 사망, 헬리콥터 충돌, 교사 성범죄 등 완전히 무관한 뉘스들로만 구성되어 있습니다. 조건2: 아니오 — 기사 본문이 대만-미국 간 갈등적 행위를 전혀 다루지 않으므로 논조 일치 여부를 판단할 수 없습니다"
-      }
-    },
-    "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan|090|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan, Asia News - AsiaOne",
-      "text_len": 2500,
-      "paragraph_1": "TAIPEI, Taiwan — Nvidia CEO Jensen Huang had been widely adored like a rock star in his birthplace, Taiwan. That image is now tainted after the FBI began an investigation into his affair with an alleged Chinese agent.",
-      "paragraph_2": "Like the rest of the world, the island was shocked by the scandal over Huang's relationship with Alice Huang, a Chinese businesswoman reportedly described as a Chinese spy by US officials. A video of the pair visiting a restaurant in the capital city of Taipei in 2025 went viral and was broadcast globally.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 개인(Jensen Huang)의 사생활 스캔들과 FBI 수사를 다루고 있으며, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용이 아니라 개인의 도덕적 문제를 중심으로 다루고 있습니다. 조건2: 예 — 기사의 논조는 Jensen Huang의 명성 추락, 도덕적 스캔들, 국가안보 문제로 인한 부정적 이미지 손상을 다루고 있어 부정적(GoldsteinScale: -2"
+        "reason": "조건1: 예 — 기사는 중국의 대만 통일 주장과 대만 해협 주변에서의 중국 군사 활동(29대 항공기·군함의 합동 전투 준비 순찰)을 중심으로 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 일방적 군사 행위입니다. 조건2: 예 — 기사의 실제 논조는 중국의 무력 위협(군사력 행사, 해협 주변 일일 작전)과 대만에 대한 강압적 통일 주장을 부정적으로 묘사하고 있으며, 대만의 거부 입장을 "
       }
     },
     "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701|190|neg": {
-      "ok": false,
+      "ok": true,
       "article_fetched": true,
       "title": "A estratégia para tomar Taiwan",
       "text_len": 2500,
@@ -965,8 +531,8 @@
       "detail": {
         "c1": true,
         "c2": true,
-        "c3": false,
-        "reason": "조건1: 예 — 기사는 중국의 대만 통일 의도, 대만 복제시설 건설, 해상봉쇄 훈련 등 중국이 대만을 겨냥한 군사적 행위와 위협을 직접 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 군사 준비, 위협적 의도, 강압적 행동을 우려와 비판으로 일관되게 묘사하고 있어 부정적(-10.0) 코드와 일치합니다. 조건3: 아니오 — 기사의 부정적 논조는 중국의 군사행동 자체에서 나온 것이 아니라"
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 대만에 대한 군사적 준비(위성도시 건설, 해군·공군 훈련, 해상 봉쇄 시뮬레이션 등)를 중심으로 다루고 있으며, 이는 대만을 겨냥한 일방적 행위로서 대만의 안보에 직접적 영향을 미친다. 조건2: 예 — 기사의 논조는 중국의 군사적 준비와 위협을 \"우려의 대상\", \"심각한 신호\"로 묘사하고 있으며, 이는 갈등적·부정적 Goldstein 점수(-10.0)와 완전히 "
       }
     },
     "https://www.gdnonline.com:443/Details/1412637|190|neg": {
@@ -980,7 +546,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 중국 주석의 대만 통일 발언, 중국 군용기의 대만 주변 활동, 그리고 대만의 대응을 핵심으로 다루고 있으며, 이는 두 국가 간의 직접적인 안보 관련 상호작용입니다. 조건2: 예 — 기사의 실제 논조는 중국의 통일 압박, 군사적 위협(일일 군사활동, 29대 항공기 출동), 대만의 거부 입장을 담고 있어 갈등적/부정적 방향과 일치합니다. 조건3: 예 — 부정적 논조는 중국"
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하는 연설을 한 행위와 중국 군용기 29대가 대만 주변에서 \"합동전투준비순찰\"을 실시한 행위를 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 대만-중국 간의 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 무력통일 위협, 군사력 전시, 그리고 대만의 거부·거리두기로 일관되어 있으며, 이는 \"갈등적/부정적\"이라는 Gol"
       }
     },
     "https://www.gdnonline.com:443/Details/1412637/Chinas-Xi-says-Taiwan-reunification-must-happen-as-history-cannot-be-stopped|190|neg": {
@@ -994,7 +560,21 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하는 연설을 한 것과 이에 대한 대만의 대응, 그리고 중국 군사항공기의 대만 주변 활동을 다루고 있어 두 국가 간의 직접적인 사건을 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 일방적 통일 촉구, 군사력 전시(29대 군용기 출동), 무력 포기 유보 등의 갈등적·부정적 내용으로 일관되어 있어 음수 점수와 일치합니다. 조건3"
+        "reason": "조건1: 예 — 기사는 중국의 시진핑이 대만 \"통일\"을 주장하고, 중국 군부대가 대만 주변에서 29대의 군용기와 함께 \"연합전투준비순찰\"을 실시한 것을 직접 다루고 있어, 대만-중국 간 직접적인 안보 관련 사건(무력시위·군사훈련)을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 중국의 무력시위(29대 군용기 배치, 군함 동원), 일방적 통일 주장, 그리고 무력 사용을 배제하지 않는 태"
+      }
+    },
+    "https://www.asiaone.com/china/xi-jinping-taiwan-reunification|190|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped, China News - AsiaOne",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING - The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday (Nov 12), while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+      "paragraph_2": "China views democratically-governed Taiwan as its own territory, despite Taipei's strong rejection of that claim, and has repeatedly offered a \"one country, two systems\" model of autonomy not supported by any major Taiwanese political party.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하는 연설을 한 것과 대만의 거부 입장, 그리고 중국의 군사 활동(29대의 군용기와 함선의 \"합동전투준비순찰\")을 중심으로 양국 간의 직접적인 사건을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 갈등적/부정적입니다. 중국의 일방적인 통일 촉구, 대만의 명확한 거부, 중국의 군사적 위협 행동이 모두 대립과 긴장을 나타내며, "
       }
     },
     "https://www.rtp.pt/noticias/mundo/taiwan-denuncia-exercicios-militares-chineses-de-negacao-de-area-no-pacifico-ocidental_n1778019|111|neg": {
@@ -1008,7 +588,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 중국의 일방적 군사훈련(부인 거부 전략, 항모 전투단 포함)이 대만의 안보에 직접 영향을 주는 행위로서 대만-중국 간 사건을 명확히 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련을 \"지역 평화와 안정을 훼손\"하는 위협으로 표현하고 있으며, 대만 방위장관의 비난과 경계를 보도하고 있어 갈등적/부정적 성격과 일치합니다. 조건3: 예 — 부정적 논조는 대만"
+        "reason": "조건1: 예 — 기사는 중국의 군사훈련(부동산 거부 연습, Liaoning 항모전단 배치)이 대만을 직접 겨냥한 것으로 명확히 다루고 있으며, 대만 국방부장관과 국가안보회의 사무총장이 이를 대만의 안보에 직접 영향을 주는 행위로 평가하고 있습니다. 조건2: 예 — 기사의 실제 논조는 중국의 군사활동을 \"평화와 안정 위협\", \"대만을 대상으로 한 군사 억지\", \"100여 척 이상의 함정 동원\""
       }
     },
     "https://timesofindia.indiatimes.com/world/rest-of-world/taiwan-monitors-chinas-area-denial-exercises-as-naval-activity-intensifies/articleshow/135697794.cms|090|neg": {
@@ -1022,7 +602,7 @@
         "c1": true,
         "c2": true,
         "c3": true,
-        "reason": "조건1: 예 — 기사는 중국의 \"지역거부(area denial)\" 군사훈련과 대만 해역 근처의 해군 활동 증강을 직접 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 중국의 일방적 군사행위입니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련 강화와 해군 활동 증강을 보도하고 있으며, 이는 GoldsteinScale -2.0(갈등적/부정적)과 일치합니다. 조건3: 예 — 기사의 부정적 "
+        "reason": "조건1: 예 — 기사는 중국이 대만을 향해 수행한 군사훈련(area denial exercises)과 해군 활동 증강을 직접 다루고 있으며, 이는 대만의 안보에 직접 영향을 미치는 일방적 군사행위입니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련 강화, 100척 이상의 함정 배치, 항모 전단 배치 등을 위협적 행위로 표현하고 있어 부정적/갈등적 코드와 일치합니다. 조건3: 예 — 부정적 "
       }
     },
     "https://www.theepochtimes.com/china/us-delay-in-taiwan-arms-sales-risks-emboldening-beijing-undermining-allied-confidence-experts-6124003|150|neg": {
@@ -1035,8 +615,442 @@
       "detail": {
         "c1": false,
         "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국의 대만 무기 판매 지연에 관한 것으로, 대만-중국 간 직접적인 군사행동·위협·충돌이 아니라 미국의 정책 결정 문제입니다. 조건2: 예 — 기사는 무기 판매 지연이 대만 방어력 약화, 중국의 자신감 증대, 회색지대 전술 강화 등으로 인한 갈등적 결과를 경고하고 있어 부정적 논조와 일치합니다. 조건3: 해당 없음 — 조건1에서 이미 대만-중국 간 직접"
+      }
+    },
+    "https://www.iltalehti.fi/ulkomaat/a/8f1d3b98-b6c1-42c3-a364-9eb3997da449|013|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Analyysi: IskeekÃ¶ Kiina pian?",
+      "text_len": 2500,
+      "paragraph_1": "Poliittiset mannerlaatat liikkuvat ja juuri nyt tapahtuu paljon asioita. Samaan aikaan Kiina pelaa omaa peliÃ¤Ã¤n varjoissa. Marraskuun alkupuolella se jÃ¤rjesti kaikessa hiljaisuudessa laajoja sotaharjoituksia lÃ¤ntisellÃ¤ TyynellÃ¤merellÃ¤, josta ei ollut ennalta ilmoitettu.",
+      "paragraph_2": "Uutistoimisto Reutersille viime viikolla puhunut taiwanilainen turvallisuusviranomainen kertoi Kiinan asevoimien ja rannikkovartioston keskittÃ¤neen aiemmin marraskuussa alueelle yli 100 sota-alusta harjoitellen simuloituja hyÃ¶kkÃ¤yksiÃ¤. Taipeissa Kiinan toimintaa on kutsuttu âhiljaisen pelottelunâ kampanjaksi.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 대만을 겨냥한 군사훈련(11월 100척 이상의 전함 집결, 모의 공격 연습)과 \"조용한 협박\" 캠페인을 주요 내용으로 다루고 있으며, 2027년 중국의 대만 침공 가능성까지 언급하여 대만-중국 간의 직접적인 안보 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사적 위협, 모의 공격 훈련, 협박 캠페인을 비판적으로 보도하는 등 명백히 갈"
+      }
+    },
+    "https://www.fnnews.com/news/202611101814537024|193|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "앨리스 황 행방 묘연… 싱가포르 현지 사무실도 폐쇄 - 파이낸셜뉴스",
+      "text_len": 1149,
+      "paragraph_1": "간첩 스캔들로 9일(현지시간) 엔비디아 시가총액을 약 258조원어치 지워버린 42세 중국인 앨리스 황(중국명 황러)의 행방에 전 세계의 이목이 쏠리고 있다. 서방 매체들은 중국 안밖에서 기록된 앨리스 황의 이력 전체가 불분명하다고 지적했다.",
+      "paragraph_2": "미국 월스트리트저널(WSJ)은 9일 관계자 2명을 인용해 앨리스 황이 올해 초에는 중국에 있었지만 이후 행방을 알 수 없다고 전했다. 이달 스캔들 이전에 먼저 공개돼 있던 앨리스 황의 이력을 살펴보면 그는 중국중앙(CC)TV와 후난 위성TV에서 약 4년간 방송 기자로 일했다. 이어 다국적 투자은행 HSBC와 중국 최대 증권사 중신증권에서 8년 동안 자산 운용 업무를 맡았다고 알려졌다. 2016년에는 중국 상하이의 사모투자회사 허시투자에서 집행이사로 활동했다.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국인 앨리스 황과 싱가포르 소재 메가스피드 회사의 엔비디아 AI 칩 밀반입 스캔들을 다루고 있으며, 대만 정부나 대만-미국 두 국가 간의 직접적인 행위나 상호작용이 전혀 나타나지 않습니다. 조건2: 예|아니오 — 적용 불가 (조건1 불충족) 조건3: 예|아니오 — 적용 불가 (조건1 불충족) 최종: 아니오"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/12/2003867625|057|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Classified data off limits to US staff participating in study program - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "US federal government employees participating in a new study program in Taiwan would not have access to sensitive or confidential Taiwanese government information, Deputy Minister of Foreign Affairs Chen Ming-chi (陳明祺) said today.",
+      "paragraph_2": "The Taiwan Fellowship Program (TFP) offers participants training in regional and language studies, with the aim of helping them gain a deeper understanding of Taiwan, Chen told reporters on the sidelines of a legislative hearing.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 대만과 미국 정부 간의 Taiwan Fellowship Program MOU 체결이라는 양자 간 사건을 직접 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 언어훈련, 지역연구, 상호이해 증진, 파트너십 강화 등 우호적 협력 내용으로 일관되어 있으며, 이는 긍정 코드(+8.0)와 일치합니다. 최종: 예"
+      }
+    },
+    "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129|190|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Megaspeed: Nvidia partner at the center of the spy affair",
+      "text_len": 2500,
+      "paragraph_1": "As Nvidia , one of the world's most valuable companies, grapples with CEO Jensen Huang's romantic relationship with an alleged Chinese spy , attention is turning to the much smaller company she worked for.",
+      "paragraph_2": "Alice H., the alleged spy, worked as an executive for Megaspeed, a Singapore-based data center and AI computing company. It manages data center access, including for some major Chinese tech firms such as Alibaba.",
+      "detail": {
+        "c1": false,
+        "c2": true,
         "c3": false,
-        "reason": "조건1: 아니오 — 기사는 미국의 대만 무기판매 지연을 다루고 있으며, 대만과 중국 간의 직접적인 행위(군사행동, 위협, 충돌)가 아니라 미국의 정책 결정과 그에 대한 전문가 평가를 중심으로 합니다. 조건2: 예 — 기사의 논조는 무기판매 지연이 대만 방어를 약화시키고 중국을 강하게 만든다는 부정적·갈등적 내용으로, GoldsteinScale -7.2의 부정적 코드와 일치합니다. 조건3: 아"
+        "reason": "조건1: 아니오 — 기사는 중국 스파이와 Nvidia CEO의 관계, Megaspeed의 미국 수출통제 위반 혐의 등을 다루고 있으며, 대만과 대만-미국 간의 직접적인 국가급 행위(군사행동, 위협, 영토침범 등)를 다루지 않습니다. 조건2: 예 — 기사의 논조는 스파이 혐의, 수출통제 위반 조사, 불법 혐의 등으로 일관되게 부정적이며, 갈등적/부정적 코드와 일치합니다. 조건3: 아니오 — 기"
+      }
+    },
+    "https://focustaiwan.tw/politics/202611160006|026|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Lai calls for Taiwan-U.S. tax pact during Idaho governor's visit - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 16 (CNA) President Lai Ching-te (賴清德) on Monday called for a Taiwan-U.S. agreement to avoid double taxation during a meeting with Idaho Governor Brad Little, as related legislation remains pending in the U.S. Senate.",
+      "paragraph_2": "Speaking at the Presidential Office in Taipei, Lai said the agreement would create a more favorable investment environment for businesses on both sides and strengthen economic ties.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만 총통과 미국 아이다호 주지사 간의 양자 회담이며, 이는 국가 간(대만-미국) 사건이 아니라 주(state) 차원의 방문으로 \"TAIPEI -> IDAHO\"는 국가와 주 간의 관계를 나타내므로 순수한 국가 간 사건이 아닙니다. 조건2: 예 — 기사 내용은 조세협약 추진, 교육 협력 MOU 체결, 반도체·첨단제조 협력 등 명백히 협력적이고 우호적인 경"
+      }
+    },
+    "https://www.fnnews.com/news/202611170021305362|0831|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "\"불륜보다 더 큰 문제\"…젠슨 황 복귀 막는 엔비디아 리스크는 - 파이낸셜뉴스",
+      "text_len": 1862,
+      "paragraph_1": "[서울=뉴시스]이지영 기자 = 불륜 스캔들로 사임한 젠슨 황 전 엔비디아 최고경영자(CEO)가 복귀를 검토 중인 가운데 그의 퇴진을 단순한 스캔들로 봐서는 안 된다는 지적이 제기됐다. 중국 반도체 수출통제와 매출 공시, 투자 구조 등을 둘러싼 의문이 해소되지 않은 만큼 복귀 논의는 시기상조라는 주장이다.",
+      "paragraph_2": "16일(현지 시간) 포춘에 따르면 제프리 소넨펠드 예일대 교수 등은 기고문을 통해 황 전 CEO의 복귀를 주장하는 일부 기술업계 인사들을 비판했다.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 엔비디아 CEO 개인의 스캔들과 회사의 경영 문제를 다루고 있으며, 대만 정부와 미국 정부 간의 직접적인 국가급 상호작용(외교, 군사, 정치적 행위)을 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 엔비디아의 반도체 수출통제 위반 의혹, 중국으로의 불법 반도체 유출, 회계 공시 변경, 투자 구조의 위험성 등 부정적이고 비판적인 내용이므로 긍정적 코드"
+      }
+    },
+    "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "La caída de Huang deja tocada a Nvidia, expone al Gobierno estadounidense y refuerza a quienes piden más controles a las exportaciones de chips | Empresas",
+      "text_len": 2500,
+      "paragraph_1": "Sus relaciones con los proveedores en Taiwán o su 3,5% de las acciones de la compañía hacen su sustitución muy complicada para la compañía",
+      "paragraph_2": "Jensen Huang, consejero delegado, presidente, fundador y el hombre que convirtió una empresa de chips especializada en videojuegos en la compañía con mayor capitalización bursátil del planeta, por encima de los cinco billones de dólares, ha dimitido forzosamente este jueves de todos sus cargos en Nvidia , después de que la sucesión de escándalos por sus infidelidades , incluyendo una relación con una presunta espía de China, le haya costado a la empresa casi un tercio de su valor en el último mes.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO Jensen Huang의 개인적 스캔들과 그로 인한 사직이 중심이며, 대만과 미국 정부/국가 간의 직접적인 국가급 행위(군사행동, 외교분쟁, 제재 등)를 다루지 않고 있습니다. 조건2: 예 — 기사의 실제 논조는 부정적입니다(개인 스캔들, 회사 가치 급락, 보안 우려, 미국 의원의 소환 요구 등). 조건3: 아니오 — 부정적 논조의 주체가 제3자"
+      }
+    },
+    "https://www.theepochtimes.com/china/us-federal-employees-to-work-in-taiwan-government-offices-under-new-program-6123748|057|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "US Federal Employees to Work in Taiwan Government Offices Under New Program | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "The United States and Taiwan have signed an agreement allowing American federal employees to work in Taiwanese government offices for up to a year.",
+      "paragraph_2": "Under the Taiwan Fellowship Program, participants will receive intensive Mandarin-language training and regional studies before taking assignments in Taiwan’s legislature, government ministries, other agencies, or organizations outside the public sector.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 미국과 대만 두 국가(정부급 행위자)가 대만 펠로우십 프로그램에 관한 협정을 직접 체결한 사건으로, 양국 간의 직접적인 관계 사건입니다. 조건2: 예 — 기사의 실제 논조는 미국 연방 직원이 대만 정부 기관에서 근무하도록 허용하는 교육·문화 협력 프로그램으로 명백히 우호적이고 협력적이며, 이는 GoldsteinScale +8.0(협력적/긍정적)과 일치합니다. 최종: 예"
+      }
+    },
+    "https://econotimes.com/Nvidia-chips-worth-at-least-7-5-billion-reach-China-YTN-reports-1774842|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia chips worth at least $7.5 billion reach China, YTN reports | EconoTimes",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia artificial intelligence chips worth at least $7.5 billion reached Chinese companies through a network linked to Alice Huang despite U.S. export controls, YTN reported in a Nov. 10 broadcast.",
+      "paragraph_2": "The network supplied chips or access to their computing power, allowing Chinese companies to use equipment affected by U.S. restrictions. The account did not establish how much reached China physically.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 대중국 수출규제와 그 우회 사건을 다루고 있으며, 대만과 미국(또는 대만-미국) 사이의 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 예 — 기사의 실제 논조는 미국 수출규제 위반, 불법적 칩 거래, 의심되는 스파이 활동 등으로 갈등적/부정적입니다. 조건3: 해당 없음 — 조건1이 충족되지 않으므로 평가 불필요합니다. 최종: 아니오"
+      }
+    },
+    "https://patriotpost.us/articles/1002708-the-jensen-huang-scandal|040|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "The Jensen Huang Scandal | The Patriot Post",
+      "text_len": 2500,
+      "paragraph_1": "Depending on the actual facts, this could be very serious. But the hypocrisy already on display by the Left is breathtaking.",
+      "paragraph_2": "By Gary Bauer · November 11, 2026 https://patriotpost.us /articles / 1002708-the-jensen-huang-scandal",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 젠슨 황 개인의 스캔들과 미국 내 중국 무역정책 논쟁을 다루고 있으며, 대만과 미국 간의 국가급 행위나 직접적 상호작용을 다루고 있지 않습니다. 조건2: 아니오 — 기사의 논조는 중국 스파이 혐의, 미국의 대중국 정책 비판 등 갈등적이고 부정적이지만, GDELT는 이를 협력적/긍정적(+1.0)으로 분류했습니다. 최종: 아니오"
+      }
+    },
+    "https://thenextweb.com/news/nvidia-megaspeed-ban-gb300-imports-bloomberg|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia says it cut off Megaspeed in 2025, but Bloomberg found later imports",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia says it banned all sales and shipments to Megaspeed in June 2025, and that the ban is still in place, a company spokesman told The Wall Street Journal . Since then, Commerce has allowed Nvidia to send it parts and replacement components, the spokesman said.",
+      "paragraph_2": "Malaysian trade records show that Megaspeed imported at least 17,544 of Nvidia’s GB300 chips, worth about $787m, in November 2025, Mackenzie Hawkins reported for Bloomberg . Nvidia gave US officials a count of chips sold to Megaspeed through hardware partners. It was 50,000 units short, Bloomberg found. Megaspeed is still an official Nvidia Cloud Partner. TNW has not independently verified the reports.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia와 Megaspeed(싱가포르 회사) 간의 칩 판매·수출 문제를 다루고 있으며, 대만과 미국 정부/국가 간의 직접적인 국가급 행위(군사행동, 외교갈등, 위협 등)를 다루지 않습니다. 조건2: 해당 없음 — 조건1을 만족하지 않으므로 평가 불필요 조건3: 해당 없음 — 조건1을 만족하지 않으므로 평가 불필요 최종: 아니오"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839|026|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Lai urges Taiwan-US tax pact during Idaho governor’s visit - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "President William Lai (賴清德) today called for a Taiwan-US agreement to avoid double taxation during a meeting with Idaho Governor Brad Little, as related legislation remains pending in the US Senate.",
+      "paragraph_2": "Speaking at the Presidential Office in Taipei, Lai said the agreement would create a more favorable investment environment for businesses on both sides and strengthen economic ties.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 대만 총통과 미국 아이다호 주지사 간 회담으로, 양자 간 조세협정, 교육협력, 경제협력 등 대만-미국 정부 차원의 사건을 직접 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 조세협정 체결 추진, 교육협력 MOU 서명, 반도체·첨단제조 분야 협력 강화 등 우호적이고 협력적인 내용으로, +4.0의 긍정적 코드와 일치합니다. 최종: 예"
+      }
+    },
+    "https://timesofoman.com/article/179097-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-named-interim-ceo-by-board|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang resigns as Nvidia CEO, CFO Colette Kress named interim CEO by board - Times of Oman",
+      "text_len": 2500,
+      "paragraph_1": "New Delhi : Nvidia CEO Jensen Huang has opted to resign amidst mounting pressure, reported Reuters. Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday. Huang has been in the eye of a storm after it was revealed that he had an affair with Alice Huang (not his relation) a Chinese businesswoman who is alleged to be a intelligence asset. Jensen Huang was also reported have had another affair with a senior executive of Nvidia Kimberly Powell. Jensen Huang had acknowledged his affair with Alice Huang in a letter to Nvidia employees where he apologised for being unfaithful to his wife and violating her trust. Nvidia's board had also initiated an investigation into the matter, with the inquiry being led by law firm Wachtell, Lipton, Rosen & Katz. In May 2026 a Wall Street 'Short seller' Culper research had flagged Huang's alleged links to Alice Huang. According to CBS News, on May 13 this year Culper Research published a 40-page report highlighting Huang's ties to Alice Huang, a former television reporter and financial industry executive. According to the report, a copy of which is with ANI, Culper research said, \"Nvidia has repeatedly vouched for Megaspeed – its single largest Southeast Asian chip buyer currently under investigation by both U.S. Commerce and Singapore authorities.\" \"Nvidia CEO Jensen Huang has not only vouched for Megaspeed, but seems to have quite literally walked alongside Megaspeed at every step, while maintaining an uncomfortably close relationship with Megaspeed’s Alice Huang, a Chinese national. He was first spotted partying with Alice Huang in June 2024 – the same month the Apex/Alibaba pledge was filed. He then dined with Alice Huang in Taiwan in May 2025 – just weeks after the news of U.S. trade restrictions. Finally, per one current Megaspeed employee, Jensen visits Megaspeed-linked data centers “every few months” and “every single time” he visits, he is accompanied by representatives from Alibaba. The Megaspeed employee characterised their relationship with Jensen as “very close”, corroborating another former Nvidia employee’s suggestion to us that many Nvidia employees wondered if there was a special relationship,\" the report stated. Although Jensen Huang had got the backing of US President Donald Trump he was under extreme pressure with members of the US Congress flagging potential security risk of the affair with the alleged spy. Jensen Huang's exit puts the $4 trillion Nvidia in troubled waters and could potentially disrupt the AI industry which has been facing headwinds on the markets recently.",
+      "paragraph_2": "Chief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday. Huang has been in the eye of a storm after it was revealed that he had an affair with Alice Huang (not his relation) a Chinese businesswoman who is alleged to be a intelligence asset. Jensen Huang was also reported have had another affair with a senior executive of Nvidia Kimberly Powell. Jensen Huang had acknowledged his affair with Alice Huang in a letter to Nvidia employees where he apologised for being unfaithful to his wife and violating her trust. Nvidia's board had also initiated an investigation into the matter, with the inquiry being led by law firm Wachtell, Lipton, Rosen & Katz. In May 2026 a Wall Street 'Short seller' Culper research had flagged Huang's alleged links to Alice Huang. According to CBS News, on May 13 this year Culper Research published a 40-page report highlighting Huang's ties to Alice Huang, a former television reporter and financial industry executive. According to the report, a copy of which is with ANI, Culper research said, \"Nvidia has repeatedly vouched for Megaspeed – its single largest Southeast Asian chip buyer currently under investigation by both U.S. Commerce and Singapore authorities.\" \"Nvidia CEO Jensen Huang has not only vouched for Megaspeed, but seems to have quite literally walked alongside Megaspeed at every step, while maintaining an uncomfortably close relationship with Megaspeed’s Alice Huang, a Chinese national. He was first spotted partying with Alice Huang in June 2024 – the same month the Apex/Alibaba pledge was filed. He then dined with Alice Huang in Taiwan in May 2025 – just weeks after the news of U.S. trade restrictions. Finally, per one current Megaspeed employee, Jensen visits Megaspeed-linked data centers “every few months” and “every single time” he visits, he is accompanied by representatives from Alibaba. The Megaspeed employee characterised their relationship with Jensen as “very close”, corroborating another former Nvidia employee’s suggestion to us that many Nvidia employees wondered if there was a special relationship,\" the report stated. Although Jensen Huang had got the backing of US President Donald Trump he was under extreme pressure with members of the US Congress flagging potential security risk of the affair with the alleged spy. Jensen Huang's exit puts the $4 trillion Nvidia in troubled waters and could potentially disrupt the AI industry which has been facing headwinds on the markets recently.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 개인의 스캔들을 다루고 있으며, 대만 정부와 미국 정부 간의 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 예 — 기사의 논조는 부정적입니다(CEO 사임, 스파이 의혹, 보안 위험 지적 등). 조건3: 해당 없음 — 조건1이 충족되지 않으므로 평가 불필요. 최종: 아니오"
+      }
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/once-adored-like-a-rock-star-nvidia-ceo-jensen-huang-now-faces-awkward-questions-at-home-in-taiwan/articleshow/135767704.cms|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Once adored like a rock star, Nvidia CEO Jensen Huang now faces awkward questions at home in Taiwan - The Economic Times",
+      "text_len": 1717,
+      "paragraph_1": "Explore More Stories",
+      "paragraph_2": "Sass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사 본문은 Nvidia CEO Jensen Huang과 관련된 내용으로 보이지만, 제공된 텍스트는 무관한 뉴스들(NASCAR, 록 가수 사망, 헬리콥터 충돌 등)로만 구성되어 있어 대만과 미국 정부/국가급 행위자 간의 사건을 다루고 있지 않습니다. 조건2: 아니오 — 제공된 기사 본문에 실제 내용이 없어 논조를 판단할 수 없습니다. 조건3: 아니오 — 기사 본문이 불완전"
+      }
+    },
+    "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan|090|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan, Asia News - AsiaOne",
+      "text_len": 2500,
+      "paragraph_1": "TAIPEI, Taiwan — Nvidia CEO Jensen Huang had been widely adored like a rock star in his birthplace, Taiwan. That image is now tainted after the FBI began an investigation into his affair with an alleged Chinese agent.",
+      "paragraph_2": "Like the rest of the world, the island was shocked by the scandal over Huang's relationship with Alice Huang, a Chinese businesswoman reportedly described as a Chinese spy by US officials. A video of the pair visiting a restaurant in the capital city of Taipei in 2025 went viral and was broadcast globally.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 개인 Jensen Huang의 개인적 스캔들(부정행위, 외도, FBI 수사)을 다루며, 대만과 미국 정부/국가 간의 국가급 행위나 상호작용이 아닙니다. 조건2: 예 — 기사의 실제 논조는 Jensen Huang의 명성 추락, 개인적 도덕 스캔들, 대만 내 여론의 부정적 반응 등 갈등적/부정적 내용입니다. 조건3: 아니오 — 기사의 부정적 논조는 개인 스캔들에 대한 "
+      }
+    },
+    "https://www.edaily.co.kr/News/Read?newsId=04418166645645392&mediaCodeNo=257|050|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "'최대 난관' 맞은 日다카이치…선전 APEC 앞두고 '전전긍긍'",
+      "text_len": 373,
+      "paragraph_1": "등록 2026-11-13 오후 5:14:35",
+      "paragraph_2": "수정 2026-11-13 오후 5:14:35",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사 본문이 대만-중국 간 사건을 다루지 않으며, 제시된 텍스트는 일본 다카이치 관련 제목 외에는 한국의 코스피, 수능, 아파트 가격 등 국내 뉴스만 포함되어 있습니다. 조건2: 아니오 — 기사 본문에서 대만-중국 관계 내용을 확인할 수 없어 논조 평가 자체가 불가능합니다. 최종: 아니오"
+      }
+    },
+    "http://en.people.cn/n3/2026/1116/c90000-20519306.html|161|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China's sanctions on politicians of Paraguay and Belize: What do they signal? - People's Daily Online",
+      "text_len": 2500,
+      "paragraph_1": "On October 12, the Ministry of Foreign Affairs of the People's Republic of China announced countermeasures against Paraguay's Minister of Information and Communication Technologies Gustavo Emigdio Villate Samaniego and Belize's Foreign Minister Francis Fonseca over their Taiwan-related conduct. The measures include freezing their assets in China, prohibiting Chinese organizations and individuals from doing business or cooperating with them, and barring them from entering the Chinese mainland, Hong Kong, and Macao. This is the first time Beijing has sanctioned ministerial-level officials from so-called \"diplomatic allies\" of the Taiwan authorities. What does the move signal?",
+      "paragraph_2": "A clear message to the other side of the Taiwan Strait: the Chinese mainland holds the initiative in combating \"Taiwan independence\" separatist forces",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 아니오 — 기사의 실질적 내용은 중국이 파라과이와 벨리즈 정치인들을 제재한 사건이며, 대만과 중국 간의 직접적인 양자 행위(무력시위, 위협, 영공침범 등)가 아니라 제3국 정치인들을 겨냥한 중국의 일방적 제재입니다. 조건2: 예 — 기사의 논조는 중국이 대만 독립세력을 \"억압\"하고 \"차단\"하려는 강경한 태도를 보이고 있으며, 이는 \"갈등적/부정적\" 성격과 일치합니다. 조건3: 예 —"
+      }
+    },
+    "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/china-s-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China’s Xi says Taiwan ‘reunification’ must happen as history cannot be stopped - Internazionale",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING, Nov 12 (Reuters) - The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, as he urged complete “reunification” of Taiwan with the motherland and pledged to do so peacefully, making no mention of the use of force.",
+      "paragraph_2": "China views democratically-governed Taiwan as its own territory, despite Taipei’s strong rejection of that claim, and has repeatedly offered a “one country, two systems” model of autonomy not supported by any major Taiwanese political party.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하고, 중국 군부대가 대만 주변에서 연합전투준비순찰을 실시하며, 대만 방위부가 중국 군항공기 29대를 탐지한 사건을 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 중국의 일방적 군사시위에 해당합니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 무력을 사용하지 않은 채 대만 통일을 촉구하고 군사훈련을 실행하는 압박 행위를 "
+      }
+    },
+    "http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi says Taiwan reunification is inevitable",
+      "text_len": 2500,
+      "paragraph_1": "Mohan Sinha 15 Nov 2026, 05:03 GMT+10",
+      "paragraph_2": "BEIJING, China: Chinese President Xi Jinping has renewed his call for Taiwan's reunification with China, saying it was an unavoidable historical goal. He called for a peaceful solution but did not mention the possibility of using force.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하는 발언을 하고, 중국 군용기의 대만 주변 운영, 그리고 대만의 거부 입장을 직접 다루고 있어 양측 간의 주요 사건입니다. 조건2: 아니오 — 기사의 실제 내용은 중국의 일방적 통일 주장, 군사적 위협(군용기 운영, 무력 사용 미배제), 그리고 대만의 강한 거부로 이루어져 있어 갈등적·위협적 성격이 강하므로, +3.4의 긍정적 코"
+      }
+    },
+    "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi calls for peaceful reunification with Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING, China: Chinese President Xi Jinping has renewed his call for Taiwan's reunification with China, saying it was an unavoidable historical goal. He called for a peaceful solution but did not mention the possibility of using force.",
+      "paragraph_2": "Taiwan rejected his remarks on Friday, saying its people would not accept Chinese rule.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하고 군사력을 과시하는 행위(29개 전투기 운용 등)를 다루고 있으며, 이는 대만의 안보에 직접 영향을 미치는 중국-대만 간 양자 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 일방적 통일 압박, 군사력 위협·과시, 대만의 거부 반발 등 갈등적이고 대립적인 내용이므로, 긍정적 코드(GoldsteinScale +3.4)와"
+      }
+    },
+    "https://bdnews24.com/world/2gsvctk709|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+      "text_len": 2500,
+      "paragraph_1": "Published : 12 Nov 2026, 08:45 PM",
+      "paragraph_2": "Updated : 12 Nov 2026, 08:45 PM",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만과의 \"평화적 통일\"을 촉구한 발언과 함께 중국군의 대만 주변 군사활동(29대 항공기와 군함의 \"연합전투준비순찰\")을 다루고 있으며, 이는 대만-중국 양국 간의 직접적인 안보 관련 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 갈등적/대립적입니다: 대만이 중국의 주장을 \"강하게 거부\"하고 \"일국양제\"를 받아들일 수 없다고 명시했으며, 중국"
+      }
+    },
+    "https://aninews.in/news/world/asia/g7-foreign-ministers-warn-china8217s-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation20261112195628/|124|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "G7 Foreign Ministers warn China&#8217;s activities East of Taiwan threaten regional stability, freedom of navigation",
+      "text_len": 2500,
+      "paragraph_1": "ANI | Updated: Nov 12, 2026 19:56 IST",
+      "paragraph_2": "Paris [France] November 12 (ANI): Foreign ministers of the Group of Seven ( G7 ) have expressed concern over China 's increasingly assertive activities in the waters east of Taiwan , warning that the actions threaten regional stability, freedom of navigation and the safety of international shipping, according to a report by Taipei Times. The warning was issued in a joint declaration published late Wednesday following a meeting of G7 foreign ministers in Paris. According to the report, China , which claims Taiwan as part of its territory, has intensified its activities off Taiwan 's east coast since June, conducting regular patrols by its coast guard. Taiwan ese officials believe Beijing is practising for a potential maritime blockade by deploying overlapping military, paramilitary and civilian assets in the surrounding waters. The G7 statement marked a unified expression of concern over China 's activities east of Taiwan . France, Germany, the United Kingdom and the United States had previously voiced concerns about Beijing 's actions in the area. \" China 's increasingly assertive activities in the waters east of Taiwan threaten regional stability, freedom of navigation and the safety of international shipping,\" the joint declaration stated. The ministers also reaffirmed their opposition to unilateral attempts to change the status quo, particularly through force, coercion or the threat thereof.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 중국의 대만 동쪽 해역에서의 해안경비대 순찰·군사활동이 대만의 안보에 직접 영향을 미치는 사건을 다루고 있으며, 대만은 이를 잠재적 해상봉쇄 연습으로 인식하고 있습니다. 조건2: 예 — 기사의 실제 논조는 중국의 활동을 \"점점 더 주장적\"이고 \"지역 안정, 항행의 자유, 국제해운의 안전을 위협\"하는 것으로 묘사하여 명백히 부정적이며, CAMEO 124(경고/위협)와 G"
+      }
+    },
+    "http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation|124|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "G7 Foreign Ministers warn China's activities East of Taiwan threaten regional stability, freedom of navigation",
+      "text_len": 2500,
+      "paragraph_1": "ANI 13 Nov 2026, 07:30 GMT+10",
+      "paragraph_2": "Paris [France] November 12 (ANI): Foreign ministers of the Group of Seven (G7) have expressed concern over China's increasingly assertive activities in the waters east of Taiwan, warning that the actions threaten regional stability, freedom of navigation and the safety of international shipping, according to a report by Taipei Times.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 예 — 중국이 대만 동쪽 해역에서 해경 순찰과 군사·준군사·민간 자산을 배치하는 행위는 대만의 안보에 직접 영향을 주는 일방적 군사 위협 행위이며, 이는 두 국가 간의 직접적인 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 활동을 \"위협적이고 단방적 현상변경 시도\"로 묘사하고 있으며, 이는 GoldsteinScale -4.0(갈등적/부정적)과 일치합니다. 조건3: 아니오 —"
+      }
+    },
+    "https://www.moneycontrol.com/world/xi-jinping-says-taiwan-reunification-must-be-realised-reiterates-china-s-one-country-two-systems-policy-article-14078374.html|027|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi Jinping says Taiwan reunification 'must be realised', reiterates China's 'one country, two systems' policy",
+      "text_len": 2500,
+      "paragraph_1": "Chinese President Xi Jinping has reiterated Beijing's determination to bring Taiwan under its control, declaring that the island's eventual reunification with mainland China is inevitable, even as Taipei rejected his proposal and warned against accepting Communist Party rule.",
+      "paragraph_2": "Addressing an event commemorating the 160th birth anniversary of revolutionary leader Sun Yat-sen in Beijing on Thursday, Xi said China's reunification was an unfinished historical responsibility that would eventually be fulfilled.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 시진핑의 대만 통일 의지 표명, 중국의 군사활동 증가, 대만의 명확한 거부 반응 등 양국 간의 직접적인 안보·정치 대립 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 일방적 통일 위협, 대만의 거부, 군사활동 증가 등 갈등과 대립을 담고 있으나, GDELT가 +4.0(협력적/긍정적)으로 분류한 것은 명백한 불일치입니다. 최종: 아니오"
+      }
+    },
+    "http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China deploys more than 100 ships around Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Mohan Sinha 16 Nov 2026, 02:05 GMT+10",
+      "paragraph_2": "TAIPEI, Taiwan: China has carried out a large, unannounced military exercise across the western Pacific and around Taiwan, deploying more than 100 naval and coast guard vessels to project military strength ahead of major international meetings.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 중국이 대만을 겨냥하여 100척 이상의 함정을 배치하고 대만에 대한 모의 공격을 포함한 군사훈련을 실시한 것으로, 명백히 대만의 안보에 직접 영향을 미치는 중국-대만 양국 간 사건입니다. 조건2: 아니오 — 기사는 중국의 대규모 무력시위, 모의 공격 훈련, 대륙간탄도미사일 발사, \"조용한 협박\"으로 묘사되는 군사적 압박을 다루고 있으며, 이는 명백히 갈등·위협·압박의 성격이므"
+      }
+    },
+    "https://www.ibtimes.co.uk/xi-taiwan-unification-warning-chinese-aircraft-1832045|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi Jinping Issues Chilling Taiwan Warning as 29 Chinese Aircraft and Drones Circle Island Ahead of Trump Talks | IBTimes UK",
+      "text_len": 2500,
+      "paragraph_1": "Chinese President Xi Jinping, speaking at a Beijing event, renewed his call for Taiwan's reunification with mainland China. His message came on 12 November, the same day Taiwan reported detecting 29 Chinese military aircraft around its shores.",
+      "paragraph_2": "The timing is significant. Xi is due to meet US President Donald Trump at next week's APEC summit in Shenzhen, and Taiwan heads to local elections soon after. Beijing's latest statements have drawn renewed attention to regional security and the risk of further tensions.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 29대 항공기/드론 출동, 함정 순찰 등 대만을 겨냥한 군사 행위와 시진핑의 대만 통일 촉구 발언을 중심으로 중국-대만 간의 직접적인 안보 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사 위협, \"소름끼치는 경고(Chilling Warning)\", 긴장 고조, 무력 사용 가능성 등 갈등적이고 위협적인 내용이 주를 이루고 있으나, Go"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867820|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "NTU honors alumni, awards honorary degrees - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Academia Sinica President Chen  Chien-jen (陳建仁), who helped strengthen Taiwan’s  disease-control system following the 2003 SARS outbreak,  received National Taiwan University’s (NTU) Distinguished  Alumni Award yesterday.",
+      "paragraph_2": "Speaking on behalf of the nine recipients at a ceremony  marking NTU’s 98th anniversary, Chen said he hoped to  continue being “the salt of the earth and the light of the  world,” a biblical expression referring to the role of  believers in society.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 국내 대학(NTU)의 동문 수상식을 다루고 있으며, 중국(시니카) 정부나 국가 간 행위가 아닌 개인의 학위 수상 및 학술적 성취를 소개하는 내용입니다. 조건2: 예 — 기사의 논조는 학자의 업적 인정, 공중보건 연구 성과, 감염병 대응 협력 등 우호적이고 협력적인 내용으로 긍정적 코드와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://focustaiwan.tw/business/202611110022|125|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Acer founder Stan Shih named Taiwan's envoy to 2026 APEC summit - Focus Taiwan",
+      "text_len": 2121,
+      "paragraph_1": "Taipei, Nov. 11 (CNA) Acer Group founder and Honorary Chairman Stan Shih (施振榮) has been named Taiwan's envoy to the 2026 Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China, the Presidential Office said on Wednesday.",
+      "paragraph_2": "President Lai Ching-te (賴清德) chose Shih for his international perspective and industry expertise, hoping he would bring Taiwan's views and experience on economic and trade issues to the summit, Presidential Office spokesperson Karen Kuo (郭雅慧) said.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 대만이 APEC 정상회의에 특사를 파견하는 행정적 결정이며, 대만과 중국 간의 직접적인 갈등·위협·군사행동·무력시위가 아니라 국제회의 참석 절차에 관한 사항입니다. 조건2: 아니오 — 기사의 실제 논조는 대만의 국제참여와 외교 활동(특사 임명, APEC 참석)을 긍정적으로 보도하고 있으며, 중국과의 갈등적 행위(위협, 제재, 충돌)를 다루지 않으므로 부정적 "
+      }
+    },
+    "https://economictimes.indiatimes.com/news/international/world-news/tide-of-history-cannot-be-stopped-xi-renews-call-for-taiwan-reunification/articleshow/135755299.cms|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "'Tide of history cannot be stopped': Xi renews call for Taiwan reunification - The Economic Times",
+      "text_len": 1717,
+      "paragraph_1": "Explore More Stories",
+      "paragraph_2": "Sass Jordan cause of death: How did ‘Racine’ singer die after cancelling shows over ‘serious medical condition’?",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사 본문에 중국-대만 관계나 통일 관련 실질적 내용이 없으며, 제목만 있고 본문은 완전히 무관한 뉘스(연예인 사망, 헬기 추락, 범죄, 로또 등)로 구성되어 있습니다. 조건2: 아니오 — 제목의 \"통일 재촉\" 내용은 협력적/긍정적이 아니라 대만에 대한 일방적 정치적 압력으로, 긍정적 코드와 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.houstonpublicmedia.org/articles/news/health-science/2026/11/13/567082/satisfactory-performer-how-a-serial-polluter-keeps-thriving-in-texas/|084|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "‘Satisfactory Performer’: How a Serial Polluter Keeps Thriving in Texas – Houston Public Media",
+      "text_len": 2500,
+      "paragraph_1": "Public Health Watch is a nonprofit investigative news organization based in Austin, Texas.",
+      "paragraph_2": "POINT COMFORT, Texas — For more than four decades, the Formosa Plastics plant here has been a picture of turmoil and indulgence. Situated in Calhoun County, on the Texas Gulf Coast, it has amassed a record of environmental contamination and workplace calamity that, in theory, should have subjected it to rigorous oversight and limited its ability to grow.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국 텍사스주의 환경규제 기관(TCEQ)과 대만 기업(Formosa Plastics) 간의 국내 규제 관계를 다루고 있으며, 미국 정부와 대만 정부 간의 국가급 상호작용이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 대만 기업의 환경오염과 규제 회피를 비판하는 부정적·갈등적 내용이나, GDELT가 협력적/긍정적(+7.0)으로 분류하여 명백한 불일치가 있습니다."
+      }
+    },
+    "https://slguardian.org/nvidias-huang-falls-as-sex-and-espionage-scandal-exposes/|010|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia’s Huang Falls as Sex and Espionage Scandal Exposes",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 개인의 스캔들(성적 관계, 간첩 혐의)을 다루고 있으며, 미국-대만 두 국가(정부/국가급 행위자) 간의 직접적인 국가 행위(외교, 군사, 안보 등)를 다루지 않고 있습니다. 조건2: 아니오 — 기사 내용(스캔들, 혐의)은 본질적으로 부정적이고 갈등적이지만, GoldsteinScale +0.0은 협력적/긍정적으로 분류되어 있어 실제 논조와 불일치합"
       }
     },
     "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/how-are-chinese-infantry-units-training-to-survive-drone-filled-battlefields|051|pos": {
@@ -1050,7 +1064,7 @@
         "c1": true,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 예 — 기사는 중국 PLA가 대만 침략 시나리오를 상정하여 드론 위협에 대응하는 군사훈련을 실시하는 사건을 다루고 있으며, 이는 대만을 겨냥한 중국의 군사력 강화로서 대만의 안보에 직접 영향을 주는 일방적 행위입니다. 조건2: 아니오 — 기사의 실제 논조는 중국군의 전술적 준비와 군사력 강화(대만 침략 가능성 포함)라는 갈등/위협적 내용이나, GDELT는 이를 +3.4의 협력적/긍정"
+        "reason": "조건1: 예 — 중국이 대만 우발사태를 상정하여 드론 대응 군사훈련을 실시하고 있으며, 이는 대만과의 군사적 긴장 상황에서 일방적으로 대만을 겨냥한 군사능력 강화 행위입니다. 조건2: 아니오 — 기사의 실제 내용은 중국의 군사력 강화, 전쟁 대비 훈련, 대만 유사시 대비 등 갈등적이고 위협적인 내용이지만, GoldsteinScale +3.4는 협력적/긍정적 방향을 나타내고 있어 명백한 불일치"
       }
     },
     "https://www.pravda.sk/spravy/svet/clanok/2077911-cina-taiwan-vojenske-cvicenie-vojenske-lode-utoky-donald-trump-si-tin-pching|040|pos": {
@@ -1064,245 +1078,189 @@
         "c1": true,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 예 — 기사는 중국이 대만을 겨냥하여 11월 초 서태평양에서 100척 이상의 군함과 해안경비정을 동원해 실시한 대규모 군사훈련을 직접 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 군사 행위이다. 조건2: 아니오 — 기사의 실제 논조는 중국의 비공식적 대규모 군사훈련 전개와 무력시위를 보도하는 것으로, 명백히 갈등적·위협적 성격을 가지고 있으나, GDELT가 부여한 코드(04"
+        "reason": "조건1: 예 — 기사는 중국이 대만을 겨냥한 대규모 해군 전력 전개(100척 이상의 군함·해경함정 참여)와 군사훈련을 다루고 있으며, 이는 대만의 안보에 직접 영향을 주는 일방적 군사행동입니다. 조건2: 아니오 — 기사의 실제 논조는 \"중국이 대만을 압박하는 대규모 비공식 군사훈련을 실시했다\"는 위협적·긴장적 내용이지만, GDELT가 부여한 GoldsteinScale +1.0은 \"협력적/긍정"
       }
     },
-    "http://en.people.cn/n3/2026/1116/c90000-20519306.html|161|neg": {
+    "https://www.china-files.com/xi-celebra-sun-yat-sen-col-pensiero-a-taiwan/|163|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Xi celebra Sun Yat-sen, col pensiero a Taiwan | China Files",
+      "text_len": 2500,
+      "paragraph_1": "Il Partito comunista commemora il 160esimo anniversario della nascita del rivoluzionario anti imperialista. A Taipei, il governo chiede di non partecipare",
+      "paragraph_2": "Nel centro di Taipei, il suo memoriale è chiuso da oltre due anni per interventi di restauro, che non termineranno prima del 2027 inoltrato. A Pechino, invece, il suo ritratto campeggia al centro della grande sala del popolo, con dieci bandiere rosse ai lati e l’intero comitato permanente presente. Il Partito comunista celebra Sun Yat-sen, il fondatore della Repubblica di Cina che dal 1949 si è trasferita a Taiwan dopo che Mao Zedong ha sconfitto il Kuomintang che fu dello stesso Sun. Giovedì 12 novembre, Xi Jinping ha presieduto un evento per ricordare il 160esimo anniversario della nascita di Sun, trasformando il ricordo del rivoluzionario anti imperialista in una rivendicazione di continuità politica. Con il pensiero rivolto alla “riunificazione”. Dall’altra sponda dello Stretto, Taipei denuncia l’uso della commemorazione per promuovere l'”unificazione”, dopo aver invitato i cittadini a non partecipare.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑이 선중산 기념행사를 대만 통일 명분으로 활용하는 행위와 대만 정부의 이에 대한 대응(보이콧 호소, 불참 권고)을 다루고 있으며, 이는 양측 정부 간의 대만 주권 문제를 직접 다루는 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 정치적 주장과 대만의 반발을 보도하는 것이지만, GoldsteinScale -8.0(\"갈등적/부정적\")은 과도합니다."
+      }
+    },
+    "https://focustaiwan.tw/business/202611130015|061|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "China's sanctions on politicians of Paraguay and Belize: What do they signal? - People's Daily Online",
+      "title": "Taiwan chip suppliers see limited impact from Nvidia leadership change - Focus Taiwan",
       "text_len": 2500,
-      "paragraph_1": "On October 12, the Ministry of Foreign Affairs of the People's Republic of China announced countermeasures against Paraguay's Minister of Information and Communication Technologies Gustavo Emigdio Villate Samaniego and Belize's Foreign Minister Francis Fonseca over their Taiwan-related conduct. The measures include freezing their assets in China, prohibiting Chinese organizations and individuals from doing business or cooperating with them, and barring them from entering the Chinese mainland, Hong Kong, and Macao. This is the first time Beijing has sanctioned ministerial-level officials from so-called \"diplomatic allies\" of the Taiwan authorities. What does the move signal?",
-      "paragraph_2": "A clear message to the other side of the Taiwan Strait: the Chinese mainland holds the initiative in combating \"Taiwan independence\" separatist forces",
+      "paragraph_1": "Taipei, Nov. 13 (CNA) Nvidia Corp. co-founder Jensen Huang's (黃仁勳) departure could accelerate diversification in the artificial intelligence (AI) chip market but is unlikely to significantly disrupt Taiwan's semiconductor supply chain, industry executives and investment advisers said Friday.",
+      "paragraph_2": "Huang resigned as Nvidia's president, CEO, and a member of its board Thursday, following reports of extramarital relationships with two women, including a businesswoman whom U.S. intelligence officials suspect of having ties to Chinese intelligence.",
       "detail": {
         "c1": false,
         "c2": true,
-        "c3": false,
-        "reason": "조건1: 아니오 — 기사의 실질적 행위자는 중국이 파라과이·벨리즈 정치인에게 한 제재이며, 이는 중국-대만 간 직접 행위가 아니라 중국이 대만과 관계를 맺는 제3국 정치인들을 겨냥한 것입니다. 조건2: 예 — 기사의 논조는 중국의 제재 조치를 \"대만독립 세력을 억제하는 명확한 메시지\"로 표현하며 부정적/갈등적 톤을 유지합니다. 조건3: 아니오 — 부정적 논조의 주체가 중국(People's D"
-      }
-    },
-    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/17/2003867880|0831|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "2026 Elections: KMT’s Lee Shu-chuan narrowly leads in New Taipei City mayoral race: poll - Taipei Times",
-      "text_len": 2500,
-      "paragraph_1": "The Chinese Nationalist Party (KMT) candidate is narrowly leading in the New Taipei City mayoral race, while the Democratic Progressive Party (DPP) candidate holds a substantial lead in Kaohsiung, media polls showed.",
-      "paragraph_2": "A survey published by the China Times on Sunday showed that KMT New Taipei City mayoral candidate Lee Shu-chuan (李四川) led with 37 percent support, compared with Su Chiao-hui (蘇巧慧) of the DPP at 33.4 percent.",
-      "detail": {
-        "c1": false,
-        "c2": null,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만 국내 지방선거(신북시, 고雄시, 신죽시 시장선거) 여론조사만 다루고 있으며, 중국과 대만 정부 간의 직접적인 국가급 상호작용(군사행동, 외교분쟁, 경제제재 등)이 전혀 없습니다. 조건2: 해당없음 — 조건1이 거짓이므로 평가 불필요 최종: 아니오"
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO 교체라는 미국 기업 뉴스를 다루며, 대만과 중국 정부/국가 간의 직접적인 국가급 행위(군사행동, 외교갈등, 위협 등)를 다루지 않고 있습니다. 조건2: 예 — 기사의 논조는 대만 반도체 산업에 미치는 영향이 \"제한적\"이라는 긍정적 평가로, 협력적/우호적 성격의 경제 관련 내용입니다. 최종: 아니오"
       }
     },
-    "https://www.theglobeandmail.com/podcasts/article-talking-heads-podcast/|180|neg": {
-      "ok": false,
+    "https://www.mk.ru/politics/2026/11/12/si-czinpin-zayavil-o-neizbezhnom-vossoedinenii-s-tayvanem.html|163|neg": {
+      "ok": true,
       "article_fetched": true,
-      "title": "Talking Heads podcast: Andrew Coyne speaks with historian and author Margaret MacMillan - The Globe and Mail",
-      "text_len": 1117,
-      "paragraph_1": "It feels like a global conflict is inevitable, or may have already started. Is Canada ready?",
-      "paragraph_2": "Individual conflicts are becoming more connected, between Russia’s invasion of Ukraine, China’s pending assault on Taiwan, and America’s on-again, off-again war in Iran.",
+      "title": "Си Цзиньпин заявил о неизбежном воссоединении с Тайванем - МК",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
       "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": false,
-        "reason": "조건1: 아니오 — 기사는 중국의 대만 \"pending assault\"를 언급하지만, 이는 가설적 미래 시나리오일 뿐 실제 중국-대만 간 구체적 행위(군사훈련, 미사일 발사, 영공침범 등)를 다루지 않고 있습니다. 조건2: 예 — 기사의 논조는 \"global conflict is inevitable\", \"pending assault\", \"how nations stumble into confl"
+        "c1": true,
+        "c2": false,
+        "c3": true,
+        "reason": "조건1: 예 — 시진핑의 대만 통일 의지 표명은 중국이 대만을 직접 겨냥한 국가급 행위(공개 위협·경고)이며, 대만의 대응(거부·보이콧)도 함께 다루어져 두 국가 간 사건이 명확합니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 일방적 위협과 대만의 단호한 거부로, 양측이 서로를 겨냥한 갈등적 행위를 담고 있어 음수 코드와 일치하지만, GoldsteinScale -8.0은 \"심각한 갈등\""
       }
     },
-    "http://inews24.com/view/2026842|172|neg": {
+    "https://www.koreatimes.co.kr/economy/20261111/taiwan-china-tap-market-rescue-funds-why-wont-korea|071|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "\"대만은 젠슨 황을 사랑합니다\"…타이베이101에 응원 메시지",
-      "text_len": 1005,
-      "paragraph_1": "[아이뉴스24 박지은 기자] 젠슨 황 엔비디아 전 최고경영자(CEO)의 갑작스러운 퇴진에 대만 기술업계가 특별한 응원에 나선다. 대만의 상징적 건축물인 타이베이101 외벽에 황 전 CEO를 지지하는 메시지를 띄울 예정이다.",
-      "paragraph_2": "16일 대만 공상시보에 따르면 대만 기술업계 주요 단체들은 이날 오후 6시(현지시간) 타이베이101 외벽 전광판을 통해 황 전 CEO에게 응원의 메시지를 전달할 계획이다.",
+      "title": "Taiwan, China tap market rescue funds. Why won't Korea? - The Korea Times",
+      "text_len": 2500,
+      "paragraph_1": "KOSPI is displayed on a board at the Korea Exchange's office in Seoul, Friday, when the index fell below 5,000 in intraday trading before rebounding to close at 5,059.69. Yonhap",
+      "paragraph_2": "China and Taiwan have tapped market rescue funds to reverse last week's sharp stock sell-off, triggered by the U.S. midterm elections. Korea, meanwhile, is holding back, resisting calls from retail investors to deploy what policymakers consider a weapon of last resort.",
       "detail": {
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 엔비디아 CEO 개인의 퇴진과 대만 기술업계의 응원 행사를 다루고 있으며, 중국(People's Republic of China) 정부와 대만 정부 간의 직접적인 국가급 행위(군사행동, 외교 갈등, 위협 등)를 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 우호적이고 긍정적입니다(응원, 협력, 존경 표시). GoldsteinScale -5.0은 갈등"
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 한국의 주식시장 위기와 정책 대응이며, 대만-중국 간 직접적인 국가 행위(군사, 안보, 정치적 갈등)가 아니라 단순히 비교 대상으로 언급되어 있을 뿐입니다. 조건2: 아니오 — 기사에서 대만과 중국이 \"시장 구제 펀드를 활용했다\"는 경제정책 사례로만 제시되어 있으며, 실제 대만-중국 간의 협력적/우호적 상호작용 내용이 없습니다. 최종: 아니오"
       }
     },
-    "https://focustaiwan.tw/politics/202611160006|026|pos": {
+    "https://www.hindustantimes.com/world-news/how-jensen-huang-s-affair-spiraled-into-a-national-security-nightmare-101794291438001.html|071|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "Lai calls for Taiwan-U.S. tax pact during Idaho governor's visit - Focus Taiwan",
+      "title": "How Jensen Huang’s Affair Spiraled Into a National Security Nightmare | World News",
       "text_len": 2500,
-      "paragraph_1": "Taipei, Nov. 16 (CNA) President Lai Ching-te (賴清德) on Monday called for a Taiwan-U.S. agreement to avoid double taxation during a meeting with Idaho Governor Brad Little, as related legislation remains pending in the U.S. Senate.",
-      "paragraph_2": "Speaking at the Presidential Office in Taipei, Lai said the agreement would create a more favorable investment environment for businesses on both sides and strengthen economic ties.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만과 미국 연방정부 간의 조세협정 협상이지만, 행위자는 대만 대통령과 아이다호 주지사(미국 주(state) 차원 행위자)이며, 기사에서 주지사 자신도 \"연방정부 권한\"이라고 명시하여 주(state) 차원에서는 이 사안을 다루지 않음을 보여줍니다. 조건2: 예|아니오 — 기사 내용(조세협정 체결 추진, 교육 협력 MOU 서명, 경제협력 강화)은 명백히 "
-      }
-    },
-    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839|036|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Lai urges Taiwan-US tax pact during Idaho governor’s visit - Taipei Times",
-      "text_len": 2500,
-      "paragraph_1": "President William Lai (賴清德) today called for a Taiwan-US agreement to avoid double taxation during a meeting with Idaho Governor Brad Little, as related legislation remains pending in the US Senate.",
-      "paragraph_2": "Speaking at the Presidential Office in Taipei, Lai said the agreement would create a more favorable investment environment for businesses on both sides and strengthen economic ties.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 아이다호 주지사의 개인 방문과 대만-아이다호 간의 경제·교육협력이며, 대만-미국 정부 간 세금협정 논의는 부수적 언급에 불과하고 대만을 겨냥한 미국의 안보 위협이나 군사 행위가 없습니다. 조건2: 예 — 기사의 실제 논조는 세금협정·교육협력·경제협력·투자 확대 등 명확히 협력적이고 긍정적이며, GoldsteinScale +4.0과 일치합니다. 최종: 아"
-      }
-    },
-    "https://focustaiwan.tw:443/business/202611160007|057|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Jensen Huang's exit to have 'short-term' impact on Taiwan suppliers: Yang - Focus Taiwan",
-      "text_len": 2500,
-      "paragraph_1": "Taipei, Nov. 16 (CNA) The resignation of Jensen Huang (黃仁勳) as CEO of AI chip designer Nvidia Corp. is expected to cause only \"short-term turbulence\" for Taiwan's artificial intelligence suppliers, Central Bank Governor Yang Chin-long (楊金龍) said Monday.",
-      "paragraph_2": "Speaking at a hearing of the Legislature's Finance Committee, Yang said he is confident about the role of Taiwan's tech sector in the global AI supply chain.",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO 개인의 사직이라는 기업 경영진 변화를 다루고 있으며, 대만과 미국 정부(국가급 행위자) 간의 직접적인 국가 행위(군사작전, 외교 분쟁, 안보 위협 등)가 아니라 민간 기업 인사 변동이 대만 공급망에 미치는 경제적 영향에 관한 것입니다. 조건2: 예 — 기사의 논조는 긍정적이며, 대만 중앙은행 총재가 \"단기 소동\"에 불과하고 대만의 AI 공급망에 "
-      }
-    },
-    "https://www.hankookilbo.com/news/article/A2026111611080001113|080|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "美中러 3자 회담 현실로… 핵군축·전쟁 종식 ‘그들만의 거래’ 경고음-정치ㅣ한국일보",
-      "text_len": 2500,
-      "paragraph_1": "러시아 예술가 알렉세이 세르기옌코가 중국 선전에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 기념해 그린 팝아트 작품 '선전 26'. 왼쪽부터 도널드 트럼프 미국 대통령, 블라디미르 푸틴 러시아 대통령, 시진핑 중국 국가주석. 상트페테르부르크=로이터 연합뉴스",
-      "paragraph_2": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석, 블라디미르 푸틴 러시아 대통령이 오는 19일 중국 선전에서 만난다. 글로벌 3대 강국 정상이 한 테이블에서 대면하는 첫 3자 회담이다. 백악관은 핵무기 감축과 이란 문제를 주요 의제로 제시했다. 다만 각국의 이해관계가 맞물려 있는 러우전쟁 종전안, 대만 문제, 글로벌 공급망 문제 등은 공식 의제에 오르지 않더라도 각국의 전략적 계산에 영향을 미칠 가능성이 높다.",
+      "paragraph_1": "In June 2024, Nvidia Chief Executive Jensen Huang was in Taipei for an annual computer-industry trade show.",
+      "paragraph_2": "Late one night, a group of technology executives gathered at a bar. Among them was Alice Huang, then a top leader at a Singapore-based data center company.",
       "detail": {
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 3자 회담을 주로 다루며, 대만은 \"미중러가 협상 카드로 활용할 가능성이 있는 현안\" 중 하나로만 간접 언급될 뿐 대만-미국 간의 직접적인 사건(행위, 상호작용)을 구체적으로 다루지 않습니다. 조건2: 아니오 — 기사의 논조는 세 강대국이 약소국(우크라이나, 대만 등)의 운명을 거래의 대상으로 삼을 수 있다는 우려와 경고를 담고 있어서 본질적으로 "
+        "reason": "조건1: 아니오 — 기사의 중심은 Nvidia CEO 개인의 외도 스캔들과 미국 정부의 대중국 칩 수출 정책이며, 대만과 중국 두 국가 간의 직접적인 국가급 행위(군사행동, 외교분쟁 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 국가안보 위협, 첩보활동 의혹, 칩 불법 수출 등 부정적/갈등적 내용이므로 \"+7.4\"의 협력적/긍정적 코드와 명백히 불일치합니다. 최종: 아니오"
       }
     },
-    "https://www.munhwa.com:443/article/11631719|0831|pos": {
+    "http://www.bignewsnetwork.com/news/279423215/taiwan-detains-communist-party-chairman-over-suspected-chinese-funding-election-interference|071|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "“모함받고 있는 젠슨황인데요, 4천만 보내주시면…” 피싱 주의보[아하대만] | 문화일보",
-      "text_len": 845,
-      "paragraph_1": "최근 엔비디아 CEO 자리에서 사퇴한 젠슨 황을 사칭하는 피싱 문자 메시지가 대만에서 기승을 부리고 있다. 젠슨 황에 우호적인 현지인들을 대상으로 금품을 갈취하려는 의도로 추정된다.",
-      "paragraph_2": "16일(현지시간) 싼리신문 등 현지 언론은 대만 시민 여러 명이 젠슨 황을 자칭한 내용의 문자메시지를 받았다고 보도했다.",
+      "title": "Taiwan detains Communist Party chairman over suspected Chinese funding, election interference",
+      "text_len": 2500,
+      "paragraph_1": "Taipei [Taiwan], November 9 (ANI): Taiwanese authorities have detained the founder and chairman of the Taiwan People's Communist Party on suspicion of receiving funding and instructions from China to influence upcoming local elections, according to a report by Central News Agency (CNA).",
+      "paragraph_2": "Citing the Tainan District Prosecutors Office, CNA reported that party chairman Lin Te-wang allegedly accepted instructions and financial support from the Chinese Communist Party (CCP) to contest the election for Tainan Ward chief in the Xinying District of Tainan.",
       "detail": {
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 이 기사는 개인(젠슨 황)을 사칭한 사기 사건으로, 대만과 미국 정부 간의 국가급 사건이 아니며, 두 국가가 서로를 겨냥하거나 상대의 안보에 직접 영향을 주는 행위를 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 피싱 사기 주의보로 부정적이나, GDELT가 긍정적 코드(+5.0)를 부여했으므로 불일치합니다. 최종: 아니오"
+        "reason": "조건1: 아니오 — 기사는 대만 정부의 국내 사법 조치(체포·구금)에 관한 것이며, 중국 정부가 대만에 직접적인 군사·외교적 행위를 하거나 대만의 안보를 직접 위협하는 행동을 하지 않았으므로 국가급 행위자 간의 직접적 상호작용 사건이 아닙니다. 조건2: 아니오 — 기사는 중국의 선거 개입 혐의, 자금 지원, 주민 매수 시도 등 명백히 부정적·갈등적 내용을 다루고 있으나, GoldsteinSc"
       }
     },
-    "https://fortune.com/2026/11/16/jensen-huang-billionaire-willing-to-pay-california-wealth-tax-social-media-praise-amid-affair-allegations-nvidia-ceo-resignation/|075|pos": {
+    "https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/|061|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "As Jensen Huang's $136 billion net worth tumbles, he is being praised for being willing to pay tax | Fortune",
+      "title": "Tears and disbelief in Taiwan, where Jensen Huang is a celebrity - NZ Herald",
       "text_len": 2500,
-      "paragraph_1": "As Nvidia reels from the resignation of founder and CEO Jensen Huang , there was one thing that distinguished him from many of his fellow billionaires: He said he didn’t mind paying his taxes—and social media posts have gone viral highlighting that fact.",
-      "paragraph_2": "“Jensen Huang was the only billionaire on the record for being willing to pay his share of taxes,” said one TikTok video that’s racked up over 300,000 views and 70,000 likes. “And I’ll just put that out there now that he’s fired. So do with that what you will.”",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 Jensen Huang 개인의 세금 납부 태도에 관한 내용일 뿐, 대만과 미국 정부/국가 간의 국가급 행위나 상호작용(군사, 외교, 안보 등)을 다루고 있지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 평가 대상이 아닙니다. 최종: 아니오"
-      }
-    },
-    "https://wccftech.com/jensen-huang-gets-taiwanese-industry-backing-as-taipei-101-skyscraper-lights-up-with-taiwan-loves-jensen-messages-after-his-surprise-resignation-from-nvidia/|042|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Jensen Huang Gets Taiwanese Industry Backing As Taipei 101 Skyscraper Lights Up With 'Taiwan Loves Jensen' Messages After His Surprise Resignation From NVIDIA",
-      "text_len": 2500,
-      "paragraph_1": "US President Donald Trump and the Taiwanese industry have come out in support of former NVIDIA CEO Jensen Huang, whose surprise resignation took the technology industry by surprise last week. Huang, who headed the world's largest AI chip designer, is a central figure in the AI buildout and has been one of the new technology's biggest proponents. Trump made the remarks earlier today while Taiwan industry figures funded a lighting up of the Taipei 101 tower with messages including \"Taiwan Loves Jensen\" and \"Thrive Together.\"",
-      "paragraph_2": "Speaking with reporters earlier today, Trump discussed Huang's resignation and the possibility that he might come back to the company. The President was among the first to defend the former executive, as he shared last week that he recalled Huang telling him that \"he had absolutely no idea that the person in question was a spy.\"",
+      "paragraph_1": "Linjiang Night Market in Taipei. The scandal involving Nvidia’s Jensen Huang and his subsequent resignation has shocked the public in his birthplace of Taipei. Photo / An Rong Xu, The New York Times",
+      "paragraph_2": "The Nvidia chief executive’s resignation shocked people in his birthplace, where he is called ‘“the people’s dad’.",
       "detail": {
         "c1": false,
         "c2": true,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사는 개인(Jensen Huang) 차원의 사건을 다루고 있으며, 대만과 미국 정부/국가 간의 국가급 행위(외교, 안보, 군사 등)가 아니라 민간 산업계의 지지 표현만 담고 있습니다. 조건2: 예 — 기사의 실제 논조는 Jensen Huang에 대한 지지, 긍정적 감정 표현(\"Taiwan Loves Jensen\"), 협력 메시지(\"Taiwan AI Co-Create th"
+        "reason": "조건1: 아니오 — 기사는 개인 기업인 Jensen Huang의 개인적 스캔들과 그에 대한 대만 대중의 반응을 다루고 있으며, 대만과 중국 정부 간의 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 예 — 기사의 논조는 Huang에 대한 대만의 애정과 그의 사임에 대한 슬픔과 충격을 보여주는 우호적이고 긍정적인 감정을 담고 있습니다. 최종: 아니오"
       }
     },
-    "https://mignews.com/news/economics/tajvan-predlagaet-tehnologii-dlya-stroitelstva-metro-v-izraile.html|051|pos": {
+    "https://www.straitstimes.com/asia/east-asia/jensen-huang-affair-with-alleged-chinese-spy-sparks-security-concerns-in-taiwan|061|pos": {
       "ok": false,
       "article_fetched": true,
-      "title": "Тайвань предлагает технологии для строительства метро в Израиле | MIGnews",
+      "title": "Jensen Huang affair sparks Taiwan security concerns | The Straits Times",
       "text_len": 2500,
-      "paragraph_1": "Тайваньские компании выразили готовность принять участие в тендерах на строительство транспортной инфраструктуры в Израиле, включая проект метро в Тель-Авиве.",
-      "paragraph_2": "© Фото: @JoopSoesan\\Х",
-      "detail": {
-        "c1": false,
-        "c2": true,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만 기업들이 이스라엘의 지하철 프로젝트 입찰에 참여하려는 경제적 협력이며, 대만과 미국 두 국가 간의 직접적인 국가급 행위(군사행동, 외교적 위협, 안보 관련 행동)를 다루지 않고 있습니다. 조건2: 예 — 기사의 논조는 대만 기업의 기술 제안, 양국 간 공통가치 강조, 미국의 정치적 지원 가능성 등 실제로 협력적이고 긍정적인 내용으로 일치합니다. 최"
-      }
-    },
-    "https://inosmi.ru/20261116/voyna-281204074.html|120|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Большая эскалация (Der Spiegel, Германия) | 16.11.2026, ИноСМИ",
-      "text_len": 1043,
-      "paragraph_1": "Факт регистрации пользователя на сайтах РИА Новости обозначает его согласие с данными правилами.",
-      "paragraph_2": "Пользователь обязуется своими действиями не нарушать действующее законодательство Российской Федерации.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사 본문이 러시아 뉴스 사이트의 댓글 정책 및 이용규칙에 관한 내용일 뿐, 대만과 중국 간의 어떤 국가급 행위나 사건도 다루고 있지 않습니다. 조건2: 예|아니오 — 기사 본문에 대만-중국 관계와 관련된 실질적 내용이 없어 논조를 평가할 수 없습니다. 조건3: 예|아니오 — 기사 본문에 대만-중국 간 행위가 없어 평가 불가능합니다. 최종: 아니오"
-      }
-    },
-    "https://www.aol.com/articles/silicon-valley-leaders-back-call-134613000.html|051|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia rules out Huang comeback as campaign for his return grows - AOL",
-      "text_len": 2500,
-      "paragraph_1": "By Ross Kerber, Alexandra Alper, Jeffrey Dastin and Karen Freifeld",
-      "paragraph_2": "Nov 16 (Reuters) - Nvidia's board is not weighing a return for Jensen Huang as CEO, three people told Reuters, despite a growing campaign for his return days after affairs involving employees and suspected Chinese intelligence ties forced his resignation.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 엔비디아 CEO 젠슨 황의 복귀 캠페인에 관한 미국 기업 뉴스이며, 대만과 중국 간의 국가급 행위자 사건이 아니라 미국 기업 내부 사건입니다. 타이페이 101 조명은 단순한 지지 표현일 뿐 양국 간 정치·군사·외교 행위가 아닙니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 평가 대상이 아닙니다. 최종: 아니오"
-      }
-    },
-    "https://www.latintimes.com/joshua-wong-10-year-sentence-hong-kong-601373|111|neg": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Hong Kong Extends Joshua Wong's Imprisonment Until the 2030s — Student Protester to Political Prisoner Until His 40s",
-      "text_len": 2500,
-      "paragraph_1": "Hong Kong's High Court handed pro-democracy activist Joshua Wong an additional 10-year prison sentence on November 5, his second conviction under the sweeping national security framework Beijing imposed on the city in 2020. Wong, who turned 30 last month, has been behind bars since late 2020 and had been approaching the end of his prior term — with a projected release date of January 7, 2027. That date is now gone. Under the new ruling, he will not be free until at least the mid-2030s.",
-      "paragraph_2": "Critics from Washington to Sydney have called the sentence politically engineered punishment dressed as jurisprudence. Human rights organizations say it marks another decisive step in Beijing's systematic dismantling of the freedoms Hong Kong was guaranteed under the 1997 handover agreement.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 홍콩의 조슈아 웡에 대한 홍콩 고등법원의 판결을 다루고 있으며, 대만과 중국(또는 대만과 중국 정부) 간의 직접적인 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 해당없음 — 조건1이 충족되지 않으므로 평가 불필요합니다. 조건3: 해당없음 — 조건1이 충족되지 않으므로 평가 불필요합니다. 최종: 아니오"
-      }
-    },
-    "https://www.taipeitimes.com/News/feat/archives/2026/11/17/2003867863|043|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Donovan’s Deep Dives: Cheng, Lu and the battle to shape 2028 - Taipei Times",
-      "text_len": 2500,
-      "paragraph_1": "Though this year’s elections will choose local leaders with limited impact on national politics and geopolitics, the election results will shape who the key players are in defining the national elections held only 13 months later in January 2028.",
-      "paragraph_2": "This is especially true for the Chinese Nationalist Party (KMT). The two key people to watch will be the impact on the relative power and positions of party Chair Cheng Li-wun (鄭麗文) and Taichung Mayor Lu Shiow-yen (盧秀燕), who will be term-limited out as mayor on Christmas Day.",
-      "detail": {
-        "c1": false,
-        "c2": null,
-        "c3": null,
-        "reason": "조건1: 아니오 — 기사는 대만 내 지방선거와 국내 정당 정치 동향을 다루고 있으며, 대만과 중국 국가 간의 직접적인 상호작용(군사행동, 외교 갈등, 경제 제재 등)을 다루지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 평가 불필요합니다. 최종: 아니오"
-      }
-    },
-    "https://www.insurancejournal.com/news/international/2026/11/16/892698.htm|0331|pos": {
-      "ok": false,
-      "article_fetched": true,
-      "title": "Nvidia Scandal Raises New Concerns About Scale of Chinese Spying",
-      "text_len": 2500,
-      "paragraph_1": "The Jensen Huang saga is the latest example of what governments around the world say is a broad push by China to steal commercial and technological secrets and gather intelligence on foreign leaders and military plans.",
-      "paragraph_2": "The revelation that Nvidia Corp.’s now ex-CEO had an affair with a woman suspected of spying for China has rocked the US artificial intelligence boom and thrust allegations that Beijing is seeking to infiltrate Western tech giants into public view. It fits into what foreign officials say is a globe-spanning project.",
+      "paragraph_1": "Field Notes from Taipei",
+      "paragraph_2": "Sign up now: Get insights on Asia's fast-moving developments",
       "detail": {
         "c1": false,
         "c2": false,
         "c3": null,
-        "reason": "조건1: 아니오 — 기사의 주요 내용은 중국의 글로벌 산업 스파이 활동(Nvidia CEO 스캔들, 독일·뉴질랜드 사례 등)이며, 대만은 \"중국이 부채진 군인들을 모집한다\"는 한 문장으로만 언급되어 양자 국가 간 직접 사건이 아니라 제3국 맥락의 곁언급입니다. 조건2: 아니오 — 기사의 전체 논조는 중국의 스파이 활동을 \"위협\", \"침투\", \"침해\"로 묘사하는 명백히 부정적·갈등적 내용인데,"
+        "reason": "조건1: 아니오 — 이 기사는 개인(Jensen Huang CEO와 Alice Huang)의 개인적 스캔들을 다루고 있으며, 대만과 중국 정부 간의 직접적인 국가급 행위(군사 행동, 공식 외교, 정책 등)가 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 보안 위협, 간첩 혐의, 국가 안보 우려 등 부정적 내용이지만, GDELT는 이를 긍정적 협력(+6.4)으로 분류했으므로 논조와 코드가 "
+      }
+    },
+    "https://www.the-independent.com/tech/nvidia-trump-huang-affair-timeline-b3083695.html|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Timeline: How Nvidia’s Jensen Huang became one of Trump’s closest allies | The Independent",
+      "text_len": 2500,
+      "paragraph_1": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+      "paragraph_2": "Already a member? Log in",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-대만 간의 국가급 행위를 다루지 않으며, 대만은 반도체 공급처로만 부수적으로 언급되고 있고 주요 내용은 Trump-Jensen Huang 개인관계와 중국 AI칩 수출 정책에 관한 것입니다. 조건2: 아니오 — 기사의 실제 논조는 Jensen Huang의 중국 스파이 혐의, FBI 수사, Trump과의 의심스러운 관계 등 부정적·갈등적 내용이 주를 이루고 있어 "
+      }
+    },
+    "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/|071|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO | TechCrunch",
+      "text_len": 2500,
+      "paragraph_1": "Jensen Huang has resigned from his position as president and chief executive of Nvidia, the company said on Thursday, just a few days after he admitted to a romantic affair with an alleged Chinese spy, sparking a U.S. national security crisis.",
+      "paragraph_2": "In a regulatory filing , Nvidia said its board accepted Huang’s resignation on Wednesday.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia의 CEO 개인의 사직 소식을 다루고 있으며, 대만 정부와 미국 정부 간의 직접적인 국가급 행위(군사행동, 외교분쟁, 정책 조치 등)를 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 CEO의 스캔들로 인한 회사 위기(주가 급락, 시가총액 감소)를 다루고 있어 부정적이지만, GDELT는 긍정적 코드(+7.4)를 부여했으므로 불일치합니다. 최"
+      }
+    },
+    "https://www.asiaone.com:443/world/us-federal-employees-work-taiwan-government-offices-under-scheme-strengthen-ties|071|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties, World News - AsiaOne",
+      "text_len": 2107,
+      "paragraph_1": "TAIPEI — Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, the de facto US embassy said on Wednesday (Nov 11).",
+      "paragraph_2": "The US, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 미국과 대만 정부 간의 직접적인 양자 협력 프로그램(대만 펠로우십 프로그램)을 중심으로 다루고 있으며, 이는 두 국가의 공식적 인적 교류 및 제도화된 협력을 의도한 사건입니다. 조건2: 예 — 기사의 논조는 미국 연방 직원이 대만 정부 기관에서 일하며 양국 관계를 강화하는 협력 프로그램으로, \"양국 간의 긴밀한 관계 강화\", \"초당적 지지\", \"국민 간 유대\" 등의 긍"
+      }
+    },
+    "https://ksevradio.com/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/|071|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties - KSEV Radio 700",
+      "text_len": 2275,
+      "paragraph_1": "TAIPEI, Nov 11 (Reuters) – Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, the de facto US embassy said on Wednesday.",
+      "paragraph_2": "The United States, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 미국과 대만 정부 간의 Taiwan Fellowship Program 수립이라는 양자 간 직접적인 사건을 다루고 있으며, 이는 대만-미국 관계 강화를 위한 국가급 행위자 간의 협약입니다. 조건2: 예 — 기사의 논조는 \"ties 강화\", \"partnership 확대\", \"bipartisan support\", \"people-to-people ties\" 등 명확하게 협력적"
+      }
+    },
+    "https://kelo.com/2026/11/10/us-federal-employees-to-work-in-taiwan-government-offices-under-scheme-to-strengthen-ties/|071|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "US federal employees to work in Taiwan government offices under scheme to strengthen ties | KELO-AM",
+      "text_len": 2210,
+      "paragraph_1": "TAIPEI, Nov 11 (Reuters) – Some US federal employees will work in Taiwan government offices for up to one year under a new scheme to strengthen already close ties between Taipei and Washington, ​the de facto US embassy said on Wednesday.",
+      "paragraph_2": "The United ‌States, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is its most important international backer and arms supplier — a persistent sticking point in its relations with Beijing.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 미국과 대만 정부 간의 Taiwan Fellowship Program 출범이라는 양국 정부 수준의 직접적 협력 사건을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 \"관계 강화\", \"협력 확대\", \"우호적 관계\", \"양국 간 긴밀한 협력\"으로 명확히 긍정적이며, 이는 GoldsteinScale +7.4(협력적/긍정적)와 완전히 일치합니다. 최종: 예"
       }
     }
   }
