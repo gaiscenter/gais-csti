@@ -1,0 +1,148 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T09:09:42.930855",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 21,
+ "n_coded": 18,
+ "n_relevant": 0,
+ "stats": {
+  "api_calls": 21,
+  "api_failures": 0,
+  "unparseable": 3,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 220720,
+  "input_uncached": 3976,
+  "folded": 0
+ },
+ "articles": {
+  "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-expands-partnerships-with-amkor-foxconn-spil-tsmc-other-suppliers-to-meet-ai-demand/135946390": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Nvidia Boosts Manufacturing Partnerships to Meet Soaring AI Demand, ETTelecom"
+  },
+  "https://news.webindia123.com/news/Articles/Business/20261118/4521076.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "NVIDIA expands supply chain commitments to support AI infrastructure growth"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan in ‘close contact’ with US ahead of US-China-Russia talks at APEC - Internazionale"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s import of Taiwan fish attempts to influence election: official - Taipei Times"
+  },
+  "https://www.guampdn.com/news/maria-a-ulloa-lixing-elementary-schools-sign-sister-school-agreement-in-taipei/article_369d011b-e8a3-4996-b8fb-c631a434493c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Maria A. Ulloa, Lixing Elementary Schools sign sister school agreement in Taipei | News | guampdn.com"
+  },
+  "https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "APEC summit: Putin, Xi meet ahead of trilateral with Trump"
+  },
+  "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "What we know about China's military exercises around Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Acer’s Shih departs for APEC in Shenzhen - Taipei Times"
+  },
+  "https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "What tech CEOs have said about Jensen Huang resigning from Nvidia"
+  },
+  "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors | CBC News"
+  },
+  "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "What is Trump hoping to achieve at APEC meeting in China? | Donald Trump News | Al Jazeera"
+  },
+  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-rules-out-jensen-huangs-return-as-ceo-begins-search-for-successor/articleshow/135948851.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia rules out Jensen Huang's return as CEO, begins search for successor - The Economic Times"
+  },
+  "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Jensen Huang may be gone, Nvidia shows it's still at the center of AI"
+  },
+  "https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "What Trump said and did in his first hours in Manila | Philstar.com"
+  },
+  "https://www.uschamber.com/taxes/u-s-chamber-others-urge-senate-passage-of-u-s-taiwan-double-tax-relief": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "U.S. Chamber Urges Senate Passage of U.S.–Taiwan Double Tax Relief This Year | U.S. Chamber of Commerce"
+  },
+  "https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia chair says the board will not rehire Huang as CEO, Money News - AsiaOne"
+  },
+  "https://interaksyon.philstar.com/trends-spotlights/2026/11/18/322083/nvidia-chair-dismisses-idea-of-rehiring-huang-and-vows-fast-search/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Nvidia chair dismisses idea of rehiring Huang and vows fast search"
+  },
+  "https://asia.nikkei.com/politics/international-relations/apec/apec-live-russia-s-putin-malaysia-s-anwar-lob-veiled-critiques-at-us": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "APEC live: Shenzhen wows Thai, Australian and Canadian leaders - Nikkei Asia"
+  }
+ }
+}

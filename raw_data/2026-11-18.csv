@@ -1,0 +1,100 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-18,TAIWAN,NVIDIA,010,0.0,10,False,False,False,https://telecom.economictimes.indiatimes.com/news/devices/nvidia-expands-partnerships-with-amkor-foxconn-spil-tsmc-other-suppliers-to-meet-ai-demand/135946390
+2026-11-18,TAIWANESE,UNITED STATES,043,2.8,2,False,False,False,https://focustaiwan.tw/politics/202611180009
+2026-11-18,TAIWAN,TEXAS,020,3.0,14,False,False,True,https://focustaiwan.tw/politics/202611180009
+2026-11-18,UNITED STATES,TAIWANESE,042,1.9,2,False,False,False,https://focustaiwan.tw/politics/202611180009
+2026-11-18,UNITED STATES,TAIWANESE,042,1.9,2,False,False,False,https://focustaiwan.tw/politics/202611180009
+2026-11-18,TEXAS,TAIWANESE,042,1.9,6,False,False,False,https://focustaiwan.tw/politics/202611180009
+2026-11-18,TAIWANESE,UNITED STATES,043,2.8,2,False,False,False,https://focustaiwan.tw/politics/202611180009
+2026-11-18,TAIWANESE,TEXAS,043,2.8,6,False,False,False,https://focustaiwan.tw/politics/202611180009
+2026-11-18,XIAMEN,TAIWAN,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968
+2026-11-18,TAIWAN,XIAMEN,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968
+2026-11-18,TAIWANESE,UNITED STATES,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867969
+2026-11-18,UNITED STATES,TAIWANESE,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867969
+2026-11-18,UNITED STATES,TAIWANESE,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867969
+2026-11-18,TEXAS,TAIWANESE,042,1.9,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867969
+2026-11-18,CHINESE,TAIWAN,015,0.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968
+2026-11-18,CHINESE,TAIWAN,015,0.0,8,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968
+2026-11-18,XIAMEN,TAIWAN,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968
+2026-11-18,TAIWAN,XIAMEN,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968
+2026-11-18,TAIWANESE,UNITED STATES,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867969
+2026-11-18,TAIWANESE,TEXAS,043,2.8,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867969
+2026-11-18,TAIWAN,SHENZHEN,050,3.5,1,False,False,False,https://asia.nikkei.com/politics/international-relations/apec/apec-live-russia-s-putin-malaysia-s-anwar-lob-veiled-critiques-at-us
+2026-11-18,TAIWAN,SHENZHEN,050,3.5,1,False,False,False,https://asia.nikkei.com/politics/international-relations/apec/apec-live-russia-s-putin-malaysia-s-anwar-lob-veiled-critiques-at-us
+2026-11-18,XI JINPING,TAIPEI,042,1.9,1,False,False,True,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,TAIWAN,CHINA,046,7.0,2,False,False,False,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,TAIPEI,XI JINPING,043,2.8,1,False,False,True,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,TAIPEI,XI JINPING,043,2.8,3,False,False,True,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,CHINA,TAIWANESE,120,-4.0,2,False,False,False,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,CHINA,TAIWANESE,120,-4.0,6,False,False,True,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,CHINA,TAIWANESE,120,-4.0,2,False,False,False,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,XI JINPING,TAIPEI,042,1.9,4,False,False,True,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,TAIPEI,XI JINPING,043,2.8,1,False,False,True,https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719
+2026-11-18,TAIWAN,UNITED STATES,100,-5.0,1,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,UNITED STATES,TAIWAN,011,-0.1,4,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,UNITED STATES,TAIWAN,050,3.5,4,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,UNITED STATES,TAIWAN,051,3.4,2,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,NVIDIA,TAIWAN,100,-5.0,2,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,TAIWAN,UNITED STATES,100,-5.0,1,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,TAIWAN,UNITED STATES,100,-5.0,2,False,False,False,https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/
+2026-11-18,TAIWAN,CHINESE,040,1.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila
+2026-11-18,TAIWAN,CHINESE,040,1.0,3,False,False,True,https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila
+2026-11-18,TAIWAN,CHINESE,040,1.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila
+2026-11-18,TAIWAN,CHINESE,040,1.0,3,False,False,True,https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila
+2026-11-18,TAIWAN,CHINESE,040,1.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila
+2026-11-18,TAIWAN,CHINESE,040,1.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila
+2026-11-18,UNITED STATES,TAIWAN,025,-0.3,2,False,False,False,https://www.uschamber.com/taxes/u-s-chamber-others-urge-senate-passage-of-u-s-taiwan-double-tax-relief
+2026-11-18,UNITED STATES,TAIWAN,025,-0.3,2,False,False,False,https://www.uschamber.com/taxes/u-s-chamber-others-urge-senate-passage-of-u-s-taiwan-double-tax-relief
+2026-11-18,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620
+2026-11-18,TAIWAN,NVIDIA,020,3.0,4,False,False,False,https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620
+2026-11-18,TAIWAN,NVIDIA,042,1.9,4,False,False,False,https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620
+2026-11-18,TAIWAN,NVIDIA,100,-5.0,2,False,False,False,https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620
+2026-11-18,CHINA,TAIWAN,016,-2.0,1,False,False,False,https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo
+2026-11-18,CHINA,TAIWAN,016,-2.0,1,False,False,False,https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo
+2026-11-18,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo
+2026-11-18,TAIWAN,CHINA,050,3.5,4,False,False,False,https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china
+2026-11-18,TAIWAN,CHINA,050,3.5,2,False,False,False,https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china
+2026-11-18,CHINA,TAIWAN,050,3.5,4,False,False,False,https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china
+2026-11-18,CHINA,TAIWAN,050,3.5,2,False,False,False,https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china
+2026-11-18,TAOYUAN,NVIDIA,030,4.0,10,False,False,False,https://news.webindia123.com/news/Articles/Business/20261118/4521076.html
+2026-11-18,CHINA,TAIWAN,150,-7.2,2,True,False,False,http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan
+2026-11-18,CHINA,TAIWAN,150,-7.2,2,True,False,False,http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan
+2026-11-18,CHINA,TAIWAN,150,-7.2,6,True,False,False,http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan
+2026-11-18,TAIWAN,CHINA,036,4.0,4,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit
+2026-11-18,TAIWAN,CHINA,036,4.0,8,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit
+2026-11-18,TAIPEI,CHINA,036,4.0,2,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit
+2026-11-18,TAIPEI,CHINA,046,7.0,2,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit
+2026-11-18,CHINA,TAIWAN,011,-0.1,10,False,False,True,https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit
+2026-11-18,CHINA,TAIWAN,036,4.0,10,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit
+2026-11-18,TAIWAN,BEIJING,120,-4.0,5,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963
+2026-11-18,TAIWAN,BEIJING,042,1.9,5,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963
+2026-11-18,BEIJING,TAIWAN,043,2.8,5,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963
+2026-11-18,CHINA,TAIWAN,043,2.8,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963
+2026-11-18,TAIWAN,CHINA,042,1.9,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963
+2026-11-18,TAIWAN,CHINA,120,-4.0,2,False,False,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963
+2026-11-18,NVIDIA,TAIWAN,090,-2.0,1,False,False,False,https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-rules-out-jensen-huangs-return-as-ceo-begins-search-for-successor/articleshow/135948851.cms
+2026-11-18,CHINA,TAIWAN,016,-2.0,4,False,False,False,https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-rules-out-jensen-huangs-return-as-ceo-begins-search-for-successor/articleshow/135948851.cms
+2026-11-18,NVIDIA,TAIWAN,110,-2.0,2,False,False,False,https://interaksyon.philstar.com/trends-spotlights/2026/11/18/322083/nvidia-chair-dismisses-idea-of-rehiring-huang-and-vows-fast-search/
+2026-11-18,NVIDIA,TAIWAN,090,-2.0,1,False,False,False,https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-rules-out-jensen-huangs-return-as-ceo-begins-search-for-successor/articleshow/135948851.cms
+2026-11-18,NVIDIA,TAIWAN,110,-2.0,2,False,False,False,https://interaksyon.philstar.com/trends-spotlights/2026/11/18/322083/nvidia-chair-dismisses-idea-of-rehiring-huang-and-vows-fast-search/
+2026-11-18,NVIDIA,TAIWAN,120,-4.0,4,False,False,False,https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html
+2026-11-18,TAIWAN,SHENZHEN,042,1.9,2,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,BEIJING,042,1.9,12,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,CHINA,042,1.9,4,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,BEIJING,120,-4.0,14,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,SHENZHEN,TAIWAN,043,2.8,2,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,CHINA,TAIWAN,051,3.4,4,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,BEIJING,TAIWAN,043,2.8,12,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,CHINA,TAIWAN,043,2.8,4,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,SHENZHEN,042,1.9,12,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,SHENZHEN,TAIWAN,043,2.8,14,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,CHINA,TAIWAN,051,3.4,4,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,SHENZHEN,TAIWAN,051,3.4,12,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,BEIJING,TAIWAN,043,2.8,4,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,SHENZHEN,042,1.9,2,False,False,False,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,BEIJING,042,1.9,4,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,TAIWAN,CHINA,120,-4.0,2,False,False,True,https://focustaiwan.tw/politics/202611180004
+2026-11-18,GUAM,TAIPEI,042,1.9,8,False,False,False,https://www.guampdn.com/news/maria-a-ulloa-lixing-elementary-schools-sign-sister-school-agreement-in-taipei/article_369d011b-e8a3-4996-b8fb-c631a434493c.html
+2026-11-18,TAIPEI,GUAM,043,2.8,8,False,False,False,https://www.guampdn.com/news/maria-a-ulloa-lixing-elementary-schools-sign-sister-school-agreement-in-taipei/article_369d011b-e8a3-4996-b8fb-c631a434493c.html
+2026-11-18,TAIPEI,GUAM,043,2.8,2,False,False,False,https://www.guampdn.com/news/maria-a-ulloa-lixing-elementary-schools-sign-sister-school-agreement-in-taipei/article_369d011b-e8a3-4996-b8fb-c631a434493c.html
+2026-11-18,GUAM,TAIPEI,042,1.9,2,False,False,False,https://www.guampdn.com/news/maria-a-ulloa-lixing-elementary-schools-sign-sister-school-agreement-in-taipei/article_369d011b-e8a3-4996-b8fb-c631a434493c.html
