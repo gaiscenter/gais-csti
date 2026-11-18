@@ -1,20 +1,20 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T09:09:42.930855",
+ "generated_at": "2026-11-18T21:37:43.868276",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 21,
- "n_coded": 18,
+ "n_articles": 49,
+ "n_coded": 43,
  "n_relevant": 0,
  "stats": {
-  "api_calls": 21,
+  "api_calls": 31,
   "api_failures": 0,
-  "unparseable": 3,
+  "unparseable": 6,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 220720,
-  "input_uncached": 3976,
+  "cache_read": 331080,
+  "input_uncached": 4150,
   "folded": 0
  },
  "articles": {
@@ -143,6 +143,181 @@
    },
    "mentions": 1,
    "title": "APEC live: Shenzhen wows Thai, Australian and Canadian leaders - Nikkei Asia"
+  },
+  "https://www.sigmalive.com/news/international/1338181/sentzen-oi-krifes-atzentes-kai-oi-sighkroyomenoi-stokhoi-tramp-si-kai-poutin": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Σεντζέν: Οι κρυφές ατζέντες και οι συγκρουόμενοι στόχοι Τραμπ, Σι και Πούτιν - Sigmalive"
+  },
+  "https://ziare.com/trilaterala-china/basescu-dezvaluie-adevarata-miza-summit-xi-trump-putin-2048571": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Traian Băsescu dezvăluie adevărata miză a summitului Xi-Trump-Putin din China: „Categoric, nu este asta”. Ce rezultat ar fi favorabil României"
+  },
+  "https://www.lifo.gr/now/world/economist-gia-tramp-pos-i-synantisi-me-si-kai-poytin-odigei-stin-apisteyti-syrriknosi-tis": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Economist για Τραμπ: Πώς η συνάντηση με Σι και Πούτιν οδηγεί στην απίστευτη συρρίκνωση της πολιτικής κληρονομιάς του | LiFO"
+  },
+  "https://www.dailymail.com/snapchat/article-16302163/Love-rat-Jensen-Huang-hired-nepo-baby-daughter-Nvidia-insults-drove-12-execs-quit.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Love rat Jensen Huang hired his nepo baby daughter at Nvidia, but 'her insults drove 12 execs to quit' | Daily Mail Online"
+  },
+  "https://siol.net/novice/svet/kitajska-zalitev-za-putina-ki-jo-je-ta-molce-sprejel-706602": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Kitajska žalitev za Putina, ki jo je ta molče sprejel? - siol.net"
+  },
+  "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Piecemeal wars: A new kind of world war is already under way | United Nations | Al Jazeera"
+  },
+  "https://www.lbc.co.uk/article/trump-putin-and-xi-meet-ahead-of-historic-summit-5HjdnDy_2/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Superpowers shake hands: Trump, Putin and Xi meet ahead of unprecedented summit | LBC"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/a-global-carve-up-fears-of-trump-xi-putin-striking-a-grand-bargain/articleshow/135964702.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "A global carve-up? Fears of Trump, Xi, Putin striking a grand bargain - The Economic Times"
+  },
+  "https://focustaiwan.tw/politics/202611180021": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Veterans affairs chief warns military personnel about Facebook page - Focus Taiwan"
+  },
+  "https://english.news.cn/20261118/f8b921b318fb48ab9169d0d4adfe97eb/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Observing Taiwan's \"penny economy\": night market vendors hope for return of mainland tourists-Xinhua"
+  },
+  "https://economictimes.indiatimes.com/news/international/world-news/putin-trump-xi-three-men-three-different-agendas/articleshow/135964205.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Putin-Trump-Xi: Three men, three different agendas - The Economic Times"
+  },
+  "https://www.timeslive.co.za/news/world/2026-11-18-analysis-russian-military-aircraft-deployment-sends-potent-message-to-asia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "ANALYSIS | Russian military aircraft deployment sends potent message to Asia"
+  },
+  "https://whbl.com/2026/11/18/analysis-russian-military-aircraft-deployment-sends-potent-message-to-asia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Analysis-Russian military aircraft deployment sends potent message to Asia | 1330 & 101.5 WHBL"
+  },
+  "https://www.telegraph.co.uk/world-news/2026/11/18/china-unshakeable-alliance-russia-xi-putin-meeting-apec/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Russia and China reach ‘new level’ of military cooperation"
+  },
+  "https://www.athensvoice.gr/epikairotita/diethni/998229/si-trab-poutin-mia-oikogeneiaki-fotografia-treis-diaforetikes-atzedes-sto-sedzen/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Σι - Τραμπ - Πούτιν: Μία οικογενειακή φωτογραφία, τρεις διαφορετικές ατζέντες στο Σεντζέν | Athens Voice"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5645636": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas - 焦點 - 自由時報電子報"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867998": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan eyeing US-China-Russia talks - Taipei Times"
+  },
+  "https://aa.com.tr/en/asia-pacific/chinese-japanese-leaders-shake-hands-at-apec-summit-amid-soured-ties/4129510": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Chinese, Japanese leaders shake hands at APEC summit amid soured ties"
+  },
+  "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump warned Xi and Putin will team up against him in China talks | Fox News"
+  },
+  "https://www.dw.com/en/apec-summit-xi-greets-trump-on-arrival-in-shenzhen/live-79964719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China"
+  },
+  "https://lufkindailynews.com/news_reuters/top_news/analysis-russian-military-aircraft-deployment-sends-potent-message-to-asia/article_ace6f888-4861-5801-b0f7-397bcde6350a.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Analysis-Russian military aircraft deployment sends potent message to Asia | Top News | lufkindailynews.com"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5645634": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "《TAIPEI TIMES》 Taiwan eyeing US-China-Russia talks - 焦點 - 自由時報電子報"
+  },
+  "https://www.irishtimes.com/world/asia-pacific/2026/11/18/why-did-vladimir-putin-deploy-two-nuclear-bombers-before-us-china-russia-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Why did Vladimir Putin deploy two nuclear bombers before US-China-Russia summit? – The Irish Times"
+  },
+  "https://www.euronews.com/2026/11/18/mexico-owns-the-only-non-chinese-panda-in-the-world-president-has-asked-xi-jinping-for-a-m": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Mexico owns the only non-Chinese panda in the world: President Sheinbaum asks Xi Jinping for a mate | Euronews"
+  },
+  "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China"
   }
  }
 }
