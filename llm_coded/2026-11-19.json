@@ -1,0 +1,207 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T09:34:29.810112",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 25,
+ "n_coded": 25,
+ "n_relevant": 2,
+ "stats": {
+  "api_calls": 25,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 264864,
+  "input_uncached": 4131,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.chronicle.lu/category/international-news/64742-japans-position-on-taiwan-has-not-changed-pm-takaichi-says": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Japan's Position on Taiwan has Not Changed, PM Takaichi Says"
+  },
+  "https://focustaiwan.tw/society/202611190003": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Taiwan headline news - Focus Taiwan"
+  },
+  "https://www.elmundo.es/internacional/2026/11/19/6afe5a8b21efa0b80d8b4572.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump y Xi exhiben su sintonía en Shenzhen: \"Creo que mientras tú y yo estemos al mando, nunca tendremos ningún problema\" | Internacional"
+  },
+  "https://www.milliyet.com.tr/yazarlar/hakki-ocal/bir-yalta-gerekiyor-ama-uc-ulke-arasinda-degil-7703426": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Bir Yalta gerekiyor; ama üç ülke arasında değil! - Hakkı Öcal"
+  },
+  "https://www.rbc.ua/rus/news/navishcho-trampu-zustrich-iz-putinim-i-si-1795072916.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Трамп хоче повернути дипломатичну ініціативу на зустрічі з Путіним і Сі Цзіньпіном - експерт | РБК-Україна"
+  },
+  "https://www.5-tv.ru/news/5096202/tramp-podderzal-poziciu-kitaa-vspore-vokrug-nezavisimosti-tajvana/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Позиция Трампа в споре вокруг независимости Тайваня"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/19/2003868031": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China’s Taiwan strategy faces test in upcoming elections: US report - Taipei Times"
+  },
+  "https://yle.fi/a/7-10108861": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi, Putin och Trump har olika mål i sitt historiska möte | Utrikes | Svenska Yle"
+  },
+  "https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "EU lawmakers accuse Chinese officials of intimidation over Taiwan – POLITICO"
+  },
+  "https://www.lbc.co.uk/article/putin-expecting-a-big-potential-benefit-from-meeting-with-trump-xi-5HjdnG8_2/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Putin expecting a 'big potential benefit' from historic trilateral meeting with Trump and Xi | LBC"
+  },
+  "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan reports two Russian military aircraft nearby, second time this week | The Straits Times"
+  },
+  "https://www.dnes.bg/a/2-svyat/742863-elena-poptodorova-shandzhan-nyama-da-rodi-nov-svetoven-red-no-mozhe-da-uskori-razpada-na-dosegashniya": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Елена Поптодорова: Шънджън няма да роди нов световен ред, но може да ускори разпада на досегашния - Новини от Dnes.bg"
+  },
+  "https://www.inewsgr.com/182/H-iaponia-diatirei-tin-idia-thesi-se-schesi-me-tin-taivan-leei-i-prothypourgos-takatsi.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "H Ιαπωνία διατηρεί την ίδια θέση σε σχέση με την Ταϊβάν, λέει η πρωθυπουργός Τακαΐτσι - H iaponia diatirei tin idia thesi se schesi me tin taivan, leei i prothypourgos takaΐtsi"
+  },
+  "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "China Sees an Opening as Scandal Topples the President of Taiwan’s Last South American Ally | The Epoch Times"
+  },
+  "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Neocloud and Transshipment: How China Sneaks AI Compute From the World | The Epoch Times"
+  },
+  "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Radio Station WHMI 93.5 FM — Livingston County Michigan News, Weather, Traffic, Sports, School Updates, and the Best Classic Hit"
+  },
+  "https://english.news.cn/20261119/37bc6d12436d47de8ed9577a1a8f855a/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Xi says China-U.S. relations generally stable, positive-Xinhua"
+  },
+  "https://www.koreaherald.com/article/10943078": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "BTS kicks off Asia-Pacific leg of ‘Arirang’ world tour in Kaohsiung - The Korea Herald"
+  },
+  "https://www.news247.gr/magazine/world/poios-leipei-apo-ti-fotografia-si-trab-kai-poutin-kai-giati-mas-afora/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Ποιος λείπει από τη φωτογραφία Σι, Τραμπ και Πούτιν"
+  },
+  "http://www.zerohedge.com/news/2026-11-18/nvidias-record-quarter-and-jensen-question": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia’s $110 Billion Woman<!-- --> | ZeroHedge"
+  },
+  "https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "IN PHOTOS: Donald Trump, Xi Jinping and Vladimir Putin begin unprecedented summit in China"
+  },
+  "https://www.businesstimes.com.sg/international/global/china-airport-greetings-show-how-xi-views-trump-putin-takaichi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "China airport greetings show how Xi views Trump, Putin, Takaichi - The Business Times"
+  },
+  "https://www.asiaone.com:443/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-week": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan reports two Russian military aircraft nearby, second time this week, Asia News - AsiaOne"
+  },
+  "https://www.thenational.com.pg/closing-taiwan-office-not-easy/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 1,
+   "title": "Closing Taiwan office ‘not easy’ | The National"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "China airport greetings show how Xi views Trump, Putin, Takaichi | The Star"
+  }
+ }
+}

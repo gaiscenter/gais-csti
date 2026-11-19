@@ -1,0 +1,78 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-19,TAIWAN,BEIJING,016,-2.0,6,False,False,True,https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week
+2026-11-19,TAIWAN,CHINA,016,-2.0,2,False,False,True,https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week
+2026-11-19,TAIWAN,BEIJING,016,-2.0,2,False,False,True,https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week
+2026-11-19,CHINA,TAIWAN,051,3.4,2,False,False,False,https://www.dnes.bg/a/2-svyat/742863-elena-poptodorova-shandzhan-nyama-da-rodi-nov-svetoven-red-no-mozhe-da-uskori-razpada-na-dosegashniya
+2026-11-19,CHINA,TAIWAN,051,3.4,2,False,False,False,https://www.dnes.bg/a/2-svyat/742863-elena-poptodorova-shandzhan-nyama-da-rodi-nov-svetoven-red-no-mozhe-da-uskori-razpada-na-dosegashniya
+2026-11-19,CHINA,TAIWAN,051,3.4,6,False,False,False,https://www.dnes.bg/a/2-svyat/742863-elena-poptodorova-shandzhan-nyama-da-rodi-nov-svetoven-red-no-mozhe-da-uskori-razpada-na-dosegashniya
+2026-11-19,CHINESE,TAIWAN,180,-9.0,6,False,False,False,https://www.inewsgr.com/182/H-iaponia-diatirei-tin-idia-thesi-se-schesi-me-tin-taivan-leei-i-prothypourgos-takatsi.htm
+2026-11-19,CHINA,TAIWAN,180,-9.0,4,False,False,False,https://www.inewsgr.com/182/H-iaponia-diatirei-tin-idia-thesi-se-schesi-me-tin-taivan-leei-i-prothypourgos-takatsi.htm
+2026-11-19,WASHINGTON,TAIWAN,120,-4.0,10,False,False,False,https://www.elmundo.es/internacional/2026/11/19/6afe5a8b21efa0b80d8b4572.html
+2026-11-19,CHINA,TAIWAN,160,-4.0,1,False,False,True,https://www.thenational.com.pg/closing-taiwan-office-not-easy/
+2026-11-19,CHINA,TAIWAN,110,-2.0,1,False,False,False,https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/
+2026-11-19,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,https://english.news.cn/20261119/37bc6d12436d47de8ed9577a1a8f855a/c.html
+2026-11-19,TAIWAN,THE US,100,-5.0,1,False,False,False,https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/
+2026-11-19,TAIWAN,THE US,100,-5.0,1,False,False,False,https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/
+2026-11-19,CHINA,TAIWAN,110,-2.0,1,False,False,False,https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/
+2026-11-19,TAIWAN,THE US,100,-5.0,3,False,False,False,https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/
+2026-11-19,UNITED STATES,TAIWAN,110,-2.0,5,False,False,False,https://english.news.cn/20261119/37bc6d12436d47de8ed9577a1a8f855a/c.html
+2026-11-19,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,https://english.news.cn/20261119/37bc6d12436d47de8ed9577a1a8f855a/c.html
+2026-11-19,SHENZHEN,TAIWAN,020,3.0,16,False,False,False,https://www.chronicle.lu/category/international-news/64742-japans-position-on-taiwan-has-not-changed-pm-takaichi-says
+2026-11-19,SHENZHEN,TAIWAN,020,3.0,4,False,False,False,https://www.chronicle.lu/category/international-news/64742-japans-position-on-taiwan-has-not-changed-pm-takaichi-says
+2026-11-19,TAIWAN,BEIJING,016,-2.0,2,False,False,True,https://www.asiaone.com:443/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-week
+2026-11-19,UNITED STATES,KAOHSIUNG,043,2.8,4,False,False,False,https://www.koreaherald.com/article/10943078
+2026-11-19,KAOHSIUNG,UNITED STATES,042,1.9,4,False,False,False,https://www.koreaherald.com/article/10943078
+2026-11-19,CHINA,TAIWAN,100,-5.0,2,False,False,False,https://www.rbc.ua/rus/news/navishcho-trampu-zustrich-iz-putinim-i-si-1795072916.html
+2026-11-19,WASHINGTON,TAIWAN,110,-2.0,8,False,False,False,https://www.5-tv.ru/news/5096202/tramp-podderzal-poziciu-kitaa-vspore-vokrug-nezavisimosti-tajvana/
+2026-11-19,CHINA,TAIWAN,100,-5.0,8,False,False,False,https://www.rbc.ua/rus/news/navishcho-trampu-zustrich-iz-putinim-i-si-1795072916.html
+2026-11-19,CHINA,TAIWANESE,110,-2.0,8,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/19/2003868031
+2026-11-19,CHINA,TAIWAN,075,7.0,10,False,False,False,https://www.milliyet.com.tr/yazarlar/hakki-ocal/bir-yalta-gerekiyor-ama-uc-ulke-arasinda-degil-7703426
+2026-11-19,CHINA,TAIWAN,111,-2.0,1,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi
+2026-11-19,WASHINGTON,TAIWAN,050,3.5,1,False,False,False,https://www.news247.gr/magazine/world/poios-leipei-apo-ti-fotografia-si-trab-kai-poutin-kai-giati-mas-afora/
+2026-11-19,UNITED STATES,TAIWAN,050,3.5,2,False,False,False,https://www.news247.gr/magazine/world/poios-leipei-apo-ti-fotografia-si-trab-kai-poutin-kai-giati-mas-afora/
+2026-11-19,WASHINGTON,TAIWAN,050,3.5,4,False,False,False,https://www.news247.gr/magazine/world/poios-leipei-apo-ti-fotografia-si-trab-kai-poutin-kai-giati-mas-afora/
+2026-11-19,WASHINGTON,TAIWAN,050,3.5,1,False,False,False,https://www.news247.gr/magazine/world/poios-leipei-apo-ti-fotografia-si-trab-kai-poutin-kai-giati-mas-afora/
+2026-11-19,CHINESE,TAIWAN,040,1.0,2,False,False,False,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIWAN,CHINESE,040,1.0,6,False,False,True,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIPEI,CHINESE,043,2.8,2,False,False,False,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIPEI,CHINESE,043,2.8,4,False,False,True,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIWAN,NVIDIA,173,-5.0,6,False,False,True,https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337
+2026-11-19,TAIWAN,CHINESE,040,1.0,2,False,False,False,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIWAN,NVIDIA,173,-5.0,2,False,False,True,https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337
+2026-11-19,CHINESE,TAIWAN,040,1.0,6,False,False,True,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,CHINESE,TAIPEI,042,1.9,2,False,False,False,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,CHINESE,TAIPEI,042,1.9,4,False,False,True,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,CHINESE,TAIPEI,042,1.9,2,False,False,False,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,CHINA,TAIWAN,042,1.9,2,False,False,True,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIPEI,CHINESE,043,2.8,2,False,False,False,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIWAN,CHINA,043,2.8,2,False,False,True,https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863
+2026-11-19,TAIWAN,NVIDIA,173,-5.0,2,False,False,True,https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337
+2026-11-19,CHINA,TAIWAN,051,3.4,2,False,False,False,https://yle.fi/a/7-10108861
+2026-11-19,CHINA,TAIWAN,051,3.4,8,False,False,False,https://yle.fi/a/7-10108861
+2026-11-19,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,TAIWAN,CHINA,040,1.0,8,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,CHINA,TAIWAN,020,3.0,2,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,CHINA,TAIWAN,040,1.0,8,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,BEIJING,TAIWAN,020,3.0,6,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,BEIJING,TAIWAN,020,3.0,2,False,False,False,https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/
+2026-11-19,CHINESE,TAIWAN,010,0.0,1,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,CHINESE,TAIWAN,016,-2.0,1,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,TAIWAN,AMERICAN,130,-4.4,1,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,CHINESE,TAIWAN,010,0.0,1,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,CHINESE,TAIWAN,016,-2.0,1,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,CHINESE,TAIWAN,016,-2.0,6,False,False,True,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,TAIWAN,AMERICAN,130,-4.4,3,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,TAIWAN,AMERICAN,130,-4.4,1,False,False,False,https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount
+2026-11-19,TAIPEI,XI JINPING,051,3.4,14,False,False,True,https://focustaiwan.tw/society/202611190003
+2026-11-19,SHENZHEN,TAIPEI,043,2.8,14,False,False,False,https://focustaiwan.tw/society/202611190003
+2026-11-19,TAIPEI,SHENZHEN,042,1.9,14,False,False,False,https://focustaiwan.tw/society/202611190003
+2026-11-19,TAIPEI,XI JINPING,051,3.4,6,False,False,True,https://focustaiwan.tw/society/202611190003
+2026-11-19,CHINA,TAIWAN,043,2.8,1,False,False,False,https://www.lbc.co.uk/article/putin-expecting-a-big-potential-benefit-from-meeting-with-trump-xi-5HjdnG8_2/
+2026-11-19,TAIWAN,CHINA,042,1.9,1,False,False,False,https://www.lbc.co.uk/article/putin-expecting-a-big-potential-benefit-from-meeting-with-trump-xi-5HjdnG8_2/
+2026-11-19,TAIWAN,CHINA,042,1.9,7,False,False,False,https://www.lbc.co.uk/article/putin-expecting-a-big-potential-benefit-from-meeting-with-trump-xi-5HjdnG8_2/
+2026-11-19,CHINA,TAIWAN,043,2.8,7,False,False,False,https://www.lbc.co.uk/article/putin-expecting-a-big-potential-benefit-from-meeting-with-trump-xi-5HjdnG8_2/
+2026-11-19,CHINA,TAIWAN,111,-2.0,1,False,False,False,https://www.businesstimes.com.sg/international/global/china-airport-greetings-show-how-xi-views-trump-putin-takaichi
+2026-11-19,CHINA,TAIWAN,111,-2.0,3,False,False,False,https://www.businesstimes.com.sg/international/global/china-airport-greetings-show-how-xi-views-trump-putin-takaichi
+2026-11-19,CHINA,TAIWAN,111,-2.0,1,False,False,False,https://www.businesstimes.com.sg/international/global/china-airport-greetings-show-how-xi-views-trump-putin-takaichi
+2026-11-19,NVIDIA,TAIWAN,050,3.5,4,False,False,False,http://www.zerohedge.com/news/2026-11-18/nvidias-record-quarter-and-jensen-question

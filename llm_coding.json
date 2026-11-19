@@ -1,323 +1,207 @@
 {
- "date": "2026-11-18",
- "generated_at": "2026-11-18T21:37:43.868276",
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T09:34:29.810112",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 49,
- "n_coded": 43,
- "n_relevant": 0,
+ "n_articles": 25,
+ "n_coded": 25,
+ "n_relevant": 2,
  "stats": {
-  "api_calls": 31,
+  "api_calls": 25,
   "api_failures": 0,
-  "unparseable": 6,
+  "unparseable": 0,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 331080,
-  "input_uncached": 4150,
+  "cache_read": 264864,
+  "input_uncached": 4131,
   "folded": 0
  },
  "articles": {
-  "https://www.sigmalive.com/news/international/1338181/sentzen-oi-krifes-atzentes-kai-oi-sighkroyomenoi-stokhoi-tramp-si-kai-poutin": {
+  "https://www.chronicle.lu/category/international-news/64742-japans-position-on-taiwan-has-not-changed-pm-takaichi-says": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 12,
-   "title": "Σεντζέν: Οι κρυφές ατζέντες και οι συγκρουόμενοι στόχοι Τραμπ, Σι και Πούτιν - Sigmalive"
+   "mentions": 16,
+   "title": "Japan's Position on Taiwan has Not Changed, PM Takaichi Says"
   },
-  "https://ziare.com/trilaterala-china/basescu-dezvaluie-adevarata-miza-summit-xi-trump-putin-2048571": {
+  "https://focustaiwan.tw/society/202611190003": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 10,
-   "title": "Traian Băsescu dezvăluie adevărata miză a summitului Xi-Trump-Putin din China: „Categoric, nu este asta”. Ce rezultat ar fi favorabil României"
+   "mentions": 14,
+   "title": "Taiwan headline news - Focus Taiwan"
   },
-  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/18/taiwan-s-apec-envoy-says-he-will-speak-with-other-members-at-china-hosted-summit": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Taiwan in ‘close contact’ with US ahead of US-China-Russia talks at APEC - Internazionale"
-  },
-  "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-expands-partnerships-with-amkor-foxconn-spil-tsmc-other-suppliers-to-meet-ai-demand/135946390": {
+  "https://www.elmundo.es/internacional/2026/11/19/6afe5a8b21efa0b80d8b4572.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Nvidia Boosts Manufacturing Partnerships to Meet Soaring AI Demand, ETTelecom"
+   "title": "Trump y Xi exhiben su sintonía en Shenzhen: \"Creo que mientras tú y yo estemos al mando, nunca tendremos ningún problema\" | Internacional"
   },
-  "https://news.webindia123.com/news/Articles/Business/20261118/4521076.html": {
+  "https://www.milliyet.com.tr/yazarlar/hakki-ocal/bir-yalta-gerekiyor-ama-uc-ulke-arasinda-degil-7703426": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "NVIDIA expands supply chain commitments to support AI infrastructure growth"
+   "title": "Bir Yalta gerekiyor; ama üç ülke arasında değil! - Hakkı Öcal"
   },
-  "https://www.lifo.gr/now/world/economist-gia-tramp-pos-i-synantisi-me-si-kai-poytin-odigei-stin-apisteyti-syrriknosi-tis": {
+  "https://www.rbc.ua/rus/news/navishcho-trampu-zustrich-iz-putinim-i-si-1795072916.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Economist για Τραμπ: Πώς η συνάντηση με Σι και Πούτιν οδηγεί στην απίστευτη συρρίκνωση της πολιτικής κληρονομιάς του | LiFO"
+   "title": "Трамп хоче повернути дипломатичну ініціативу на зустрічі з Путіним і Сі Цзіньпіном - експерт | РБК-Україна"
   },
-  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867968": {
+  "https://www.5-tv.ru/news/5096202/tramp-podderzal-poziciu-kitaa-vspore-vokrug-nezavisimosti-tajvana/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "China’s import of Taiwan fish attempts to influence election: official - Taipei Times"
+   "title": "Позиция Трампа в споре вокруг независимости Тайваня"
   },
-  "https://www.dailymail.com/snapchat/article-16302163/Love-rat-Jensen-Huang-hired-nepo-baby-daughter-Nvidia-insults-drove-12-execs-quit.html": {
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/19/2003868031": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Love rat Jensen Huang hired his nepo baby daughter at Nvidia, but 'her insults drove 12 execs to quit' | Daily Mail Online"
+   "title": "China’s Taiwan strategy faces test in upcoming elections: US report - Taipei Times"
   },
-  "https://www.guampdn.com/news/maria-a-ulloa-lixing-elementary-schools-sign-sister-school-agreement-in-taipei/article_369d011b-e8a3-4996-b8fb-c631a434493c.html": {
+  "https://yle.fi/a/7-10108861": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Maria A. Ulloa, Lixing Elementary Schools sign sister school agreement in Taipei | News | guampdn.com"
+   "title": "Xi, Putin och Trump har olika mål i sitt historiska möte | Utrikes | Svenska Yle"
   },
-  "https://siol.net/novice/svet/kitajska-zalitev-za-putina-ki-jo-je-ta-molce-sprejel-706602": {
+  "https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "EU lawmakers accuse Chinese officials of intimidation over Taiwan – POLITICO"
+  },
+  "https://www.lbc.co.uk/article/putin-expecting-a-big-potential-benefit-from-meeting-with-trump-xi-5HjdnG8_2/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 7,
-   "title": "Kitajska žalitev za Putina, ki jo je ta molče sprejel? - siol.net"
+   "title": "Putin expecting a 'big potential benefit' from historic trilateral meeting with Trump and Xi | LBC"
   },
-  "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "Piecemeal wars: A new kind of world war is already under way | United Nations | Al Jazeera"
-  },
-  "https://www.lbc.co.uk/article/trump-putin-and-xi-meet-ahead-of-historic-summit-5HjdnDy_2/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "Superpowers shake hands: Trump, Putin and Xi meet ahead of unprecedented summit | LBC"
-  },
-  "https://economictimes.indiatimes.com/news/international/world-news/a-global-carve-up-fears-of-trump-xi-putin-striking-a-grand-bargain/articleshow/135964702.cms": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "A global carve-up? Fears of Trump, Xi, Putin striking a grand bargain - The Economic Times"
-  },
-  "https://focustaiwan.tw/politics/202611180021": {
+  "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "Veterans affairs chief warns military personnel about Facebook page - Focus Taiwan"
+   "title": "Taiwan reports two Russian military aircraft nearby, second time this week | The Straits Times"
   },
-  "https://english.news.cn/20261118/f8b921b318fb48ab9169d0d4adfe97eb/c.html": {
+  "https://www.dnes.bg/a/2-svyat/742863-elena-poptodorova-shandzhan-nyama-da-rodi-nov-svetoven-red-no-mozhe-da-uskori-razpada-na-dosegashniya": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "Observing Taiwan's \"penny economy\": night market vendors hope for return of mainland tourists-Xinhua"
+   "title": "Елена Поптодорова: Шънджън няма да роди нов световен ред, но може да ускори разпада на досегашния - Новини от Dnes.bg"
   },
-  "https://economictimes.indiatimes.com/news/international/world-news/putin-trump-xi-three-men-three-different-agendas/articleshow/135964205.cms": {
+  "https://www.inewsgr.com/182/H-iaponia-diatirei-tin-idia-thesi-se-schesi-me-tin-taivan-leei-i-prothypourgos-takatsi.htm": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "Putin-Trump-Xi: Three men, three different agendas - The Economic Times"
+   "title": "H Ιαπωνία διατηρεί την ίδια θέση σε σχέση με την Ταϊβάν, λέει η πρωθυπουργός Τακαΐτσι - H iaponia diatirei tin idia thesi se schesi me tin taivan, leei i prothypourgos takaΐtsi"
   },
-  "https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719": {
+  "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "APEC summit: Putin, Xi meet ahead of trilateral with Trump"
+   "title": "China Sees an Opening as Scandal Topples the President of Taiwan’s Last South American Ally | The Epoch Times"
   },
-  "https://www.timeslive.co.za/news/world/2026-11-18-analysis-russian-military-aircraft-deployment-sends-potent-message-to-asia/": {
+  "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "ANALYSIS | Russian military aircraft deployment sends potent message to Asia"
+   "title": "The Neocloud and Transshipment: How China Sneaks AI Compute From the World | The Epoch Times"
   },
-  "https://whbl.com/2026/11/18/analysis-russian-military-aircraft-deployment-sends-potent-message-to-asia/": {
+  "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "Analysis-Russian military aircraft deployment sends potent message to Asia | 1330 & 101.5 WHBL"
+   "title": "Radio Station WHMI 93.5 FM — Livingston County Michigan News, Weather, Traffic, Sports, School Updates, and the Best Classic Hit"
   },
-  "https://www.telegraph.co.uk/world-news/2026/11/18/china-unshakeable-alliance-russia-xi-putin-meeting-apec/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "Russia and China reach ‘new level’ of military cooperation"
-  },
-  "https://www.athensvoice.gr/epikairotita/diethni/998229/si-trab-poutin-mia-oikogeneiaki-fotografia-treis-diaforetikes-atzedes-sto-sedzen/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "Σι - Τραμπ - Πούτιν: Μία οικογενειακή φωτογραφία, τρεις διαφορετικές ατζέντες στο Σεντζέν | Athens Voice"
-  },
-  "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "What we know about China's military exercises around Taiwan"
-  },
-  "https://news.ltn.com.tw/news/focus/breakingnews/5645636": {
+  "https://english.news.cn/20261119/37bc6d12436d47de8ed9577a1a8f855a/c.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 5,
-   "title": "《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas - 焦點 - 自由時報電子報"
+   "title": "Xi says China-U.S. relations generally stable, positive-Xinhua"
   },
-  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 5,
-   "title": "Acer’s Shih departs for APEC in Shenzhen - Taipei Times"
-  },
-  "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867998": {
+  "https://www.koreaherald.com/article/10943078": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "Taiwan eyeing US-China-Russia talks - Taipei Times"
+   "title": "BTS kicks off Asia-Pacific leg of ‘Arirang’ world tour in Kaohsiung - The Korea Herald"
   },
-  "https://nypost.com/2026/11/17/business/what-tech-ceos-have-said-about-jensen-huang-resigning-from-nvidia/": {
+  "https://www.news247.gr/magazine/world/poios-leipei-apo-ti-fotografia-si-trab-kai-poutin-kai-giati-mas-afora/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "What tech CEOs have said about Jensen Huang resigning from Nvidia"
+   "title": "Ποιος λείπει από τη φωτογραφία Σι, Τραμπ και Πούτιν"
   },
-  "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-rules-out-jensen-huangs-return-as-ceo-begins-search-for-successor/articleshow/135948851.cms": {
+  "http://www.zerohedge.com/news/2026-11-18/nvidias-record-quarter-and-jensen-question": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "Nvidia rules out Jensen Huang's return as CEO, begins search for successor - The Economic Times"
+   "title": "Nvidia’s $110 Billion Woman<!-- --> | ZeroHedge"
   },
-  "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Jensen Huang may be gone, Nvidia shows it's still at the center of AI"
-  },
-  "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "What is Trump hoping to achieve at APEC meeting in China? | Donald Trump News | Al Jazeera"
-  },
-  "https://aa.com.tr/en/asia-pacific/chinese-japanese-leaders-shake-hands-at-apec-summit-amid-soured-ties/4129510": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Chinese, Japanese leaders shake hands at APEC summit amid soured ties"
-  },
-  "https://www.cbc.ca/news/business/nvidia-earnings-jensen-huang-9.7425620": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "No plans to reinstate CEO Jensen Huang, Nvidia chair tells investors | CBC News"
-  },
-  "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount": {
+  "https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 3,
-   "title": "Trump warned Xi and Putin will team up against him in China talks | Fox News"
+   "title": "IN PHOTOS: Donald Trump, Xi Jinping and Vladimir Putin begin unprecedented summit in China"
   },
-  "https://www.philstar.com/headlines/2026/11/18/2570964/what-trump-said-and-did-his-first-hours-manila": {
+  "https://www.businesstimes.com.sg/international/global/china-airport-greetings-show-how-xi-views-trump-putin-takaichi": {
    "tags": {
     "v1": "no"
    },
    "mentions": 3,
-   "title": "What Trump said and did in his first hours in Manila | Philstar.com"
+   "title": "China airport greetings show how Xi views Trump, Putin, Takaichi - The Business Times"
   },
-  "https://www.asiaone.com/money/nvidia-chair-says-board-will-not-rehire-huang-ceo": {
+  "https://www.asiaone.com:443/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-week": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "Nvidia chair says the board will not rehire Huang as CEO, Money News - AsiaOne"
+   "title": "Taiwan reports two Russian military aircraft nearby, second time this week, Asia News - AsiaOne"
   },
-  "https://www.dw.com/en/apec-summit-xi-greets-trump-on-arrival-in-shenzhen/live-79964719": {
+  "https://www.thenational.com.pg/closing-taiwan-office-not-easy/": {
    "tags": {
-    "v1": "no"
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "diplomatic",
+    "v5": "160",
+    "conf": "high"
    },
-   "mentions": 2,
-   "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China"
+   "mentions": 1,
+   "title": "Closing Taiwan office ‘not easy’ | The National"
   },
-  "https://lufkindailynews.com/news_reuters/top_news/analysis-russian-military-aircraft-deployment-sends-potent-message-to-asia/article_ace6f888-4861-5801-b0f7-397bcde6350a.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Analysis-Russian military aircraft deployment sends potent message to Asia | Top News | lufkindailynews.com"
-  },
-  "https://interaksyon.philstar.com/trends-spotlights/2026/11/18/322083/nvidia-chair-dismisses-idea-of-rehiring-huang-and-vows-fast-search/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Nvidia chair dismisses idea of rehiring Huang and vows fast search"
-  },
-  "https://www.uschamber.com/taxes/u-s-chamber-others-urge-senate-passage-of-u-s-taiwan-double-tax-relief": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "U.S. Chamber Urges Senate Passage of U.S.–Taiwan Double Tax Relief This Year | U.S. Chamber of Commerce"
-  },
-  "https://news.ltn.com.tw/news/focus/breakingnews/5645634": {
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi": {
    "tags": {
     "v1": "no"
    },
    "mentions": 1,
-   "title": "《TAIPEI TIMES》 Taiwan eyeing US-China-Russia talks - 焦點 - 自由時報電子報"
-  },
-  "https://www.irishtimes.com/world/asia-pacific/2026/11/18/why-did-vladimir-putin-deploy-two-nuclear-bombers-before-us-china-russia-summit/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "Why did Vladimir Putin deploy two nuclear bombers before US-China-Russia summit? – The Irish Times"
-  },
-  "https://www.euronews.com/2026/11/18/mexico-owns-the-only-non-chinese-panda-in-the-world-president-has-asked-xi-jinping-for-a-m": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "Mexico owns the only non-Chinese panda in the world: President Sheinbaum asks Xi Jinping for a mate | Euronews"
-  },
-  "https://asia.nikkei.com/politics/international-relations/apec/apec-live-russia-s-putin-malaysia-s-anwar-lob-veiled-critiques-at-us": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "APEC live: Shenzhen wows Thai, Australian and Canadian leaders - Nikkei Asia"
-  },
-  "https://www.dw.com/en/apec-summit-xi-trump-and-putin-gather-in-shenzhen-china/live-79964719": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "APEC summit: Xi, Trump and Putin gather in Shenzhen, China"
+   "title": "China airport greetings show how Xi views Trump, Putin, Takaichi | The Star"
   }
  }
 }
