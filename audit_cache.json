@@ -1,7 +1,7 @@
 {
   "date": "2026-11-19",
   "prompt_version": 3,
-  "saved_at": "2026-11-19T09:33:04.557383",
+  "saved_at": "2026-11-19T21:48:48.692756",
   "entries": {
     "https://focustaiwan.tw/society/202611190003|051|pos": {
       "ok": false,
@@ -1121,6 +1121,482 @@
         "c2": false,
         "c3": null,
         "reason": "조건1: 예 — 중국이 대만을 겨냥하여 서태평양에서 100척 이상의 군함과 해안경비정을 동원한 대규모 군사훈련을 실시한 사건으로, 대만의 안보에 직접 영향을 주는 중국의 일방적 군사력 전개이다. 조건2: 아니오 — 기사 논조는 중국의 대규모 비공개 해군력 전개와 군사훈련을 보도하는 것으로 갈등적·위협적 성격이 명백하나, GDELT가 부여한 GoldsteinScale +1.0은 협력적/긍정적 "
+      }
+    },
+    "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show|190|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Blacklisted Chinese universities procured Nvidia chips, records show",
+      "text_len": 2500,
+      "paragraph_1": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has been keen to attract.",
+      "paragraph_2": "In three years, the corporate entity has gone from an inactive Chinese gaming subsidiary to one of Asia’s biggest buyers of cutting-edge semiconductors from the US.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 미국의 대중국 반도체 수출통제, 싱가포르 기업의 칩 거래, 미국 정부의 감시 등을 다루고 있으며, 대만과 중국 간의 직접적인 국가급 행위(군사행동, 위협, 영토분쟁 등)를 다루고 있지 않습니다. 조건2: 예 — 기사의 논조는 반도체 밀수, 첩보 스캔들, 수출통제 회피 의혹 등 부정적 사건들을 담고 있어 갈등적/부정적 평가와 일치합니다. 조건3: 아니오 — 기사의 부"
+      }
+    },
+    "https://aa.com.tr/en/world/in-talks-with-trump-xi-calls-for-china-us-to-manage-disagreements-constructively/4130256|1043|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "In talks with Trump, Xi calls for China, US to manage disagreements 'constructively'",
+      "text_len": 2210,
+      "paragraph_1": "Chinese President Xi Jinping on Thursday called for China and the US to manage their disagreement \"constructively\" while warning Washington against missteps over Taiwan during talks with US President Donald Trump in Shenzen.",
+      "paragraph_2": "Xi said the two leaders had jointly explored the right way for the two major powers to get along over the past few months, according to state-run Xinhua News Agency.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 중국-미국 간 정상회담이며, 대만은 Xi가 Trump에게 한 경고·요구의 맥락에서만 언급되어 있고, 대만과 중국 사이의 직접적인 국가 간 행위(군사행동, 위협, 충돌 등)가 없습니다. 조건2: 예 — 기사는 Xi의 \"대만에 대해 올바른 일을 하라\"는 경고와 \"major setbacks\"를 피하라는 경고 표현을 담고 있어 대만-중국 관계에서 갈등적/부정적"
+      }
+    },
+    "https://www.tribune.gr/world/news/article/960405/to-paraskinio-tis-istorikis-trimeroys-si-tramp-kai-poytin.html|125|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Σι, Τραμπ και Πούτιν | Tribune.gr",
+      "text_len": 2500,
+      "paragraph_1": "Η ιστορική τριμερής συνάντηση κορυφής στη Σεντζέν μεταξύ του Ντόναλντ Τραμπ , του Σι Τζινπίνγκ και του Βλαντίμιρ Πούτιν ανέδειξε μια κοινή στάση αμφισβήτησης απέναντι σε διεθνείς θεσμούς και παραδοσιακούς συμμάχους της Δύσης.",
+      "paragraph_2": "Όπως επισημαίνεται σε ρεπορτάζ διεθνών Μέσων, οι τρεις ηγέτες συζήτησαν το ουκρανικό ζήτημα ερήμην του Κιέβου και των ευρωπαϊκών πρωτευουσών -παρακάμπτοντας τις προσδοκίες τους να μη ληφθούν αποφάσεις χωρίς τη συμμετοχή τους-, ενώ παράλληλα συνυπέγραψαν κοινή διακήρυξη με αιχμές κατά της δικαιοδοσίας του Διεθνούς Ποινικού Δικαστηρίου, το οποίο ο Αμερικανός πρόεδρος χαρακτήρισε ευθέως ως θεσμό « που έχει βγει εκτός ελέγχου ».",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 예 — 기사에서 트럼프가 시진핑과의 양자회담에서 \"미국이 대만의 독립을 지지하지 않는다\"고 명확히 언급했으며, 이는 대만과 중국 간 핵심 쟁점인 대만의 지위에 관한 미국의 입장 변화로서 대만-중국 관계에 직접 영향을 미치는 행위입니다. 조건2: 아니오 — 기사의 실제 논조는 트럼프-시진핑-푸틴 간의 삼각 정상회담과 국제기구에 대한 공동 입장 표현을 보도하는 것으로, 대만 독립 지지 "
+      }
+    },
+    "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Japan and Taiwan scramble fighter jets as Putin's nuclear-capable bombers spotted",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 러시아 폭격기에 대응하여 일본과 대만이 전투기를 출격한 사건을 다루고 있으며, 대만과 시진핑(중국) 간의 직접적인 양자 사건이 아니라 제3국(러시아)의 행동에 대한 대응입니다. 조건2: 아니오 — 기사의 실제 논조는 러시아 핵 폭격기 출격에 대한 군사적 경보 및 긴장 상황을 다루고 있으므로 갈등/위협 성격이지만, GDELT는 긍정적 협력 점수(+7.0)를 부여했으므"
+      }
+    },
+    "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "How US can limit Nvidia damage - The Tribune",
+      "text_len": 2500,
+      "paragraph_1": "ON November 12, Nvidia's board announced that Jensen Huang had resigned as chief executive. Two weeks earlier, US newspapers had reported his relationship with a woman whom US officials suspect of working for Chinese intelligence. For Taiwan, his departure means the loss of its most important informal link with Washington.",
+      "paragraph_2": "Huang, who was born in Taiwan, spent years tying Taiwanese manufacturers such as the TSMC (Taiwan Semiconductor Manufacturing Company Limited), Foxconn and Quanta to the global boom in artificial intelligence.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 엔비디아 CEO 교체라는 미국 기업 내부 사건이며, 대만과 중국(베이징) 간의 직접적인 국가급 행위(군사행동, 외교분쟁, 안보위협 등)를 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 부정적/우려의 내용(대만의 외교적 손실, 미국의 의존도 문제, 미검증된 스파이 혐의로 인한 신뢰 훼손)이므로 긍정적 코드(GoldsteinScale +3."
+      }
+    },
+    "https://telegrafi.com/tajvani-raporton-per-dy-aeroplane-ushtarake-ruse-prane-ishullit-hera-e-dyte-brenda-javes/|120|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Tajvani raporton për dy aeroplanë ushtarakë rusë pranë ishullit, hera e dytë brenda javës - Telegrafi",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사 제목은 \"대만이 러시아 군용기 2대 근처 보고\"를 다루고 있으며, 본문은 네비게이션 메뉴만 제시되어 실제 내용을 확인할 수 없지만, 제목만으로도 이는 대만-중국 사이의 사건이 아니라 대만-러시아 간의 사건입니다. 조건2: 평가불가 — 기사 본문이 제공되지 않아 실제 논조를 확인할 수 없습니다. 조건3: 평가불가 — 기사 본문이 제공되지 않아 판단할 수 없습니다. 최종"
+      }
+    },
+    "https://focustaiwan.tw/politics/202611190024|042|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan participated in APEC summit on 'equal footing': Envoy - Focus Taiwan",
+      "text_len": 2310,
+      "paragraph_1": "Taoyuan, Nov. 19 (CNA) Taiwan participated \"on an equal footing\" in the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China, its representative Stan Shih (施振榮) said Thursday after returning from the summit.",
+      "paragraph_2": "Shih, founder and honorary chairman of Acer Group, made the remarks at Taoyuan International Airport after attending the Nov. 18-19 gathering on behalf of President Lai Ching-te (賴清德).",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 대만 대표가 APEC 정상회담에 참석하여 중국 지도자(시진핑)와 악수하고 상호작용한 대만-중국 간의 직접적인 국가급 사건을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 대만이 \"동등한 입장\"에서 APEC에 참석하고 국제 무대에서 목소리를 내며 각국 지도자들과 우호적으로 상호작용한 긍정적이고 협력적 내용으로, GoldsteinScale +1.9의 협력적/긍정적 "
+      }
+    },
+    "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan/|150|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Trump kramar Xi Jinping och Putin när Kina hotar Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Kina trappar upp hoten mot Taiwan och även Ryssland skickar in bombflygplan i öns luftförsvarszon.",
+      "paragraph_2": "Samtidigt kramas Donald Trump med Xi Jinping och ignorerar referenserna till Taiwan i deras möte med Vladimir Putin.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 중국의 대만에 대한 위협, 군사훈련, 미사일 발사, 영공 침범 등 중국-대만 간 직접적인 안보 갈등을 주요 내용으로 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 중국의 위협 강화, 군사훈련 규모 증가, 러시아와의 협력 군사활동 등을 긴장과 불안정의 신호로 묘사하고 있어, 갈등적/부정적 방향과 일치합니다. 조건3: 아니오 — 기사의 부정적 논조가 대만과 중국 사"
+      }
+    },
+    "https://www.winnipegfreepress.com/world/2026/11/19/takeaways-from-the-historic-summit-between-trump-xi-and-putin|1043|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Takeaways from the historic summit between Trump, Xi and Putin – Winnipeg Free Press",
+      "text_len": 2500,
+      "paragraph_1": "SHENZHEN, China (AP) — The meeting between U.S. President Donald Trump, China’s Xi Jinping and Russia’s Vladimir Putin on Thursday was the first-ever sit-down for the leaders of the three countries.",
+      "paragraph_2": "Read this article for free:",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국, 중국, 러시아 3국 정상회담을 다루고 있으며, 대만과 대만-중국 간의 직접적인 사건(군사행동, 위협, 영토분쟁 등)을 전혀 다루고 있지 않습니다. 조건2: 해당 없음 — 조건1에서 이미 기사가 대만-중국 사건을 다루지 않으므로 평가 대상이 아닙니다. 조건3: 해당 없음 — 조건1에서 이미 기사가 대만-중국 사건을 다루지 않으므로 평가 대상이 아닙니다. 최종:"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868072|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "New Taipei City candidate released on bail - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "The Shilin District Prosecutors’ Office on Tuesday released New Taipei City councilor candidate Chen Chu-yin (陳竹音) on NT$500,000 bail after questioning her on suspicion of breaching the Anti-Infiltration Act (反滲透法).",
+      "paragraph_2": "Chen, a member of the pro-China Labor Party, was summoned in connection to allegations that Beijing is surreptitiously controlling her political campaign, the office said in a statement yesterday.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 검찰이 대만 국내 정치인 후보자를 반침투법 위반 혐의로 조사하는 국내 사법 사건이며, 중국 정부와 대만 정부 간의 직접적 국가급 행위(군사행동, 외교행위, 공식 위협 등)가 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 정치적 개입 혐의, 불법 자금 수수, 반국가 행위에 대한 수사로 명백히 부정적/대립적이며, +5.0의 긍정적 코드와 완전히 불일치합"
+      }
+    },
+    "https://www.okaz.com.sa/politics/na/2276319|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "شي يحذّر ترمب: تايوان قد تفجّر العلاقات بين بكين وواشنطن - أخبار السعودية | صحيفة عكاظ",
+      "text_len": 2500,
+      "paragraph_1": "حذّر الرئيس الصيني شي جين بينغ نظيره الأمريكي دونالد ترمب من أن أي تراجع في الموقف الأمريكي بشأن تايوان قد يؤدي إلى انتكاسة كبيرة في العلاقات بين بكين وواشنطن، داعياً الولايات المتحدة إلى التعامل مع القضية بما يحافظ على استقرار العلاقات الثنائية، وذلك خلال مباحثات تناولت أيضاً مضيق هرمز والتجارة والطاقة والذكاء الاصطناعي والتعاون الأمني.",
+      "paragraph_2": "وقال شي، خلال اجتماعه مع ترمب على هامش منتدى التعاون الاقتصادي لدول آسيا والمحيط الهادئ «أبيك»، اليوم (الخميس)، إن على الجانب الأمريكي تجنب اتخاذ خطوات من شأنها إحداث انتكاسات كبيرة في العلاقات الثنائية، مؤكداً أن قضية تايوان تتطلب تعاملاً حذراً يحافظ على مسار العلاقات بين البلدين. ووصف الرئيس الصيني مسار العلاقات مع واشنطن بأنه يشهد استقراراً وتحسناً إيجابياً، مشيراً إلى أن البلدين عملا خلال الأشهر الماضية على استكشاف طريق جديد للتعامل بين القوتين، تحت مسمى «العلاقات الإستراتيجية المستقرة والبنّاءة»، القائمة على الاحترام والإنصاف والمعاملة بالمثل.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 중국과 미국 지도자 간의 양자 회담이며, 대만은 그 회담에서 논의된 여러 의제 중 하나일 뿐 대만과 중국 간의 직접적인 국가 간 행위(군사행동, 무력시위, 영공침범 등)를 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국과 미국 간의 대화, 협력, 관계 개선을 보도하는 우호적/협력적 내용이지만, GDELT 코드 130과 -4.4는 \"갈"
+      }
+    },
+    "http://www.jpost.com/conferences/article-915400|154|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 중국의 대만에 대한 군사 위협을 주요 주제로 다루고 있으나, 실제 중국-대만 간 직접적 행위(군사훈련, 위협 등)보다는 이스라엘과 호주의 방위전략 재검토 필요성을 강조하는 제3국 전문가들의 평가와 경고에 초점을 맞추고 있으며, 중국-대만 사이의 구체적 갈등 행위는 배경 맥락으로만 언급되어 있습니다. 조건2: 예 — 기사의 논조는 중국의 대만 군사행동 가능성을 \"위협"
+      }
+    },
+    "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Trump-Xi-Putin Summit: Key Takeaways From Shenzhen",
+      "text_len": 2500,
+      "paragraph_1": "Welcome to Foreign Policy ’s China Brief.",
+      "paragraph_2": "The highlights this week: The presidents of China, Russia, and the United States hold a historic trilateral summit in Shenzhen, Japanese Prime Minister Sanae Takaichi receives a cold welcome in China, and fallout from former Nvidia CEO Jensen Huang’s scandal continues.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자 정상회담을 주요 내용으로 다루며, 대만은 영토 분쟁 정당화 맥락에서만 언급되는 제3국 곁가지 참조일 뿐 대만-중국 간의 직접적인 사건(군사행동, 위협, 대면)을 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 삼자 정상회담이 \"사진 기회일 뿐\"이며 \"새로운 얄타 회담 가능성이 본질적으로 오도됨\"을 비판하며, 대만에 대해서는 중국의 영"
+      }
+    },
+    "https://www.deccanchronicle.com/world/trump-xi-putin-agree-on-peace-declaration-2005954|160|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Trump, Xi, Putin Agree on ‘Peace Declaration’",
+      "text_len": 2500,
+      "paragraph_1": "Shenzhen, China: The United States, China and Russia agreed to a \"peace declaration\" reaffirming that a nuclear war should never be fought, Beijing and Moscow announced on Thursday following an unprecedented three-way summit between Presidents Donald Trump, Xi Jinping and Vladimir Putin.",
+      "paragraph_2": "The declaration, released by China's state news agency Xinhua and the Kremlin, also pledged to advance reforms of the United Nations, increase supplies of refined petroleum products to all countries and uphold the immunity enjoyed by state officials in international courts.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자 정상회담을 주요 내용으로 다루며, 대만은 Xi가 Trump에게 경고한 주변적 언급에만 등장하고 대만-미국 간 직접적인 국가급 행위(군사행동, 위협, 충돌 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 평화선언, 핵전쟁 회피, 외교적 접촉 등 우호적·협력적 내용이지만, GoldsteinScale -4.0은 갈등적/부정적 방향을"
+      }
+    },
+    "https://life.ru/p/tramp-zayavil-si-tszinpinu-chto-ssha-ne-podderzhivayut-nezavisimost-tayvanya|110|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Трамп заявил Си Цзиньпину, что США не поддерживают независимость Тайваня",
+      "text_len": 2205,
+      "paragraph_1": "Президент США Дональд Трамп заявил, что Вашингтон не поддерживает независимость Тайваня . Об этом сообщает китайское агентство «Синьхуа» по итогам переговоров американского лидера с председателем КНР Си Цзиньпином.",
+      "paragraph_2": "Заявление прозвучало во время встречи в китайском Шэньчжэне, где проходит саммит АТЭС. Тайваньский вопрос остаётся одним из главных противоречий между двумя державами. Пекин считает остров частью своей территории и добивается воссоединения, тогда как власти Тайваня отвергают претензии КНР на суверенитет.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국-중국 간 대만 문제에 대한 논의이며, 대만-미국 간의 직접적인 국가 행위(위협, 무력시위, 영공침범 등)가 아니라 미국의 중국에 대한 외교적 성명입니다. 조건2: 아니오 — 기사의 실제 논조는 미국이 대만 독립을 지지하지 않는다는 중국 친화적 입장을 보도하는 것으로, 갈등적이기보다는 외교적 협의와 상호이해의 내용이며, GoldsteinScale -"
+      }
+    },
+    "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm|071|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Nvidia Chip Packaging Deal Funds SPIL Lines Making AI Chip Interposer Wafers, Not Just Assembly",
+      "text_len": 2500,
+      "paragraph_1": "Nvidia is funding new production lines at Taiwanese chip-packaging company SPIL that cover bumping, interposer wafer fabrication , assembly and testing, according to the agreement Nvidia announced Tuesday. An interposer is the silicon routing layer that connects an AI processor to its memory stacks. Making interposers has typically been TSMC's CoWoS front-end step , so the scope points to Nvidia financing a second source for part of the front half of an AI chip package, not only more back-end floor space. Neither company has said how the interposers will be made or under what license.",
+      "paragraph_2": "Nvidia released the multiyear agreements at 5:18 p.m. ET Tuesday, naming six partners: Amkor, Foxconn, Kinsus, Samsung Electro-Mechanics, SPIL and TSMC. SPIL said Wednesday in Taiwan that it will triple its advanced packaging capacity there by mid-2029, and Nvidia described its funding as multibillion-dollar without giving a figure.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국 기업(NVIDIA)과 대만 기업(SPIL)의 민간 비즈니스 거래를 다루고 있으며, 대만과 미국 정부/국가급 행위자 간의 사건이 아닙니다. 조건2: 예 — 기사의 논조는 NVIDIA의 자금 지원과 SPIL의 생산 능력 확대에 관한 협력적이고 우호적인 내용으로, 양수의 Goldstein Scale(+7.4)과 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.taipeitimes.com/News/editorials/archives/2026/11/20/2003868056|124|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Russian military aircraft deployment sends potent message to Asia - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "In staging its most significant deployment of military aircraft across East Asia in possibly more than a decade this week, Russia is displaying its enduring reach and likely sending a potent message ahead of this week’s US-China-Russia meeting.",
+      "paragraph_2": "Two Tu-95 strategic bombers, known to NATO as “Bears,” flanked by two long-range tankers, remained on the tarmac  of Da Nang International Airport on Wednesday, after Russian military aircraft alarmed the air forces of Taiwan and Japan on Tuesday as they flew south from Russia’s Far East.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 중심 사건은 러시아 군용기의 동아시아 배치이며, 대만은 \"경보를 받은\" 수동적 관찰자로만 언급되고 미국-대만 간 직접적인 행위나 상호작용이 없습니다. 조건2: 예 — 기사는 러시아의 군사력 과시를 \"potent message\"로 표현하고 역내 긴장 조성을 다루고 있어 부정적 논조와 일치합니다. 조건3: 해당 없음 — 조건1에서 이미 미국-대만 간 직접 사건이 아니므"
+      }
+    },
+    "https://www.dgabc.com.br/Noticia/4369643/xi-pede-que-eua-facam-a-coisa-certa-sobre-taiwan-trump-diz-nao-apoiar-independencia-da-ilha|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi pede que EUA 'façam a coisa certa' sobre Taiwan; Trump diz não apoiar independência da ilha - 19/11/2026 | Diário do Grande ABC",
+      "text_len": 2500,
+      "paragraph_1": "Quinta-Feira, 19 de Novembro de 2026",
+      "paragraph_2": "O presidente da China, Xi Jinping, discutiu a questão de Taiwan em encontro com o presidente dos Estados Unidos, Donald Trump, nesta quinta-feira, 19. Xi afirmou que Washington deve \"fazer a coisa certa\" em relação à ilha, de acordo com comunicado do Ministério das Relações Exteriores chinês. Na conversa, Xi pediu que os Estados Unidos evitem provocar grandes turbulências nas relações bilaterais. Trump afirmou que Washington não apoia a independência de Taiwan, informou a chancelaria chinesa. Em relato publicado pela agência de notícias Xinhua , Xi também afirmou que uma guerra nuclear não pode ser vencida e nunca deve ser travada. Ele defendeu que todos os esforços sejam feitos para evitar esse tipo de conflito e pediu respeito ao Tratado de Não Proliferação de Armas Nucleares, a fim de preservar a estabilidade estratégica global. O líder chinês defendeu ainda a continuidade da cooperação entre os dois países no combate ao tráfico de drogas, na deportação de imigrantes em situação irregular e no enfrentamento de fraudes por meio de telecomunicações e da internet. Trump afirmou que as relações comerciais e de investimento entre as duas potências estão se fortalecendo e destacou os avanços da cooperação em áreas como o combate ao tráfico de fentanil. Xi ressaltou, contudo, que a construção de uma relação estratégica estável e construtiva exige novas iniciativas, disposição para assumir riscos e compromisso com resultados concretos. Para ele, implementar os entendimentos alcançados pelos dois chefes de Estado é fundamental para preservar a atual trajetória positiva das relações bilaterais.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국-중국 간 정상회담이며, 대만은 양국 관계의 맥락에서만 언급되고 대만과 미국 간의 직접적인 상호작용이나 대만을 겨냥한 일방적 행위(군사행동, 위협 등)가 없습니다. 조건2: 예 — 기사는 미국과 중국 간의 협력(핵전쟁 회피, 마약 밀매 대응, 무역·투자 강화 등)을 다루고 있어 긍정적 논조와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.24hod.sk/spravy/cinsky-prezident.html|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Čínsky prezident - 24hod.sk",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국-중국-러시아 삼자 정상회담, 중국-러시아 군사협력, 트럼프와 시진핑의 양자회담 등을 다루고 있으며, 대만은 Jimmy Lai 석방 논의에서만 간접적으로 언급될 뿐 대만-미국 간의 직접적인 국가급 행위(군사행동, 위협, 영토분쟁 등)를 주요 사건으로 다루지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않아 평가 불필요합니다. 최종: 아니오"
+      }
+    },
+    "https://news.antiwar.com/2026/11/19/trump-putin-and-xi-hold-historic-trilateral-summit-on-apec-sidelines-in-shenzhen/|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Trump, Putin, and Xi Hold Historic Trilateral Summit on APEC Sidelines in Shenzhen - News From Antiwar.com",
+      "text_len": 2500,
+      "paragraph_1": "President Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin sat down for a historic trilateral summit on the sidelines of the Asia-Pacific Economic Cooperation (APEC) forum in Shenzhen, China, on Thursday.",
+      "paragraph_2": "The summit, which lasted 90 minutes, marked the first time the leaders of the three global powers ever held trilateral talks, a meeting that came amid soaring global tensions as the Russia-Ukraine war continues to rage and as there’s still no end in sight to the US-Iran war.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국-중국-러시아 삼자 정상회담이며, 대만은 시진핑이 트럼프에게 한 경고 발언 속에서만 부수적으로 언급되어 있고, 대만 자체의 행위나 대만-미국 간 직접적인 갈등 행위가 기사의 중심이 아닙니다. 조건2: 예 — 기사에서 대만에 관한 부분은 시진핑의 \"경고(warning)\"와 \"미국이 대만과의 외교관계 증진 및 무기판매를 계속하고 있다\"는 비판적 톤으로 "
+      }
+    },
+    "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "APEC: Presidents Xi, Trump meet in Shenzhen – The Sun Nigeria",
+      "text_len": 2500,
+      "paragraph_1": "19 November 2026 3:15 pm WAT",
+      "paragraph_2": "United States President Donald Trump (l), with his host, Chinese President Xi Jinping.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국-중국 간 APEC 정상회담이며, 대만은 Trump이 \"미국이 대만 독립을 지지하지 않는다\"고 언급한 맥락에서만 부수적으로 등장하여, 미국-대만 간의 직접적인 국가급 행위(군사행동, 외교교섭, 협력 등)를 다루지 않습니다. 조건2: 예 — 기사의 실제 논조는 미-중 간 건설적 관계 구축, 협력 강화, 정상 간 우호적 회담으로 긍정적이며, 이는 Gol"
+      }
+    },
+    "https://www.skai.gr/news/world/kina-diplomatika-kerdi-gia-si-poutin-apo-tis-diloseis-tramp|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Διπλωματικά κέρδη για Σι, Πούτιν από τις δηλώσεις Τραμπ – Τι ειπώθηκε στην ιστορική τριμερή",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국-중국-러시아 삼자 정상회담이며, 대만은 트럼프의 \"대만 독립 미지지\" 발언이 중국에 유리하다는 맥락에서만 부수적으로 언급되어 있고, 대만-미국 간의 직접적인 국가급 행위(군사행동, 외교적 대응, 협력 사업 등)가 주된 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 미국이 중국과 러시아 편을 들고 국제기구를 비판하며 대만 독립을 거부하는 "
+      }
+    },
+    "https://www.inewsgr.com/500/Trab-i-synantisi-me-si-kai-poutin-grafei-istoria--boroume-na-oikodomisoume-mazi-enan-stathero-kosmo-eipe-o-rosos-proedros.htm|100|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Tραμπ: Η συνάντηση με Σι και Πούτιν «γράφει ιστορία» – Μπορούμε να οικοδομήσουμε μαζί έναν σταθερό κόσμο, είπε ο Ρώσος πρόεδρος - Trab: i synantisi me si kai poutin «grafei istoria» – boroume na oikodomisoume mazi enan stathero kosmo, eipe o rosos proedros",
+      "text_len": 2500,
+      "paragraph_1": "Ο Αμερικανός πρόεδρος Ντόναλντ Τραμπ εκτίμησε σήμερα ότι η τριμερής συνάντησης κορυφής με τους ομολόγους του της Κίνας και της Ρωσίας στη Σεντζέν της Κίνας \"γράφει Ιστορία\", ενώ δήλωσε ότι πολύ συχνά στο παρελθόν οι ηγέτες απέφευγαν να συνομιλήσουν με ηγέτες με τους οποίους διαφωνούσαν.",
+      "paragraph_2": "Ο Τραμπ πρόσθεσε ότι και οι τρεις χώρες (ΗΠΑ, Κίνα, Ρωσία) έχουν ειδικές ευθύνες και “βρίσκονται στη μοναδική θέση” να συζητήσουν για τον περιορισμό των πυρηνικών όπλων. Σημείωσε εξάλλου ότι με τον Βλαντίμιρ Πούτιν και τον Σι Τζινπίνγκ θα αναφερθούν “σε όλα τα προβλήματα που συζητιούνται στον κόσμο”, διευκρινίζοντας ότι στις διμερείς συνομιλίες του με τον Ρώσο πρόεδρο αναφέρθηκαν για λίγο στον πόλεμο στην Ουκρανία.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자 정상회담과 미중 관계를 주로 다루고 있으며, 대만은 중국 국가주석의 발언에서 제3국 이슈로만 언급될 뿐 대만과 미국 간의 직접적 행위나 상호작용을 다루지 않습니다. 조건2: 예 — GoldsteinScale -5.0은 갈등적/부정적을 의미하며, 기사에서 중국이 대만 문제에 대해 미국이 \"올바른 일\"을 할 것을 요구하는 것은 실제로 긴장 관계를"
+      }
+    },
+    "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Сі застеріг Трампа щодо Тайваню - Korrespondent.net",
+      "text_len": 1668,
+      "paragraph_1": "Голова КНР Сі Цзіньпін закликав президента США Дональда Трампа дотримуватися правильної позиції щодо Тайваню, щоб уникнути серйозних ускладнень у відносинах між Вашингтоном і Пекіном. Про це мовиться в повідомленні Міністерства закордонних справ Китаю за результатами зустрічі двох лідерів у Шеньчжені.",
+      "paragraph_2": "\"Стосовно питання Тайваню американська сторона повинна продовжувати робити правильні речі, аби уникнути серйозних невдач у китайсько-американських відносинах\", - заявив Сі.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 행위자는 중국(시진핑)과 미국(트럼프)이며, 대만은 논의 대상일 뿐 행위 주체가 아니므로 \"대만→미국\" 간 직접 사건이 아닙니다. 조건2: 아니오 — 기사 내용은 중국의 경고(\"태만히 하지 말 것\"), 미국의 \"하나의 중국\" 정책 재확인, 대만 독립 비지지 선언 등으로, 실제로는 중국의 압박과 미국의 조심스러운 입장 표명으로 긴장 관리 성격이며 순수한 협력적/"
+      }
+    },
+    "http://www.zerohedge.com/geopolitical/trump-xi-putin-hold-first-ever-trilateral-summit-multipolar-world-takes-shape|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Trump, Xi, & Putin Unveil Four-Point \"Declaration Toward Peace\" After Historic Summit<!-- --> | ZeroHedge",
+      "text_len": 2500,
+      "paragraph_1": "Shortly after the historic trilateral talks between Chinese President Xi Jinping, US President Donald Trump, and Russian President Vladimir Putin in China, a four-point communiqué was released , \"pledging in rather vague terms to boost the supply of petroleum refined products,\" as Bloomberg's Javier Blas put it.",
+      "paragraph_2": "The communiqué includes a pledge by the US, China, and Russia to boost production and supply of refined petroleum products and preserve stable energy flows.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자 정상회담을 다루고 있으며, 대만과 대만-미국 간의 직접적인 사건(군사행동, 위협, 안보 대립 등)을 다루고 있지 않습니다. 조건2: 예 — 기사의 논조는 세 국가의 협력, 평화선언, 에너지 협력, 핵 위험 감소 등 우호적이고 협력적인 내용으로, +3.4의 긍정적 코드와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://lufkindailynews.com/news_reuters/top_news/trump-xi-putin-begin-historic-meeting-with-ukraine-war-on-agenda/article_e5c1dbaf-fab8-53b5-86d1-bb74467d0948.html|100|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit | Top News | lufkindailynews.com",
+      "text_len": 2500,
+      "paragraph_1": "By Jarrett Renshaw and Trevor Hunnicutt",
+      "paragraph_2": "SHENZHEN, China, Nov 19 (Reuters) - Chinese President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin agreed on a symbolic \"peace declaration\" at an unprecedented three-way summit on Thursday and reaffirmed that nuclear war should never be fought, but announced no plans for arms control talks long sought by Trump.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자 정상회담을 다루고 있으며, 대만과 대만-미국 간의 직접적인 국가급 행위(군사행동, 위협, 충돌 등)를 전혀 다루지 않고 있습니다. 조건2: 해당없음 — 조건1에서 이미 부적격이므로 평가 대상이 아닙니다. 조건3: 해당없음 — 조건1에서 이미 부적격이므로 평가 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Radio Station WHMI 93.5 FM — Livingston County Michigan News, Weather, Traffic, Sports, School Updates, and the Best Classic Hit",
+      "text_len": 2500,
+      "paragraph_1": "President Donald Trump faces a potentially dangerous \"two versus one\" negotiating scenario when he meets with Chinese President Xi Jinping and Russian President Vladimir Putin, two senior members of a congressional China watchdog warned Wednesday, raising concerns that Beijing could seek concessions on Taiwan while Moscow pushes for greater U.S. pressure on Ukraine.",
+      "paragraph_2": "\"I think it is two versus one. We have China and China's junior partner, Russia,\" Randall Schriver, chairman of the U.S.-China Economic and Security Review Commission, told Fox News Digital in a Zoom interview. \"Largely they come to the table as a team versus President Trump and the United States,\" he said, citing China's support for Russia's war in Ukraine.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 대만-미국 간 직접 행위가 아니라, 중국-러시아-미국 삼자 협상에서 중국이 대만 양보를 추구할 가능성에 대한 미국 의원들의 우려만 언급하고 있습니다. 조건2: 예 — 기사의 논조는 \"위험한 협상 시나리오\", \"불리한 위치\", \"전략적 목표 추구\" 등 명백히 갈등적이고 부정적입니다. 조건3: 아니오 — 부정적 논조의 주체가 미국 의원(제3자)의 경고와 비판이며, 대만"
+      }
+    },
+    "https://istoe.com.br/china-pressiona-taiwan-g7-alerta-risco-conflito|052|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China aumenta pressão sobre Taiwan, e G7 alerta para risco de conflito - ISTOÉ Independente",
+      "text_len": 2500,
+      "paragraph_1": "12/11/26 - 10h24min Em Mundo",
+      "paragraph_2": "A tensão entre China e Taiwan voltou a ganhar força nesta quinta-feira (12), após o presidente chinês, Xi Jinping, reafirmar que a reunificação da ilha com o território continental é um objetivo histórico de Pequim. A declaração ocorre em meio ao aumento das operações militares chinesas na região e a um alerta conjunto dos países do G7 sobre os riscos à estabilidade internacional.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 군사작전 증대, Xi의 통일 재확인, G7의 대만 해역 중국 활동 우려 등 대만과 중국 간의 직접적인 안보 갈등 사건을 중심으로 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사적 압박, 위협적 활동 증대, 국제적 우려 표현 등 명백히 부정적/갈등적이나, GDELT가 부여한 GoldsteinScale +3.5는 협력적/긍정적 방향을 의미하므로"
+      }
+    },
+    "https://tribune.com.pk/story/2639932/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped|190|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+      "text_len": 2500,
+      "paragraph_1": "Chinese president says resolving the Taiwan question is an 'unwavering historical mission' of China's Communist Party",
+      "paragraph_2": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국의 무력 사용 불포기 입장, 대만 해협 주변의 일일 군사작전, 29대 중국 군용기와 군함의 \"연합전투준비순찰\"은 모두 대만의 안보에 직접 영향을 주는 중국의 일방적 군사행위입니다. 조건2: 예 — 기사의 실제 논조는 중국의 무력 미언급에도 불구하고 군사작전 계속, 대만의 거부, 군사력 확대 등으로 대만-중국 관계의 갈등과 긴장을 명확히 드러내고 있어 부정적 코드와 일치합니"
+      }
+    },
+    "https://www.asiaone.com/china/xi-jinping-taiwan-reunification|190|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped, China News - AsiaOne",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING - The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday (Nov 12), while urging peaceful \"reunification\" with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+      "paragraph_2": "China views democratically-governed Taiwan as its own territory, despite Taipei's strong rejection of that claim, and has repeatedly offered a \"one country, two systems\" model of autonomy not supported by any major Taiwanese political party.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국의 시진핑 주석이 대만 통일을 촉구하는 연설을 한 것과 대만의 군사 활동 감지(중국 군용기 29대 감지)라는 대만-중국 간의 직접적인 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 \"평화적 통일\" 주장과 대만의 거부 입장을 중립적으로 보도하는 것이며, 중국의 군사 활동은 언급되지만 이는 맥락 정보이지 주요 갈등 행위로 다루어지지 않습니다. "
+      }
+    },
+    "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/|014|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Japan’s PM Urges Talks with China – Chennaionline",
+      "text_len": 2263,
+      "paragraph_1": "Japanese Prime Minister Sanae Takaichi has stressed the importance of maintaining dialogue with China during her visit to Shenzhen for the Asia-Pacific Economic Cooperation (APEC) summit. She described China as an important neighbour and said regular communication was necessary to address differences between the two countries.",
+      "paragraph_2": "Speaking to reporters on Thursday, November 19, 2026, Takaichi said Japan wanted to build a constructive and stable relationship with China. She also stated that both countries should continue discussions to protect their national interests and address existing challenges.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 일본 총리와 중국 지도자 간의 대화 노력이며, 대만은 과거 발언의 맥락으로만 언급될 뿐 대만과 중국 간의 직접적인 국가 간 사건(군사행동, 위협, 충돌 등)을 다루고 있지 않습니다. 조건2: 예 — 기사의 실제 논조는 대화 유지, 소통 강조, 관계 개선 노력 등 협력적 성격을 보이며, GoldsteinScale +0.0(긍정/협력)과 일치합니다. 최종:"
+      }
+    },
+    "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Кина испрати остро предупредување до Вашингтон: Не играјте си со прашањето за Тајван - Нова Македонија",
+      "text_len": 2500,
+      "paragraph_1": "Кинескиот претседател Си Џинпинг го предупредил американскиот претседател Доналд Трамп дека нерешавањето на прашањето за Тајван на соодветен начин може да предизвика судир, па дури и конфликт меѓу САД и Кина. Предупредувањето било упатено за време на разговорите зад затворени врати во Пекинг, а го пренесе американската телевизиска мрежа „Си-би-ес њуз“.",
+      "paragraph_2": "Острата порака на кинескиот лидер била во контраст со јавните пофалби што Трамп ги упати за него за време на самитот. Разговорите ги откриле длабоките разлики меѓу двете сили околу Тајван, војната во Иран, трговијата и односите на Вашингтон со Тајпеј.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국 주석 시진핑이 미국 대통령 트럼프에게 대만 문제를 잘못 다루면 갈등과 충돌이 발생할 수 있다고 경고한 중국-대만 간 직접적인 사건을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 우호적이며, 시진핑이 트럼프를 \"위대한 지도자\"로 칭찬하고, 트럼프도 시진핑을 \"친구\"라고 부르며, 양국이 대면하여 소통하고 국교 안정을 위해 노력하는 협력적 정상회담 내용입니"
+      }
+    },
+    "https://focustaiwan.tw/business/202611190021|125|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan's APEC envoy urges 'wise' AI development, chip resilience - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Shenzen, China, Nov. 19 (CNA) Acer Group founder and honorary chairman Stan Shih (施振榮) on Thursday called for the development of \"wise\" rather than merely \"smart\" artificial intelligence (AI) and stressed the importance of a resilient global semiconductor supply chain at the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in Shenzhen, China.",
+      "paragraph_2": "Appointed by President Lai Ching-te (賴清德) to represent Taiwan at the meeting, Shih said the rapid growth of AI had raised concerns about its impact on employment, social inequality, the potential misuse of technology and whether humans would remain in control of how AI develops.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 대표가 APEC 회의에서 AI와 반도체 공급망에 대한 정책 입장을 발표한 것으로, 대만과 중국 간의 직접적 행위(위협, 무력시위, 영공·영해 침범, 공개 위협 등)가 아니라 국제 무대에서의 정책 연설일 뿐입니다. 조건2: 아니오 — 기사의 실제 논조는 건설적이고 협력적입니다(AI의 현명한 발전, 공공-민간 협력, 반도체 생태계 구축 등). 이는 부정적/갈등적 "
+      }
+    },
+    "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan|150|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "What we know about China's military exercises around Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "France24 13 Nov 2026, 23:49 GMT+10",
+      "paragraph_2": "Just in: China takes over Taiwan, reads a post on X from November 5, featuring an animated map meant to show the ongoing annexation of the island. In the past few hours, Chinese aircrafts and marine patrols were closing [sic] monitoring Taiwan and now its more clear and confirmed that any movements to and from Taiwan is now controlled by the Chinese military presence,\" it added.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": true,
+        "reason": "조건1: 예 — 중국이 11월 2일 이후 대만 주변에서 전개한 군사훈련·군사력 집중(해군함정, 항공기, 항모 등)은 대만의 안보에 직접 영향을 주는 일방적 군사 행위입니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사 전개를 보도하면서도, 바이럴 맵의 \"봉쇄\" 주장을 거짓이라 명시하고 전문가(Emmanuel Vron)의 비판을 담아 중국의 행위를 완화·의문시하므로, GoldsteinS"
       }
     }
   }

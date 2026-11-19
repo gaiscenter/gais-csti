@@ -4,10 +4,16 @@
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "cells": {
   "CHN_threat": {
-   "value": 0.3333,
-   "raw": 2.0,
-   "e": 1,
-   "mentions": 8
+   "value": 1.3415,
+   "raw": 2.18,
+   "e": 8,
+   "mentions": 80
+  },
+  "USA_threat": {
+   "value": 0.45,
+   "raw": 0.9,
+   "e": 5,
+   "mentions": 32
   },
   "CHN_response": {
    "value": 0.6667,

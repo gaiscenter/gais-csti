@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-19T09:34:29.801116",
+ "saved_at": "2026-11-19T21:52:49.508039",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -14536,6 +14536,285 @@
    "conf": "high"
   },
   "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/19/china-airport-greetings-show-how-xi-views-trump-putin-takaichi": {
+   "v1": "no"
+  },
+  "https://life.ru/p/tramp-zayavil-si-tszinpinu-chto-ssha-ne-podderzhivayut-nezavisimost-tayvanya": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://focustaiwan.tw/politics/202611190024": {
+   "v1": "no"
+  },
+  "https://www.winnipegfreepress.com/world/2026/11/19/takeaways-from-the-historic-summit-between-trump-xi-and-putin": {
+   "v1": "no"
+  },
+  "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan/": {
+   "v1": "no"
+  },
+  "https://www.challenges.fr/monde/le-sommet-de-shenzhen-une-demonstration-de-force-pour-xi-jinping-mais-qui-naboutit-a-aucune-paix-mondiale_647082": {
+   "v1": "no"
+  },
+  "https://www.deccanchronicle.com/world/trump-xi-putin-agree-on-peace-declaration-2005954": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868072": {
+   "v1": "no"
+  },
+  "https://www.courrierinternational.com/article/analyse-le-sommet-de-l-apec-a-shenzen-un-outil-de-communication-de-pekin-contre-taiwan_288664": {
+   "v1": "no"
+  },
+  "https://aa.com.tr/en/world/in-talks-with-trump-xi-calls-for-china-us-to-manage-disagreements-constructively/4130256": {
+   "v1": "no"
+  },
+  "https://zn.ua/ukr/china/si-na-zustrichi-z-trampom-zaklikav-ssha-vchiniti-pravilno-shchodo-tajvanju-abi-ne-zipsuvati-vidnosini-z-kitajem.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://www.okaz.com.sa/politics/na/2276319": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://www.lokmat.com/international/jinpings-direct-warning-to-trump-from-taiwan-dont-do-anything-that-will-damage-relations-a1013/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html": {
+   "v1": "no"
+  },
+  "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/": {
+   "v1": "no"
+  },
+  "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/": {
+   "v1": "no"
+  },
+  "https://www.bankingnews.gr/diethni/articles/912068/anatropi-sti-shenzhen-giati-i-synodos-putin-xi-trump-den-einai-istorikis-simasias-thriamvos-gia-kina-niki-rosias-sosivio-gia-ipa%20title=": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868071": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/20/2003868056": {
+   "v1": "no"
+  },
+  "https://www.dgabc.com.br/Noticia/4369643/xi-pede-que-eua-facam-a-coisa-certa-sobre-taiwan-trump-diz-nao-apoiar-independencia-da-ilha": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.hani.co.kr/arti/international/international_general/1288227.html": {
+   "v1": "no"
+  },
+  "https://www.obozrevatel.com/section-politics-news/news-tramp-zrobyv-huchnu-zayavu-shchodo-tayvanyu-na-peremovynakh-iz-si-tszinpinom-19-11-2026.html": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://lb.ua/blog/bogdan_ferens/782262_zustrich_troh_kitayi_nova_yalta.html": {
+   "v1": "no"
+  },
+  "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html": {
+   "v1": "no"
+  },
+  "https://www.vedomosti.ru/politics/news/2026/11/19/1413282-tramp-ssha": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.24hod.sk/spravy/cinsky-prezident.html": {
+   "v1": "unjudgeable"
+  },
+  "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/": {
+   "v1": "no"
+  },
+  "https://www.ibtimes.co.uk/trump-xi-taiwan-independence-us-china-relations-1833401": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.inewsgr.com/500/Trab-i-synantisi-me-si-kai-poutin-grafei-istoria--boroume-na-oikodomisoume-mazi-enan-stathero-kosmo-eipe-o-rosos-proedros.htm": {
+   "v1": "no"
+  },
+  "https://www.tribune.gr/world/news/article/960405/to-paraskinio-tis-istorikis-trimeroys-si-tramp-kai-poytin.html": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5646996": {
+   "v1": "no"
+  },
+  "http://eng.chinamil.com.cn/2025xb/O_251451/16500959.html": {
+   "v1": "no"
+  },
+  "https://news.antiwar.com/2026/11/19/trump-putin-and-xi-hold-historic-trilateral-summit-on-apec-sidelines-in-shenzhen/": {
+   "v1": "no"
+  },
+  "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show": {
+   "v1": "no"
+  },
+  "http://www.jpost.com/conferences/article-915400": {
+   "v1": "no"
+  },
+  "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://www.dailysabah.com/opinion/op-ed/a-new-yalta-not-quite": {
+   "v1": "no"
+  },
+  "http://www.zerohedge.com/geopolitical/trump-xi-putin-hold-first-ever-trilateral-summit-multipolar-world-takes-shape": {
+   "v1": "no"
+  },
+  "https://telegrafi.com/tajvani-raporton-per-dy-aeroplane-ushtarake-ruse-prane-ishullit-hera-e-dyte-brenda-javes/": {
+   "v1": "no"
+  },
+  "https://www.inewsgr.com/441/trab-tha-doume-ti-tha-ginei-me-to-iran--to-minyma-tou-si-gia-tin-taivan-kai-tis-scheseis-me-tis-ipa.htm": {
+   "v1": "no"
+  },
+  "https://www.skai.gr/news/world/kina-diplomatika-kerdi-gia-si-poutin-apo-tis-diloseis-tramp": {
+   "v1": "no"
+  },
+  "https://www.dw.com/en/apec-summit-trilateral-talks-between-trump-xi-putin-end/live-79964719": {
+   "v1": "no"
+  },
+  "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm": {
+   "v1": "no"
+  },
+  "https://weeklyblitz.net/2026/11/20/us-expanding-mlrs-arsenal-in-taiwan-sends-nuclear-sniffer-jets-to-spy-on-china/": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "060",
+   "conf": "high"
+  },
+  "https://www.independent.co.uk/asia/japan/takaichi-putin-meeting-apec-summit-china-b3087675.html": {
+   "v1": "no"
+  },
+  "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across": {
+   "v1": "no"
+  },
+  "https://www.businessworld.in/article/nvidia-ex-executive-jay-puri-s-wife-linked-to-chip-smuggling-allegations-report-634280": {
+   "v1": "no"
+  },
+  "https://lufkindailynews.com/news_reuters/top_news/trump-xi-putin-begin-historic-meeting-with-ukraine-war-on-agenda/article_e5c1dbaf-fab8-53b5-86d1-bb74467d0948.html": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/business/202611190021": {
+   "v1": "no"
+  },
+  "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718": {
+   "v1": "no"
+  },
+  "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/": {
+   "v1": "no"
+  },
+  "https://zerkalo.az/tramp-zayavil-chto-ssha-ne-podderzhivayut-nezavisimost-tajvanya/": {
+   "v1": "no"
+  },
+  "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045": {
+   "v1": "no"
+  },
+  "https://www.rfa.org:443/english/china/2026/11/19/trump-xi-putin-apec-summit/": {
+   "v1": "no"
+  },
+  "https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868070": {
+   "v1": "no"
+  },
+  "https://www.fortmorgantimes.com/2026/11/19/trump-xi-putin-summit-takeaways/": {
+   "v1": "no"
+  },
+  "https://bdnews24.com/world/k2rqup84i9": {
+   "v1": "no"
+  },
+  "https://english.aawsat.com/world/5343062-trump-xi-putin-begin-historic-meeting-ukraine-war-agenda": {
+   "v1": "no"
+  },
+  "https://www.al-monitor.com/originals/2026/11/trump-xi-putin-begin-historic-meeting-ukraine-war-agenda": {
+   "v1": "no"
+  },
+  "https://www.geo.tv/latest/691764-nice-to-meet-you-trump-says-summit-with-xi-putin-making-history": {
+   "v1": "no"
+  },
+  "https://bworldonline.com/world/2026/11/19/795144/from-tarmac-to-apec-summit-table-japans-pm-cuts-a-lonely-figure/": {
+   "v1": "no"
+  },
+  "https://dialogos.com.cy/ta-pagkosmia-vlemmata-stin-poli-setzen-tramp-si-kai-poytin-se-istoriki-synantisi-ti-dilosan/": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com/asia/tarmac-apec-summit-table-japans-pm-cuts-lonely-figure": {
+   "v1": "no"
+  },
+  "https://en.apa.az/asia/chinese-leader-warns-trump-over-taiwan-537151": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "http://www.thejakartapost.com/world/2026/11/19/from-tarmac-to-apec-summit-table-japans-pm-cuts-a-lonely-figure": {
+   "v1": "no"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/11/19/china-russia-release-peace-declaration-after-trump-xi-putin-meeting": {
+   "v1": "no"
+  },
+  "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719": {
+   "v1": "no"
+  },
+  "https://24tv.ua/geopolitics/ru/tramp-zajavil-chto-ssha-ne-podderzhivajut-nezavisimost-tajvanja_n3183785": {
+   "v1": "no"
+  },
+  "https://www.hngn.com/articles/273878/20261119/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
+   "v1": "no"
+  },
+  "https://www.inewsgr.com/374/nt-trab-istoriki-i-synantisi-me-si-kai-poutin.htm": {
+   "v1": "no"
+  },
+  "https://www.bfm.ru/news/624367": {
+   "v1": "no"
+  },
+  "http://govoritmoskva.ru/news/512624/": {
    "v1": "no"
   }
  }

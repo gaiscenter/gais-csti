@@ -1,20 +1,20 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T09:34:29.810112",
+ "generated_at": "2026-11-19T21:52:49.521947",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 25,
- "n_coded": 25,
- "n_relevant": 2,
+ "n_articles": 99,
+ "n_coded": 98,
+ "n_relevant": 14,
  "stats": {
-  "api_calls": 25,
+  "api_calls": 74,
   "api_failures": 0,
-  "unparseable": 0,
+  "unparseable": 1,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 264864,
-  "input_uncached": 4131,
+  "cache_read": 805628,
+  "input_uncached": 14553,
   "folded": 0
  },
  "articles": {
@@ -202,6 +202,577 @@
    },
    "mentions": 1,
    "title": "China airport greetings show how Xi views Trump, Putin, Takaichi | The Star"
+  },
+  "https://life.ru/p/tramp-zayavil-si-tszinpinu-chto-ssha-ne-podderzhivayut-nezavisimost-tayvanya": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 20,
+   "title": "Трамп заявил Си Цзиньпину, что США не поддерживают независимость Тайваня"
+  },
+  "https://focustaiwan.tw/politics/202611190024": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Taiwan participated in APEC summit on 'equal footing': Envoy - Focus Taiwan"
+  },
+  "https://www.winnipegfreepress.com/world/2026/11/19/takeaways-from-the-historic-summit-between-trump-xi-and-putin": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "Takeaways from the historic summit between Trump, Xi and Putin – Winnipeg Free Press"
+  },
+  "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump kramar Xi Jinping och Putin när Kina hotar Taiwan"
+  },
+  "https://www.challenges.fr/monde/le-sommet-de-shenzhen-une-demonstration-de-force-pour-xi-jinping-mais-qui-naboutit-a-aucune-paix-mondiale_647082": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Le sommet de Shenzhen, une démonstration de force pour Xi Jinping mais qui n’aboutit à aucune « paix mondiale »"
+  },
+  "https://www.deccanchronicle.com/world/trump-xi-putin-agree-on-peace-declaration-2005954": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump, Xi, Putin Agree on ‘Peace Declaration’"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868072": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "New Taipei City candidate released on bail - Taipei Times"
+  },
+  "https://www.courrierinternational.com/article/analyse-le-sommet-de-l-apec-a-shenzen-un-outil-de-communication-de-pekin-contre-taiwan_288664": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Le sommet de l’Apec à Shenzen, un outil de communication de Pékin contre Taïwan | Courrier international"
+  },
+  "https://aa.com.tr/en/world/in-talks-with-trump-xi-calls-for-china-us-to-manage-disagreements-constructively/4130256": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "In talks with Trump, Xi calls for China, US to manage disagreements 'constructively'"
+  },
+  "https://zn.ua/ukr/china/si-na-zustrichi-z-trampom-zaklikav-ssha-vchiniti-pravilno-shchodo-tajvanju-abi-ne-zipsuvati-vidnosini-z-kitajem.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Зустріч Трампа з Сі - лідер Китаю висловив застереження щодо Тайваню – ZN.ua"
+  },
+  "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Сі застеріг Трампа щодо Тайваню - Korrespondent.net"
+  },
+  "https://www.okaz.com.sa/politics/na/2276319": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "شي يحذّر ترمب: تايوان قد تفجّر العلاقات بين بكين وواشنطن - أخبار السعودية | صحيفة عكاظ"
+  },
+  "https://www.lokmat.com/international/jinpings-direct-warning-to-trump-from-taiwan-dont-do-anything-that-will-damage-relations-a1013/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "तैवानवरून जिनपिंग यांचा ट्रम्प यांना थेट इशारा; 'संबंध बिघडतील असे काहीही करू नका!' - Marathi News | Jinping's direct warning to Trump from Taiwan; 'Don't do anything that will damage relations!' | Latest International News at Lokmat.com"
+  },
+  "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Links 11/19/2026 | naked capitalism"
+  },
+  "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "How US can limit Nvidia damage - The Tribune"
+  },
+  "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump-Xi-Putin Summit: Key Takeaways From Shenzhen"
+  },
+  "https://www.bankingnews.gr/diethni/articles/912068/anatropi-sti-shenzhen-giati-i-synodos-putin-xi-trump-den-einai-istorikis-simasias-thriamvos-gia-kina-niki-rosias-sosivio-gia-ipa%20title=": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Ανατροπή στη Shenzhen - Γιατί η Σύνοδος Putin, Xi, Trump ΔΕΝ είναι ιστορικής σημασίας - Θρίαμβος Κίνας, νίκη Ρωσίας, σωσίβιο για ΗΠΑ"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868071": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Trump unlikely to concede on Taiwan: academics - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/20/2003868056": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Russian military aircraft deployment sends potent message to Asia - Taipei Times"
+  },
+  "https://www.dgabc.com.br/Noticia/4369643/xi-pede-que-eua-facam-a-coisa-certa-sobre-taiwan-trump-diz-nao-apoiar-independencia-da-ilha": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Xi pede que EUA 'façam a coisa certa' sobre Taiwan; Trump diz não apoiar independência da ilha - 19/11/2026 | Diário do Grande ABC"
+  },
+  "https://www.hani.co.kr/arti/international/international_general/1288227.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "트럼프, 시진핑 만나 “농산물 구입 늘려달라”…시 “양국 관계 대등”"
+  },
+  "https://www.obozrevatel.com/section-politics-news/news-tramp-zrobyv-huchnu-zayavu-shchodo-tayvanyu-na-peremovynakh-iz-si-tszinpinom-19-11-2026.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Трамп сделал громкое заявление о Тайване на переговорах с Си Цзиньпином – США не поддерживают независимость Тайваня | OBOZ.UA"
+  },
+  "https://lb.ua/blog/bogdan_ferens/782262_zustrich_troh_kitayi_nova_yalta.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Зустріч Трампа Сі та Путіна в Шеньчжені: інтереси й ризики"
+  },
+  "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Тайвань повідомив про політ двох російських Ту-95 поблизу острова"
+  },
+  "https://www.vedomosti.ru/politics/news/2026/11/19/1413282-tramp-ssha": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Трамп: США не поддерживают независимость Тайваня - Ведомости"
+  },
+  "https://www.24hod.sk/spravy/cinsky-prezident.html": {
+   "tags": {
+    "v1": "unjudgeable"
+   },
+   "mentions": 8,
+   "title": "Čínsky prezident - 24hod.sk"
+  },
+  "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "APEC: Presidents Xi, Trump meet in Shenzhen – The Sun Nigeria"
+  },
+  "https://www.ibtimes.co.uk/trump-xi-taiwan-independence-us-china-relations-1833401": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Trump Says US Does Not Support Taiwan Independence in Meeting With Xi Jinping, Chinese State Media Reports | IBTimes UK"
+  },
+  "https://www.inewsgr.com/500/Trab-i-synantisi-me-si-kai-poutin-grafei-istoria--boroume-na-oikodomisoume-mazi-enan-stathero-kosmo-eipe-o-rosos-proedros.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Tραμπ: Η συνάντηση με Σι και Πούτιν «γράφει ιστορία» – Μπορούμε να οικοδομήσουμε μαζί έναν σταθερό κόσμο, είπε ο Ρώσος πρόεδρος - Trab: i synantisi me si kai poutin «grafei istoria» – boroume na oikodomisoume mazi enan stathero kosmo, eipe o rosos proedros"
+  },
+  "https://www.tribune.gr/world/news/article/960405/to-paraskinio-tis-istorikis-trimeroys-si-tramp-kai-poytin.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Σι, Τραμπ και Πούτιν | Tribune.gr"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5646996": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "《TAIPEI TIMES》Trump unlikely to concede on Taiwan: academics - 焦點 - 自由時報電子報"
+  },
+  "http://eng.chinamil.com.cn/2025xb/O_251451/16500959.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Historic trilateral summit key to world peace - China Military"
+  },
+  "https://news.antiwar.com/2026/11/19/trump-putin-and-xi-hold-historic-trilateral-summit-on-apec-sidelines-in-shenzhen/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump, Putin, and Xi Hold Historic Trilateral Summit on APEC Sidelines in Shenzhen - News From Antiwar.com"
+  },
+  "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Blacklisted Chinese universities procured Nvidia chips, records show"
+  },
+  "http://www.jpost.com/conferences/article-915400": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post"
+  },
+  "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Кина испрати остро предупредување до Вашингтон: Не играјте си со прашањето за Тајван - Нова Македонија"
+  },
+  "https://www.dailysabah.com/opinion/op-ed/a-new-yalta-not-quite": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "A new Yalta? Not quite | Opinion"
+  },
+  "http://www.zerohedge.com/geopolitical/trump-xi-putin-hold-first-ever-trilateral-summit-multipolar-world-takes-shape": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Trump, Xi, & Putin Unveil Four-Point \"Declaration Toward Peace\" After Historic Summit<!-- --> | ZeroHedge"
+  },
+  "https://telegrafi.com/tajvani-raporton-per-dy-aeroplane-ushtarake-ruse-prane-ishullit-hera-e-dyte-brenda-javes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Tajvani raporton për dy aeroplanë ushtarakë rusë pranë ishullit, hera e dytë brenda javës - Telegrafi"
+  },
+  "https://www.inewsgr.com/441/trab-tha-doume-ti-tha-ginei-me-to-iran--to-minyma-tou-si-gia-tin-taivan-kai-tis-scheseis-me-tis-ipa.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Τραμπ: «Θα δούμε τι θα γίνει με το Ιράν» – Το μήνυμα του Σι για την Ταϊβάν και τις σχέσεις με τις ΗΠΑ - trab: «tha doume ti tha ginei me to iran» – to minyma tou si gia tin taivan kai tis scheseis me tis ipa"
+  },
+  "https://www.skai.gr/news/world/kina-diplomatika-kerdi-gia-si-poutin-apo-tis-diloseis-tramp": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Διπλωματικά κέρδη για Σι, Πούτιν από τις δηλώσεις Τραμπ – Τι ειπώθηκε στην ιστορική τριμερή"
+  },
+  "https://www.dw.com/en/apec-summit-trilateral-talks-between-trump-xi-putin-end/live-79964719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Trump, Xi, Putin talks end with 'peace declaration'"
+  },
+  "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Nvidia Chip Packaging Deal Funds SPIL Lines Making AI Chip Interposer Wafers, Not Just Assembly"
+  },
+  "https://weeklyblitz.net/2026/11/20/us-expanding-mlrs-arsenal-in-taiwan-sends-nuclear-sniffer-jets-to-spy-on-china/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "US expanding MLRS arsenal in Taiwan, sends 'nuclear sniffer' jets to spy on China - BLiTZ"
+  },
+  "https://www.independent.co.uk/asia/japan/takaichi-putin-meeting-apec-summit-china-b3087675.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Takaichi meets with Putin after frosty welcome at Apec summit in China | The Independent"
+  },
+  "https://www.euronews.com/2026/11/19/trump-leaves-china-without-meeting-kim-jong-un-as-trilateral-summit-raises-concerns-across": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump leaves China without meeting Kim Jong-un as trilateral summit raises concerns across Asia | Euronews"
+  },
+  "https://www.businessworld.in/article/nvidia-ex-executive-jay-puri-s-wife-linked-to-chip-smuggling-allegations-report-634280": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia Ex-Executive Jay Puri's Wife Linked To Chip Smuggling Allegations: Report - BW Businessworld"
+  },
+  "https://lufkindailynews.com/news_reuters/top_news/trump-xi-putin-begin-historic-meeting-with-ukraine-war-on-agenda/article_e5c1dbaf-fab8-53b5-86d1-bb74467d0948.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit | Top News | lufkindailynews.com"
+  },
+  "https://focustaiwan.tw/business/202611190021": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan's APEC envoy urges 'wise' AI development, chip resilience - Focus Taiwan"
+  },
+  "https://www.cbc.ca/news/world/trump-xi-putin-historic-meeting-9.7427718": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Xi-Trump-Putin statement warns world bodies not to 'abuse their jurisdiction' after APEC meeting | CBC News"
+  },
+  "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Japan’s PM Urges Talks with China – Chennaionline"
+  },
+  "https://zerkalo.az/tramp-zayavil-chto-ssha-ne-podderzhivayut-nezavisimost-tajvanya/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Трамп заявил, что США не поддерживают независимость Тайваня - Зеркало.az"
+  },
+  "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Japan and Taiwan scramble fighter jets as Putin's nuclear-capable bombers spotted"
+  },
+  "https://www.rfa.org:443/english/china/2026/11/19/trump-xi-putin-apec-summit/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Trump, Xi, Putin wrap up historic summit with nuclear arms control on agenda – Radio Free Asia"
+  },
+  "https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan reports 2 Russian military aircraft nearby for second time this week"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868070": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "U.S. senators call for Xi pushback - Taipei Times"
+  },
+  "https://www.fortmorgantimes.com/2026/11/19/trump-xi-putin-summit-takeaways/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Takeaways from the historic summit between Trump, Xi and Putin"
+  },
+  "https://bdnews24.com/world/k2rqup84i9": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi, Putin conclude historic meeting on Ukraine war, nuclear arm"
+  },
+  "https://english.aawsat.com/world/5343062-trump-xi-putin-begin-historic-meeting-ukraine-war-agenda": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi, Putin Begin Historic Meeting with Ukraine War on Agenda"
+  },
+  "https://www.al-monitor.com/originals/2026/11/trump-xi-putin-begin-historic-meeting-ukraine-war-agenda": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012"
+  },
+  "https://www.geo.tv/latest/691764-nice-to-meet-you-trump-says-summit-with-xi-putin-making-history": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China and Russia release 'peace declaration' after Trump, Xi, Putin meeting"
+  },
+  "https://bworldonline.com/world/2026/11/19/795144/from-tarmac-to-apec-summit-table-japans-pm-cuts-a-lonely-figure/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From tarmac to APEC summit table, Japan’s PM cuts a lonely figure - BusinessWorld Online"
+  },
+  "https://dialogos.com.cy/ta-pagkosmia-vlemmata-stin-poli-setzen-tramp-si-kai-poytin-se-istoriki-synantisi-ti-dilosan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Τα παγκόσμια βλέμματα στην πόλη Σετζέν: Τραμπ, Σι και Πούτιν σε ιστορική συνάντηση - Τι δήλωσαν"
+  },
+  "https://www.asiaone.com/asia/tarmac-apec-summit-table-japans-pm-cuts-lonely-figure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure, Asia News - AsiaOne"
+  },
+  "https://en.apa.az/asia/chinese-leader-warns-trump-over-taiwan-537151": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Chinese leader warns Trump over Taiwan"
+  },
+  "http://www.thejakartapost.com/world/2026/11/19/from-tarmac-to-apec-summit-table-japans-pm-cuts-a-lonely-figure": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From tarmac to APEC summit table, Japan's PM cuts a lonely figure - Asia & Pacific - The Jakarta Post"
+  },
+  "https://www.freemalaysiatoday.com/category/world/2026/11/19/china-russia-release-peace-declaration-after-trump-xi-putin-meeting": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China, Russia release ‘peace declaration’ after Trump, Xi, Putin meeting | FMT"
+  },
+  "https://www.dw.com/en/apec-summit-trump-xi-putin-talks-end-with-peace-declaration/live-79964719": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump, Xi, Putin talks end with 'peace declaration'"
+  },
+  "https://24tv.ua/geopolitics/ru/tramp-zajavil-chto-ssha-ne-podderzhivajut-nezavisimost-tajvanja_n3183785": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Трамп заявил, что США не поддерживают независимость Тайваня – что сказал Си Цзиньпин"
+  },
+  "https://www.hngn.com/articles/273878/20261119/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi, Putin Issue Declaration That Omits Ukraine, Iran"
+  },
+  "https://www.inewsgr.com/374/nt-trab-istoriki-i-synantisi-me-si-kai-poutin.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Ντ. Τραμπ: «Ιστορική» η συνάντηση με Σι και Πούτιν - nt. trab: «istoriki» i synantisi me si kai poutin"
+  },
+  "https://www.bfm.ru/news/624367": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Лидеры России, Китая и США завершили встречу на саммите АТЭС"
+  },
+  "http://govoritmoskva.ru/news/512624/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Американист указал на политическую близость США и Тайваня"
   }
  }
 }
