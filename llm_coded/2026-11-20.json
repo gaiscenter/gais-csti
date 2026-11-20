@@ -1,20 +1,20 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T09:14:32.796973",
+ "generated_at": "2026-11-20T21:34:00.166225",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 26,
- "n_coded": 26,
- "n_relevant": 2,
+ "n_articles": 50,
+ "n_coded": 49,
+ "n_relevant": 3,
  "stats": {
-  "api_calls": 26,
+  "api_calls": 24,
   "api_failures": 0,
-  "unparseable": 0,
+  "unparseable": 1,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 275900,
-  "input_uncached": 4101,
+  "cache_read": 253828,
+  "input_uncached": 4866,
   "folded": 0
  },
  "articles": {
@@ -209,6 +209,172 @@
    },
    "mentions": 1,
    "title": "Xi-Trump meeting avoids difficult conversations, and both leaders get what they want"
+  },
+  "https://focustaiwan.tw:443/business/202611200021": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "October export orders hit record US$123.82 billion on AI demand - Focus Taiwan"
+  },
+  "https://alquds.com/ar/posts/276257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "تايوان ترصد آلاف الحسابات المشبوهة المرتبطة بالصين للتأثير في انتخاباتها المقبلة | جريدة القدس"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "2026 Elections: Candidate faces CCP funding charges - Taipei Times"
+  },
+  "https://vz.ru/news/2026/11/20/1478503.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Японцы оценили отношения с Россией и Китаем ::  Новости дня  / ВЗГЛЯД"
+  },
+  "https://www.naftemporiki.gr/kosmos/2191937/to-pekino-den-sygchorei-i-psychri-i-ypodochi-tis-prothypoyrgoy-tis-iaponias-stin-kina-kai-to-kalesma-na-diorthosei-tis-diloseis-gia-tin-taivan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "«Το Πεκίνο δεν συγχωρεί»: Η ψυχρή υποδοχή της πρωθυπουργού της Ιαπωνίας στην Κίνα και το κάλεσμα να «διορθώσει» τις δηλώσεις για την Ταϊβάν"
+  },
+  "https://aninews.in/news/world/asia/china-accused-of-intimidating-european-parliament-members-over-engagement-with-taiwan20261120211522/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "China accused of intimidating European parliament members over engagement with Taiwan"
+  },
+  "https://opinione.it/esteri/2026/11/20/pietro-romano-trilaterale-shenzhen-taiwan-commercio-internazionale-usa/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "La questione Taiwan - L'Opinione"
+  },
+  "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Friend zone: rejected by US voters, Trump enjoys autocrats’ warm embrace | Donald Trump | The Guardian"
+  },
+  "https://listverse.com/2014/03/06/10-terrifying-cases-of-sadistic-stalkers/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "10 Terrifying Cases Of Sadistic Stalkers - Listverse"
+  },
+  "https://www.livehindustan.com/international/jensen-huang-cousin-company-amd-relation-with-china-who-is-lisa-su-201795174077946.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "हुआंग की बहन की कंपनी का चीन से संबंध? कौन हैं एएमडी की सीईओ लीजा सू?, International  Hindi News - Hindustan"
+  },
+  "https://www.straitstimes.com/asia/east-asia/tackling-doubt-and-distrust-taiwan-cracks-down-on-disinformation-ahead-of-local-elections": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Tackling doubt and distrust: Taiwan cracks down on disinformation ahead of local elections | The Straits Times"
+  },
+  "http://www.taiwansun.com/news/279445540/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise"
+  },
+  "https://www.zerohedge.com/political/california-probes-whether-nvidia-chips-reached-china-after-report-ex-ceo-was-target": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "California Probes Whether Nvidia Chips Reached China After Report Ex-CEO Was Target Of Chinese Spy Operation<!-- --> | ZeroHedge"
+  },
+  "https://www.thenews.com.pk/latest/1424385-taiwan-flags-2700-china-linked-threads-accounts-ahead-of-nov-28-elections": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Taiwan flags 2,700 China-linked Threads accounts ahead of Nov. 28 elections"
+  },
+  "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Additional budget passes with no cuts - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/21/2003868110": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "EDITORIAL: Lessons from local elections - Taipei Times"
+  },
+  "https://www.mininggazette.com/opinion/columns/2026/11/mona-charen-46/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Mona Charen - The Mining Gazette"
+  },
+  "https://cphpost.dk/2026-11-20/global/china-focus-xi-meets-trump-calling-for-continued-efforts-to-steer-china-u-s-relations-on-right-course/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China Focus: Xi meets Trump, calling for continued efforts to steer China-U.S. relations on right course"
+  },
+  "https://www.rfa.org:443/english/pacific/2026/11/20/taiwan-representative-office-png-closure/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "PNG has the legal right to close down Taiwan’s office, but at what cost?  – Radio Free Asia"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261120/4522462.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "China accused of intimidating European parliament members over engagement with Taiwan"
+  },
+  "https://chicago.suntimes.com/columnists/2026/11/20/trump-china-threats-tariffs-summit-xi-jinping-putin-nvidia-mona-charen": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump's performative tough-on-China talk - Chicago Sun-Times"
+  },
+  "https://www.cnbcafrica.com/2026/u-s-china-trade-taiwan-and-tech-tensions-remain-unresolved-as-trump-returns-from-asia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia | CNBC Africa"
   }
  }
 }

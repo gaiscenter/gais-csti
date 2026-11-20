@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-20T09:14:32.783378",
+ "saved_at": "2026-11-20T21:34:00.152675",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -14903,6 +14903,80 @@
    "v1": "no"
   },
   "https://theconversation.com/xi-trump-meeting-avoids-difficult-conversations-and-both-leaders-get-what-they-want-297046": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw:443/business/202611200021": {
+   "v1": "no"
+  },
+  "https://alquds.com/ar/posts/276257": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135": {
+   "v1": "no"
+  },
+  "https://vz.ru/news/2026/11/20/1478503.html": {
+   "v1": "no"
+  },
+  "https://www.naftemporiki.gr/kosmos/2191937/to-pekino-den-sygchorei-i-psychri-i-ypodochi-tis-prothypoyrgoy-tis-iaponias-stin-kina-kai-to-kalesma-na-diorthosei-tis-diloseis-gia-tin-taivan/": {
+   "v1": "no"
+  },
+  "https://aninews.in/news/world/asia/china-accused-of-intimidating-european-parliament-members-over-engagement-with-taiwan20261120211522/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://opinione.it/esteri/2026/11/20/pietro-romano-trilaterale-shenzhen-taiwan-commercio-internazionale-usa/": {
+   "v1": "no"
+  },
+  "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit": {
+   "v1": "no"
+  },
+  "https://listverse.com/2014/03/06/10-terrifying-cases-of-sadistic-stalkers/": {
+   "v1": "no"
+  },
+  "https://www.livehindustan.com/international/jensen-huang-cousin-company-amd-relation-with-china-who-is-lisa-su-201795174077946.html": {
+   "v1": "no"
+  },
+  "https://www.straitstimes.com/asia/east-asia/tackling-doubt-and-distrust-taiwan-cracks-down-on-disinformation-ahead-of-local-elections": {
+   "v1": "no"
+  },
+  "http://www.taiwansun.com/news/279445540/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise": {
+   "v1": "no"
+  },
+  "https://www.zerohedge.com/political/california-probes-whether-nvidia-chips-reached-china-after-report-ex-ceo-was-target": {
+   "v1": "no"
+  },
+  "https://www.thenews.com.pk/latest/1424385-taiwan-flags-2700-china-linked-threads-accounts-ahead-of-nov-28-elections": {
+   "v1": "no"
+  },
+  "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/21/2003868110": {
+   "v1": "no"
+  },
+  "https://www.mininggazette.com/opinion/columns/2026/11/mona-charen-46/": {
+   "v1": "no"
+  },
+  "https://cphpost.dk/2026-11-20/global/china-focus-xi-meets-trump-calling-for-continued-efforts-to-steer-china-u-s-relations-on-right-course/": {
+   "v1": "no"
+  },
+  "https://www.rfa.org:443/english/pacific/2026/11/20/taiwan-representative-office-png-closure/": {
+   "v1": "no"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261120/4522462.html": {
+   "v1": "no"
+  },
+  "https://chicago.suntimes.com/columnists/2026/11/20/trump-china-threats-tariffs-summit-xi-jinping-putin-nvidia-mona-charen": {
+   "v1": "no"
+  },
+  "https://www.cnbcafrica.com/2026/u-s-china-trade-taiwan-and-tech-tensions-remain-unresolved-as-trump-returns-from-asia": {
    "v1": "no"
   }
  }
