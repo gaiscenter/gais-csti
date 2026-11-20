@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-11-19T21:46:48.937664",
-  "query_date": "2026-11-19",
+  "generated_at": "2026-11-20T09:08:26.151673",
+  "query_date": "2026-11-20",
   "total_rows": 122,
   "dates": [
-    "10-20",
     "10-21",
     "10-22",
     "10-23",
@@ -33,10 +32,10 @@
     "11-16",
     "11-17",
     "11-18",
-    "11-19"
+    "11-19",
+    "11-20"
   ],
   "full_dates": [
-    "2026-10-20",
     "2026-10-21",
     "2026-10-22",
     "2026-10-23",
@@ -66,11 +65,11 @@
     "2026-11-16",
     "2026-11-17",
     "2026-11-18",
-    "2026-11-19"
+    "2026-11-19",
+    "2026-11-20"
   ],
   "series": {
     "CHN_threat": [
-      -1.3152,
       0.7409,
       2.1845,
       0.5603,
@@ -100,10 +99,10 @@
       0.1801,
       -0.5844,
       -0.0168,
-      -0.2593
+      -0.2593,
+      0.798
     ],
     "CHN_response": [
-      0.671,
       0.7535,
       1.5021,
       0.3226,
@@ -133,10 +132,10 @@
       -0.2516,
       -0.915,
       -1.567,
-      -0.0112
+      -0.0112,
+      0.8056
     ],
     "USA_threat": [
-      -1.8772,
       -2.1651,
       -4.1521,
       -0.375,
@@ -166,15 +165,15 @@
       1.1611,
       -0.3098,
       -0.2905,
-      1.0685
+      1.0685,
+      0.3337
     ],
     "USA_response": [
-      2.0246,
       -2.9541,
       -0.1867,
       -1.0505,
       -1.8271,
-      -1.4878,
+      -1.6049,
       -2.9235,
       -1.3875,
       -0.1866,
@@ -199,14 +198,15 @@
       -0.8207,
       -0.5489,
       -0.9248,
-      1.6303
+      1.6303,
+      0.5713
     ]
   },
   "current": {
-    "CHN_threat": -0.2593,
-    "CHN_response": -0.0112,
-    "USA_threat": 1.0685,
-    "USA_response": 1.6303
+    "CHN_threat": 0.798,
+    "CHN_response": 0.8056,
+    "USA_threat": 0.3337,
+    "USA_response": 0.5713
   },
   "level": {
     "CHN_threat": "mod",
@@ -218,7 +218,6 @@
     "overall": {
       "series": {
         "CHN_threat": [
-          -1.3152,
           0.7409,
           2.1845,
           0.5603,
@@ -248,10 +247,10 @@
           0.1801,
           -0.5844,
           -0.0168,
-          -0.2593
+          -0.2593,
+          0.798
         ],
         "CHN_response": [
-          0.671,
           0.7535,
           1.5021,
           0.3226,
@@ -281,10 +280,10 @@
           -0.2516,
           -0.915,
           -1.567,
-          -0.0112
+          -0.0112,
+          0.8056
         ],
         "USA_threat": [
-          -1.8772,
           -2.1651,
           -4.1521,
           -0.375,
@@ -314,15 +313,15 @@
           1.1611,
           -0.3098,
           -0.2905,
-          1.0685
+          1.0685,
+          0.3337
         ],
         "USA_response": [
-          2.0246,
           -2.9541,
           -0.1867,
           -1.0505,
           -1.8271,
-          -1.4878,
+          -1.6049,
           -2.9235,
           -1.3875,
           -0.1866,
@@ -347,14 +346,15 @@
           -0.8207,
           -0.5489,
           -0.9248,
-          1.6303
+          1.6303,
+          0.5713
         ]
       },
       "current": {
-        "CHN_threat": -0.2593,
-        "CHN_response": -0.0112,
-        "USA_threat": 1.0685,
-        "USA_response": 1.6303
+        "CHN_threat": 0.798,
+        "CHN_response": 0.8056,
+        "USA_threat": 0.3337,
+        "USA_response": 0.5713
       },
       "level": {
         "CHN_threat": "mod",
@@ -498,7 +498,6 @@
       },
       "series_raw": {
         "CHN_threat": [
-          -1.3152,
           0.7409,
           2.1845,
           0.5603,
@@ -528,10 +527,10 @@
           0.0164,
           0.7416,
           -0.4049,
-          0.03
+          0.0123,
+          -0.3524
         ],
         "CHN_response": [
-          0.671,
           0.7535,
           1.5021,
           0.3226,
@@ -561,10 +560,10 @@
           -0.9087,
           -0.8328,
           -1.4566,
-          -0.2093
+          -0.1484,
+          0.6609
         ],
         "USA_threat": [
-          -1.8772,
           -2.1651,
           -4.1521,
           -0.375,
@@ -594,15 +593,15 @@
           -3.2807,
           -1.8659,
           -0.0295,
-          0.6675
+          0.6675,
+          0.3769
         ],
         "USA_response": [
-          2.0246,
           -2.9541,
           -0.1867,
           -1.0505,
           -1.8271,
-          -1.4878,
+          -1.6049,
           -2.9235,
           -1.3875,
           -0.1866,
@@ -627,14 +626,18 @@
           -3.3369,
           -2.1641,
           -1.3037,
-          1.1425
+          1.1425,
+          -1.8357
         ]
+      },
+      "carried_forward": {
+        "USA_threat": true,
+        "USA_response": true
       }
     },
     "military": {
       "series": {
         "CHN_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -664,16 +667,16 @@
           -0.1254,
           -0.0671,
           0.7143,
-          1.35
+          1.35,
+          1.44
         ],
         "CHN_response": [
-          0.1422,
           -0.6096,
-          -0.2544,
+          -0.4191,
           -0.4727,
-          -0.3465,
+          -0.3952,
           -0.4457,
-          -0.3365,
+          -0.3483,
           -0.2024,
           -0.5,
           -0.3187,
@@ -697,10 +700,10 @@
           1.1963,
           0.9049,
           0.5501,
-          -1.2936
+          -1.2936,
+          0.0312
         ],
         "USA_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -730,6 +733,7 @@
           0.0,
           0.0,
           0.0,
+          0.0,
           0.0
         ],
         "USA_response": [
@@ -767,8 +771,8 @@
         ]
       },
       "current": {
-        "CHN_threat": 1.35,
-        "CHN_response": -1.2936,
+        "CHN_threat": 1.44,
+        "CHN_response": 0.0312,
         "USA_threat": 0.0,
         "USA_response": 0.0
       },
@@ -784,7 +788,7 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           true,
           true,
@@ -856,20 +860,20 @@
           false,
           false,
           false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
           false,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
           false,
           false,
           false,
@@ -914,7 +918,6 @@
       },
       "series_raw": {
         "CHN_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -944,16 +947,16 @@
           -0.1342,
           1.4286,
           2.7,
-          1.2
+          1.2,
+          1.6006
         ],
         "CHN_response": [
-          0.1422,
           -0.6096,
-          -0.2544,
+          -0.4191,
           -0.4727,
-          -0.3465,
+          -0.3952,
           -0.4457,
-          -0.3365,
+          -0.3483,
           -0.2024,
           -0.5,
           -0.3187,
@@ -977,10 +980,10 @@
           2.0136,
           -0.0667,
           -0.5,
-          -1.2364
+          -1.2364,
+          -0.8643
         ],
         "USA_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -1010,6 +1013,7 @@
           0.0,
           0.0,
           0.0,
+          0.0,
           0.0
         ],
         "USA_response": [
@@ -1045,20 +1049,16 @@
           0.0,
           0.0
         ]
-      },
-      "carried_forward": {
-        "CHN_threat": true
       }
     },
     "supply": {
       "series": {
         "CHN_threat": [
-          -2.9926,
           -1.8286,
-          -2.9359,
-          -2.5833,
-          -2.2462,
-          -1.9311,
+          -1.5515,
+          -1.3045,
+          -1.0879,
+          -0.901,
           -1.62,
           -1.8286,
           -2.2622,
@@ -1083,15 +1083,15 @@
           -1.866,
           -0.7417,
           -0.6074,
-          -0.4953
+          -0.4953,
+          -2.046
         ],
         "CHN_response": [
-          -1.0667,
           -1.8286,
-          -1.9801,
-          -1.6886,
-          -1.4261,
-          -1.1941,
+          -1.5515,
+          -1.3045,
+          -1.0879,
+          -0.901,
           -2.775,
           -1.8286,
           -2.8054,
@@ -1116,16 +1116,16 @@
           0.7431,
           0.7545,
           0.2329,
-          0.1919
+          0.1919,
+          0.322
         ],
         "USA_threat": [
-          -2.4,
           -2.8444,
-          -3.2379,
-          -2.882,
-          -2.5338,
-          -2.2013,
-          -1.8911,
+          -2.4976,
+          -2.1672,
+          -1.8597,
+          -1.5796,
+          -1.3293,
           -1.8286,
           -1.8286,
           -2.3391,
@@ -1149,10 +1149,10 @@
           -0.8703,
           -0.3936,
           -0.3188,
-          -0.2576
+          -0.2576,
+          -0.9866
         ],
         "USA_response": [
-          0.0,
           -3.2,
           -2.8444,
           -2.4976,
@@ -1182,14 +1182,15 @@
           -1.2159,
           -1.5421,
           -1.2915,
-          -0.4953
+          -0.4953,
+          -0.8703
         ]
       },
       "current": {
-        "CHN_threat": -0.4953,
-        "CHN_response": 0.1919,
-        "USA_threat": -0.2576,
-        "USA_response": -0.4953
+        "CHN_threat": -2.046,
+        "CHN_response": 0.322,
+        "USA_threat": -0.9866,
+        "USA_response": -0.8703
       },
       "level": {
         "CHN_threat": "mod",
@@ -1245,9 +1246,9 @@
           true,
           true,
           true,
+          false,
+          false,
           true,
-          false,
-          false,
           true,
           true,
           true,
@@ -1298,7 +1299,6 @@
           true
         ],
         "USA_response": [
-          false,
           true,
           true,
           true,
@@ -1319,6 +1319,7 @@
           false,
           false,
           false,
+          true,
           true,
           true,
           true,
@@ -1333,12 +1334,11 @@
       },
       "series_raw": {
         "CHN_threat": [
-          -2.9926,
           -1.8286,
-          -2.9359,
-          -2.5833,
-          -2.2462,
-          -1.9311,
+          -1.5515,
+          -1.3045,
+          -1.0879,
+          -0.901,
           -1.62,
           -1.8286,
           -2.2622,
@@ -1363,15 +1363,15 @@
           -2.8444,
           -1.8286,
           -3.2654,
-          -2.5575
+          -2.5575,
+          -2.2238
         ],
         "CHN_response": [
-          -1.0667,
           -1.8286,
-          -1.9801,
-          -1.6886,
-          -1.4261,
-          -1.1941,
+          -1.5515,
+          -1.3045,
+          -1.0879,
+          -0.901,
           -2.775,
           -1.8286,
           -2.8054,
@@ -1396,16 +1396,16 @@
           -2.8444,
           -2.6287,
           -2.1786,
-          -2.8444
+          -2.8444,
+          -1.0667
         ],
         "USA_threat": [
-          -2.4,
           -2.8444,
-          -3.2379,
-          -2.882,
-          -2.5338,
-          -2.2013,
-          -1.8911,
+          -2.4976,
+          -2.1672,
+          -1.8597,
+          -1.5796,
+          -1.3293,
           -1.8286,
           -1.8286,
           -2.3391,
@@ -1429,10 +1429,10 @@
           -1.0667,
           -1.4429,
           -1.2088,
-          -1.2333
+          -1.2333,
+          -1.3429
         ],
         "USA_response": [
-          0.0,
           -3.2,
           -2.8444,
           -2.4976,
@@ -1462,19 +1462,24 @@
           -1.8286,
           -2.7022,
           -1.915,
-          -1.0879
+          -1.0879,
+          -1.0667
         ]
+      },
+      "carried_forward": {
+        "USA_response": true,
+        "USA_threat": true,
+        "CHN_threat": true
       }
     },
     "diplomatic": {
       "series": {
         "CHN_threat": [
-          -0.1667,
-          -0.0909,
-          -0.0476,
+          0.0,
+          0.0,
           -0.5833,
           3.75,
-          1.9521,
+          1.9749,
           -0.4667,
           0.6764,
           -0.5455,
@@ -1499,15 +1504,15 @@
           -1.572,
           -1.8749,
           -1.3362,
-          -0.4804
+          -0.4804,
+          -0.1152
         ],
         "CHN_response": [
-          -0.1591,
           1.3696,
           1.4563,
           -0.295,
           2.3304,
-          1.0918,
+          1.1112,
           1.1313,
           0.75,
           0.1111,
@@ -1532,16 +1537,16 @@
           0.7356,
           -0.1423,
           -0.5933,
-          -0.2356
+          -0.2356,
+          -0.2281
         ],
         "USA_threat": [
-          -0.5,
-          -0.2727,
-          -0.1429,
-          -0.0732,
-          -0.037,
-          -0.0186,
-          -0.0093,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           0.0,
           0.0,
           0.0,
@@ -1565,10 +1570,10 @@
           -0.0988,
           -0.0497,
           -0.0249,
-          -0.5383
+          -0.5383,
+          -0.2954
         ],
         "USA_response": [
-          0.0,
           0.0,
           -1.0,
           -0.5455,
@@ -1598,14 +1603,15 @@
           -0.1283,
           -0.0661,
           -0.5121,
-          -0.2727
+          -0.2727,
+          -0.1429
         ]
       },
       "current": {
-        "CHN_threat": -0.4804,
-        "CHN_response": -0.2356,
-        "USA_threat": -0.5383,
-        "USA_response": -0.2727
+        "CHN_threat": -0.1152,
+        "CHN_response": -0.2281,
+        "USA_threat": -0.2954,
+        "USA_response": -0.1429
       },
       "level": {
         "CHN_threat": "mod",
@@ -1615,8 +1621,8 @@
       },
       "measured": {
         "CHN_threat": [
-          true,
-          true,
+          false,
+          false,
           true,
           true,
           true,
@@ -1681,13 +1687,6 @@
           true
         ],
         "USA_threat": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
           false,
           false,
           false,
@@ -1695,6 +1694,13 @@
           false,
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
           true,
           true,
           true,
@@ -1715,7 +1721,7 @@
         ],
         "USA_response": [
           false,
-          false,
+          true,
           true,
           true,
           true,
@@ -1749,12 +1755,11 @@
       },
       "series_raw": {
         "CHN_threat": [
-          -0.1667,
-          -0.0909,
-          -0.0476,
+          0.0,
+          0.0,
           -0.5833,
           3.75,
-          1.9521,
+          1.9749,
           -0.4667,
           0.6764,
           -0.5455,
@@ -1779,15 +1784,15 @@
           -0.7454,
           -0.1833,
           -0.8811,
-          0.6182
+          0.5259,
+          0.3333
         ],
         "CHN_response": [
-          -0.1591,
           1.3696,
           1.4563,
           -0.295,
           2.3304,
-          1.0918,
+          1.1112,
           1.1313,
           0.75,
           0.1111,
@@ -1812,16 +1817,16 @@
           0.4377,
           -0.7763,
           -0.0315,
-          -0.487
+          -0.487,
+          -0.3702
         ],
         "USA_threat": [
-          -0.5,
-          -0.2727,
-          -0.1429,
-          -0.0732,
-          -0.037,
-          -0.0186,
-          -0.0093,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           0.0,
           0.0,
           0.0,
@@ -1845,10 +1850,10 @@
           -1.7778,
           -0.9375,
           -1.0766,
-          -0.5909
+          -0.5909,
+          -0.5769
         ],
         "USA_response": [
-          0.0,
           0.0,
           -1.0,
           -0.5455,
@@ -1878,7 +1883,8 @@
           -2.281,
           -1.3111,
           -0.5,
-          0.4444
+          0.4444,
+          -0.8571
         ]
       },
       "carried_forward": {
@@ -1888,13 +1894,12 @@
     "cyber": {
       "series": {
         "CHN": [
-          0.2517,
-          0.3785,
-          0.3491,
-          0.3201,
-          0.3043,
-          0.3021,
-          0.3063,
+          0.4004,
+          0.356,
+          0.3218,
+          0.3037,
+          0.3013,
+          0.3061,
           0.3011,
           0.2508,
           0.2319,
@@ -1918,16 +1923,16 @@
           0.1699,
           0.2057,
           0.2017,
-          0.1571
+          0.1571,
+          0.1464
         ],
         "USA": [
-          0.2035,
-          0.1662,
-          0.1986,
-          0.0986,
-          0.1745,
-          0.1789,
-          0.1734,
+          0.0589,
+          0.1613,
+          0.0537,
+          0.1549,
+          0.1618,
+          0.1587,
           0.1742,
           0.2006,
           0.2049,
@@ -1951,22 +1956,22 @@
           0.2344,
           0.2906,
           0.2864,
-          0.2234
+          0.2234,
+          0.2003
         ]
       },
       "current": {
-        "CHN": 0.1571,
-        "USA": 0.2234
+        "CHN": 0.1464,
+        "USA": 0.2003
       },
       "series_raw": {
         "CHN": [
-          0.2517,
-          0.3785,
-          0.3491,
-          0.3201,
-          0.3043,
-          0.3021,
-          0.3063,
+          0.4004,
+          0.356,
+          0.3218,
+          0.3037,
+          0.3013,
+          0.3061,
           0.3011,
           0.2508,
           0.2319,
@@ -1990,16 +1995,16 @@
           0.1769,
           0.2108,
           0.1647,
-          0.1571
+          0.1587,
+          0.1464
         ],
         "USA": [
-          0.2035,
-          0.1662,
-          0.1986,
-          0.0986,
-          0.1745,
-          0.1789,
-          0.1734,
+          0.0589,
+          0.1613,
+          0.0537,
+          0.1549,
+          0.1618,
+          0.1587,
           0.1742,
           0.2006,
           0.2049,
@@ -2023,152 +2028,144 @@
           0.245,
           0.2901,
           0.2268,
-          0.2234
+          0.2219,
+          0.2003
         ]
       }
     }
   },
   "stats": {
     "window_days": 30,
-    "run_date": "2026-11-19",
+    "run_date": "2026-11-20",
     "events": {
-      "total_events_matched": 4229,
-      "total_mentions_matched": 16662,
-      "military_events": 126,
-      "military_mentions": 597,
-      "supply_events": 117,
-      "supply_mentions": 523,
-      "diplomatic_events": 457,
-      "diplomatic_mentions": 1714,
+      "total_events_matched": 4185,
+      "total_mentions_matched": 16535,
+      "military_events": 106,
+      "military_mentions": 516,
+      "supply_events": 111,
+      "supply_mentions": 512,
+      "diplomatic_events": 452,
+      "diplomatic_mentions": 1698,
       "by_partner": {
         "CHN": {
-          "events_all": 2937,
-          "events_military": 124,
-          "events_supply": 78,
-          "events_diplomatic": 367
+          "events_all": 2919,
+          "events_military": 104,
+          "events_supply": 74,
+          "events_diplomatic": 361
         },
         "USA": {
-          "events_all": 1292,
+          "events_all": 1266,
           "events_military": 2,
-          "events_supply": 39,
-          "events_diplomatic": 90
+          "events_supply": 37,
+          "events_diplomatic": 91
         }
       }
     },
     "gkg_cyber": {
-      "total_documents_matched": 2515,
+      "total_documents_matched": 2576,
       "by_partner": {
-        "CHN": 1375,
-        "USA": 1367
+        "CHN": 1401,
+        "USA": 1391
       }
     },
     "audit": {
       "enabled": true,
-      "date_audited": "2026-11-19",
-      "checked": 99,
-      "flagged": 82,
+      "date_audited": "2026-11-20",
+      "checked": 79,
+      "flagged": 69,
       "flagged_urls": [
-        "https://www.asiaone.com/china/xi-jinping-taiwan-reunification",
-        "http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation",
-        "https://aa.com.tr/en/world/in-talks-with-trump-xi-calls-for-china-us-to-manage-disagreements-constructively/4130256",
-        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/how-are-chinese-infantry-units-training-to-survive-drone-filled-battlefields",
-        "http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan",
-        "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337",
-        "https://www.deccanchronicle.com/world/trump-xi-putin-agree-on-peace-declaration-2005954",
-        "https://timesofoman.com/article/179097-jensen-huang-resigns-as-nvidia-ceo-cfo-colette-kress-named-interim-ceo-by-board",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688",
+        "https://theconversation.com/xi-trump-meeting-avoids-difficult-conversations-and-both-leaders-get-what-they-want-297046",
         "https://www.iltalehti.fi/ulkomaat/a/8f1d3b98-b6c1-42c3-a364-9eb3997da449",
-        "https://www.huffingtonpost.kr:443/article/262124",
-        "https://www.theepochtimes.com/china/us-delay-in-taiwan-arms-sales-risks-emboldening-beijing-undermining-allied-confidence-experts-6124003",
-        "https://www.moneycontrol.com/world/xi-jinping-says-taiwan-reunification-must-be-realised-reiterates-china-s-one-country-two-systems-policy-article-14078374.html",
-        "https://slguardian.org/nvidias-huang-falls-as-sex-and-espionage-scandal-exposes/",
-        "https://www.guampdn.com/opinion/letter-lai-ching-tes-emotional-rollercoaster-after-the-us-midterms/article_4cbcb4d9-5187-4a1c-99a6-adf445ffa2c2.html",
-        "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
-        "https://www.thejournal.ie/donald-trump-xi-jinping-and-vladimir-putin-begin-unprecedented-summit-in-china-7231005-Nov2026/",
-        "https://noticias.perfil.com/noticias/opinion/la-noche-triste-de-trump.phtml",
-        "http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable",
-        "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/",
-        "https://yalibnan.com/2026/11/14/nvidia-scandal-ex-ceo-misled-top-lawyer-on-affair-with-chinese-spy-sources-say/",
+        "https://www.sigmalive.com/news/international/1338431/reuters-pws-ypoptoi-loghariasmi-epikheiroun-na-epireasoyn-ekloghes-stin-taivan",
         "http://en.people.cn/n3/2026/1116/c90000-20519306.html",
-        "https://www.koreatimes.co.kr/world/20261118/nvidias-huang-says-willing-to-return-as-ceo-board-creates-national-security-panel",
-        "https://www.inewsgr.com/182/H-iaponia-diatirei-tin-idia-thesi-se-schesi-me-tin-taivan-leei-i-prothypourgos-takatsi.htm",
-        "http://www.zerohedge.com/geopolitical/trump-xi-putin-hold-first-ever-trilateral-summit-multipolar-world-takes-shape",
-        "https://aninews.in/news/world/asia/g7-foreign-ministers-warn-china8217s-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation20261112195628/",
-        "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045",
-        "https://www.taipeitimes.com/News/editorials/archives/2026/11/20/2003868056",
-        "https://www.okaz.com.sa/politics/na/2276319",
-        "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
-        "https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/",
-        "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui",
-        "https://www.pravda.sk/spravy/svet/clanok/2077911-cina-taiwan-vojenske-cvicenie-vojenske-lode-utoky-donald-trump-si-tin-pching",
-        "https://life.ru/p/tramp-zayavil-si-tszinpinu-chto-ssha-ne-podderzhivayut-nezavisimost-tayvanya",
-        "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan",
-        "https://www.dgabc.com.br/Noticia/4369643/xi-pede-que-eua-facam-a-coisa-certa-sobre-taiwan-trump-diz-nao-apoiar-independencia-da-ilha",
-        "https://istoe.com.br/china-pressiona-taiwan-g7-alerta-risco-conflito",
-        "https://news.antiwar.com/2026/11/19/trump-putin-and-xi-hold-historic-trilateral-summit-on-apec-sidelines-in-shenzhen/",
-        "https://www.24hod.sk/spravy/cinsky-prezident.html",
-        "https://lufkindailynews.com/news_reuters/top_news/trump-xi-putin-begin-historic-meeting-with-ukraine-war-on-agenda/article_e5c1dbaf-fab8-53b5-86d1-bb74467d0948.html",
-        "https://www.houstonpublicmedia.org/articles/news/health-science/2026/11/13/567082/satisfactory-performer-how-a-serial-polluter-keeps-thriving-in-texas/",
-        "https://www.ibtimes.co.uk/xi-taiwan-unification-warning-chinese-aircraft-1832045",
-        "https://www.the-independent.com/tech/nvidia-trump-huang-affair-timeline-b3083695.html",
-        "https://www.edaily.co.kr/News/Read?newsId=04418166645645392&mediaCodeNo=257",
-        "https://economictimes.indiatimes.com/news/international/world-news/once-adored-like-a-rock-star-nvidia-ceo-jensen-huang-now-faces-awkward-questions-at-home-in-taiwan/articleshow/135767704.cms",
-        "https://bdnews24.com/world/2gsvctk709",
-        "https://www.internazionale.it/ultime-notizie-reuters/2026/11/12/china-s-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
-        "https://www.skai.gr/news/world/kina-diplomatika-kerdi-gia-si-poutin-apo-tis-diloseis-tramp",
-        "https://focustaiwan.tw/politics/202611160006",
-        "https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719",
-        "https://www.winnipegfreepress.com/world/2026/11/19/takeaways-from-the-historic-summit-between-trump-xi-and-putin",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963",
-        "https://focustaiwan.tw/business/202611190021",
-        "https://www.chronicle.lu/category/international-news/64742-japans-position-on-taiwan-has-not-changed-pm-takaichi-says",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868072",
-        "https://www.courrierinternational.com/article/geopolitique-a-taiwan-des-elections-locales-sous-influence-chinoise_286179",
-        "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html",
         "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
-        "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit",
+        "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+        "https://dnevnik.hr/vijesti/svijet/ukrajina-trazi-jos-ovih-mocnih-francuskih-zrakoplova-ali-postoji-i-ogroman-problem---1015497.html",
+        "https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719",
+        "https://www.houstonpublicmedia.org/articles/news/health-science/2026/11/13/567082/satisfactory-performer-how-a-serial-polluter-keeps-thriving-in-texas/",
+        "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/",
+        "https://www.koreatimes.co.kr/world/20261118/nvidias-huang-says-willing-to-return-as-ceo-board-creates-national-security-panel",
+        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/how-are-chinese-infantry-units-training-to-survive-drone-filled-battlefields",
+        "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week",
+        "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui",
         "https://www.thedailybeast.com/new-pics-show-sex-mad-trumpy-ceo-with-alleged-spy-lover",
         "https://focustaiwan.tw/business/202611130015",
-        "https://www.elmundo.es/internacional/2026/11/19/6afe5a8b21efa0b80d8b4572.html",
-        "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/",
-        "https://focustaiwan.tw/politics/202611180021",
+        "https://www.asiaone.com:443/asia/scandal-hit-jensen-huang-loses-his-shine-his-birthplace-taiwan",
+        "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html",
         "https://focustaiwan.tw/politics/202611180004",
-        "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-        "https://www.fnnews.com/news/202611170021305362",
-        "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/",
-        "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan",
-        "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show",
         "https://focustaiwan.tw/society/202611190003",
-        "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html",
-        "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/",
-        "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html",
-        "https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/",
         "https://telegrafi.com/tajvani-raporton-per-dy-aeroplane-ushtarake-ruse-prane-ishullit-hera-e-dyte-brenda-javes/",
-        "http://www.jpost.com/conferences/article-915400",
-        "https://www.milliyet.com.tr/yazarlar/hakki-ocal/bir-yalta-gerekiyor-ama-uc-ulke-arasinda-degil-7703426",
-        "https://www.inewsgr.com/500/Trab-i-synantisi-me-si-kai-poutin-grafei-istoria--boroume-na-oikodomisoume-mazi-enan-stathero-kosmo-eipe-o-rosos-proedros.htm",
-        "https://www.mk.ru/politics/2026/11/12/si-czinpin-zayavil-o-neizbezhnom-vossoedinenii-s-tayvanem.html",
-        "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/"
+        "https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/",
+        "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867839",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963",
+        "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
+        "http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable",
+        "https://www.huffingtonpost.kr:443/article/262124",
+        "https://www.fnnews.com/news/202611170021305362",
+        "https://focustaiwan.tw:443/society/202611200003",
+        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
+        "http://www.shanghaisun.com/news/279429839/g7-foreign-ministers-warn-china-activities-east-of-taiwan-threaten-regional-stability-freedom-of-navigation",
+        "https://www.ibtimes.co.uk/xi-taiwan-unification-warning-chinese-aircraft-1832045",
+        "https://focustaiwan.tw/politics/202611160006",
+        "https://focustaiwan.tw/business/202611190021",
+        "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit",
+        "https://focustaiwan.tw/politics/202611180021",
+        "https://www.nzherald.co.nz/business/tears-and-disbelief-in-taiwan-where-jensen-huang-is-a-celebrity/premium/45KZUW4XRRFJ3OXPEBLNLEV6UA/",
+        "http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html",
+        "https://www.pravda.sk/spravy/svet/clanok/2077911-cina-taiwan-vojenske-cvicenie-vojenske-lode-utoky-donald-trump-si-tin-pching",
+        "https://www.asiaone.com/china/xi-jinping-taiwan-reunification",
+        "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
+        "https://yalibnan.com/2026/11/14/nvidia-scandal-ex-ceo-misled-top-lawyer-on-affair-with-chinese-spy-sources-say/",
+        "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show",
+        "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html",
+        "https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088",
+        "https://vz.ru/news/2026/11/20/1478451.html",
+        "https://phayul.com/2026/11/xi-says-taiwan-reunification-unstoppable-rules-out-independence/",
+        "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html",
+        "https://en.gmw.cn/2026-11/20/content_39111565.htm",
+        "http://www.bignewsnetwork.com/news/279429078/xi-calls-for-peaceful-reunification-with-taiwan",
+        "https://www.guampdn.com/opinion/letter-lai-ching-tes-emotional-rollercoaster-after-the-us-midterms/article_4cbcb4d9-5187-4a1c-99a6-adf445ffa2c2.html",
+        "https://www.okaz.com.sa/politics/na/2276319",
+        "http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan",
+        "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045",
+        "https://focustaiwan.tw/politics/202611200009",
+        "https://focustaiwan.tw/politics/202611200010",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/16/2003867820",
+        "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867998",
+        "https://www.dailymail.com/news/article-16307625/Nvidia-subpoena-California-Jensen-Huang-spy.html",
+        "https://www.kten.com/news/business/how-the-nvidia-scandal-lifted-the-curtain-on-a-loophole-that-s-giving-china-access/article_e4b6e215-c378-52ac-a9c3-c83dcc324a38.html",
+        "https://www.elmundo.es/economia/empresas/2026/11/12/6af60dbbe4d4d8237d8b45a6.html",
+        "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/",
+        "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/?tpcc=recirc_trending062921",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/13/2003867688",
+        "https://focustaiwan.tw/politics/202611190024",
+        "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/",
+        "https://www.edaily.co.kr/News/Read?newsId=04418166645645392&mediaCodeNo=257"
       ],
       "corrections_applied": 14,
       "audit_log_file": "audit_log.json",
       "degraded": false,
-      "api_calls": 34,
+      "api_calls": 76,
       "api_failures": 0,
       "tokens": {
-        "input_tokens": 71058,
-        "output_tokens": 9549,
+        "input_tokens": 137684,
+        "output_tokens": 19298,
         "cache_write": 0,
         "cache_read": 0
       },
-      "cache_hits": 63,
+      "cache_hits": 0,
       "skipped_over_cap": 0,
       "carried_forward_fields": [
         "diplomatic.USA_threat",
-        "military.CHN_threat"
+        "overall.USA_response",
+        "overall.USA_threat",
+        "supply.CHN_threat",
+        "supply.USA_response",
+        "supply.USA_threat"
       ],
-      "carried_forward_count": 2
+      "carried_forward_count": 6
     }
   },
   "partner_names": {
@@ -2180,112 +2177,21 @@
     "overall": {
       "CHN_response": [
         {
-          "url": "https://www.tribune.gr/world/news/article/960405/to-paraskinio-tis-istorikis-trimeroys-si-tramp-kai-poytin.html",
-          "goldstein": -5.0,
-          "mentions": 6,
-          "actor1": "TAIWAN",
-          "actor2": "CHINESE",
-          "event_code": "125",
-          "title": "Σι, Τραμπ και Πούτιν | Tribune.gr",
-          "days_ago": 0
-        },
-        {
-          "url": "https://focustaiwan.tw/politics/202611190024",
-          "goldstein": 1.9,
-          "mentions": 12,
-          "actor1": "TAOYUAN",
-          "actor2": "CHINA",
-          "event_code": "042",
-          "title": "Taiwan participated in APEC summit on 'equal footing': Envoy - Focus Taiwan",
-          "days_ago": 0
-        }
-      ],
-      "CHN_threat": [
-        {
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan/",
-          "goldstein": -7.2,
+          "url": "https://www.index.hr/vijesti/clanak/tajvan-tvrdi-da-kina-utjece-na-izbore-preko-mete-prijavio-2700-profila/2858838.aspx",
+          "goldstein": -4.4,
           "mentions": 10,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "150",
-          "title": "Trump kramar Xi Jinping och Putin när Kina hotar Taiwan",
+          "actor1": "TAIWAN",
+          "actor2": "BEIJING",
+          "event_code": "130",
+          "title": "Tajvan tvrdi da Kina lažnim profilima na Meti pokušava utjecati na izbore - Index.hr",
           "days_ago": 0
         },
         {
-          "url": "https://www.rbc.ua/rus/news/navishcho-trampu-zustrich-iz-putinim-i-si-1795072916.html",
-          "goldstein": -5.0,
-          "mentions": 8,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "100",
-          "title": null,
-          "days_ago": 0
-        }
-      ],
-      "USA_threat": [
-        {
-          "url": "https://www.businessworld.in/article/nvidia-ex-executive-jay-puri-s-wife-linked-to-chip-smuggling-allegations-report-634280",
-          "goldstein": -5.0,
+          "url": "https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html",
+          "goldstein": -2.0,
           "mentions": 4,
-          "actor1": "A US",
-          "actor2": "TAIWAN",
-          "event_code": "173",
-          "title": null,
-          "days_ago": 0
-        },
-        {
-          "url": "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html",
-          "goldstein": -2.0,
-          "mentions": 10,
-          "actor1": "UNITED STATES",
-          "actor2": "TAIWAN",
-          "event_code": "110",
-          "title": null,
-          "days_ago": 0
-        }
-      ],
-      "USA_response": [
-        {
-          "url": "https://www.expressen.se/nyheter/varlden/trumps-kramkalas-nar-kina-och-ryssland-hotar-taiwan/",
-          "goldstein": -4.0,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "UNITED STATES",
-          "event_code": "120",
-          "title": "Trump kramar Xi Jinping och Putin när Kina hotar Taiwan",
-          "days_ago": 0
-        },
-        {
-          "url": "https://english.aawsat.com/world/5343062-trump-xi-putin-begin-historic-meeting-ukraine-war-agenda",
-          "goldstein": -5.0,
-          "mentions": 2,
-          "actor1": "TAIWAN",
-          "actor2": "THE US",
-          "event_code": "100",
-          "title": null,
-          "days_ago": 0
-        }
-      ]
-    },
-    "diplomatic": {
-      "USA_threat": [],
-      "CHN_response": [
-        {
-          "url": "https://www.hani.co.kr/arti/international/international_general/1288227.html",
-          "goldstein": -2.0,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "110",
-          "title": null,
-          "days_ago": 0
-        },
-        {
-          "url": "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html",
-          "goldstein": -2.0,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
+          "actor1": "TAIPEI",
+          "actor2": "BEIJING",
           "event_code": "016",
           "title": null,
           "days_ago": 0
@@ -2293,26 +2199,53 @@
       ],
       "CHN_threat": [
         {
-          "url": "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863",
-          "goldstein": 1.9,
-          "mentions": 4,
-          "actor1": "CHINESE",
-          "actor2": "TAIPEI",
-          "event_code": "042",
+          "url": "https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html",
+          "goldstein": -2.0,
+          "mentions": 8,
+          "actor1": "BEIJING",
+          "actor2": "TAIWANESE",
+          "event_code": "016",
           "title": null,
           "days_ago": 0
         },
         {
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868071",
-          "goldstein": 1.0,
-          "mentions": 6,
-          "actor1": "CHINESE",
-          "actor2": "TAIPEI",
-          "event_code": "040",
+          "url": "https://www.eurasiareview.com/20112026-trump-xi-putin-wrap-up-historic-summit-with-nuclear-arms-control-on-agenda/",
+          "goldstein": -2.0,
+          "mentions": 4,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "110",
           "title": null,
           "days_ago": 0
         }
       ],
+      "USA_threat": [],
+      "USA_response": []
+    },
+    "diplomatic": {
+      "CHN_threat": [
+        {
+          "url": "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/",
+          "goldstein": -4.4,
+          "mentions": 6,
+          "actor1": "CHINESE",
+          "actor2": "TAIWAN",
+          "event_code": "130",
+          "title": "Кина испрати остро предупредување до Вашингтон: Не играјте си со прашањето за Тајван - Нова Македонија",
+          "days_ago": 1
+        },
+        {
+          "url": "https://www.theglobeandmail.com/politics/article-carney-government-plans-to-conclude-trade-deal-with-taiwan-despite/",
+          "goldstein": 4.0,
+          "mentions": 2,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "036",
+          "title": null,
+          "days_ago": 1
+        }
+      ],
+      "USA_threat": [],
       "USA_response": [
         {
           "url": "https://focustaiwan.tw/politics/202611180009",
@@ -2322,34 +2255,31 @@
           "actor2": "TEXAS",
           "event_code": "020",
           "title": "Taiwan foreign minister visits Texas, calls for closer ties - Focus Taiwan",
+          "days_ago": 2
+        }
+      ],
+      "CHN_response": [
+        {
+          "url": "https://www.hani.co.kr/arti/international/international_general/1288227.html",
+          "goldstein": -2.0,
+          "mentions": 8,
+          "actor1": "TAIWAN",
+          "actor2": "CHINA",
+          "event_code": "110",
+          "title": "트럼프, 시진핑 만나 “농산물 구입 늘려달라”…시 “양국 관계 대등”",
+          "days_ago": 1
+        },
+        {
+          "url": "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863",
+          "goldstein": 2.8,
+          "mentions": 4,
+          "actor1": "TAIPEI",
+          "actor2": "CHINESE",
+          "event_code": "043",
+          "title": null,
           "days_ago": 1
         }
       ]
-    },
-    "military": {
-      "CHN_response": [
-        {
-          "url": "https://focustaiwan.tw/politics/202611190024",
-          "goldstein": 3.4,
-          "mentions": 4,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "051",
-          "title": "Taiwan participated in APEC summit on 'equal footing': Envoy - Focus Taiwan",
-          "days_ago": 0
-        },
-        {
-          "url": "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701",
-          "goldstein": -10.0,
-          "mentions": 6,
-          "actor1": "TAIPEI",
-          "actor2": "CHINESE",
-          "event_code": "190",
-          "title": "A estratégia para tomar Taiwan",
-          "days_ago": 5
-        }
-      ],
-      "CHN_threat": []
     },
     "supply": {
       "CHN_response": [
@@ -2361,61 +2291,54 @@
           "actor2": "CHINA",
           "event_code": "163",
           "title": "Xi celebra Sun Yat-sen, col pensiero a Taiwan | China Files",
-          "days_ago": 6
-        },
-        {
-          "url": "https://www.dailypolitical.com/2026/11/12/mid-cap-stocks-to-follow-now-november-12th.html",
-          "goldstein": 6.4,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "061",
-          "title": "Just a moment...",
           "days_ago": 7
+        }
+      ],
+      "USA_response": [],
+      "USA_threat": [],
+      "CHN_threat": []
+    },
+    "military": {
+      "CHN_response": [
+        {
+          "url": "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701",
+          "goldstein": -10.0,
+          "mentions": 6,
+          "actor1": "TAIPEI",
+          "actor2": "CHINESE",
+          "event_code": "190",
+          "title": "A estratégia para tomar Taiwan",
+          "days_ago": 6
         }
       ],
       "CHN_threat": [
         {
-          "url": "https://www.dailypolitical.com/2026/11/12/mid-cap-stocks-to-follow-now-november-12th.html",
-          "goldstein": 6.4,
-          "mentions": 8,
+          "url": "http://www.jpost.com/conferences/article-915400",
+          "goldstein": -7.2,
+          "mentions": 6,
+          "actor1": "CHINESE",
+          "actor2": "TAIWAN",
+          "event_code": "154",
+          "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post",
+          "days_ago": 1
+        },
+        {
+          "url": "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
+          "goldstein": -7.2,
+          "mentions": 6,
           "actor1": "CHINA",
           "actor2": "TAIWAN",
-          "event_code": "061",
-          "title": "Just a moment...",
-          "days_ago": 7
-        }
-      ],
-      "USA_threat": [
-        {
-          "url": "https://www.dailypolitical.com/2026/11/12/mid-cap-stocks-to-follow-now-november-12th.html",
-          "goldstein": 6.4,
-          "mentions": 10,
-          "actor1": "UNITED STATES",
-          "actor2": "TAIWAN",
-          "event_code": "061",
-          "title": "Just a moment...",
-          "days_ago": 7
-        }
-      ],
-      "USA_response": [
-        {
-          "url": "https://www.dailypolitical.com/2026/11/12/mid-cap-stocks-to-follow-now-november-12th.html",
-          "goldstein": 6.4,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "UNITED STATES",
-          "event_code": "061",
-          "title": "Just a moment...",
-          "days_ago": 7
+          "event_code": "150",
+          "title": "Attention Required! | Cloudflare",
+          "days_ago": 2
         }
       ]
     }
   },
   "commentary": {
-    "ko": "대만-중국 관계에서 군사 채널이 가장 큰 움직임을 보였다. 대만 측에서 중국으로의 군사 채널 긴장 지수가 어제 대비 1.84 하락하여 -1.29에 도달했으며, 이는 대만의 군사 전략 관련 보도의 영향으로 보인다. 대만-미국 관계에서는 대만에서 미국으로의 전체 채널 긴장 지수가 어제 대비 2.56 상승하여 +1.63을 기록했다. 대만 외교부 장관의 텍사스 방문 보도가 외교 채널에서 협력 방향의 움직임을 나타냈으나, 전체 지수는 상승했다. 중국에서 대만으로의 전체 채널 긴장 지수는 -0.26으로 협력 쪽으로 평정된 상태다.",
-    "en": "In Taiwan-China relations, the military channel showed the largest movement. Taiwan's military channel tension index toward China dropped 1.84 points from the previous day to -1.29, influenced by reporting on Taiwan's military strategy. In Taiwan-US relations, Taiwan's overall channel tension index toward the US rose 2.56 points to +1.63. Taiwan's foreign minister's visit to Texas indicated cooperative movement in the diplomatic channel, though the overall index recorded an increase. China's overall channel tension index toward Taiwan stood at -0.26, indicating a cooperative position.",
-    "zh": "臺灣與中國關係中，軍事管道出現最大幅度變動。臺灣對中國軍事管道的緊張指數較前日下降1.84點至-1.29，受臺灣軍事戰略報導影響。臺灣與美國關係方面，臺灣對美國整體管道緊張指數較前日上升2.56點至+1.63。臺灣外交部長訪問德州的報導顯示外交管道朝向合作方向發展，惟整體指數錄得上升。中國對臺灣整體管道緊張指數為-0.26，呈現合作態勢。",
+    "ko": "대만-중국 관계에서 군사 채널이 긴장을 주도하고 있다. 중국→대만 군사 채널은 +1.44로 최근 협력 추세에서 급반전했으며, 이는 중국의 위협 발언 보도에 힘입은 것이다. 대만→중국 군사 채널도 +0.03으로 상승했는데, 타이완의 군사 전략 관련 보도가 영향을 미쳤다. 중국→대만 외교 채널은 협력 방향으로 소폭 개선되었으나 여전히 음수 범위다. 대만-미국 관계는 모두 측정된 값이 없어 평가할 수 없다.",
+    "en": "In Taiwan-China relations, the military channel is driving tensions. The China→Taiwan military channel surged to +1.44, reversing recent cooperative trends following reports of Chinese military threats. The Taiwan→China military channel also rose to +0.03, influenced by reports of Taiwan's military strategy. The China→Taiwan diplomatic channel showed slight improvement toward cooperation but remains negative. Taiwan-US relations cannot be assessed as measured values are unavailable today.",
+    "zh": "臺灣與中國關係中，軍事管道成為緊張的主要推手。中國→臺灣軍事管道升至+1.44，扭轉近期合作趨勢，受到中國威脅言論報導影響。臺灣→中國軍事管道亦升至+0.03，受到臺灣軍事戰略相關報導帶動。中國→臺灣外交管道略向合作方向改善，惟仍處負值。臺灣與美國關係因今日無實測數值而無法評估。",
     "sources": [
       {
         "url": "https://www.correiodopovo.com.br/colunistas/jurandir-soares/a-estrategia-para-tomar-taiwan-1.1764701",
@@ -2424,20 +2347,32 @@
         "actor2": "CHINESE"
       },
       {
-        "url": "https://focustaiwan.tw/politics/202611180009",
-        "title": "Taiwan foreign minister visits Texas, calls for closer ties - Focus Taiwan",
-        "actor1": "TAIWAN",
-        "actor2": "TEXAS"
+        "url": "http://www.jpost.com/conferences/article-915400",
+        "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post",
+        "actor1": "CHINESE",
+        "actor2": "TAIWAN"
       },
       {
-        "url": "https://www.tribune.gr/world/news/article/960405/to-paraskinio-tis-istorikis-trimeroys-si-tramp-kai-poytin.html",
-        "title": "Σι, Τραμπ και Πούτιν | Tribune.gr",
+        "url": "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
+        "title": "Attention Required! | Cloudflare",
+        "actor1": "CHINA",
+        "actor2": "TAIWAN"
+      },
+      {
+        "url": "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/",
+        "title": "Кина испрати остро предупредување до Вашингтон: Не играјте си со прашањето за Тајван - Нова Македонија",
+        "actor1": "CHINESE",
+        "actor2": "TAIWAN"
+      },
+      {
+        "url": "https://www.hani.co.kr/arti/international/international_general/1288227.html",
+        "title": "트럼프, 시진핑 만나 “농산물 구입 늘려달라”…시 “양국 관계 대등”",
         "actor1": "TAIWAN",
-        "actor2": "CHINESE"
+        "actor2": "CHINA"
       }
     ],
     "model": "claude-haiku-4-5-20251001",
-    "generated_at": "2026-11-19T21:52:56.026061",
+    "generated_at": "2026-11-20T09:14:38.349791",
     "basis": "index values and the audited records listed in sources; no external search"
   }
 }

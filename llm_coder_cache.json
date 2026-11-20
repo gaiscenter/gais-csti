@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-19T21:52:49.508039",
+ "saved_at": "2026-11-20T09:14:32.783378",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -14815,6 +14815,94 @@
    "v1": "no"
   },
   "http://govoritmoskva.ru/news/512624/": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw:443/society/202611200003": {
+   "v1": "no"
+  },
+  "https://www.sigmalive.com/news/international/1338431/reuters-pws-ypoptoi-loghariasmi-epikheiroun-na-epireasoyn-ekloghes-stin-taivan": {
+   "v1": "no"
+  },
+  "https://www.index.hr/vijesti/clanak/tajvan-tvrdi-da-kina-utjece-na-izbore-preko-mete-prijavio-2700-profila/2858838.aspx": {
+   "v1": "no"
+  },
+  "https://vz.ru/news/2026/11/20/1478451.html": {
+   "v1": "no"
+  },
+  "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/": {
+   "v1": "no"
+  },
+  "http://www.bignewsnetwork.com/news/279444901/3rd-ld-writethru-xi-says-china-ready-for-closer-cooperation-with-malaysia": {
+   "v1": "no"
+  },
+  "https://dnevnik.hr/vijesti/svijet/ukrajina-trazi-jos-ovih-mocnih-francuskih-zrakoplova-ali-postoji-i-ogroman-problem---1015497.html": {
+   "v1": "no"
+  },
+  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections": {
+   "v1": "no"
+  },
+  "https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088": {
+   "v1": "no"
+  },
+  "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/": {
+   "v1": "no"
+  },
+  "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh": {
+   "v1": "no"
+  },
+  "https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868099": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "other",
+   "v5": "010",
+   "conf": "low"
+  },
+  "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/?tpcc=recirc_trending062921": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/politics/202611200009": {
+   "v1": "no"
+  },
+  "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html": {
+   "v1": "no"
+  },
+  "https://en.gmw.cn/2026-11/20/content_39111565.htm": {
+   "v1": "no"
+  },
+  "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/politics/202611200010": {
+   "v1": "no"
+  },
+  "http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html": {
+   "v1": "no"
+  },
+  "https://www.eurasiareview.com/20112026-trump-xi-putin-wrap-up-historic-summit-with-nuclear-arms-control-on-agenda/": {
+   "v1": "no"
+  },
+  "https://www.thedailybeast.com/nate-silver-delivers-chilling-prediction-for-trumps-final-two-years": {
+   "v1": "no"
+  },
+  "https://www.armstrongeconomics.com/world-news/war/xi-warns-trump-over-taiwan-as-the-war-cycle-intensifies/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://pina.com.fj/2026/11/20/chinese-distant-water-firm-previously-linked-to-labour-abuse-wildlife-poaching-allegations-certified-to-msc-standard/": {
+   "v1": "no"
+  },
+  "https://www.dailymail.com/news/article-16307625/Nvidia-subpoena-California-Jensen-Huang-spy.html": {
+   "v1": "no"
+  },
+  "https://theconversation.com/xi-trump-meeting-avoids-difficult-conversations-and-both-leaders-get-what-they-want-297046": {
    "v1": "no"
   }
  }

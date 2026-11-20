@@ -1,0 +1,78 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-20,TAIWAN,CHINA,010,0.0,8,False,False,False,http://www.bignewsnetwork.com/news/279444901/3rd-ld-writethru-xi-says-china-ready-for-closer-cooperation-with-malaysia
+2026-11-20,CHINA,TAIWAN,020,3.0,10,False,False,False,https://www.sigmalive.com/news/international/1338431/reuters-pws-ypoptoi-loghariasmi-epikheiroun-na-epireasoyn-ekloghes-stin-taivan
+2026-11-20,CHINA,TAIWAN,130,-4.4,2,False,False,False,https://dnevnik.hr/vijesti/svijet/ukrajina-trazi-jos-ovih-mocnih-francuskih-zrakoplova-ali-postoji-i-ogroman-problem---1015497.html
+2026-11-20,CHINA,TAIWAN,130,-4.4,8,False,False,False,https://dnevnik.hr/vijesti/svijet/ukrajina-trazi-jos-ovih-mocnih-francuskih-zrakoplova-ali-postoji-i-ogroman-problem---1015497.html
+2026-11-20,TAIWAN,SHENZHEN,042,1.9,6,False,False,False,https://focustaiwan.tw/politics/202611200009
+2026-11-20,TAIWAN,CHINA,010,0.0,2,False,False,False,https://focustaiwan.tw/politics/202611200009
+2026-11-20,TAIWAN,CHINESE,051,3.4,2,False,False,False,https://focustaiwan.tw/politics/202611200009
+2026-11-20,TAIWAN,CHINESE,051,3.4,2,False,False,False,https://focustaiwan.tw/politics/202611200009
+2026-11-20,TAIWAN,CHINA,010,0.0,2,False,False,False,https://focustaiwan.tw/politics/202611200009
+2026-11-20,SHENZHEN,TAIWAN,043,2.8,6,False,False,False,https://focustaiwan.tw/politics/202611200009
+2026-11-20,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections
+2026-11-20,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.armstrongeconomics.com/world-news/war/xi-warns-trump-over-taiwan-as-the-war-cycle-intensifies/
+2026-11-20,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.armstrongeconomics.com/world-news/war/xi-warns-trump-over-taiwan-as-the-war-cycle-intensifies/
+2026-11-20,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.armstrongeconomics.com/world-news/war/xi-warns-trump-over-taiwan-as-the-war-cycle-intensifies/
+2026-11-20,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.armstrongeconomics.com/world-news/war/xi-warns-trump-over-taiwan-as-the-war-cycle-intensifies/
+2026-11-20,TAIWANESE,BEIJING,012,-0.4,8,False,False,False,https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections
+2026-11-20,TAIWAN,BEIJING,130,-4.4,10,False,False,False,https://www.index.hr/vijesti/clanak/tajvan-tvrdi-da-kina-utjece-na-izbore-preko-mete-prijavio-2700-profila/2858838.aspx
+2026-11-20,TAIWAN,CHINESE,042,1.9,8,False,False,False,https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088
+2026-11-20,CHINESE,TAIWAN,043,2.8,8,False,False,False,https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088
+2026-11-20,CHINESE,TAIWAN,043,2.8,2,False,False,False,https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088
+2026-11-20,TAIWAN,CHINESE,042,1.9,2,False,False,False,https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088
+2026-11-20,TAIWAN,CHINA,114,-2.0,10,False,False,False,https://vz.ru/news/2026/11/20/1478451.html
+2026-11-20,CHINA,TAIWAN,120,-4.0,6,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html
+2026-11-20,CHINA,TAIWAN,120,-4.0,4,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html
+2026-11-20,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html
+2026-11-20,CHINA,TAIWAN,110,-2.0,2,False,False,True,http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html
+2026-11-20,THE US,TAIWAN,051,3.4,3,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html
+2026-11-20,CHINA,TAIWAN,037,5.0,4,False,False,False,https://focustaiwan.tw/politics/202611200010
+2026-11-20,TAIWAN,CHINA,037,5.0,2,False,False,False,https://focustaiwan.tw/politics/202611200010
+2026-11-20,TAIWAN,CHINA,037,5.0,2,False,False,False,https://focustaiwan.tw/politics/202611200010
+2026-11-20,TAIWANESE,BEIJING,012,-0.4,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868099
+2026-11-20,TAIWANESE,BEIJING,012,-0.4,7,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868099
+2026-11-20,TAIWAN,CHINA,010,0.0,2,False,False,False,https://pina.com.fj/2026/11/20/chinese-distant-water-firm-previously-linked-to-labour-abuse-wildlife-poaching-allegations-certified-to-msc-standard/
+2026-11-20,CHINA,TAIWAN,1043,-5.0,1,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,CHINA,TAIWAN,010,0.0,1,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,CHINA,TAIWAN,120,-4.0,1,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,TAIWAN,CHINA,046,7.0,2,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,TAIWAN,SHENZHEN,046,7.0,8,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,CHINA,TAIWAN,046,7.0,2,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,CHINA,TAIWAN,010,0.0,3,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,CHINA,TAIWAN,1043,-5.0,4,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,CHINA,TAIWAN,120,-4.0,4,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,CHINA,TAIWAN,013,0.4,4,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,SHENZHEN,TAIWAN,046,7.0,8,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,CHINA,TAIWAN,010,0.0,1,False,False,False,http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html
+2026-11-20,CHINA,TAIWAN,013,0.4,2,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,CHINA,TAIWAN,013,0.4,2,False,False,False,https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/
+2026-11-20,TAIWAN,CHINA,010,0.0,2,False,False,False,https://pina.com.fj/2026/11/20/chinese-distant-water-firm-previously-linked-to-labour-abuse-wildlife-poaching-allegations-certified-to-msc-standard/
+2026-11-20,CHINA,TAIWAN,080,5.0,7,False,False,False,https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/?tpcc=recirc_trending062921
+2026-11-20,CHINA,TAIWAN,080,5.0,1,False,False,False,https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/?tpcc=recirc_trending062921
+2026-11-20,TAIWAN,NVIDIA,013,0.4,2,False,False,False,https://www.dailymail.com/news/article-16307625/Nvidia-subpoena-California-Jensen-Huang-spy.html
+2026-11-20,TAIWAN,NVIDIA,013,0.4,2,False,False,False,https://www.dailymail.com/news/article-16307625/Nvidia-subpoena-California-Jensen-Huang-spy.html
+2026-11-20,TAIPEI,NVIDIA,051,3.4,10,False,False,False,https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/
+2026-11-20,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,https://en.gmw.cn/2026-11/20/content_39111565.htm
+2026-11-20,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,https://en.gmw.cn/2026-11/20/content_39111565.htm
+2026-11-20,UNITED STATES,TAIWAN,110,-2.0,5,False,False,False,https://en.gmw.cn/2026-11/20/content_39111565.htm
+2026-11-20,TAIPEI,CHINA,1712,-9.2,20,False,False,False,https://focustaiwan.tw:443/society/202611200003
+2026-11-20,CHINA,TAIWAN,110,-2.0,16,False,False,False,https://focustaiwan.tw:443/society/202611200003
+2026-11-20,CHINA,TAIWAN,110,-2.0,4,False,False,False,https://focustaiwan.tw:443/society/202611200003
+2026-11-20,CHINA,TAIWAN,051,3.4,16,False,False,False,https://focustaiwan.tw:443/society/202611200003
+2026-11-20,CHINA,TAIWAN,051,3.4,4,False,False,False,https://focustaiwan.tw:443/society/202611200003
+2026-11-20,TAIWAN,CHINA,061,6.4,5,False,True,False,https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm
+2026-11-20,TAIWAN,UNITED STATES,061,6.4,5,False,True,False,https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm
+2026-11-20,UNITED STATES,TAIWANESE,110,-2.0,1,False,False,False,https://theconversation.com/xi-trump-meeting-avoids-difficult-conversations-and-both-leaders-get-what-they-want-297046
+2026-11-20,TAIWAN,UNITED STATES,020,3.0,2,False,False,True,https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh
+2026-11-20,TAIWAN,UNITED STATES,020,3.0,8,False,False,True,https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh
+2026-11-20,CHINA,TAIWAN,110,-2.0,4,False,False,False,https://www.eurasiareview.com/20112026-trump-xi-putin-wrap-up-historic-summit-with-nuclear-arms-control-on-agenda/
+2026-11-20,TAIWANESE,BEIJING,012,-0.4,8,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,TAIPEI,BEIJING,016,-2.0,2,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,TAIPEI,BEIJING,016,-2.0,4,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,BEIJING,TAIWANESE,016,-2.0,8,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,BEIJING,TAIWANESE,112,-2.0,6,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,BEIJING,TAIWANESE,112,-2.0,2,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,TAIWAN,CHINA,016,-2.0,2,False,False,False,https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html
+2026-11-20,CHINA,TAIWAN,010,0.0,1,False,False,False,https://www.thedailybeast.com/nate-silver-delivers-chilling-prediction-for-trumps-final-two-years
+2026-11-20,CHINA,TAIWAN,010,0.0,1,False,False,False,https://www.thedailybeast.com/nate-silver-delivers-chilling-prediction-for-trumps-final-two-years
+2026-11-20,CHINA,TAIWAN,010,0.0,3,False,False,False,https://www.thedailybeast.com/nate-silver-delivers-chilling-prediction-for-trumps-final-two-years
