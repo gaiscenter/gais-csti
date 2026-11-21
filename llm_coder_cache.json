@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-20T21:34:00.152675",
+ "saved_at": "2026-11-21T08:48:04.624527",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -14977,6 +14977,41 @@
    "v1": "no"
   },
   "https://www.cnbcafrica.com/2026/u-s-china-trade-taiwan-and-tech-tensions-remain-unresolved-as-trump-returns-from-asia": {
+   "v1": "no"
+  },
+  "https://www.infobae.com/def/2026/11/21/taiwan-nvidia-y-el-futuro-de-la-ia-que-pasaria-con-la-economia-mundial-si-china-invadiera-la-isla/": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/politics/202611210004": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "military",
+   "v5": "060",
+   "conf": "high"
+  },
+  "http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml": {
+   "v1": "no"
+  },
+  "https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355": {
+   "v1": "no"
+  },
+  "https://www.vqronline.org/secrets-dragon-inn": {
+   "v1": "no"
+  },
+  "https://h21.hani.co.kr/arti/world/world_general/60212.html": {
+   "v1": "no"
+  },
+  "http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643": {
+   "v1": "no"
+  },
+  "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china": {
+   "v1": "no"
+  },
+  "https://www.nbcnews.com/tech/tech-news/jensen-huang-nvidia-children-madison-spencer-roles-family-wife-rcna610144": {
+   "v1": "no"
+  },
+  "https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
    "v1": "no"
   }
  }

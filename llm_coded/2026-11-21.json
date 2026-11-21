@@ -1,0 +1,97 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T08:48:04.634138",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 10,
+ "n_coded": 10,
+ "n_relevant": 1,
+ "stats": {
+  "api_calls": 10,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 99324,
+  "input_uncached": 3607,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.infobae.com/def/2026/11/21/taiwan-nvidia-y-el-futuro-de-la-ia-que-pasaria-con-la-economia-mundial-si-china-invadiera-la-isla/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 30,
+   "title": "Taiwán, NVIDIA y el futuro de la IA: qué pasaría con la economía mundial si China invadiera la isla - Infobae"
+  },
+  "https://focustaiwan.tw/politics/202611210004": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 16,
+   "title": "U.S.-Taiwan military cooperation at unprecedented level: Congressman - Focus Taiwan"
+  },
+  "http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi says China ready for closer cooperation with Malaysia--China Economic Net"
+  },
+  "https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "KONST Showcases \"24/7 GPUs Delivered in Asia\" at SC26, Offering AI Compute Services from Validation and Delivery to Round-the-Clock Operations\n\n | The Manila Times"
+  },
+  "https://www.vqronline.org/secrets-dragon-inn": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "The Secrets of Dragon Inn | VQR"
+  },
+  "https://h21.hani.co.kr/arti/world/world_general/60212.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "젠슨 황, 스캔들에서 게이트로… 이제 시작이다"
+  },
+  "http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Takeaways from the historic summit among Trump, Xi and Putin"
+  },
+  "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Pepe Escobar Predicts Putin Vows 'Massive' Retaliation Over Crimean Bridge Attack, China Quietly Shipping Weapons Material To Iran Via Pakistan<!-- --> | ZeroHedge"
+  },
+  "https://www.nbcnews.com/tech/tech-news/jensen-huang-nvidia-children-madison-spencer-roles-family-wife-rcna610144": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Jensen Huang is out at Nvidia. His children still have prominent roles."
+  },
+  "https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump, Xi, Putin Declaration Omits Ukraine; Moscow Rejects NATO-Style Guarantee"
+  }
+ }
+}

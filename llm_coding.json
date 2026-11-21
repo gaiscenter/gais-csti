@@ -1,380 +1,97 @@
 {
- "date": "2026-11-20",
- "generated_at": "2026-11-20T21:34:00.166225",
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T08:48:04.634138",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 50,
- "n_coded": 49,
- "n_relevant": 3,
+ "n_articles": 10,
+ "n_coded": 10,
+ "n_relevant": 1,
  "stats": {
-  "api_calls": 24,
+  "api_calls": 10,
   "api_failures": 0,
-  "unparseable": 1,
+  "unparseable": 0,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 253828,
-  "input_uncached": 4866,
+  "cache_read": 99324,
+  "input_uncached": 3607,
   "folded": 0
  },
  "articles": {
-  "https://focustaiwan.tw:443/society/202611200003": {
+  "https://www.infobae.com/def/2026/11/21/taiwan-nvidia-y-el-futuro-de-la-ia-que-pasaria-con-la-economia-mundial-si-china-invadiera-la-isla/": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 20,
-   "title": "Taiwan headline news - Focus Taiwan"
+   "mentions": 30,
+   "title": "Taiwán, NVIDIA y el futuro de la IA: qué pasaría con la economía mundial si China invadiera la isla - Infobae"
   },
-  "https://focustaiwan.tw:443/business/202611200021": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 20,
-   "title": "October export orders hit record US$123.82 billion on AI demand - Focus Taiwan"
-  },
-  "https://alquds.com/ar/posts/276257": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "تايوان ترصد آلاف الحسابات المشبوهة المرتبطة بالصين للتأثير في انتخاباتها المقبلة | جريدة القدس"
-  },
-  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "2026 Elections: Candidate faces CCP funding charges - Taipei Times"
-  },
-  "https://www.index.hr/vijesti/clanak/tajvan-tvrdi-da-kina-utjece-na-izbore-preko-mete-prijavio-2700-profila/2858838.aspx": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Tajvan tvrdi da Kina lažnim profilima na Meti pokušava utjecati na izbore - Index.hr"
-  },
-  "https://vz.ru/news/2026/11/20/1478503.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Японцы оценили отношения с Россией и Китаем ::  Новости дня  / ВЗГЛЯД"
-  },
-  "https://www.sigmalive.com/news/international/1338431/reuters-pws-ypoptoi-loghariasmi-epikheiroun-na-epireasoyn-ekloghes-stin-taivan": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Reuters: Πώς ύποπτοι λογαριασμοί επιχειρούν να επηρεάσουν εκλογές στην Ταϊβάν - Sigmalive"
-  },
-  "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants | WIRED"
-  },
-  "https://vz.ru/news/2026/11/20/1478451.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Тайвань пожаловался Meta на вмешательство Китая в выборы на острове ::  Новости дня  / ВЗГЛЯД"
-  },
-  "https://www.internazionale.it/ultime-notizie-reuters/2026/11/20/exclusive-taiwan-tells-meta-thousands-of-china-linked-accounts-seek-to-influence-elections": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Exclusive-Taiwan tells Meta thousands of China-linked accounts seek to influence elections - Internazionale"
-  },
-  "https://www.hindustantimes.com/world-news/taiwan-flags-2-700-china-linked-accounts-to-meta-under-suspicion-of-attempt-to-influence-polls-101795153284082.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Taiwan flags 2,700 China-linked accounts to Meta under suspicion of attempt to influence polls | World News"
-  },
-  "https://theaviationist.com/2026/11/19/taiwan-japan-intercept-russian-tu-95/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Taiwan and Japan Intercept Russian Tu-95 Bombers Flying Back from Vietnam - The Aviationist"
-  },
-  "https://econotimes.com/Taiwan-Keeps-APEC-Seat-as-Scholars-Warn-of-Great-Power-Exclusion-1780088": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Taiwan Keeps APEC Seat as Scholars Warn of Great-Power Exclusion | EconoTimes"
-  },
-  "http://www.bignewsnetwork.com/news/279444901/3rd-ld-writethru-xi-says-china-ready-for-closer-cooperation-with-malaysia": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "3rd LD-Writethru: Xi says China ready for closer cooperation with Malaysia"
-  },
-  "https://dnevnik.hr/vijesti/svijet/ukrajina-trazi-jos-ovih-mocnih-francuskih-zrakoplova-ali-postoji-i-ogroman-problem---1015497.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Ukrajina traži još ovih moćnih francuskih zrakoplova, ali postoji i ogroman problem"
-  },
-  "https://www.naftemporiki.gr/kosmos/2191937/to-pekino-den-sygchorei-i-psychri-i-ypodochi-tis-prothypoyrgoy-tis-iaponias-stin-kina-kai-to-kalesma-na-diorthosei-tis-diloseis-gia-tin-taivan/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "«Το Πεκίνο δεν συγχωρεί»: Η ψυχρή υποδοχή της πρωθυπουργού της Ιαπωνίας στην Κίνα και το κάλεσμα να «διορθώσει» τις δηλώσεις για την Ταϊβάν"
-  },
-  "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Підсумки 19.11: Реакція Путіна і Коаліція охочих - Korrespondent.net"
-  },
-  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868099": {
+  "https://focustaiwan.tw/politics/202611210004": {
    "tags": {
     "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "other",
-    "v5": "010",
-    "conf": "low"
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
    },
-   "mentions": 7,
-   "title": "Meta removes accounts flagged for election meddling - Taipei Times"
+   "mentions": 16,
+   "title": "U.S.-Taiwan military cooperation at unprecedented level: Congressman - Focus Taiwan"
   },
-  "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-summit-shenzhen-apec/?tpcc=recirc_trending062921": {
+  "http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Xi says China ready for closer cooperation with Malaysia--China Economic Net"
+  },
+  "https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355": {
    "tags": {
     "v1": "no"
    },
    "mentions": 7,
-   "title": "Trump-Xi-Putin Summit: Key Takeaways From Shenzhen"
+   "title": "KONST Showcases \"24/7 GPUs Delivered in Asia\" at SC26, Offering AI Compute Services from Validation and Delivery to Round-the-Clock Operations\n\n | The Manila Times"
   },
-  "https://focustaiwan.tw/politics/202611200009": {
+  "https://www.vqronline.org/secrets-dragon-inn": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "Taiwan's APEC participation smooth amid great-power diplomacy: Scholars - Focus Taiwan"
+   "title": "The Secrets of Dragon Inn | VQR"
   },
-  "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "Historic China-Russia-US summit delivers a heavy blow to 'Taiwan independence' forces"
-  },
-  "https://aninews.in/news/world/asia/china-accused-of-intimidating-european-parliament-members-over-engagement-with-taiwan20261120211522/": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "diplomatic",
-    "v5": "130",
-    "conf": "high"
-   },
-   "mentions": 6,
-   "title": "China accused of intimidating European parliament members over engagement with Taiwan"
-  },
-  "https://opinione.it/esteri/2026/11/20/pietro-romano-trilaterale-shenzhen-taiwan-commercio-internazionale-usa/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "La questione Taiwan - L'Opinione"
-  },
-  "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 5,
-   "title": "Malaysia's trade rises 58% to RM436.6bil in Oct - DOSM | The Star"
-  },
-  "https://en.gmw.cn/2026-11/20/content_39111565.htm": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 5,
-   "title": "Xi meets Trump, calling for continued efforts to steer China-U.S. relations on right course\r\n_Guangming Online"
-  },
-  "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 5,
-   "title": "Friend zone: rejected by US voters, Trump enjoys autocrats’ warm embrace | Donald Trump | The Guardian"
-  },
-  "https://listverse.com/2014/03/06/10-terrifying-cases-of-sadistic-stalkers/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 5,
-   "title": "10 Terrifying Cases Of Sadistic Stalkers - Listverse"
-  },
-  "https://www.livehindustan.com/international/jensen-huang-cousin-company-amd-relation-with-china-who-is-lisa-su-201795174077946.html": {
+  "https://h21.hani.co.kr/arti/world/world_general/60212.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "हुआंग की बहन की कंपनी का चीन से संबंध? कौन हैं एएमडी की सीईओ लीजा सू?, International  Hindi News - Hindustan"
+   "title": "젠슨 황, 스캔들에서 게이트로… 이제 시작이다"
   },
-  "https://focustaiwan.tw/politics/202611200010": {
+  "http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "Trump, Xi unlikely to have reached agreement on Taiwan, expert says - Focus Taiwan"
+   "title": "Takeaways from the historic summit among Trump, Xi and Putin"
   },
-  "https://www.straitstimes.com/asia/east-asia/tackling-doubt-and-distrust-taiwan-cracks-down-on-disinformation-ahead-of-local-elections": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Tackling doubt and distrust: Taiwan cracks down on disinformation ahead of local elections | The Straits Times"
-  },
-  "http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Takeaways from the historic summit among Trump, Xi and Putin | World News | thegazette.com"
-  },
-  "https://www.eurasiareview.com/20112026-trump-xi-putin-wrap-up-historic-summit-with-nuclear-arms-control-on-agenda/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Trump, Xi, Putin Wrap Up Historic Summit With Nuclear Arms Control On Agenda - Eurasia Review"
-  },
-  "http://www.taiwansun.com/news/279445540/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 3,
-   "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise"
-  },
-  "https://www.zerohedge.com/political/california-probes-whether-nvidia-chips-reached-china-after-report-ex-ceo-was-target": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 3,
-   "title": "California Probes Whether Nvidia Chips Reached China After Report Ex-CEO Was Target Of Chinese Spy Operation<!-- --> | ZeroHedge"
-  },
-  "https://www.thenews.com.pk/latest/1424385-taiwan-flags-2700-china-linked-threads-accounts-ahead-of-nov-28-elections": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 3,
-   "title": "Taiwan flags 2,700 China-linked Threads accounts ahead of Nov. 28 elections"
-  },
-  "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 3,
-   "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise"
-  },
-  "https://www.thedailybeast.com/nate-silver-delivers-chilling-prediction-for-trumps-final-two-years": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 3,
-   "title": "Nate Silver Delivers Chilling Prediction for Trumpâs Final Two Years"
-  },
-  "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118": {
+  "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "Additional budget passes with no cuts - Taipei Times"
+   "title": "Pepe Escobar Predicts Putin Vows 'Massive' Retaliation Over Crimean Bridge Attack, China Quietly Shipping Weapons Material To Iran Via Pakistan<!-- --> | ZeroHedge"
   },
-  "https://www.taipeitimes.com/News/editorials/archives/2026/11/21/2003868110": {
+  "https://www.nbcnews.com/tech/tech-news/jensen-huang-nvidia-children-madison-spencer-roles-family-wife-rcna610144": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "EDITORIAL: Lessons from local elections - Taipei Times"
+   "title": "Jensen Huang is out at Nvidia. His children still have prominent roles."
   },
-  "https://www.mininggazette.com/opinion/columns/2026/11/mona-charen-46/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Mona Charen - The Mining Gazette"
-  },
-  "https://pina.com.fj/2026/11/20/chinese-distant-water-firm-previously-linked-to-labour-abuse-wildlife-poaching-allegations-certified-to-msc-standard/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Chinese distant-water firm previously linked to labour abuse, wildlife poaching allegations certified to MSC standard | PINA"
-  },
-  "https://cphpost.dk/2026-11-20/global/china-focus-xi-meets-trump-calling-for-continued-efforts-to-steer-china-u-s-relations-on-right-course/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "China Focus: Xi meets Trump, calling for continued efforts to steer China-U.S. relations on right course"
-  },
-  "https://www.armstrongeconomics.com/world-news/war/xi-warns-trump-over-taiwan-as-the-war-cycle-intensifies/": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "diplomatic",
-    "v5": "130",
-    "conf": "high"
-   },
-   "mentions": 2,
-   "title": "Xi Warns Trump Over Taiwan As The War Cycle Intensifies | Armstrong Economics"
-  },
-  "https://www.rfa.org:443/english/pacific/2026/11/20/taiwan-representative-office-png-closure/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "PNG has the legal right to close down Taiwan’s office, but at what cost?  – Radio Free Asia"
-  },
-  "https://news.webindia123.com/news/Articles/World/20261120/4522462.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "China accused of intimidating European parliament members over engagement with Taiwan"
-  },
-  "https://www.dailymail.com/news/article-16307625/Nvidia-subpoena-California-Jensen-Huang-spy.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Nvidia served subpoena by California attorney general after Jensen Huang's Chinese spy affair scandal | Daily Mail Online"
-  },
-  "https://chicago.suntimes.com/columnists/2026/11/20/trump-china-threats-tariffs-summit-xi-jinping-putin-nvidia-mona-charen": {
+  "https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
    "tags": {
     "v1": "no"
    },
    "mentions": 1,
-   "title": "Trump's performative tough-on-China talk - Chicago Sun-Times"
-  },
-  "https://www.cnbcafrica.com/2026/u-s-china-trade-taiwan-and-tech-tensions-remain-unresolved-as-trump-returns-from-asia": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia | CNBC Africa"
-  },
-  "https://theconversation.com/xi-trump-meeting-avoids-difficult-conversations-and-both-leaders-get-what-they-want-297046": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "Xi-Trump meeting avoids difficult conversations, and both leaders get what they want"
+   "title": "Trump, Xi, Putin Declaration Omits Ukraine; Moscow Rejects NATO-Style Guarantee"
   }
  }
 }
