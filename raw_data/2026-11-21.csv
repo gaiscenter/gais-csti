@@ -1,31 +1,76 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
-2026-11-21,TAIWAN,CHINESE,190,-10.0,30,False,False,False,https://www.infobae.com/def/2026/11/21/taiwan-nvidia-y-el-futuro-de-la-ia-que-pasaria-con-la-economia-mundial-si-china-invadiera-la-isla/
-2026-11-21,TAIWAN,UNITED STATES,042,1.9,4,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60212.html
-2026-11-21,UNITED STATES,TAIWAN,043,2.8,4,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60212.html
-2026-11-21,CHINA,TAIWAN,080,5.0,5,False,False,False,https://www.vqronline.org/secrets-dragon-inn
-2026-11-21,CHINA,TAIWAN,080,5.0,6,False,False,False,https://www.vqronline.org/secrets-dragon-inn
-2026-11-21,CHINA,TAIWAN,080,5.0,1,False,False,False,https://www.vqronline.org/secrets-dragon-inn
+2026-11-21,TAIWAN,BEIJING,040,1.0,6,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/22/2003868158
+2026-11-21,TAIWAN,BEIJING,040,1.0,4,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/22/2003868158
+2026-11-21,BEIJING,TAIWAN,040,1.0,6,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/22/2003868158
+2026-11-21,BEIJING,TAIWAN,040,1.0,4,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/22/2003868158
+2026-11-21,TAIWAN,WASHINGTON,043,2.8,6,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,WASHINGTON,TAIWAN,042,1.9,2,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,WASHINGTON,TAIWAN,042,1.9,2,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,THE US,TAIWAN,043,2.8,3,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,TAIWAN,THE US,042,1.9,3,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,WASHINGTON,TAIWAN,042,1.9,4,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,TAIWAN,WASHINGTON,043,2.8,2,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/22/2003868165
+2026-11-21,TAIWAN,CHINA,040,1.0,2,False,False,False,https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/
+2026-11-21,TAIWAN,UNITED STATES,040,1.0,2,False,False,False,https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/
+2026-11-21,TAIWAN,CHINA,040,1.0,6,False,False,False,https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/
+2026-11-21,TAIWAN,CHINA,040,1.0,2,False,False,False,https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/
+2026-11-21,TAIWAN,UNITED STATES,040,1.0,2,False,False,False,https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/
+2026-11-21,TAIWAN,UNITED STATES,040,1.0,6,False,False,False,https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/
+2026-11-21,TAIWAN,CHINA,130,-4.4,20,False,False,False,https://www.clickondetroit.com/business/2026/11/21/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against/
+2026-11-21,TAIWAN,THE US,042,1.9,1,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5649131
 2026-11-21,CHINESE,TAIWAN,040,1.0,4,False,False,False,https://focustaiwan.tw/politics/202611210004
 2026-11-21,CHINESE,TAIWAN,090,-2.0,4,False,False,False,https://focustaiwan.tw/politics/202611210004
 2026-11-21,TAIWAN,CHINESE,040,1.0,4,False,False,False,https://focustaiwan.tw/politics/202611210004
 2026-11-21,TAIWAN,CHINA,040,1.0,4,False,False,False,https://focustaiwan.tw/politics/202611210004
 2026-11-21,TAIWAN,CHINESE,040,1.0,12,False,False,False,https://focustaiwan.tw/politics/202611210004
-2026-11-21,CHINA,TAIWAN,040,1.0,4,False,False,False,https://focustaiwan.tw/politics/202611210004
-2026-11-21,CHINESE,TAIWAN,040,1.0,12,False,False,False,https://focustaiwan.tw/politics/202611210004
-2026-11-21,CHINESE,TAIWAN,090,-2.0,16,False,False,False,https://focustaiwan.tw/politics/202611210004
 2026-11-21,CHINA,TAIWAN,1043,-5.0,1,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
 2026-11-21,CHINA,TAIWAN,010,0.0,1,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
 2026-11-21,CHINA,TAIWAN,120,-4.0,1,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
+2026-11-21,TAIWAN,CHINESE,190,-10.0,30,False,False,False,https://www.infobae.com/def/2026/11/21/taiwan-nvidia-y-el-futuro-de-la-ia-que-pasaria-con-la-economia-mundial-si-china-invadiera-la-isla/
+2026-11-21,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.dailysabah.com/world/asia-pacific/trump-hails-xi-summit-as-china-quietly-gains-the-upper-hand
+2026-11-21,TAIWAN,CHINA,046,7.0,8,False,False,False,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
+2026-11-21,TAIWAN,CHINA,046,7.0,2,False,False,False,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
+2026-11-21,TAIWAN,CHINA,061,6.4,3,False,True,False,https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/
+2026-11-21,TAIWAN,CHINA,010,0.0,1,False,False,False,https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510
+2026-11-21,TAIWAN,BEIJING,051,3.4,1,False,False,False,https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510
+2026-11-21,CHINA,TAIWAN,080,5.0,5,False,False,False,https://www.vqronline.org/secrets-dragon-inn
+2026-11-21,TAIWAN,GUANGZHOU,046,7.0,2,False,False,True,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
+2026-11-21,TAIWAN,CHINA,010,0.0,8,False,False,False,http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml
+2026-11-21,CHINA,TAIWAN,051,3.4,4,False,False,False,https://focustaiwan.tw/culture/202611210018
+2026-11-21,TAIWAN,CHINA,051,3.4,10,False,False,True,https://focustaiwan.tw/culture/202611210018
+2026-11-21,TAIWAN,CHINA,051,3.4,2,False,False,True,https://focustaiwan.tw/culture/202611210018
+2026-11-21,TAIWAN,CHICAGO,042,1.9,7,False,False,False,https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355
+2026-11-21,TAIWAN,CHINA,061,6.4,1,False,True,False,https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/
 2026-11-21,CHINA,TAIWAN,010,0.0,3,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
 2026-11-21,CHINA,TAIWAN,1043,-5.0,4,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
 2026-11-21,CHINA,TAIWAN,120,-4.0,4,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
 2026-11-21,CHINA,TAIWAN,010,0.0,1,False,False,False,http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643
+2026-11-21,CHINA,TAIWAN,080,5.0,6,False,False,False,https://www.vqronline.org/secrets-dragon-inn
+2026-11-21,CHINA,TAIWAN,080,5.0,1,False,False,False,https://www.vqronline.org/secrets-dragon-inn
+2026-11-21,CHINA,TAIWAN,043,2.8,2,False,False,False,https://indonesiatribune.com/stan-shih-represents-taiwan-at-2026-apec-economic-leaders-meeting-in-shenzhen/
+2026-11-21,CHINA,TAIWAN,043,2.8,2,False,False,False,https://indonesiatribune.com/stan-shih-represents-taiwan-at-2026-apec-economic-leaders-meeting-in-shenzhen/
+2026-11-21,CHINESE,TAIWAN,040,1.0,1,False,False,False,https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm
+2026-11-21,UNITED STATES,TAIWAN,043,2.8,4,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60212.html
 2026-11-21,UNITED STATES,TAIWAN,129,-5.0,2,False,False,False,http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china
 2026-11-21,THE WHITE HOUSE,TAIWAN,129,-5.0,1,False,False,True,http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china
-2026-11-21,TAIWAN,CHINA,010,0.0,8,False,False,False,http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml
+2026-11-21,CHINA,TAIWAN,040,1.0,4,False,False,False,https://focustaiwan.tw/politics/202611210004
+2026-11-21,CHINESE,TAIWAN,040,1.0,12,False,False,False,https://focustaiwan.tw/politics/202611210004
+2026-11-21,CHINESE,TAIWAN,090,-2.0,16,False,False,False,https://focustaiwan.tw/politics/202611210004
+2026-11-21,TAIWAN,CHINA,061,6.4,1,False,True,False,https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/
+2026-11-21,TAIWAN,CHINA,042,1.9,4,False,False,False,https://indonesiatribune.com/stan-shih-represents-taiwan-at-2026-apec-economic-leaders-meeting-in-shenzhen/
+2026-11-21,TAIWAN,BEIJING,051,3.4,4,False,False,False,https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510
 2026-11-21,TAIWAN,CHINA,010,0.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml
-2026-11-21,TAIWAN,CHICAGO,042,1.9,7,False,False,False,https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355
+2026-11-21,TAIWAN,NVIDIA,172,-5.0,2,False,False,False,https://www.nbcnews.com/tech/tech-news/jensen-huang-nvidia-children-madison-spencer-roles-family-wife-rcna610144
+2026-11-21,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.dailysabah.com/world/asia-pacific/trump-hails-xi-summit-as-china-quietly-gains-the-upper-hand
+2026-11-21,CHINA,TAIPEI,016,-2.0,3,False,False,False,https://www.dailysabah.com/world/asia-pacific/trump-hails-xi-summit-as-china-quietly-gains-the-upper-hand
+2026-11-21,CHINA,TAIPEI,120,-4.0,4,False,False,False,https://timesofindia.indiatimes.com/world/us/three-summits-few-wins-how-xi-jinping-has-kept-donald-trump-waiting/articleshow/136055566.cms
+2026-11-21,CHINA,TAIWAN,046,7.0,8,False,False,False,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
+2026-11-21,CHINA,TAIWAN,046,7.0,2,False,False,False,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
+2026-11-21,GUANGZHOU,TAIWAN,046,7.0,2,False,False,True,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
+2026-11-21,TAIWAN,CHINA,010,0.0,10,False,False,False,https://news.webindia123.com/news/Articles/World/20261121/4522742.html
 2026-11-21,UNITED STATES,TAIWAN,043,2.8,1,False,False,False,https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355
 2026-11-21,CHICAGO,TAIWAN,043,2.8,6,False,False,False,https://www.manilatimes.net/2026/11/21/tmt-newswire/pr-newswire/konst-showcases-247-gpus-delivered-in-asia-at-sc26-offering-ai-compute-services-from-validation-and-delivery-to-round-the-clock-operations/2475355
-2026-11-21,CHINESE,TAIWAN,040,1.0,1,False,False,False,https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm
-2026-11-21,TAIWAN,NVIDIA,172,-5.0,2,False,False,False,https://www.nbcnews.com/tech/tech-news/jensen-huang-nvidia-children-madison-spencer-roles-family-wife-rcna610144
+2026-11-21,CHINA,TAIWAN,070,7.0,2,False,False,False,https://focustaiwan.tw/culture/202611210018
+2026-11-21,CHINA,TAIWAN,070,7.0,2,False,False,False,https://focustaiwan.tw/culture/202611210018
+2026-11-21,CHINA,TAIPEI,120,-4.0,1,False,False,False,https://timesofindia.indiatimes.com/world/us/three-summits-few-wins-how-xi-jinping-has-kept-donald-trump-waiting/articleshow/136055566.cms
+2026-11-21,TAIWAN,UNITED STATES,042,1.9,4,False,False,False,https://h21.hani.co.kr/arti/world/world_general/60212.html

@@ -1,20 +1,20 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T08:48:04.634138",
+ "generated_at": "2026-11-21T20:15:43.630729",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 10,
- "n_coded": 10,
- "n_relevant": 1,
+ "n_articles": 20,
+ "n_coded": 19,
+ "n_relevant": 2,
  "stats": {
   "api_calls": 10,
   "api_failures": 0,
-  "unparseable": 0,
+  "unparseable": 1,
   "unpriced": 0,
   "cache_write": 11036,
   "cache_read": 99324,
-  "input_uncached": 3607,
+  "input_uncached": 1615,
   "folded": 0
  },
  "articles": {
@@ -24,6 +24,13 @@
    },
    "mentions": 30,
    "title": "Taiwán, NVIDIA y el futuro de la IA: qué pasaría con la economía mundial si China invadiera la isla - Infobae"
+  },
+  "https://www.clickondetroit.com/business/2026/11/21/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan warns Canada faces the China risks Carney has cautioned against"
   },
   "https://focustaiwan.tw/politics/202611210004": {
    "tags": {
@@ -36,6 +43,25 @@
    },
    "mentions": 16,
    "title": "U.S.-Taiwan military cooperation at unprecedented level: Congressman - Focus Taiwan"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261121/4522742.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Taiwan flags improper treatment by China during APEC meetings"
+  },
+  "https://focustaiwan.tw/culture/202611210018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Veteran Taiwanese poet Xiang Ming dies, leaving literary legacy - Focus Taiwan"
   },
   "http://en.ce.cn/main/latest/202611/t20261121_3301270.shtml": {
    "tags": {
@@ -51,12 +77,33 @@
    "mentions": 7,
    "title": "KONST Showcases \"24/7 GPUs Delivered in Asia\" at SC26, Offering AI Compute Services from Validation and Delivery to Round-the-Clock Operations\n\n | The Manila Times"
   },
+  "https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Οι νέες σφαίρες επιρροής της Δύσης: Τι συμφωνήθηκε στη διάσκεψη της Σεντζέν ανάμεσα σε Τραμπ, Πούτιν και Σι - Η επιστροφή της Ρωσίας στο τραπέζι των μεγάλων δυνάμεων - Newpost.gr"
+  },
   "https://www.vqronline.org/secrets-dragon-inn": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
    "title": "The Secrets of Dragon Inn | VQR"
+  },
+  "http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Takeaways from the historic summit among Trump, Xi and Putin"
+  },
+  "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Shenzhen Summit Puts Limits of China–Russia Partnership in Focus | The Epoch Times"
   },
   "https://h21.hani.co.kr/arti/world/world_general/60212.html": {
    "tags": {
@@ -65,12 +112,26 @@
    "mentions": 4,
    "title": "젠슨 황, 스캔들에서 게이트로… 이제 시작이다"
   },
-  "http://www.dhakacourier.com.bd/news/Global/Takeaways-from-the-historic-summit-among-Trump-Xi-and-Putin/10643": {
+  "https://timesofindia.indiatimes.com/world/us/three-summits-few-wins-how-xi-jinping-has-kept-donald-trump-waiting/articleshow/136055566.cms": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "Takeaways from the historic summit among Trump, Xi and Putin"
+   "title": "Three summits, few wins: How Xi Jinping has kept Donald Trump waiting - The Times of India"
+  },
+  "https://www.dailysabah.com/world/asia-pacific/trump-hails-xi-summit-as-china-quietly-gains-the-upper-hand": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump hails Xi summit as China quietly gains the upper hand | Daily Sabah"
+  },
+  "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump Threatens ‘Tremendous Tax’ On Companies That Build Data Centers Overseas | \r\n\t\tThe Daily Caller"
   },
   "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china": {
    "tags": {
@@ -85,6 +146,13 @@
    },
    "mentions": 2,
    "title": "Jensen Huang is out at Nvidia. His children still have prominent roles."
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5649131": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "《TAIPEI TIMES》 US lawmaker upbeat on Taiwan ties - 焦點 - 自由時報電子報"
   },
   "https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
    "tags": {

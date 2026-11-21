@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-21T08:48:04.624527",
+ "saved_at": "2026-11-21T20:15:43.621136",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15012,6 +15012,38 @@
    "v1": "no"
   },
   "https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm": {
+   "v1": "no"
+  },
+  "https://www.clickondetroit.com/business/2026/11/21/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against/": {
+   "v1": "no"
+  },
+  "https://news.webindia123.com/news/Articles/World/20261121/4522742.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://focustaiwan.tw/culture/202611210018": {
+   "v1": "no"
+  },
+  "https://newpost.gr/eidiseis/oi-nees-sfaires-epirrois-tis-dysis-ti-symfonithike-sti-diaskepsi-tis-sentzen-anamesa-se-tramp-poytin-kai-si-i-epistrofi-tis-rosias-sto-trapezi-ton-megalon-dynameon/": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510": {
+   "v1": "no"
+  },
+  "https://timesofindia.indiatimes.com/world/us/three-summits-few-wins-how-xi-jinping-has-kept-donald-trump-waiting/articleshow/136055566.cms": {
+   "v1": "no"
+  },
+  "https://www.dailysabah.com/world/asia-pacific/trump-hails-xi-summit-as-china-quietly-gains-the-upper-hand": {
+   "v1": "no"
+  },
+  "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5649131": {
    "v1": "no"
   }
  }

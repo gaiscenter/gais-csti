@@ -8,6 +8,12 @@
    "raw": -6.0,
    "e": 1,
    "mentions": 16
+  },
+  "CHN_threat": {
+   "value": 0.3333,
+   "raw": 2.0,
+   "e": 1,
+   "mentions": 10
   }
  }
 }
