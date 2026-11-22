@@ -1,39 +1,84 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
-2026-11-22,CHINESE,TAIWAN,020,3.0,1,False,False,False,https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/
-2026-11-22,CHINESE,TAIWAN,020,3.0,7,False,False,False,https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/
-2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
-2026-11-22,BEIJING,TAIWAN,130,-4.4,10,False,False,False,https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html
-2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,CHINA,TAIWAN,110,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
-2026-11-22,TAIWAN,CHINA,130,-4.4,10,False,False,False,https://japantoday.com/category/world/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against
-2026-11-22,TAIWAN,CHINA,130,-4.4,10,False,False,False,https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/
+2026-11-22,TAIWAN,CHINESE,130,-4.4,8,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5649965
+2026-11-22,NVIDIA,TAIWAN,020,3.0,4,False,False,False,https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html
+2026-11-22,NVIDIA,TAIWAN,042,1.9,2,False,False,False,https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html
+2026-11-22,TAIWAN,NVIDIA,043,2.8,2,False,False,False,https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html
+2026-11-22,TAIWAN,NVIDIA,050,3.5,2,False,False,False,https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html
+2026-11-22,TAIWAN,NVIDIA,111,-2.0,4,False,False,False,https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html
+2026-11-22,TAIWAN,CHINESE,130,-4.4,2,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5649965
+2026-11-22,TAIWAN,NVIDIA,050,3.5,2,False,False,False,https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html
+2026-11-22,CHINA,TAIWAN,040,1.0,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,CHINA,070,7.0,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,CHINA,070,7.0,8,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,CHINESE,130,-4.4,8,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868216
+2026-11-22,TAIWAN,SHENZHEN,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,SHENZHEN,TAIWAN,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,CHINA,TAIWAN,040,1.0,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,SHENZHEN,TAIWAN,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,SHENZHEN,TAIWAN,040,1.0,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,CHINA,TAIWAN,040,1.0,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,SHENZHEN,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208
+2026-11-22,TAIWAN,CHINESE,130,-4.4,2,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868216
+2026-11-22,CHINA,HSINCHU COUNTY,141,-6.5,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868207
+2026-11-22,CHINA,TAIWAN,173,-5.0,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868207
 2026-11-22,TAIWAN,CHINA,090,-2.0,2,False,False,False,https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/
 2026-11-22,TAIWAN,CHINA,192,-9.5,2,False,False,False,https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/
+2026-11-22,TAIPEI,CHINESE,051,3.4,4,False,False,False,https://focustaiwan.tw:443/politics/202611225001
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,TAIWAN,BEIJING,014,0.0,1,False,False,False,https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773
+2026-11-22,TAIWAN,CHINA,130,-4.4,10,False,False,False,https://japantoday.com/category/world/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against
+2026-11-22,TAIWAN,BEIJING,014,0.0,7,False,False,False,https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773
+2026-11-22,TAIWAN,BEIJING,046,7.0,10,False,False,False,https://fakti.bg/world/1103397-taivan-saobshti-za-sluchai-na-nekorektno-otnoshenie-ot-strana-na-kitai-po-vreme-na-sreshtite-na-atis
+2026-11-22,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.theepochtimes.com/us/analysts-say-trump-xi-putin-summit-exposed-deep-divide-6127777
+2026-11-22,TAIWAN,CHINA,130,-4.4,6,False,False,False,https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks
+2026-11-22,CHINA,TAIWAN,110,-2.0,2,False,False,False,https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773
 2026-11-22,CHINA,TAIPEI,050,3.5,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
 2026-11-22,TAIPEI,CHINA,050,3.5,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
 2026-11-22,TAIPEI,CHINA,050,3.5,8,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
-2026-11-22,CHINESE,TAIPEI,150,-7.2,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
-2026-11-22,CHINESE,TAIPEI,150,-7.2,6,True,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
-2026-11-22,CHINA,TAIPEI,050,3.5,8,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
-2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,TAIWAN,CHINA,138,-7.0,10,False,False,False,https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html
+2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,BEIJING,TAIWAN,016,-2.0,10,False,False,False,http://internetua.com/taivan-povidomlyaye-meta-pro-sprobi-tisyacs-oblikovih-zapisiv-pov-yazanih-z-kitayem-vplinuti-na-vibori
+2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINESE,TAIWAN,020,3.0,7,False,False,False,https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,TAIWAN,CHINA,130,-4.4,2,False,False,False,https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks
+2026-11-22,TAIWAN,CHINA,130,-4.4,10,False,False,False,https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/
+2026-11-22,BEIJING,TAIWAN,130,-4.4,10,False,False,False,https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html
+2026-11-22,TAIWAN,CHINA,040,1.0,1,False,False,False,https://www.theepochtimes.com/us/analysts-say-trump-xi-putin-summit-exposed-deep-divide-6127777
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,6,False,False,False,https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773
+2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
 2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
-2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
-2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
 2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
 2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,TAIWAN,CHINA,036,4.0,8,False,False,False,https://fakti.bg/world/1103417-taivan-ne-biva-da-se-razglejda-samo-prez-prizmata-na-otnosheniata-mejdu-sasht-i-kitai
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
 2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
-2026-11-22,TAIWAN,CHINA,130,-4.4,6,False,False,False,https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks
-2026-11-22,TAIWAN,CHINA,130,-4.4,2,False,False,False,https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks
+2026-11-22,CHINESE,TAIPEI,150,-7.2,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,CHINESE,TAIPEI,150,-7.2,6,True,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,CHINA,TAIPEI,050,3.5,8,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,TAIPEI,CHINESE,051,3.4,6,False,False,False,https://focustaiwan.tw:443/politics/202611225001
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,NVIDIA,TAIWAN,010,0.0,4,False,False,False,https://focustaiwan.tw:443/business/202611220006
+2026-11-22,CHINA,TAIWAN,110,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,CHINESE,TAIWAN,110,-2.0,1,False,False,False,https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773
+2026-11-22,CHINESE,TAIWAN,020,3.0,1,False,False,False,https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/

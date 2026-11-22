@@ -1,147 +1,9 @@
 {
   "date_audited": "2026-11-22",
-  "generated_at": "2026-11-22T08:49:59.137922",
-  "total_checked": 66,
-  "total_flagged": 64,
+  "generated_at": "2026-11-22T20:29:11.701072",
+  "total_checked": 76,
+  "total_flagged": 68,
   "entries": [
-    {
-      "url": "https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html",
-      "actor1": "BEIJING",
-      "actor2": "TAIWAN",
-      "event_code": "130",
-      "goldstein": -4.4,
-      "mentions": 10,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 1763,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": null
-      },
-      "reason": "조건1: 아니오 — 기사의 주요 내용은 캐나다의 무역 정책과 미국 관세 위협에 관한 것이며, 대만-중국 간 직접적 행위(위협, 무력시위, 영공침범 등)가 아니라 대만 외교관이 캐나다를 향해 중국 의존성을 경고하는 제3국 대상 발언입니다. 조건2: 예 — 기사의 논조는 중국 전자동차의 위협성, 감시 위험성, 경제적 강압 사용 등을 비판적으로 다루고 있어 \"갈등적/부정적\" 코드와 일치합니다. 조",
-      "unparseable": false,
-      "title": "Тайвань предостерёг Канаду от торговой зависимости от Пекина » Сетевое издание «Соловей.Инфо»",
-      "paragraph_1": "Редакция Соловей.Инфо",
-      "paragraph_2": "Канадскому автопрому грозят американские пошлины размером 50% с 1 января. Дональд Трамп пригрозил обложить ими автомобили, а также запчасти. Марк Карни допускает помощь производителей Китая, если переговоры с США не спасут отрасль."
-    },
-    {
-      "url": "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
-      "actor1": "CHINESE",
-      "actor2": "TAIPEI",
-      "event_code": "150",
-      "goldstein": -7.2,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": true,
-        "c2": true,
-        "c3": false
-      },
-      "reason": "조건1: 예 — 기사의 제목과 본문이 대만의 군사 준비와 방어 전략을 중국의 군사 압력에 대한 대응으로 명시하고 있으며, 이는 대만과 중국 간의 안보 대립을 직접 다루고 있습니다. 조건2: 예 — 기사의 논조는 전쟁 위협, 중국의 군사 압력, 대만의 방어 준비 등 갈등적 내용으로 일관되어 있으며, GoldsteinScale -7.2의 부정적 코드와 일치합니다. 조건3: 아니오 — 기사의 부정",
-      "unparseable": false,
-      "title": "Taiwan Is Preparing for a War That Could Reshape the World",
-      "paragraph_1": null,
-      "paragraph_2": null
-    },
-    {
-      "url": "https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/",
-      "actor1": "CHINESE",
-      "actor2": "TAIWAN",
-      "event_code": "020",
-      "goldstein": 3.0,
-      "mentions": 7,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": false,
-        "c2": false,
-        "c3": null
-      },
-      "reason": "조건1: 아니오 — 기사는 미국-러시아-중국 3자 정상회담을 주요 주제로 다루고 있으며, 대만은 각 지도자의 개별적 관심사로만 간단히 언급되어 있고 대만-중국 간의 직접적인 사건이나 행위를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 비판적이고 부정적이며(미국을 \"자기중심적 허무주의 과두제\", 회담을 \"인상 게임\"으로 평가), GoldsteinScale +3.0의 \"협력적/긍정적",
-      "unparseable": false,
-      "title": "Γιάλτα απ’ τα Temu",
-      "paragraph_1": "Οι Ηνωμένες Πολιτείες, τουλάχιστον στη σημερινή τους μορφή, είναι μια εγωκεντρική, μηδενιστική ολιγαρχία χωρίς εξωτερική πολιτική, που οι ηγέτες της γυρίζουν τον κόσμο γυρεύοντας μίζες",
-      "paragraph_2": "H τριμερής συνάντηση Σι, Τραμπ και Πούτιν στην κινέζικη Σεντζέν –έδρα της Huawei και ένα από τα κατεξοχήν τεχνολογικά κέντρα της Κίνας– περισσότερο εξέφρασε διαθέσεις, και αναλώθηκε σε ένα παιχνίδι εντυπώσεων, παρά λειτούργησε επί της ουσίας."
-    },
-    {
-      "url": "http://en.people.cn/n3/2026/1122/c90000-20521817.html",
-      "actor1": "CHINA",
-      "actor2": "TAIWAN",
-      "event_code": "090",
-      "goldstein": -2.0,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": false
-      },
-      "reason": "조건1: 아니오 — 기사는 중국-미국 정상회담과 미국의 \"대만독립 미지지\" 발언을 다루고 있으며, 중국과 대만 간의 직접적인 군사행동·위협·충돌·영해침범 등 구체적 행위가 아니라 미국을 중개로 한 외교적 입장 표명만 다루고 있습니다. 조건2: 예 — 기사의 논조는 \"대만독립 추구는 도운에 빠질 것\"이라는 중국 측 비판과 위협적 언사로 일관하며, 부정적/갈등적 코드와 일치합니다. 조건3: 아니",
-      "unparseable": false,
-      "title": "Roundup: One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts - People's Daily Online",
-      "paragraph_1": "BEIJING, Nov. 21 (Xinhua) -- The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
-      "paragraph_2": "They said the Democratic Progressive Party (DPP) authorities' attempts to seek \"Taiwan independence\" by relying on external forces and military buildup are doomed to fail."
-    },
-    {
-      "url": "http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml",
-      "actor1": "CHINA",
-      "actor2": "TAIWAN",
-      "event_code": "090",
-      "goldstein": -2.0,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": false,
-        "c2": false,
-        "c3": true
-      },
-      "reason": "조건1: 아니오 — 기사는 중국 지도부의 대만 정책 입장 표명과 미국과의 정상회담 내용을 다루고 있으며, 대만과 중국 간의 직접적인 군사행동, 위협, 영토침범 등 구체적 행위가 아니라 중국의 일방적 입장 표명만을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 중국 전문가들의 \"대만 독립 시도는 실패할 것\", \"일중 원칙은 흔들리지 않음\" 등의 긍정적·낙관적 주장을 담고 있으며, 이",
-      "unparseable": false,
-      "title": "One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts--China Economic Net",
-      "paragraph_1": "BEIJING, Nov. 21 (Xinhua) -- The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
-      "paragraph_2": "They said the Democratic Progressive Party (DPP) authorities' attempts to seek \"Taiwan independence\" by relying on external forces and military buildup are doomed to fail."
-    },
-    {
-      "url": "http://www.china.org.cn/2026-11/22/content_118784515.shtml",
-      "actor1": "CHINA",
-      "actor2": "TAIWAN",
-      "event_code": "090",
-      "goldstein": -2.0,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": false
-      },
-      "reason": "조건1: 아니오 — 기사는 중국과 미국, 러시아 간의 정상회담과 미국의 대만 정책 입장에 관한 것이며, 대만과 중국 간의 직접적인 군사행위·위협·충돌·무력시위 등이 아니라 제3국(미국)을 통한 간접적 언급일 뿐이다. 조건2: 예 — 기사의 실제 논조는 대만 독립 시도를 비난하고 중국의 입장을 지지하는 부정적·갈등적 내용으로, GoldsteinScale -2.0과 일치한다. 조건3: 아니오 —",
-      "unparseable": false,
-      "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail: experts - China.org.cn",
-      "paragraph_1": "Home China World Business Sport Special Coverage 双语",
-      "paragraph_2": "The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said."
-    },
     {
       "url": "https://japantoday.com/category/world/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against",
       "actor1": "TAIWAN",
@@ -212,81 +74,35 @@
       "paragraph_2": "\"We worry. We worry,\" Chen Ming-chi told The Associated Press in an interview at the Halifax International Security Forum when asked about Carney's efforts to improve relations with China."
     },
     {
-      "url": "https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/",
-      "actor1": "TAIWAN",
-      "actor2": "CHINA",
-      "event_code": "192",
-      "goldstein": -9.5,
-      "mentions": 2,
-      "partner": "CHN",
-      "direction": "response",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 757,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": null
-      },
-      "reason": "조건1: 아니오 — 기사는 대만-중국 정부 간의 직접적인 국가급 행위(군사행동, 위협, 공식 정책 등)가 아니라, 미국 기업(Nvidia) CEO의 개인적 행위와 비합법적 칩 밀반출에 관한 첩보/범죄 혐의를 다루고 있으며, 대만 정부의 행위나 중국 정부의 직접적인 위협행위가 명시되지 않습니다. 조건2: 예 — 기사의 논조는 중국의 불법적 칩 밀반출, 첩보 활동, AI 패권 경쟁 등을 부정적으",
-      "unparseable": false,
-      "title": "What China Gets From Its Honeypots and Smuggled Chips",
-      "paragraph_1": "Rolling Stone : “You could start casting the movie right now: Jensen Huang, the Taiwanese-American CEO of Nvidia, the most important tech company in the world, is sucked into an illicit affair with a Chinese spy. The most valuable tech in the world — Huang’s super-powered computer chips — are smuggled into China or installed into data centers connected to America’s greatest rival. Above it all, the possibility of a super-intelligent AI, a true artificial mind, looms — and its creator will be positioned to rule the world.”",
-      "paragraph_2": "“At least, that’s the simple version of the story. But the real picture of the great geopolitical AI race is both more complex and more unbelievable than the tale of spies and smuggling that’s playing out in the press right now.”"
-    },
-    {
-      "url": "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
-      "actor1": "CHINA",
-      "actor2": "TAIWAN",
-      "event_code": "150",
-      "goldstein": -7.2,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": true,
-        "c2": true,
-        "c3": false
-      },
-      "reason": "조건1: 예 — 중국이 11월 2일 이후 대만 주변에서 대규모 군사력(해군함정 100척, 군용기 49대)을 배치하고 대만을 포위하는 군사연습/전력 전개를 수행한 것으로, 대만의 안보에 직접 영향을 주는 일방적 군사행동입니다. 조건2: 예 — 기사의 실제 논조는 중국의 군사적 위협과 위력 과시를 다루고 있으며, 이는 부정적 코드(GoldsteinScale: -7.2, CAMEO 150)와 일치",
-      "unparseable": false,
-      "title": "What we know about China's military exercises around Taiwan",
-      "paragraph_1": "France24 13 Nov 2026, 23:49 GMT+10",
-      "paragraph_2": "Just in: China takes over Taiwan, reads a post on X from November 5, featuring an animated map meant to show the ongoing annexation of the island. In the past few hours, Chinese aircrafts and marine patrols were closing [sic] monitoring Taiwan and now its more clear and confirmed that any movements to and from Taiwan is now controlled by the Chinese military presence,\" it added."
-    },
-    {
-      "url": "http://www.jpost.com/conferences/article-915400",
-      "actor1": "CHINESE",
-      "actor2": "TAIWAN",
-      "event_code": "154",
-      "goldstein": -7.2,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": false
-      },
-      "reason": "조건1: 아니오 — 기사는 주로 이란의 미사일·핵 위협과 중국의 대만 군사행동 \"가능성\"을 제3국 전문가들이 논평하는 것으로, 중국-대만 간의 실제 직접 행위(미사일 발사, 무력시위, 영해침범 등)가 아니라 미래 시나리오에 대한 경고성 논의일 뿐입니다. 조건2: 예 — 기사의 논조는 중국의 대만에 대한 군사행동 가능성을 위협으로 표현하고 있어 부정적 코드와 일치합니다. 조건3: 아니오 — 기",
-      "unparseable": false,
-      "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post",
-      "paragraph_1": null,
-      "paragraph_2": null
-    },
-    {
-      "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit",
+      "url": "https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html",
       "actor1": "BEIJING",
       "actor2": "TAIWAN",
-      "event_code": "173",
-      "goldstein": -5.0,
-      "mentions": 4,
+      "event_code": "130",
+      "goldstein": -4.4,
+      "mentions": 10,
+      "partner": "CHN",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 1763,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사의 주요 내용은 캐나다의 무역 정책과 미국 관세 위협에 관한 것이며, 대만-중국 간 직접적 행위(위협, 무력시위, 영공침범 등)가 아니라 대만 외교관이 캐나다를 향해 중국 의존성을 경고하는 제3국 대상 발언입니다. 조건2: 예 — 기사의 논조는 중국 전자동차의 위협성, 감시 위험성, 경제적 강압 사용 등을 비판적으로 다루고 있어 \"갈등적/부정적\" 코드와 일치합니다. 조",
+      "unparseable": false,
+      "title": "Тайвань предостерёг Канаду от торговой зависимости от Пекина » Сетевое издание «Соловей.Инфо»",
+      "paragraph_1": "Редакция Соловей.Инфо",
+      "paragraph_2": "Канадскому автопрому грозят американские пошлины размером 50% с 1 января. Дональд Трамп пригрозил обложить ими автомобили, а также запчасти. Марк Карни допускает помощь производителей Китая, если переговоры с США не спасут отрасль."
+    },
+    {
+      "url": "https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/",
+      "actor1": "CHINESE",
+      "actor2": "TAIWAN",
+      "event_code": "020",
+      "goldstein": 3.0,
+      "mentions": 7,
       "partner": "CHN",
       "direction": "threat",
       "verdict": "flagged",
@@ -294,14 +110,14 @@
       "text_len": 2500,
       "cond": {
         "c1": false,
-        "c2": null,
+        "c2": false,
         "c3": null
       },
-      "reason": "조건1: 아니오 — 기사의 실질적 내용은 Xi와 Trump의 정상회담 및 미중 경제 경쟁에 관한 것이며, 대만은 \"overshadowed\"될 가능성으로만 언급되어 있고 대만-중국 간의 직접적인 행위(군사행동, 위협, 충돌 등)가 없습니다. 조건2: 해당 없음 조건3: 해당 없음 최종: 아니오",
+      "reason": "조건1: 아니오 — 기사는 미국-러시아-중국 3자 정상회담을 주요 주제로 다루고 있으며, 대만은 각 지도자의 개별적 관심사로만 간단히 언급되어 있고 대만-중국 간의 직접적인 사건이나 행위를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 비판적이고 부정적이며(미국을 \"자기중심적 허무주의 과두제\", 회담을 \"인상 게임\"으로 평가), GoldsteinScale +3.0의 \"협력적/긍정적",
       "unparseable": false,
-      "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit – Winnipeg Free Press",
-      "paragraph_1": "TAIPEI, Taiwan (AP) — Taiwan is likely to be overshadowed as presidents Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia Pacific Economic Forum this week, even as the threat from China evolves and grows stronger.",
-      "paragraph_2": "Read this article for free:"
+      "title": "Γιάλτα απ’ τα Temu",
+      "paragraph_1": "Οι Ηνωμένες Πολιτείες, τουλάχιστον στη σημερινή τους μορφή, είναι μια εγωκεντρική, μηδενιστική ολιγαρχία χωρίς εξωτερική πολιτική, που οι ηγέτες της γυρίζουν τον κόσμο γυρεύοντας μίζες",
+      "paragraph_2": "H τριμερής συνάντηση Σι, Τραμπ και Πούτιν στην κινέζικη Σεντζέν –έδρα της Huawei και ένα από τα κατεξοχήν τεχνολογικά κέντρα της Κίνας– περισσότερο εξέφρασε διαθέσεις, και αναλώθηκε σε ένα παιχνίδι εντυπώσεων, παρά λειτούργησε επί της ουσίας."
     },
     {
       "url": "https://www.themarketsdaily.com/2026/11/16/mid-cap-stocks-to-follow-now-november-12th.html",
@@ -649,29 +465,6 @@
       "paragraph_2": "Shih, founder and honorary chairman of Acer Group, made the remarks at Taoyuan International Airport after attending the Nov. 18-19 gathering on behalf of President Lai Ching-te (賴清德)."
     },
     {
-      "url": "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week",
-      "actor1": "TAIWAN",
-      "actor2": "BEIJING",
-      "event_code": "016",
-      "goldstein": -2.0,
-      "mentions": 6,
-      "partner": "CHN",
-      "direction": "response",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2497,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": false
-      },
-      "reason": "조건1: 아니오 — 기사의 주요 사건은 러시아 군용기의 대만 상공 비행이며, 대만-중국 간 직접적인 행위나 충돌이 아니라 제3국(러시아)의 행동을 다루고 있습니다. 조건2: 예 — 기사의 논조는 러시아 군용기의 대만 접근을 감시 대상으로 보도하는 것으로, 부정적/갈등적 맥락과 일치합니다. 조건3: 아니오 — 기사의 부정적 논조는 러시아의 군사 활동에 대한 대만의 보도에서 비롯된 것으로, 대만",
-      "unparseable": false,
-      "title": "Taiwan reports two Russian military aircraft nearby, second time this week | The Straits Times",
-      "paragraph_1": "Sign up now: Get insights on Asia's fast-moving developments",
-      "paragraph_2": "Published Nov 19, 2026, 03:10 PM"
-    },
-    {
       "url": "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867998",
       "actor1": "TAIWAN",
       "actor2": "SHENZHEN",
@@ -693,6 +486,29 @@
       "title": "Taiwan eyeing US-China-Russia talks - Taipei Times",
       "paragraph_1": "Taiwan yesterday said it is in “close contact” with the US ahead of today’s talks between the leaders of the US, China and Russia at the APEC Leaders’ Summit and views positively any effort that helps manage the risks of authoritarian expansion.",
       "paragraph_2": "US President Donald Trump, Chinese President Xi Jinping (習近平) and Russian President Vladimir Putin are set to hold an unprecedented three-way meeting on the sidelines of the summit in Shenzhen, China."
+    },
+    {
+      "url": "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week",
+      "actor1": "TAIWAN",
+      "actor2": "BEIJING",
+      "event_code": "016",
+      "goldstein": -2.0,
+      "mentions": 6,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2497,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 아니오 — 기사의 주요 사건은 러시아 군용기의 대만 상공 비행이며, 대만-중국 간 직접적인 행위나 충돌이 아니라 제3국(러시아)의 행동을 다루고 있습니다. 조건2: 예 — 기사의 논조는 러시아 군용기의 대만 접근을 감시 대상으로 보도하는 것으로, 부정적/갈등적 맥락과 일치합니다. 조건3: 아니오 — 기사의 부정적 논조는 러시아의 군사 활동에 대한 대만의 보도에서 비롯된 것으로, 대만",
+      "unparseable": false,
+      "title": "Taiwan reports two Russian military aircraft nearby, second time this week | The Straits Times",
+      "paragraph_1": "Sign up now: Get insights on Asia's fast-moving developments",
+      "paragraph_2": "Published Nov 19, 2026, 03:10 PM"
     },
     {
       "url": "https://focustaiwan.tw/business/202611190021",
@@ -1017,29 +833,6 @@
       "paragraph_2": "Taiwan rejected his remarks on Friday, saying its people would not accept Chinese rule."
     },
     {
-      "url": "http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal",
-      "actor1": "CHINA",
-      "actor2": "TAIWANESE",
-      "event_code": "051",
-      "goldstein": 3.4,
-      "mentions": 8,
-      "partner": "CHN",
-      "direction": "threat",
-      "verdict": "pass",
-      "article_fetched": false,
-      "text_len": 0,
-      "cond": {
-        "c1": null,
-        "c2": null,
-        "c3": null
-      },
-      "reason": null,
-      "unparseable": true,
-      "title": "Just a moment...",
-      "paragraph_1": null,
-      "paragraph_2": null
-    },
-    {
       "url": "http://www.floridastatesman.com/news/279429078/xi-says-taiwan-reunification-is-inevitable",
       "actor1": "CHINA",
       "actor2": "TAIWANESE",
@@ -1084,6 +877,29 @@
       "title": "Кина испрати остро предупредување до Вашингтон: Не играјте си со прашањето за Тајван - Нова Македонија",
       "paragraph_1": "Кинескиот претседател Си Џинпинг го предупредил американскиот претседател Доналд Трамп дека нерешавањето на прашањето за Тајван на соодветен начин може да предизвика судир, па дури и конфликт меѓу САД и Кина. Предупредувањето било упатено за време на разговорите зад затворени врати во Пекинг, а го пренесе американската телевизиска мрежа „Си-би-ес њуз“.",
       "paragraph_2": "Острата порака на кинескиот лидер била во контраст со јавните пофалби што Трамп ги упати за него за време на самитот. Разговорите ги откриле длабоките разлики меѓу двете сили околу Тајван, војната во Иран, трговијата и односите на Вашингтон со Тајпеј."
+    },
+    {
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit",
+      "actor1": "BEIJING",
+      "actor2": "TAIWAN",
+      "event_code": "173",
+      "goldstein": -5.0,
+      "mentions": 4,
+      "partner": "CHN",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": null,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사의 실질적 내용은 Xi와 Trump의 정상회담 및 미중 경제 경쟁에 관한 것이며, 대만은 \"overshadowed\"될 가능성으로만 언급되어 있고 대만-중국 간의 직접적인 행위(군사행동, 위협, 충돌 등)가 없습니다. 조건2: 해당 없음 조건3: 해당 없음 최종: 아니오",
+      "unparseable": false,
+      "title": "Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit – Winnipeg Free Press",
+      "paragraph_1": "TAIPEI, Taiwan (AP) — Taiwan is likely to be overshadowed as presidents Xi Jinping and Donald Trump are expected to meet on the sidelines of the Asia Pacific Economic Forum this week, even as the threat from China evolves and grows stronger.",
+      "paragraph_2": "Read this article for free:"
     },
     {
       "url": "http://www.middleeaststar.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan",
@@ -1222,6 +1038,52 @@
       "title": "Carney government plans to conclude trade deal with Taiwan despite entente with China - The Globe and Mail",
       "paragraph_1": "Prime Minister Mark Carney speaks with media in Shenzhen, China, on Wednesday. Adrian Wyld/The Canadian Press",
       "paragraph_2": "Listen to this article"
+    },
+    {
+      "url": "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
+      "actor1": "CHINA",
+      "actor2": "TAIWAN",
+      "event_code": "150",
+      "goldstein": -7.2,
+      "mentions": 6,
+      "partner": "CHN",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": true,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 예 — 중국이 11월 2일 이후 대만 주변에서 대규모 군사력(해군함정 100척, 군용기 49대)을 배치하고 대만을 포위하는 군사연습/전력 전개를 수행한 것으로, 대만의 안보에 직접 영향을 주는 일방적 군사행동입니다. 조건2: 예 — 기사의 실제 논조는 중국의 군사적 위협과 위력 과시를 다루고 있으며, 이는 부정적 코드(GoldsteinScale: -7.2, CAMEO 150)와 일치",
+      "unparseable": false,
+      "title": "What we know about China's military exercises around Taiwan",
+      "paragraph_1": "France24 13 Nov 2026, 23:49 GMT+10",
+      "paragraph_2": "Just in: China takes over Taiwan, reads a post on X from November 5, featuring an animated map meant to show the ongoing annexation of the island. In the past few hours, Chinese aircrafts and marine patrols were closing [sic] monitoring Taiwan and now its more clear and confirmed that any movements to and from Taiwan is now controlled by the Chinese military presence,\" it added."
+    },
+    {
+      "url": "http://www.jpost.com/conferences/article-915400",
+      "actor1": "CHINESE",
+      "actor2": "TAIWAN",
+      "event_code": "154",
+      "goldstein": -7.2,
+      "mentions": 6,
+      "partner": "CHN",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 아니오 — 기사는 주로 이란의 미사일·핵 위협과 중국의 대만 군사행동 \"가능성\"을 제3국 전문가들이 논평하는 것으로, 중국-대만 간의 실제 직접 행위(미사일 발사, 무력시위, 영해침범 등)가 아니라 미래 시나리오에 대한 경고성 논의일 뿐입니다. 조건2: 예 — 기사의 논조는 중국의 대만에 대한 군사행동 가능성을 위협으로 표현하고 있어 부정적 코드와 일치합니다. 조건3: 아니오 — 기",
+      "unparseable": false,
+      "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post",
+      "paragraph_1": null,
+      "paragraph_2": null
     },
     {
       "url": "https://focustaiwan.tw/politics/202611180009",
@@ -1431,29 +1293,6 @@
       "paragraph_2": "Nvidia's former CEO Jensen Huang, who resigned from the chipmaker last week under a cloud of scandal, said on Tuesday he \"would be honored\" to come back as CEO if the board decided his return would be in the best interest of shareholders and employees."
     },
     {
-      "url": "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
-      "actor1": "NVIDIA",
-      "actor2": "TAIWANESE",
-      "event_code": "071",
-      "goldstein": 7.4,
-      "mentions": 5,
-      "partner": "USA",
-      "direction": "threat",
-      "verdict": "flagged",
-      "article_fetched": true,
-      "text_len": 2500,
-      "cond": {
-        "c1": false,
-        "c2": true,
-        "c3": null
-      },
-      "reason": "조건1: 아니오 — 이 기사는 미국 기업(NVIDIA)과 대만 기업(SPIL) 간의 민간 비즈니스 거래이며, 대만 국가(정부)와 미국 국가(정부) 간의 국가급 행위자 사건이 아닙니다. 조건2: 예 — 기사의 실제 내용은 협력적 투자·생산 계약으로서 긍정적 톤을 유지하고 있으며, GoldsteinScale +7.4(협력적/긍정적)와 일치합니다. 최종: 아니오",
-      "unparseable": false,
-      "title": "Nvidia Chip Packaging Deal Funds SPIL Lines Making AI Chip Interposer Wafers, Not Just Assembly",
-      "paragraph_1": "Nvidia is funding new production lines at Taiwanese chip-packaging company SPIL that cover bumping, interposer wafer fabrication , assembly and testing, according to the agreement Nvidia announced Tuesday. An interposer is the silicon routing layer that connects an AI processor to its memory stacks. Making interposers has typically been TSMC's CoWoS front-end step , so the scope points to Nvidia financing a second source for part of the front half of an AI chip package, not only more back-end floor space. Neither company has said how the interposers will be made or under what license.",
-      "paragraph_2": "Nvidia released the multiyear agreements at 5:18 p.m. ET Tuesday, naming six partners: Amkor, Foxconn, Kinsus, Samsung Electro-Mechanics, SPIL and TSMC. SPIL said Wednesday in Taiwan that it will triple its advanced packaging capacity there by mid-2029, and Nvidia described its funding as multibillion-dollar without giving a figure."
-    },
-    {
       "url": "https://focustaiwan.tw/politics/202611180021",
       "actor1": "TAIWANESE",
       "actor2": "CHINA",
@@ -1521,6 +1360,397 @@
       "title": "Japan’s PM Urges Talks with China – Chennaionline",
       "paragraph_1": "Japanese Prime Minister Sanae Takaichi has stressed the importance of maintaining dialogue with China during her visit to Shenzhen for the Asia-Pacific Economic Cooperation (APEC) summit. She described China as an important neighbour and said regular communication was necessary to address differences between the two countries.",
       "paragraph_2": "Speaking to reporters on Thursday, November 19, 2026, Takaichi said Japan wanted to build a constructive and stable relationship with China. She also stated that both countries should continue discussions to protect their national interests and address existing challenges."
+    },
+    {
+      "url": "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
+      "actor1": "NVIDIA",
+      "actor2": "TAIWANESE",
+      "event_code": "071",
+      "goldstein": 7.4,
+      "mentions": 5,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 이 기사는 미국 기업(NVIDIA)과 대만 기업(SPIL) 간의 민간 비즈니스 거래이며, 대만 국가(정부)와 미국 국가(정부) 간의 국가급 행위자 사건이 아닙니다. 조건2: 예 — 기사의 실제 내용은 협력적 투자·생산 계약으로서 긍정적 톤을 유지하고 있으며, GoldsteinScale +7.4(협력적/긍정적)와 일치합니다. 최종: 아니오",
+      "unparseable": false,
+      "title": "Nvidia Chip Packaging Deal Funds SPIL Lines Making AI Chip Interposer Wafers, Not Just Assembly",
+      "paragraph_1": "Nvidia is funding new production lines at Taiwanese chip-packaging company SPIL that cover bumping, interposer wafer fabrication , assembly and testing, according to the agreement Nvidia announced Tuesday. An interposer is the silicon routing layer that connects an AI processor to its memory stacks. Making interposers has typically been TSMC's CoWoS front-end step , so the scope points to Nvidia financing a second source for part of the front half of an AI chip package, not only more back-end floor space. Neither company has said how the interposers will be made or under what license.",
+      "paragraph_2": "Nvidia released the multiyear agreements at 5:18 p.m. ET Tuesday, naming six partners: Amkor, Foxconn, Kinsus, Samsung Electro-Mechanics, SPIL and TSMC. SPIL said Wednesday in Taiwan that it will triple its advanced packaging capacity there by mid-2029, and Nvidia described its funding as multibillion-dollar without giving a figure."
+    },
+    {
+      "url": "https://fakti.bg/world/1103397-taivan-saobshti-za-sluchai-na-nekorektno-otnoshenie-ot-strana-na-kitai-po-vreme-na-sreshtite-na-atis",
+      "actor1": "TAIWAN",
+      "actor2": "BEIJING",
+      "event_code": "046",
+      "goldstein": 7.0,
+      "mentions": 10,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 1924,
+      "cond": {
+        "c1": false,
+        "c2": false,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사는 APEC 회의 참석 과정에서의 절차적 불편과 외교적 불공정을 다루고 있으며, 군사적 위협, 영해 침범, 무력시위 등 국가 안보에 직접적으로 영향을 주는 행위가 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 \"부정확한 대우(некоректно отношение)\", 참석 방해, 차별적 초대 절차 등 갈등과 불만을 강조하고 있으므로 긍정적/협력적 내용이 아니",
+      "unparseable": false,
+      "title": "Тайван съобщи за случаи на некоректно отношение от страна на Китай по време на срещите на АТИС ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ",
+      "paragraph_1": "22 Ноември, 2026 10:57 846 0",
+      "paragraph_2": "Тайван се е сблъскал с няколко случая на некоректно отношение по време на тазгодишните срещи на Азиатско-тихоокеанското икономическо сътрудничество (АТИС) в Китай, въпреки проведените предварителни преговори с Пекин. Тези случаи обаче няма да създадат прецедент, заяви в петък официален представител."
+    },
+    {
+      "url": "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "138",
+      "goldstein": -7.0,
+      "mentions": 10,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 아니오 — 기사는 중국의 국제적 위상 과시 전략을 분석한 것이며, 대만은 중국의 군사 위협 대상으로만 언급될 뿐 대만과 중국 간의 직접적인 사건(군사행동, 교류, 갈등)을 다루지 않습니다. 조건2: 예 — 기사의 논조는 중국을 \"조작적\", \"약점을 숨기려 함\", \"불안정함\"으로 비판하는 부정적 내용으로 일관되어 있습니다. 조건3: 아니오 — 기사의 부정적 논조는 프랑스 국제관계 전문",
+      "unparseable": false,
+      "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète. – franceinfo",
+      "paragraph_1": "Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires.",
+      "paragraph_2": "Pour sauvegarder cet article, connectez-vous ou créez un compte franceinfo"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868208",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "070",
+      "goldstein": 7.0,
+      "mentions": 8,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "pass",
+      "article_fetched": false,
+      "text_len": 0,
+      "cond": {
+        "c1": null,
+        "c2": null,
+        "c3": null
+      },
+      "reason": null,
+      "unparseable": false,
+      "title": null,
+      "paragraph_1": null,
+      "paragraph_2": null
+    },
+    {
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5649965",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "130",
+      "goldstein": -4.4,
+      "mentions": 8,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 아니오 — 기사의 주요 내용은 캐나다 총리 카니와 중국의 경제 관계에 대한 대만의 경고이며, 대만-중국 간의 직접적인 국가급 행위(군사행동, 위협, 영토침범 등)가 아니라 제3국(캐나다)에 대한 대만의 조언이다. 조건2: 예 — 기사의 논조는 대만이 중국과의 경제적 의존성의 위험성을 경고하고 있으며, 이는 부정적/갈등적 맥락과 일치한다. 조건3: 아니오 — 부정적 논조의 주체는 대만",
+      "unparseable": false,
+      "title": "《TAIPEI TIMES》 Taiwan warns Canada over dependence on China - 焦點 - 自由時報電子報",
+      "paragraph_1": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。",
+      "paragraph_2": "Chinese President Xi Jinping, right, shakes hands with Canadian Prime Minister Mark Carney during the APEC summit in Shenzhen, China, on Thursday last week.\r\nPhoto: Reuters"
+    },
+    {
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868216",
+      "actor1": "TAIWAN",
+      "actor2": "CHINESE",
+      "event_code": "130",
+      "goldstein": -4.4,
+      "mentions": 8,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 아니오 — 기사의 주요 내용은 대만이 캐나다를 대상으로 경고하는 것이며, 대만-중국 간의 직접적 행위(위협, 무력시위, 영공침범 등)가 아니라 제3국(캐나다)에 대한 대만의 조언/경고입니다. 조건2: 예 — 기사의 논조는 중국의 경제적 강압, 호스티지 외교, 감시 위험 등을 비판하며 부정적이므로 갈등적 코드와 일치합니다. 조건3: 아니오 — 부정적 논조의 주체가 대만(제3국이 아닌 ",
+      "unparseable": false,
+      "title": "Taiwan warns Canada over dependence on China - Taipei Times",
+      "paragraph_1": "Canadian Prime Minister Mark Carney risks exposing Canada to the very economic coercion he has cautioned against by deepening trade ties with China, Deputy Minister of Foreign Affairs Chen Ming-chi (陳明祺) said on Saturday, adding that Taiwan has learned the hard way that dependence on Beijing comes with consequences.",
+      "paragraph_2": "“We worry. We worry,” Chen said in an interview at the Halifax International Security Forum in Nova Scotia when asked about Carney’s efforts to improve relations with China."
+    },
+    {
+      "url": "https://fakti.bg/world/1103417-taivan-ne-biva-da-se-razglejda-samo-prez-prizmata-na-otnosheniata-mejdu-sasht-i-kitai",
+      "actor1": "TAIWAN",
+      "actor2": "CHINA",
+      "event_code": "036",
+      "goldstein": 4.0,
+      "mentions": 8,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": false,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사는 대만 외교부장관의 성명 및 의견 표현에 관한 것으로, 대만과 중국 정부 간의 직접적인 국가급 행위(군사행동, 위협, 협력 사업 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사활동 확대, \"회색지대\" 전술, 국제 개입 시도 등을 비판하는 갈등적·경고적 내용이므로, 긍정적 협력(+4.0) 코드와 불일치합니다. 최종: 아니오",
+      "unparseable": false,
+      "title": "Тайван не бива да се разглежда само през призмата на отношенията между САЩ и Китай ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ",
+      "paragraph_1": "22 Ноември, 2026 11:54 795 1",
+      "paragraph_2": "Разглеждането на Тайван предимно през призмата на напрежението между САЩ и Китай крие риск да се пренебрегне същността на въпроса за отношенията между двата бряга на Тайванския проток, заяви министърът на външните работи на Тайван Лин Чиа-лунг в статия, публикувана във вестник Liberty Times."
+    },
+    {
+      "url": "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
+      "actor1": "TAIPEI",
+      "actor2": "CHINA",
+      "event_code": "050",
+      "goldstein": 3.5,
+      "mentions": 8,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "pass",
+      "article_fetched": false,
+      "text_len": 0,
+      "cond": {
+        "c1": null,
+        "c2": null,
+        "c3": null
+      },
+      "reason": null,
+      "unparseable": false,
+      "title": null,
+      "paragraph_1": null,
+      "paragraph_2": null
+    },
+    {
+      "url": "http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml",
+      "actor1": "UNITED STATES",
+      "actor2": "TAIWAN",
+      "event_code": "110",
+      "goldstein": -2.0,
+      "mentions": 7,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": true,
+        "c3": false
+      },
+      "reason": "조건1: 아니오 — 기사는 미국-중국 간 정상회담과 미국의 대만 독립 비지지 선언을 다루고 있으며, 대만과 미국 간의 직접적인 군사행동·위협·충돌·무력시위 등 국가 간 행위를 다루지 않습니다. 조건2: 예 — 기사의 논조는 대만 독립 세력을 비판하고 중국의 입장을 강화하는 내용으로, \"갈등적/부정적\" 코드와 일치합니다. 조건3: 아니오 — 부정적 논조의 주체가 중국 전문가와 중국 정부(시진핑",
+      "unparseable": false,
+      "title": "One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts--China Economic Net",
+      "paragraph_1": "BEIJING, Nov. 21 (Xinhua) -- The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
+      "paragraph_2": "They said the Democratic Progressive Party (DPP) authorities' attempts to seek \"Taiwan independence\" by relying on external forces and military buildup are doomed to fail."
+    },
+    {
+      "url": "http://en.people.cn/n3/2026/1122/c90000-20521817.html",
+      "actor1": "UNITED STATES",
+      "actor2": "TAIWAN",
+      "event_code": "110",
+      "goldstein": -2.0,
+      "mentions": 7,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": false,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사는 미국-중국 간 정상회담과 미국의 대만독립 불지지 성명을 다루고 있으며, 대만과 미국 간의 직접적인 국가 행위(군사행동, 위협, 협력 등)가 아니라 중국이 미국에 대한 입장을 표현하고 중국 전문가들의 논평을 보도하는 형태입니다. 조건2: 아니오 — 기사의 실제 내용은 미국 대통령이 \"대만독립을 지지하지 않는다\"고 명확히 천명한 것으로, 이는 미국의 대만에 대한 우호적",
+      "unparseable": false,
+      "title": "Roundup: One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts - People's Daily Online",
+      "paragraph_1": "BEIJING, Nov. 21 (Xinhua) -- The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
+      "paragraph_2": "They said the Democratic Progressive Party (DPP) authorities' attempts to seek \"Taiwan independence\" by relying on external forces and military buildup are doomed to fail."
+    },
+    {
+      "url": "http://www.china.org.cn/2026-11/22/content_118784515.shtml",
+      "actor1": "UNITED STATES",
+      "actor2": "TAIWAN",
+      "event_code": "110",
+      "goldstein": -2.0,
+      "mentions": 7,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": false,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사는 미국-중국 간 정상회담과 미국의 \"대만독립 미지지\" 성명을 다루고 있으며, 대만과 미국 간의 직접적인 행위(군사훈련, 무력시위, 영공침범, 위협 등)가 아니라 중국-미국 간의 외교적 상호작용을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 미국이 중국의 입장을 존중하고 \"대만독립을 지지하지 않는다\"고 명시한 우호적·협력적 내용인데, GDELT가 갈등적 코",
+      "unparseable": false,
+      "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail: experts - China.org.cn",
+      "paragraph_1": "Home China World Business Sport Special Coverage 双语",
+      "paragraph_2": "The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said."
+    },
+    {
+      "url": "http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html",
+      "actor1": "UNITED STATES",
+      "actor2": "TAIWAN",
+      "event_code": "110",
+      "goldstein": -2.0,
+      "mentions": 7,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "flagged",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": false,
+        "c3": null
+      },
+      "reason": "조건1: 아니오 — 기사는 중국-미국 정상회담에서의 대만 문제 논의와 중국 전문가들의 의견을 다루고 있으며, 미국-대만 간의 직접적인 군사행동, 위협, 침범 등 구체적인 양자 행위가 아니라 중국이 미국에 대한 입장을 표명하는 내용입니다. 조건2: 아니오 — 기사의 실제 내용은 중국과 미국이 대만 문제에 대해 대화하고 미국이 대만독립을 지지하지 않는다고 명시한 것으로, 이는 중국 입장에서는 우",
+      "unparseable": false,
+      "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail, say experts - China Military",
+      "paragraph_1": "File photo of Taipei 101 skyscraper in Taipei, China's Taiwan region. /VCG",
+      "paragraph_2": "The recent meeting between the heads of state of China and the United States and the China-Russia-US summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said."
+    },
+    {
+      "url": "https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html",
+      "actor1": "NVIDIA",
+      "actor2": "TAIWAN",
+      "event_code": "020",
+      "goldstein": 3.0,
+      "mentions": 4,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "pass",
+      "article_fetched": false,
+      "text_len": 0,
+      "cond": {
+        "c1": null,
+        "c2": null,
+        "c3": null
+      },
+      "reason": null,
+      "unparseable": true,
+      "title": "Fact Check: Is Elon Musk acquiring 50% of NVIDIA to reinstate Jensen Huang after an affair-scandal exit? Here's the truth",
+      "paragraph_1": null,
+      "paragraph_2": null
+    },
+    {
+      "url": "https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773",
+      "actor1": "UNITED STATES",
+      "actor2": "TAIWAN",
+      "event_code": "110",
+      "goldstein": -2.0,
+      "mentions": 6,
+      "partner": "USA",
+      "direction": "threat",
+      "verdict": "pass",
+      "article_fetched": true,
+      "text_len": 2500,
+      "cond": {
+        "c1": false,
+        "c2": false,
+        "c3": false
+      },
+      "reason": null,
+      "unparseable": false,
+      "title": "Taiwan Disputes Chinese Media Claim That Trump Opposes Taiwan Independence | The Epoch Times",
+      "paragraph_1": "“The relevant reports are not true,” Chiu Chui-cheng, chairman of Taiwan’s Mainland Affairs Council, told reporters on Nov. 20.",
+      "paragraph_2": "Chiu said that the government had checked the reports with Taiwan’s Ministry of Foreign Affairs and that the findings did not support Beijing’s account. He said Taiwan maintains close communication with the United States and that Washington should provide the definitive account of what was discussed."
+    },
+    {
+      "url": "http://internetua.com/taivan-povidomlyaye-meta-pro-sprobi-tisyacs-oblikovih-zapisiv-pov-yazanih-z-kitayem-vplinuti-na-vibori",
+      "actor1": "BEIJING",
+      "actor2": "TAIWAN",
+      "event_code": "016",
+      "goldstein": -2.0,
+      "mentions": 10,
+      "partner": "CHN",
+      "direction": "threat",
+      "verdict": "pass",
+      "article_fetched": true,
+      "text_len": 1044,
+      "cond": {
+        "c1": true,
+        "c2": false,
+        "c3": null
+      },
+      "reason": null,
+      "unparseable": false,
+      "title": "Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑ Meta Ð¿ÑÐ¾ ÑÐ¿ÑÐ¾Ð±Ð¸ ÑÐ¸ÑÑÑ Ð¾Ð±Ð»ÑÐºÐ¾Ð²Ð¸Ñ Ð·Ð°Ð¿Ð¸ÑÑÐ², Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð¸Ñ Ð· ÐÐ¸ÑÐ°ÑÐ¼, Ð²Ð¿Ð»Ð¸Ð½ÑÑÐ¸ Ð½Ð° Ð²Ð¸Ð±Ð¾ÑÐ¸",
+      "paragraph_1": "Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð¸Ð² Meta Ð¿ÑÐ¾ Ð¼Ð°Ð¹Ð¶Ðµ 2700 Ð°ÐºÐ°ÑÐ½ÑÑÐ² Ñ ÑÐ¾ÑÑÐ°Ð»ÑÐ½Ð¸Ñ Ð¼ÐµÑÐµÐ¶Ð°Ñ, ÑÐºÑ, Ð½Ð° Ð¹Ð¾Ð³Ð¾ Ð´ÑÐ¼ÐºÑ, Ñ ÑÐ°ÑÑÐ¸Ð½Ð¾Ñ ÐºÐ¸ÑÐ°Ð¹ÑÑÐºÐ¾Ñ ÑÐ½ÑÐ¾ÑÐ¼Ð°ÑÑÐ¹Ð½Ð¾Ñ Ð²ÑÐ¹Ð½Ð¸, ÑÐ¿ÑÑÐ¼Ð¾Ð²Ð°Ð½Ð¾Ñ Ð½Ð° Ð²Ð¿Ð»Ð¸Ð½ÑÑÐ¸ Ð½Ð° Ð²Ð¸Ð±Ð¾ÑÐ¸ Ð½Ð° Ð¾ÑÑÑÐ¾Ð²Ñ Ð½Ð°ÑÑÑÐ¿Ð½Ð¾Ð³Ð¾ ÑÐ¸Ð¶Ð½Ñ, Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑÑÑ ÑÑÐ¸ ÑÑÑÐ´Ð¾Ð²ÑÑ ÑÐ° Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑÑÑ Ð²Ð½ÑÑÑÑÑÐ½Ñ Ð·Ð²ÑÑÐ¸.",
+      "paragraph_2": "ÐÑÐ¾ÑÑÐ³Ð¾Ð¼ Ð¾ÑÑÐ°Ð½Ð½ÑÑ ÑÐ¸Ð¶Ð½ÑÐ² ÑÐ°Ð¹Ð²Ð°Ð½ÑÑÐºÑ ÑÐ¸Ð½Ð¾Ð²Ð½Ð¸ÐºÐ¸ ÑÐ´ÐµÐ½ÑÐ¸ÑÑÐºÑÐ²Ð°Ð»Ð¸ Ð¾Ð±Ð»ÑÐºÐ¾Ð²Ñ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð½Ð° Threads, ÑÐµÐºÑÑÐ¾Ð²Ð¾Ð¼Ñ Meta - Ð¿Ð»Ð°ÑÑÐ¾ÑÐ¼Ñ, Ð¿Ð¾Ð¿ÑÐ»ÑÑÐ½Ñ Ð½Ð° Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ, ÑÐº Ð¿ÑÐ´Ð¾Ð·ÑÑÐ²Ð°Ð½Ñ Ð·Ð°ÑÐ¾Ð±Ð¸ Ð´Ð»Ñ ÑÐºÐ¾Ð¾ÑÐ´Ð¸Ð½Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð¿ÐµÑÐ°ÑÑÐ¹ ÐºÐ¸ÑÐ°Ð¹ÑÑÐºÐ¾Ð³Ð¾ Ð²Ð¿Ð»Ð¸Ð²Ñ, Ð·Ð³ÑÐ´Ð½Ð¾ Ð· Ð¾ÑÑÑÑÐ¹Ð½Ð¸Ð¼Ð¸ Ð¾ÑÐ¾Ð±Ð°Ð¼Ð¸, Ð·Ð½Ð°Ð¹Ð¾Ð¼Ð¸Ð¼Ð¸ Ð· ÑÐ¸Ð¼ Ð¿Ð¸ÑÐ°Ð½Ð½ÑÐ¼, ÑÐ° ÑÑÑÐ´Ð¾Ð²Ð¸Ð¼Ð¸ Ð·Ð²ÑÑÐ°Ð¼Ð¸, Ð· ÑÐºÐ¸Ð¼Ð¸ Ð¾Ð·Ð½Ð°Ð¹Ð¾Ð¼Ð¸Ð»Ð¾ÑÑ Ð°Ð³ÐµÐ½ÑÑÑÐ²Ð¾ Reuters."
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi",
+      "actor1": "TAIPEI",
+      "actor2": "BEIJING",
+      "event_code": "016",
+      "goldstein": -2.0,
+      "mentions": 4,
+      "partner": "CHN",
+      "direction": "response",
+      "verdict": "pass",
+      "article_fetched": true,
+      "text_len": 2151,
+      "cond": {
+        "c1": true,
+        "c2": false,
+        "c3": false
+      },
+      "reason": null,
+      "unparseable": false,
+      "title": "Closing Taiwan office ‘wasn’t easy’, Papua New Guinea PM tells Xi | FMT",
+      "paragraph_1": "Taiwan said in early November that it had decided to shut its representative office, which operated as a de facto embassy, in Papua New Guinea and stop buying liquefied natural gas from the country, blaming Chinese pressure.",
+      "paragraph_2": "Papua New Guinea briefly had diplomatic relations with Taipei in 1999 before restoring ties with China, which claims democratically governed Taiwan as its own territory."
+    },
+    {
+      "url": "http://www.shanghainews.net/news/279429078/taiwan-rejects-xi-s-latest-reunification-appeal",
+      "actor1": "CHINA",
+      "actor2": "TAIWANESE",
+      "event_code": "051",
+      "goldstein": 3.4,
+      "mentions": 8,
+      "partner": "CHN",
+      "direction": "threat",
+      "verdict": "pass",
+      "article_fetched": false,
+      "text_len": 0,
+      "cond": {
+        "c1": null,
+        "c2": null,
+        "c3": null
+      },
+      "reason": null,
+      "unparseable": false,
+      "title": null,
+      "paragraph_1": null,
+      "paragraph_2": null
     }
   ]
 }

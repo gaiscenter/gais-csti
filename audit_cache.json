@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "prompt_version": 3,
-  "saved_at": "2026-11-22T08:49:59.136127",
+  "saved_at": "2026-11-22T20:29:11.699176",
   "entries": {
     "https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html|130|neg": {
       "ok": false,
@@ -911,6 +911,174 @@
         "c2": true,
         "c3": null,
         "reason": "조건1: 아니오 — 기사의 주요 내용은 일본 총리와 중국 지도자 간의 대화 시도이며, 대만은 과거 갈등의 배경으로만 언급되었을 뿐 대만-중국 간의 직접적인 국가급 행위(군사행동, 위협, 무력시위 등)를 다루고 있지 않습니다. 조건2: 예 — 기사의 실제 논조는 대화 유지, 건설적 관계 추구, 외교적 소통 강조로 일관되어 있으며, 이는 긍정적 코드(GoldsteinScale: +0.0)와 일치"
+      }
+    },
+    "https://fakti.bg/world/1103397-taivan-saobshti-za-sluchai-na-nekorektno-otnoshenie-ot-strana-na-kitai-po-vreme-na-sreshtite-na-atis|046|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Тайван съобщи за случаи на некоректно отношение от страна на Китай по време на срещите на АТИС ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ",
+      "text_len": 1924,
+      "paragraph_1": "22 Ноември, 2026 10:57 846 0",
+      "paragraph_2": "Тайван се е сблъскал с няколко случая на некоректно отношение по време на тазгодишните срещи на Азиатско-тихоокеанското икономическо сътрудничество (АТИС) в Китай, въпреки проведените предварителни преговори с Пекин. Тези случаи обаче няма да създадат прецедент, заяви в петък официален представител.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 APEC 회의 참석 과정에서의 절차적 불편과 외교적 불공정을 다루고 있으며, 군사적 위협, 영해 침범, 무력시위 등 국가 안보에 직접적으로 영향을 주는 행위가 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 \"부정확한 대우(некоректно отношение)\", 참석 방해, 차별적 초대 절차 등 갈등과 불만을 강조하고 있으므로 긍정적/협력적 내용이 아니"
+      }
+    },
+    "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html|138|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète. – franceinfo",
+      "text_len": 2500,
+      "paragraph_1": "Cette semaine, une spécialiste des relations internationales montre comment la Chine met en scène sa puissance pour faire oublier ses faiblesses et décourager ses adversaires.",
+      "paragraph_2": "Pour sauvegarder cet article, connectez-vous ou créez un compte franceinfo",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 중국의 국제적 위상 과시 전략을 분석한 것이며, 대만은 중국의 군사 위협 대상으로만 언급될 뿐 대만과 중국 간의 직접적인 사건(군사행동, 교류, 갈등)을 다루지 않습니다. 조건2: 예 — 기사의 논조는 중국을 \"조작적\", \"약점을 숨기려 함\", \"불안정함\"으로 비판하는 부정적 내용으로 일관되어 있습니다. 조건3: 아니오 — 기사의 부정적 논조는 프랑스 국제관계 전문"
+      }
+    },
+    "https://news.ltn.com.tw/news/focus/breakingnews/5649965|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "《TAIPEI TIMES》 Taiwan warns Canada over dependence on China - 焦點 - 自由時報電子報",
+      "text_len": 2500,
+      "paragraph_1": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。",
+      "paragraph_2": "Chinese President Xi Jinping, right, shakes hands with Canadian Prime Minister Mark Carney during the APEC summit in Shenzhen, China, on Thursday last week.\r\nPhoto: Reuters",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 캐나다 총리 카니와 중국의 경제 관계에 대한 대만의 경고이며, 대만-중국 간의 직접적인 국가급 행위(군사행동, 위협, 영토침범 등)가 아니라 제3국(캐나다)에 대한 대만의 조언이다. 조건2: 예 — 기사의 논조는 대만이 중국과의 경제적 의존성의 위험성을 경고하고 있으며, 이는 부정적/갈등적 맥락과 일치한다. 조건3: 아니오 — 부정적 논조의 주체는 대만"
+      }
+    },
+    "https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868216|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan warns Canada over dependence on China - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Canadian Prime Minister Mark Carney risks exposing Canada to the very economic coercion he has cautioned against by deepening trade ties with China, Deputy Minister of Foreign Affairs Chen Ming-chi (陳明祺) said on Saturday, adding that Taiwan has learned the hard way that dependence on Beijing comes with consequences.",
+      "paragraph_2": "“We worry. We worry,” Chen said in an interview at the Halifax International Security Forum in Nova Scotia when asked about Carney’s efforts to improve relations with China.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 대만이 캐나다를 대상으로 경고하는 것이며, 대만-중국 간의 직접적 행위(위협, 무력시위, 영공침범 등)가 아니라 제3국(캐나다)에 대한 대만의 조언/경고입니다. 조건2: 예 — 기사의 논조는 중국의 경제적 강압, 호스티지 외교, 감시 위험 등을 비판하며 부정적이므로 갈등적 코드와 일치합니다. 조건3: 아니오 — 부정적 논조의 주체가 대만(제3국이 아닌 "
+      }
+    },
+    "https://fakti.bg/world/1103417-taivan-ne-biva-da-se-razglejda-samo-prez-prizmata-na-otnosheniata-mejdu-sasht-i-kitai|036|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Тайван не бива да се разглежда само през призмата на отношенията между САЩ и Китай ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ",
+      "text_len": 2500,
+      "paragraph_1": "22 Ноември, 2026 11:54 795 1",
+      "paragraph_2": "Разглеждането на Тайван предимно през призмата на напрежението между САЩ и Китай крие риск да се пренебрегне същността на въпроса за отношенията между двата бряга на Тайванския проток, заяви министърът на външните работи на Тайван Лин Чиа-лунг в статия, публикувана във вестник Liberty Times.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 외교부장관의 성명 및 의견 표현에 관한 것으로, 대만과 중국 정부 간의 직접적인 국가급 행위(군사행동, 위협, 협력 사업 등)를 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 군사활동 확대, \"회색지대\" 전술, 국제 개입 시도 등을 비판하는 갈등적·경고적 내용이므로, 긍정적 협력(+4.0) 코드와 불일치합니다. 최종: 아니오"
+      }
+    },
+    "http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml|110|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts--China Economic Net",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING, Nov. 21 (Xinhua) -- The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
+      "paragraph_2": "They said the Democratic Progressive Party (DPP) authorities' attempts to seek \"Taiwan independence\" by relying on external forces and military buildup are doomed to fail.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 미국-중국 간 정상회담과 미국의 대만 독립 비지지 선언을 다루고 있으며, 대만과 미국 간의 직접적인 군사행동·위협·충돌·무력시위 등 국가 간 행위를 다루지 않습니다. 조건2: 예 — 기사의 논조는 대만 독립 세력을 비판하고 중국의 입장을 강화하는 내용으로, \"갈등적/부정적\" 코드와 일치합니다. 조건3: 아니오 — 부정적 논조의 주체가 중국 전문가와 중국 정부(시진핑"
+      }
+    },
+    "http://en.people.cn/n3/2026/1122/c90000-20521817.html|110|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Roundup: One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts - People's Daily Online",
+      "text_len": 2500,
+      "paragraph_1": "BEIJING, Nov. 21 (Xinhua) -- The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
+      "paragraph_2": "They said the Democratic Progressive Party (DPP) authorities' attempts to seek \"Taiwan independence\" by relying on external forces and military buildup are doomed to fail.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국 간 정상회담과 미국의 대만독립 불지지 성명을 다루고 있으며, 대만과 미국 간의 직접적인 국가 행위(군사행동, 위협, 협력 등)가 아니라 중국이 미국에 대한 입장을 표현하고 중국 전문가들의 논평을 보도하는 형태입니다. 조건2: 아니오 — 기사의 실제 내용은 미국 대통령이 \"대만독립을 지지하지 않는다\"고 명확히 천명한 것으로, 이는 미국의 대만에 대한 우호적"
+      }
+    },
+    "http://www.china.org.cn/2026-11/22/content_118784515.shtml|110|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail: experts - China.org.cn",
+      "text_len": 2500,
+      "paragraph_1": "Home China World Business Sport Special Coverage 双语",
+      "paragraph_2": "The recent meeting between the heads of state of China and the United States and the China-Russia-U.S. summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국-중국 간 정상회담과 미국의 \"대만독립 미지지\" 성명을 다루고 있으며, 대만과 미국 간의 직접적인 행위(군사훈련, 무력시위, 영공침범, 위협 등)가 아니라 중국-미국 간의 외교적 상호작용을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 미국이 중국의 입장을 존중하고 \"대만독립을 지지하지 않는다\"고 명시한 우호적·협력적 내용인데, GDELT가 갈등적 코"
+      }
+    },
+    "http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html|110|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail, say experts - China Military",
+      "text_len": 2500,
+      "paragraph_1": "File photo of Taipei 101 skyscraper in Taipei, China's Taiwan region. /VCG",
+      "paragraph_2": "The recent meeting between the heads of state of China and the United States and the China-Russia-US summit have sent a clear message: the Taiwan question is at the heart of China's core interests and the international community's commitment to the one-China principle is unshakable, experts and scholars across the Taiwan Strait said.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국-미국 정상회담에서의 대만 문제 논의와 중국 전문가들의 의견을 다루고 있으며, 미국-대만 간의 직접적인 군사행동, 위협, 침범 등 구체적인 양자 행위가 아니라 중국이 미국에 대한 입장을 표명하는 내용입니다. 조건2: 아니오 — 기사의 실제 내용은 중국과 미국이 대만 문제에 대해 대화하고 미국이 대만독립을 지지하지 않는다고 명시한 것으로, 이는 중국 입장에서는 우"
+      }
+    },
+    "https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773|110|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan Disputes Chinese Media Claim That Trump Opposes Taiwan Independence | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "“The relevant reports are not true,” Chiu Chui-cheng, chairman of Taiwan’s Mainland Affairs Council, told reporters on Nov. 20.",
+      "paragraph_2": "Chiu said that the government had checked the reports with Taiwan’s Ministry of Foreign Affairs and that the findings did not support Beijing’s account. He said Taiwan maintains close communication with the United States and that Washington should provide the definitive account of what was discussed.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 미국-중국 간 트럼프-시진핑 양자회담과 그에 대한 중국 매체의 보도 주장을 중심으로 다루며, 대만-미국 간의 직접적인 국가급 행위(미사일 발사, 무력시위, 영공침범, 위협, 군사훈련 등)를 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 대만이 중국 매체의 보도를 \"거짓\"이라고 반박하고 미국의 공식 설명을 요구하는 외교적 분쟁/논쟁이므로 갈등적이지만,"
+      }
+    },
+    "http://internetua.com/taivan-povidomlyaye-meta-pro-sprobi-tisyacs-oblikovih-zapisiv-pov-yazanih-z-kitayem-vplinuti-na-vibori|016|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑ Meta Ð¿ÑÐ¾ ÑÐ¿ÑÐ¾Ð±Ð¸ ÑÐ¸ÑÑÑ Ð¾Ð±Ð»ÑÐºÐ¾Ð²Ð¸Ñ Ð·Ð°Ð¿Ð¸ÑÑÐ², Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð¸Ñ Ð· ÐÐ¸ÑÐ°ÑÐ¼, Ð²Ð¿Ð»Ð¸Ð½ÑÑÐ¸ Ð½Ð° Ð²Ð¸Ð±Ð¾ÑÐ¸",
+      "text_len": 1044,
+      "paragraph_1": "Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð¸Ð² Meta Ð¿ÑÐ¾ Ð¼Ð°Ð¹Ð¶Ðµ 2700 Ð°ÐºÐ°ÑÐ½ÑÑÐ² Ñ ÑÐ¾ÑÑÐ°Ð»ÑÐ½Ð¸Ñ Ð¼ÐµÑÐµÐ¶Ð°Ñ, ÑÐºÑ, Ð½Ð° Ð¹Ð¾Ð³Ð¾ Ð´ÑÐ¼ÐºÑ, Ñ ÑÐ°ÑÑÐ¸Ð½Ð¾Ñ ÐºÐ¸ÑÐ°Ð¹ÑÑÐºÐ¾Ñ ÑÐ½ÑÐ¾ÑÐ¼Ð°ÑÑÐ¹Ð½Ð¾Ñ Ð²ÑÐ¹Ð½Ð¸, ÑÐ¿ÑÑÐ¼Ð¾Ð²Ð°Ð½Ð¾Ñ Ð½Ð° Ð²Ð¿Ð»Ð¸Ð½ÑÑÐ¸ Ð½Ð° Ð²Ð¸Ð±Ð¾ÑÐ¸ Ð½Ð° Ð¾ÑÑÑÐ¾Ð²Ñ Ð½Ð°ÑÑÑÐ¿Ð½Ð¾Ð³Ð¾ ÑÐ¸Ð¶Ð½Ñ, Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑÑÑ ÑÑÐ¸ ÑÑÑÐ´Ð¾Ð²ÑÑ ÑÐ° Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑÑÑ Ð²Ð½ÑÑÑÑÑÐ½Ñ Ð·Ð²ÑÑÐ¸.",
+      "paragraph_2": "ÐÑÐ¾ÑÑÐ³Ð¾Ð¼ Ð¾ÑÑÐ°Ð½Ð½ÑÑ ÑÐ¸Ð¶Ð½ÑÐ² ÑÐ°Ð¹Ð²Ð°Ð½ÑÑÐºÑ ÑÐ¸Ð½Ð¾Ð²Ð½Ð¸ÐºÐ¸ ÑÐ´ÐµÐ½ÑÐ¸ÑÑÐºÑÐ²Ð°Ð»Ð¸ Ð¾Ð±Ð»ÑÐºÐ¾Ð²Ñ Ð·Ð°Ð¿Ð¸ÑÐ¸ Ð½Ð° Threads, ÑÐµÐºÑÑÐ¾Ð²Ð¾Ð¼Ñ Meta - Ð¿Ð»Ð°ÑÑÐ¾ÑÐ¼Ñ, Ð¿Ð¾Ð¿ÑÐ»ÑÑÐ½Ñ Ð½Ð° Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ, ÑÐº Ð¿ÑÐ´Ð¾Ð·ÑÑÐ²Ð°Ð½Ñ Ð·Ð°ÑÐ¾Ð±Ð¸ Ð´Ð»Ñ ÑÐºÐ¾Ð¾ÑÐ´Ð¸Ð½Ð¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð¿ÐµÑÐ°ÑÑÐ¹ ÐºÐ¸ÑÐ°Ð¹ÑÑÐºÐ¾Ð³Ð¾ Ð²Ð¿Ð»Ð¸Ð²Ñ, Ð·Ð³ÑÐ´Ð½Ð¾ Ð· Ð¾ÑÑÑÑÐ¹Ð½Ð¸Ð¼Ð¸ Ð¾ÑÐ¾Ð±Ð°Ð¼Ð¸, Ð·Ð½Ð°Ð¹Ð¾Ð¼Ð¸Ð¼Ð¸ Ð· ÑÐ¸Ð¼ Ð¿Ð¸ÑÐ°Ð½Ð½ÑÐ¼, ÑÐ° ÑÑÑÐ´Ð¾Ð²Ð¸Ð¼Ð¸ Ð·Ð²ÑÑÐ°Ð¼Ð¸, Ð· ÑÐºÐ¸Ð¼Ð¸ Ð¾Ð·Ð½Ð°Ð¹Ð¾Ð¼Ð¸Ð»Ð¾ÑÑ Ð°Ð³ÐµÐ½ÑÑÑÐ²Ð¾ Reuters.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "기사 텍스트가 Cyrillic 인코딩 오류로 인해 완전히 판독 불가능하여 정확한 내용 파악이 불가능합니다. 그러나 제목과 본문의 가독 가능한 부분으로부터: - 제목: \"대만이 Meta에 약 2700개의 계정에 대해 중국 정보전과 선거 영향에 관해 보도\" - 본문: 대만 관리들이 Meta 플랫폼의 클라우드 기록에서 중국 영향 작업으로 의심되는 계정들을 식별했다는 내용 조건1: 예 — 대만이 중"
+      }
+    },
+    "https://www.freemalaysiatoday.com/category/world/2026/11/17/closing-taiwan-office-wasn-t-easy-papua-new-guinea-pm-tells-xi|016|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Closing Taiwan office ‘wasn’t easy’, Papua New Guinea PM tells Xi | FMT",
+      "text_len": 2151,
+      "paragraph_1": "Taiwan said in early November that it had decided to shut its representative office, which operated as a de facto embassy, in Papua New Guinea and stop buying liquefied natural gas from the country, blaming Chinese pressure.",
+      "paragraph_2": "Papua New Guinea briefly had diplomatic relations with Taipei in 1999 before restoring ties with China, which claims democratically governed Taiwan as its own territory.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": false,
+        "reason": "조건1: 예 — 대만의 파푸아뉴기니 대표부 폐쇄는 중국의 압력에 의한 것으로, 대만과 중국 간 외교적 경쟁과 대만의 국제적 지위 축소라는 직접적인 양자 갈등 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 중국이 외교적 압력을 행사하여 대만의 국제적 입지를 축소시킨 것(부정적)이지만, 파푸아뉴기nieuw기니와 중국 간의 관계 개선은 협력·우호적 내용입니다. GDELT 코드가 \"TAIPEI"
       }
     }
   }
