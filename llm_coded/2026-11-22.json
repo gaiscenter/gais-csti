@@ -1,0 +1,85 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T08:50:34.182200",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 10,
+ "n_coded": 9,
+ "n_relevant": 0,
+ "stats": {
+  "api_calls": 10,
+  "api_failures": 0,
+  "unparseable": 1,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 99324,
+  "input_uncached": 1428,
+  "folded": 0
+ },
+ "articles": {
+  "https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Тайвань предостерёг Канаду от торговой зависимости от Пекина » Сетевое издание «Соловей.Инфо»"
+  },
+  "https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - 95.5 WSB"
+  },
+  "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taiwan Is Preparing for a War That Could Reshape the World"
+  },
+  "https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Γιάλτα απ’ τα Temu"
+  },
+  "http://en.people.cn/n3/2026/1122/c90000-20521817.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Roundup: One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts - People's Daily Online"
+  },
+  "http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts--China Economic Net"
+  },
+  "http://www.china.org.cn/2026-11/22/content_118784515.shtml": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail: experts - China.org.cn"
+  },
+  "https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks"
+  },
+  "https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "What China Gets From Its Honeypots and Smuggled Chips"
+  }
+ }
+}

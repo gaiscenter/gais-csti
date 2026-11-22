@@ -1,0 +1,39 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-22,CHINESE,TAIWAN,020,3.0,1,False,False,False,https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/
+2026-11-22,CHINESE,TAIWAN,020,3.0,7,False,False,False,https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.people.cn/n3/2026/1122/c90000-20521817.html
+2026-11-22,BEIJING,TAIWAN,130,-4.4,10,False,False,False,https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,110,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml
+2026-11-22,TAIWAN,CHINA,130,-4.4,10,False,False,False,https://japantoday.com/category/world/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against
+2026-11-22,TAIWAN,CHINA,130,-4.4,10,False,False,False,https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/
+2026-11-22,TAIWAN,CHINA,090,-2.0,2,False,False,False,https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/
+2026-11-22,TAIWAN,CHINA,192,-9.5,2,False,False,False,https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/
+2026-11-22,CHINA,TAIPEI,050,3.5,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,TAIPEI,CHINA,050,3.5,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,TAIPEI,CHINA,050,3.5,8,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,CHINESE,TAIPEI,150,-7.2,2,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,CHINESE,TAIPEI,150,-7.2,6,True,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,CHINA,TAIPEI,050,3.5,8,False,False,False,https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/
+2026-11-22,CHINA,TAIWAN,090,-2.0,2,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,CHINA,TAIWAN,110,-2.0,1,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,7,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,CHINA,TAIWAN,090,-2.0,6,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,SHANGHAI,TAIWAN,110,-2.0,4,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,CHINA,TAIWAN,110,-2.0,4,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,http://www.china.org.cn/2026-11/22/content_118784515.shtml
+2026-11-22,TAIWAN,CHINA,130,-4.4,6,False,False,False,https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks
+2026-11-22,TAIWAN,CHINA,130,-4.4,2,False,False,False,https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks
