@@ -1,19 +1,6 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "mode": "shadow",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
- "cells": {
-  "USA_response": {
-   "value": 0.3333,
-   "raw": 2.0,
-   "e": 1,
-   "mentions": 10
-  },
-  "CHN_threat": {
-   "value": 0.3361,
-   "raw": 1.1765,
-   "e": 2,
-   "mentions": 17
-  }
- }
+ "cells": {}
 }

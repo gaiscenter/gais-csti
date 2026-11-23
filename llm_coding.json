@@ -1,198 +1,99 @@
 {
- "date": "2026-11-22",
- "generated_at": "2026-11-22T20:29:57.925897",
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T09:52:28.828710",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 23,
- "n_coded": 23,
- "n_relevant": 3,
+ "n_articles": 11,
+ "n_coded": 11,
+ "n_relevant": 0,
  "stats": {
-  "api_calls": 14,
+  "api_calls": 11,
   "api_failures": 0,
   "unparseable": 0,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 143468,
-  "input_uncached": 4145,
+  "cache_read": 110360,
+  "input_uncached": 1936,
   "folded": 0
  },
  "articles": {
-  "https://japantoday.com/category/world/taiwan-warns-canada-faces-the-china-risks-carney-has-cautioned-against": {
-   "tags": {
-    "v1": "yes",
-    "v2": "USA",
-    "v3": "response",
-    "v4": "diplomatic",
-    "v5": "110",
-    "conf": "high"
-   },
-   "mentions": 10,
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks"
-  },
-  "https://fakti.bg/world/1103397-taivan-saobshti-za-sluchai-na-nekorektno-otnoshenie-ot-strana-na-kitai-po-vreme-na-sreshtite-na-atis": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "diplomatic",
-    "v5": "110",
-    "conf": "high"
-   },
-   "mentions": 10,
-   "title": "Тайван съобщи за случаи на некоректно отношение от страна на Китай по време на срещите на АТИС ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
-  },
-  "https://www.franceinfo.fr/replay-radio/livre-actu/quand-la-chine-manipule-le-monde-le-bluff-de-la-chine-pour-imposer-son-leadership-sur-la-planete_8250472.html": {
+  "https://www.arabtimesonline.com/news/us-intelligence-tracked-woman-linked-to-former-nvidia-ceo-over-contacts-with-chinese-spy-agency/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "\"Quand la Chine manipule le monde\", le bluff de la Chine pour imposer son leadership sur la planète. – franceinfo"
+   "title": "US intelligence tracked woman linked to former Nvidia CEO over contacts with Chinese spy agency | arabtimes"
   },
-  "http://internetua.com/taivan-povidomlyaye-meta-pro-sprobi-tisyacs-oblikovih-zapisiv-pov-yazanih-z-kitayem-vplinuti-na-vibori": {
-   "tags": {
-    "v1": "unjudgeable"
-   },
-   "mentions": 10,
-   "title": "Ð¢Ð°Ð¹Ð²Ð°Ð½Ñ Ð¿Ð¾Ð²ÑÐ´Ð¾Ð¼Ð»ÑÑ Meta Ð¿ÑÐ¾ ÑÐ¿ÑÐ¾Ð±Ð¸ ÑÐ¸ÑÑÑ Ð¾Ð±Ð»ÑÐºÐ¾Ð²Ð¸Ñ Ð·Ð°Ð¿Ð¸ÑÑÐ², Ð¿Ð¾Ð²'ÑÐ·Ð°Ð½Ð¸Ñ Ð· ÐÐ¸ÑÐ°ÑÐ¼, Ð²Ð¿Ð»Ð¸Ð½ÑÑÐ¸ Ð½Ð° Ð²Ð¸Ð±Ð¾ÑÐ¸"
-  },
-  "https://www.wsbradio.com/news/business/taiwan-warns-canada/2S7JLF54OE25TKOZNCMHJE6J5Y/": {
+  "https://www.mikrometoxos.gr/pagkosmios-chrimatistiriakos-synagermos-gia-tin-ai-voutia-stin-asia-rali-sti-wall-street-fovoi-gia-fouska-disekatommyrion/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks - 95.5 WSB"
+   "title": "Παγκόσμιος χρηματιστηριακός συναγερμός για την AI: Βουτιά στην Ασία, ράλι στη Wall Street – Φόβοι για «φούσκα» δισεκατομμυρίων - Ειδήσεις για το χρηματιστήριο και τις αγορές - Wall Street"
   },
-  "https://solovei.info/vmire/79174-tayvan-predostereg-kanadu-ot-torgovoy-zavisimosti-ot-pekina-596655.html": {
+  "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Тайвань предостерёг Канаду от торговой зависимости от Пекина » Сетевое издание «Соловей.Инфо»"
+   "title": "Taiwan Warns Carney About China’s ‘Weaponization of Interdependence’ as Ottawa Seeks Deeper Ties | The Epoch Times"
   },
-  "https://news.ltn.com.tw/news/focus/breakingnews/5649965": {
+  "https://tibet.net/taipei-forum-warns-chinas-ethnic-unity-law-could-intensify-pressure-at-home-and-abroad/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "《TAIPEI TIMES》 Taiwan warns Canada over dependence on China - 焦點 - 自由時報電子報"
+   "title": "Taipei Forum Warns China’s Ethnic-Unity Law Could Intensify Pressure at Home and Abroad – Central Tibetan Administration"
   },
-  "https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868216": {
+  "https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia/2475803": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Taiwan warns Canada over dependence on China - Taipei Times"
+   "title": "Swap the Winter Wonderland for a Seaside Paradise: Agoda Picks Five Sun-Soaked Shores Across Asia\n\n | The Manila Times"
   },
-  "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/": {
+  "https://www.hani.co.kr/arti/international/china/1288631.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Taiwan Is Preparing for a War That Could Reshape the World"
+   "title": "“미국 실책에”…아시아서 미-중 국력 격차 역대 최소"
   },
-  "https://fakti.bg/world/1103417-taivan-ne-biva-da-se-razglejda-samo-prez-prizmata-na-otnosheniata-mejdu-sasht-i-kitai": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Тайван не бива да се разглежда само през призмата на отношенията между САЩ и Китай ᐉ Новини от Fakti.bg - Свят | ФАКТИ.БГ"
-  },
-  "http://en.ce.cn/main/latest/202611/t20261122_3301744.shtml": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts--China Economic Net"
-  },
-  "https://www.theepochtimes.com/china/taiwan-disputes-chinese-media-claim-that-trump-opposes-taiwan-independence-6127773": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "diplomatic",
-    "v5": "010",
-    "conf": "high"
-   },
-   "mentions": 7,
-   "title": "Taiwan Disputes Chinese Media Claim That Trump Opposes Taiwan Independence | The Epoch Times"
-  },
-  "https://www.huffingtonpost.gr/blogs/gialta-ap-ta-temu/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "Γιάλτα απ’ τα Temu"
-  },
-  "http://en.people.cn/n3/2026/1122/c90000-20521817.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "Roundup: One-China principle unshakable, DPP's \"Taiwan independence\" attempts doomed to fail: experts - People's Daily Online"
-  },
-  "http://www.china.org.cn/2026-11/22/content_118784515.shtml": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail: experts - China.org.cn"
-  },
-  "http://eng.chinamil.com.cn/2025xb/O_251451/16501365.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "One-China principle unshakable, DPP's 'Taiwan independence' attempts doomed to fail, say experts - China Military"
-  },
-  "https://focustaiwan.tw:443/politics/202611225001": {
+  "http://www.zerohedge.com/markets/taiwan-kills-shorts-blanket-ban-stock-lending-freeze-and-15-billion-rescue-fund-after": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
+   "title": "Taiwan Kills The Shorts: Blanket Ban, Stock-Lending Freeze And A $15 Billion Rescue Fund After The Taiex's Worst Week Since 1991<!-- --> | ZeroHedge"
+  },
+  "https://focustaiwan.tw:443/culture/202611225001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
    "title": "63rd Golden Horse Awards Results - Focus Taiwan"
   },
-  "https://www.newindianexpress.com/world/2026/Nov/22/taiwan-warns-canadas-carney-that-deeper-ties-with-china-come-with-risks": {
+  "https://tibet.net/snowland-forum-opens-in-taipei-with-warnings-over-chinas-ethnic-unity-law/": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 6,
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks"
+   "mentions": 5,
+   "title": "Snowland Forum Opens in Taipei with Warnings Over China’s Ethnic Unity Law – Central Tibetan Administration"
   },
-  "https://www.indiatimes.com/trending/is-elon-musk-acquiring-50-of-nvidia-to-reinstate-jensen-huang-after-an-affair-scandal-exit-heres-the-truth/articleshow/136075813.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Fact Check: Is Elon Musk acquiring 50% of NVIDIA to reinstate Jensen Huang after an affair-scandal exit? Here's the truth"
-  },
-  "https://focustaiwan.tw:443/business/202611220006": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Nvidia supply-chain expansion boosts confidence among Taiwan firms: Analyst - Focus Taiwan"
-  },
-  "https://politicalwire.com/2026/11/21/what-china-gets-from-its-honeypots-and-smuggled-chips/": {
+  "https://www.miningjournal.net/opinion/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "What China Gets From Its Honeypots and Smuggled Chips"
+   "title": "Trump’s tough-on-China talk was always just an act - The Mining Journal"
   },
-  "https://www.taipeitimes.com/News/editorials/archives/2026/11/23/2003868207": {
+  "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms": {
    "tags": {
     "v1": "no"
    },
    "mentions": 1,
-   "title": "EDITORIAL: Taipei’s Chiang eyes TPP support - Taipei Times"
-  },
-  "https://www.theepochtimes.com/us/analysts-say-trump-xi-putin-summit-exposed-deep-divide-6127777": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 1,
-   "title": "Analysts Say Trump–Xi–Putin Summit Exposed Deep Divide | The Epoch Times"
+   "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership"
   }
  }
 }

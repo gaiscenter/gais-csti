@@ -1,0 +1,99 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T09:52:28.828710",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 11,
+ "n_coded": 11,
+ "n_relevant": 0,
+ "stats": {
+  "api_calls": 11,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 110360,
+  "input_uncached": 1936,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.arabtimesonline.com/news/us-intelligence-tracked-woman-linked-to-former-nvidia-ceo-over-contacts-with-chinese-spy-agency/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "US intelligence tracked woman linked to former Nvidia CEO over contacts with Chinese spy agency | arabtimes"
+  },
+  "https://www.mikrometoxos.gr/pagkosmios-chrimatistiriakos-synagermos-gia-tin-ai-voutia-stin-asia-rali-sti-wall-street-fovoi-gia-fouska-disekatommyrion/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Παγκόσμιος χρηματιστηριακός συναγερμός για την AI: Βουτιά στην Ασία, ράλι στη Wall Street – Φόβοι για «φούσκα» δισεκατομμυρίων - Ειδήσεις για το χρηματιστήριο και τις αγορές - Wall Street"
+  },
+  "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan Warns Carney About China’s ‘Weaponization of Interdependence’ as Ottawa Seeks Deeper Ties | The Epoch Times"
+  },
+  "https://tibet.net/taipei-forum-warns-chinas-ethnic-unity-law-could-intensify-pressure-at-home-and-abroad/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Taipei Forum Warns China’s Ethnic-Unity Law Could Intensify Pressure at Home and Abroad – Central Tibetan Administration"
+  },
+  "https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia/2475803": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Swap the Winter Wonderland for a Seaside Paradise: Agoda Picks Five Sun-Soaked Shores Across Asia\n\n | The Manila Times"
+  },
+  "https://www.hani.co.kr/arti/international/china/1288631.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "“미국 실책에”…아시아서 미-중 국력 격차 역대 최소"
+  },
+  "http://www.zerohedge.com/markets/taiwan-kills-shorts-blanket-ban-stock-lending-freeze-and-15-billion-rescue-fund-after": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Taiwan Kills The Shorts: Blanket Ban, Stock-Lending Freeze And A $15 Billion Rescue Fund After The Taiex's Worst Week Since 1991<!-- --> | ZeroHedge"
+  },
+  "https://focustaiwan.tw:443/culture/202611225001": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "63rd Golden Horse Awards Results - Focus Taiwan"
+  },
+  "https://tibet.net/snowland-forum-opens-in-taipei-with-warnings-over-chinas-ethnic-unity-law/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "Snowland Forum Opens in Taipei with Warnings Over China’s Ethnic Unity Law – Central Tibetan Administration"
+  },
+  "https://www.miningjournal.net/opinion/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump’s tough-on-China talk was always just an act - The Mining Journal"
+  },
+  "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership"
+  }
+ }
+}

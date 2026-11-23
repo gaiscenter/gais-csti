@@ -1,0 +1,30 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-23,TAIPEI,NVIDIA,046,7.0,10,False,False,False,https://www.arabtimesonline.com/news/us-intelligence-tracked-woman-linked-to-former-nvidia-ceo-over-contacts-with-chinese-spy-agency/
+2026-11-23,NVIDIA,TAIPEI,046,7.0,10,False,False,False,https://www.arabtimesonline.com/news/us-intelligence-tracked-woman-linked-to-former-nvidia-ceo-over-contacts-with-chinese-spy-agency/
+2026-11-23,TAIWAN,CHINESE,046,7.0,2,False,False,False,https://www.miningjournal.net/opinion/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/
+2026-11-23,CHINESE,TAIWAN,046,7.0,2,False,False,False,https://www.miningjournal.net/opinion/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/
+2026-11-23,TAIPEI,CHINESE,051,3.4,5,False,False,False,https://focustaiwan.tw:443/culture/202611225001
+2026-11-23,CHINA,TAIWAN,040,1.0,8,False,False,False,https://www.mikrometoxos.gr/pagkosmios-chrimatistiriakos-synagermos-gia-tin-ai-voutia-stin-asia-rali-sti-wall-street-fovoi-gia-fouska-disekatommyrion/
+2026-11-23,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.mikrometoxos.gr/pagkosmios-chrimatistiriakos-synagermos-gia-tin-ai-voutia-stin-asia-rali-sti-wall-street-fovoi-gia-fouska-disekatommyrion/
+2026-11-23,TAIWAN,CHINA,040,1.0,10,False,False,False,https://www.mikrometoxos.gr/pagkosmios-chrimatistiriakos-synagermos-gia-tin-ai-voutia-stin-asia-rali-sti-wall-street-fovoi-gia-fouska-disekatommyrion/
+2026-11-23,TAIPEI,CHINA,090,-2.0,2,False,False,False,https://tibet.net/taipei-forum-warns-chinas-ethnic-unity-law-could-intensify-pressure-at-home-and-abroad/
+2026-11-23,TAIWAN,BEIJING,130,-4.4,5,False,False,False,https://tibet.net/snowland-forum-opens-in-taipei-with-warnings-over-chinas-ethnic-unity-law/
+2026-11-23,TAIWAN,CHINA,010,0.0,2,False,False,False,https://tibet.net/snowland-forum-opens-in-taipei-with-warnings-over-chinas-ethnic-unity-law/
+2026-11-23,TAIWAN,BEIJING,130,-4.4,2,False,False,False,https://tibet.net/snowland-forum-opens-in-taipei-with-warnings-over-chinas-ethnic-unity-law/
+2026-11-23,TAIPEI,CHINA,090,-2.0,8,False,False,False,https://tibet.net/taipei-forum-warns-chinas-ethnic-unity-law-could-intensify-pressure-at-home-and-abroad/
+2026-11-23,SHANGHAI,KAOHSIUNG,010,0.0,8,False,False,False,https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia/2475803
+2026-11-23,SHANGHAI,KAOHSIUNG,042,1.9,8,False,False,False,https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia/2475803
+2026-11-23,KAOHSIUNG,SHANGHAI,043,2.8,8,False,False,False,https://www.manilatimes.net/2026/11/23/tmt-newswire/pr-newswire/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia/2475803
+2026-11-23,TAIWAN,CHINA,172,-5.0,1,False,False,False,http://www.zerohedge.com/markets/taiwan-kills-shorts-blanket-ban-stock-lending-freeze-and-15-billion-rescue-fund-after
+2026-11-23,TAIPEI,CHINA,172,-5.0,6,False,False,False,http://www.zerohedge.com/markets/taiwan-kills-shorts-blanket-ban-stock-lending-freeze-and-15-billion-rescue-fund-after
+2026-11-23,CHINA,TAIWAN,061,6.4,10,False,True,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,TAIWAN,CHINA,061,6.4,1,False,True,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,TAIWAN,CHINA,061,6.4,7,False,True,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,TAIWAN,THE ASSOCIATED PRESS,013,0.4,10,False,False,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,TAIWAN,CHINA,130,-4.4,1,False,False,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,TAIWAN,CHINA,130,-4.4,1,False,False,False,https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004
+2026-11-23,UNITED STATES,TAIWAN,120,-4.0,1,False,False,True,https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms
+2026-11-23,UNITED STATES,TAIWAN,120,-4.0,1,False,False,True,https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms
+2026-11-23,TAIWAN,CHINA,010,0.0,8,False,False,False,https://www.hani.co.kr/arti/international/china/1288631.html
+2026-11-23,TAIWAN,CHINA,010,0.0,2,False,False,False,https://www.hani.co.kr/arti/international/china/1288631.html
