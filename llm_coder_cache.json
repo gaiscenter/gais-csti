@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-24T01:15:36.719493",
+ "saved_at": "2026-11-24T11:39:02.570080",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15195,6 +15195,101 @@
    "v4": "economic",
    "v5": "030",
    "conf": "low"
+  },
+  "http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/24/2003868305": {
+   "v1": "no"
+  },
+  "https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html": {
+   "v1": "no"
+  },
+  "https://2paragraphs.com/2026/11/ex-nsc-director-says-commerce-adding-megaspeed-to-entity-list-has-zero-effect/": {
+   "v1": "no"
+  },
+  "https://www.sfin.ro/relatiile-china-japonia/": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say": {
+   "v1": "no"
+  },
+  "https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html": {
+   "v1": "no"
+  },
+  "https://www.hankookilbo.com/news/article/A2026112407520001416": {
+   "v1": "no"
+  },
+  "https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html": {
+   "v1": "no"
+  },
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287917&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147": {
+   "v1": "no"
+  },
+  "https://www.dw.com/id/cina-abaikan-jepang-di-ktt-apec-ketegangan-kedua-negara-meningkat/a-80027582": {
+   "v1": "no"
+  },
+  "https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/": {
+   "v1": "no"
+  },
+  "https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/": {
+   "v1": "no"
+  },
+  "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/": {
+   "v1": "no"
+  },
+  "https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351": {
+   "v1": "no"
+  },
+  "https://aninews.in/news/business/taiwan-stocks-post-biggest-ever-intraday-gain-surge-over-3300-points-on-nvidia-boost20261124081435/": {
+   "v1": "no"
+  },
+  "https://english.hani.co.kr/arti/english_edition/e_international/1288815.html": {
+   "v1": "no"
+  },
+  "https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html": {
+   "v1": "no"
+  },
+  "https://news.webindia123.com/news/Articles/Business/20261124/4523705.html": {
+   "v1": "no"
+  },
+  "https://www.rawstory.com/trump-nvidia-2678507261/": {
+   "v1": "no"
+  },
+  "https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html": {
+   "v1": "no"
+  },
+  "https://www.dailypress.net/opinion/local-columns/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/": {
+   "v1": "no"
+  },
+  "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/": {
+   "v1": "no"
+  },
+  "https://www.wgbh.org/news/local/2026-11-24/why-is-thoreaus-walden-so-popular-among-young-people-in-china": {
+   "v1": "no"
+  },
+  "https://www.ironmountaindailynews.com/opinion/2026/11/trumps-tough-on-china-talk-always-just-an-act/": {
+   "v1": "no"
+  },
+  "https://www.winnipegfreepress.com/business/2026/11/24/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal": {
+   "v1": "no"
+  },
+  "https://www.techgoondu.com/2026/11/24/jensen-huang-is-back-on-a-shorter-leash/": {
+   "v1": "no"
+  },
+  "https://www.thedailybeast.com/maga-firebrand-laura-loomer-warns-trumps-ceo-rescue-of-jensen-huang-will-blow-up-in-his-face": {
+   "v1": "no"
+  },
+  "https://aninews.in/news/world/asia/chinese-election-interference-emerges-as-major-security-threat-in-taiwan-mac20261124141637/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.933thedrive.com/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huangs-return-as-uncertainty-eases/": {
+   "v1": "no"
   }
  }
 }

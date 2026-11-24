@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T01:12:07.534985",
+  "generated_at": "2026-11-24T11:35:31.681298",
   "query_date": "2026-11-24",
   "total_rows": 122,
   "dates": [
@@ -100,7 +100,7 @@
       0.6154,
       0.9712,
       0.6821,
-      -0.3054
+      -0.6033
     ],
     "CHN_response": [
       -1.4011,
@@ -133,7 +133,7 @@
       2.9,
       -1.917,
       -0.0,
-      0.8889
+      0.7054
     ],
     "USA_threat": [
       0.5,
@@ -166,7 +166,7 @@
       -0.9535,
       -0.1056,
       0.4629,
-      -1.4329
+      -1.3758
     ],
     "USA_response": [
       0.0,
@@ -199,14 +199,14 @@
       -0.7143,
       -0.5156,
       -0.2578,
-      -1.1161
+      -0.5396
     ]
   },
   "current": {
-    "CHN_threat": -0.3054,
-    "CHN_response": 0.8889,
-    "USA_threat": -1.4329,
-    "USA_response": -1.1161
+    "CHN_threat": -0.6033,
+    "CHN_response": 0.7054,
+    "USA_threat": -1.3758,
+    "USA_response": -0.5396
   },
   "level": {
     "CHN_threat": "mod",
@@ -248,7 +248,7 @@
           0.6154,
           0.9712,
           0.6821,
-          -0.3054
+          -0.6033
         ],
         "CHN_response": [
           -1.4011,
@@ -281,7 +281,7 @@
           2.9,
           -1.917,
           -0.0,
-          0.8889
+          0.7054
         ],
         "USA_threat": [
           0.5,
@@ -314,7 +314,7 @@
           -0.9535,
           -0.1056,
           0.4629,
-          -1.4329
+          -1.3758
         ],
         "USA_response": [
           0.0,
@@ -347,14 +347,14 @@
           -0.7143,
           -0.5156,
           -0.2578,
-          -1.1161
+          -0.5396
         ]
       },
       "current": {
-        "CHN_threat": -0.3054,
-        "CHN_response": 0.8889,
-        "USA_threat": -1.4329,
-        "USA_response": -1.1161
+        "CHN_threat": -0.6033,
+        "CHN_response": 0.7054,
+        "USA_threat": -1.3758,
+        "USA_response": -0.5396
       },
       "level": {
         "CHN_threat": "mod",
@@ -528,7 +528,7 @@
           -0.1845,
           1.3642,
           -0.6107,
-          -0.2696
+          -0.4533
         ],
         "CHN_response": [
           -1.4011,
@@ -561,7 +561,7 @@
           1.6652,
           0.2193,
           -0.2834,
-          0.8889
+          -0.448
         ],
         "USA_threat": [
           0.5,
@@ -594,7 +594,7 @@
           -0.0571,
           0.9258,
           -2.8658,
-          -0.4667
+          -0.0618
         ],
         "USA_response": [
           0.0,
@@ -627,13 +627,8 @@
           0.566,
           -0.5156,
           -2.2323,
-          -0.9417
+          -2.0184
         ]
-      },
-      "carried_forward": {
-        "CHN_threat": true,
-        "USA_response": true,
-        "USA_threat": true
       }
     },
     "military": {
@@ -1471,10 +1466,10 @@
         ]
       },
       "carried_forward": {
-        "CHN_threat": true,
         "CHN_response": true,
-        "USA_threat": true,
-        "USA_response": true
+        "CHN_threat": true,
+        "USA_response": true,
+        "USA_threat": true
       }
     },
     "diplomatic": {
@@ -1543,7 +1538,7 @@
           -0.4829,
           -0.1447,
           -0.0804,
-          0.6752
+          0.5199
         ],
         "USA_threat": [
           0.0,
@@ -1576,7 +1571,7 @@
           -0.0736,
           0.4167,
           -0.0619,
-          0.6667
+          -0.2148
         ],
         "USA_response": [
           0.0,
@@ -1614,8 +1609,8 @@
       },
       "current": {
         "CHN_threat": -0.0911,
-        "CHN_response": 0.6752,
-        "USA_threat": 0.6667,
+        "CHN_response": 0.5199,
+        "USA_threat": -0.2148,
         "USA_response": -0.0093
       },
       "level": {
@@ -1823,7 +1818,7 @@
           -1.4679,
           -0.783,
           0.3,
-          0.5714
+          0.4375
         ],
         "USA_threat": [
           0.0,
@@ -1856,7 +1851,7 @@
           0.8333,
           -0.1237,
           -0.4296,
-          -0.252
+          1.875
         ],
         "USA_response": [
           0.0,
@@ -1889,8 +1884,11 @@
           -0.5314,
           -0.3199,
           -0.5667,
-          -0.2854
+          0.5714
         ]
+      },
+      "carried_forward": {
+        "USA_threat": true
       }
     },
     "cyber": {
@@ -2040,26 +2038,26 @@
     "window_days": 30,
     "run_date": "2026-11-24",
     "events": {
-      "total_events_matched": 4223,
-      "total_mentions_matched": 16803,
+      "total_events_matched": 4346,
+      "total_mentions_matched": 17371,
       "military_events": 96,
       "military_mentions": 464,
       "supply_events": 111,
       "supply_mentions": 462,
-      "diplomatic_events": 425,
-      "diplomatic_mentions": 1578,
+      "diplomatic_events": 431,
+      "diplomatic_mentions": 1588,
       "by_partner": {
         "CHN": {
-          "events_all": 2929,
+          "events_all": 2989,
           "events_military": 94,
           "events_supply": 83,
-          "events_diplomatic": 329
+          "events_diplomatic": 330
         },
         "USA": {
-          "events_all": 1294,
+          "events_all": 1357,
           "events_military": 2,
           "events_supply": 28,
-          "events_diplomatic": 96
+          "events_diplomatic": 101
         }
       }
     },
@@ -2073,92 +2071,110 @@
     "audit": {
       "enabled": true,
       "date_audited": "2026-11-24",
-      "checked": 61,
-      "flagged": 58,
+      "checked": 81,
+      "flagged": 78,
       "flagged_urls": [
-        "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/",
-        "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit",
-        "https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719",
-        "https://www.guampdn.com/opinion/letter-lai-ching-tes-emotional-rollercoaster-after-the-us-midterms/article_4cbcb4d9-5187-4a1c-99a6-adf445ffa2c2.html",
-        "https://focustaiwan.tw/society/202611190003",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963",
+        "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045",
+        "https://www.dailypress.net/opinion/local-columns/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/",
+        "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china",
         "https://focustaiwan.tw/politics/202611180004",
-        "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863",
-        "https://www.theepochtimes.com/opinion/should-the-us-preempt-china-with-a-naval-blockade-before-its-too-late-6126437",
-        "https://news.webindia123.com/news/Articles/World/20261121/4522742.html",
-        "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/",
-        "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
-        "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004",
+        "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/",
         "https://www.rappler.com/world/asia-pacific/us-presses-un-agency-taiwan-flight-restrictions-china-hits-back/",
+        "https://focustaiwan.tw:443/business/202611200021",
+        "https://www.rediff.com/news/report/alice-huang-was-in-touch-with-china-during-affair-with-ex-nvidia-ceo-report/20261123.htm",
+        "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
+        "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/",
+        "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui",
+        "https://www.theglobeandmail.com/politics/article-carney-government-plans-to-conclude-trade-deal-with-taiwan-despite/",
+        "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html",
+        "https://focustaiwan.tw/society/202611190003",
+        "https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/",
+        "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/",
+        "https://panow.com/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/",
+        "https://www.jpost.com/business-and-innovation/article-915861",
+        "https://www.ironmountaindailynews.com/opinion/2026/11/trumps-tough-on-china-talk-always-just-an-act/",
+        "https://www.koreatimes.co.kr/world/20261118/nvidias-huang-says-willing-to-return-as-ceo-board-creates-national-security-panel",
+        "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility",
+        "http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html",
         "https://focustaiwan.tw/culture/202611210018",
+        "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337",
+        "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/11/16/taiwan-may-take-a-backseat-when-xi-and-trump-meet-for-a-third-time-at-an-apec-summit",
+        "https://www.theepochtimes.com/opinion/should-the-us-preempt-china-with-a-naval-blockade-before-its-too-late-6126437",
         "https://econotimes.com/Taiwan-Says-It-Would-Welcome-Quad-Outcomes-That-Bolster-Security-1778365",
         "https://www.iltalehti.fi/ulkomaat/a/8f1d3b98-b6c1-42c3-a364-9eb3997da449",
-        "https://www.huffingtonpost.kr:443/article/262124",
-        "http://www.jpost.com/conferences/article-915400",
-        "https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/",
-        "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
-        "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility",
-        "https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return",
-        "https://www.telegraph.co.uk/world-news/2026/11/18/china-unshakeable-alliance-russia-xi-putin-meeting-apec/",
-        "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
-        "https://www.hani.co.kr/arti/international/international_general/1288227.html",
-        "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html",
-        "https://focustaiwan.tw:443/business/202611200021",
-        "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china",
-        "https://www.thedailybeast.com/new-pics-show-sex-mad-trumpy-ceo-with-alleged-spy-lover",
-        "https://focustaiwan.tw/politics/202611190024",
-        "https://www.rediff.com/news/report/alice-huang-was-in-touch-with-china-during-affair-with-ex-nvidia-ceo-report/20261123.htm",
-        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
-        "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868283",
-        "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html",
-        "https://panow.com/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/",
-        "https://www.koreatimes.co.kr/world/20261118/nvidias-huang-says-willing-to-return-as-ceo-board-creates-national-security-panel",
-        "http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan",
-        "https://focustaiwan.tw/politics/202611180021",
-        "https://www.theglobeandmail.com/politics/article-carney-government-plans-to-conclude-trade-deal-with-taiwan-despite/",
-        "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045",
-        "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867998",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868071",
-        "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
-        "https://www.jpost.com/business-and-innovation/article-915861",
-        "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week",
         "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/",
-        "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/",
-        "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337",
-        "https://www.okaz.com.sa/politics/na/2276319",
-        "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
-        "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135",
+        "https://www.telegraph.co.uk/world-news/2026/11/18/china-unshakeable-alliance-russia-xi-putin-meeting-apec/",
+        "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/",
+        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
+        "https://www.huffingtonpost.kr:443/article/262124",
+        "https://focustaiwan.tw:443/politics/202611240008",
+        "https://www.dw.com/id/cina-abaikan-jepang-di-ktt-apec-ketegangan-kedua-negara-meningkat/a-80027582",
         "https://focustaiwan.tw/business/202611190021",
-        "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/",
+        "https://www.okaz.com.sa/politics/na/2276319",
+        "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show",
+        "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/",
+        "https://2paragraphs.com/2026/11/ex-nsc-director-says-commerce-adding-megaspeed-to-entity-list-has-zero-effect/",
+        "https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html",
+        "https://www.hani.co.kr/arti/international/international_general/1288227.html",
+        "https://newsone.com/6876259/everything-to-know-about-nvidia-scandal/",
+        "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863",
+        "https://focustaiwan.tw/politics/202611190024",
+        "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say",
+        "http://www.jpost.com/conferences/article-915400",
+        "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
+        "http://www.japanherald.com/news/279431332/china-deploys-more-than-100-ships-around-taiwan",
+        "http://arabic.news.cn/20261124/8f1ad1f30d1e4dd19d1bcf2a360e0a20/c.html",
         "https://telegrafi.com/tajvani-raporton-per-dy-aeroplane-ushtarake-ruse-prane-ishullit-hera-e-dyte-brenda-javes/",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/18/2003867963"
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868071",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868283",
+        "https://www.sfin.ro/relatiile-china-japonia/",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/19/2003867998",
+        "https://www.dw.com/en/apec-summit-putin-xi-meet-ahead-of-trilateral-talks-with-trump/live-79964719",
+        "https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351",
+        "https://focustaiwan.tw/politics/202611180021",
+        "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
+        "https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html",
+        "https://www.thedailybeast.com/new-pics-show-sex-mad-trumpy-ceo-with-alleged-spy-lover",
+        "https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/",
+        "https://www.rawstory.com/trump-nvidia-2678507261/",
+        "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/",
+        "https://www.guampdn.com/opinion/letter-lai-ching-tes-emotional-rollercoaster-after-the-us-midterms/article_4cbcb4d9-5187-4a1c-99a6-adf445ffa2c2.html",
+        "https://www.hankookilbo.com/news/article/A2026112407520001416",
+        "https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html",
+        "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week",
+        "http://www.philippinetimes.com/news/279431494/what-we-know-about-china-military-exercises-around-taiwan",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135",
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/24/2003868305",
+        "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/",
+        "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
+        "https://news.webindia123.com/news/Articles/World/20261121/4522742.html",
+        "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
+        "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004",
+        "http://www.thetibetpost.com/news/exile/taipei-forum-warns-over-beijing%E2%80%99s-transnational-repression-and-ethnic-unity-law"
       ],
-      "corrections_applied": 13,
+      "corrections_applied": 14,
       "audit_log_file": "audit_log.json",
       "degraded": false,
-      "api_calls": 60,
+      "api_calls": 26,
       "api_failures": 0,
       "tokens": {
-        "input_tokens": 105156,
-        "output_tokens": 14673,
+        "input_tokens": 48532,
+        "output_tokens": 6396,
         "cache_write": 0,
         "cache_read": 0
       },
-      "cache_hits": 0,
+      "cache_hits": 55,
       "skipped_over_cap": 0,
       "carried_forward_fields": [
+        "diplomatic.USA_threat",
         "military.CHN_threat",
-        "overall.CHN_threat",
-        "overall.USA_response",
-        "overall.USA_threat",
         "supply.CHN_response",
         "supply.CHN_threat",
         "supply.USA_response",
         "supply.USA_threat"
       ],
-      "carried_forward_count": 8
+      "carried_forward_count": 6
     }
   },
   "partner_names": {
@@ -2168,38 +2184,28 @@
   "note": "CSTI = Goldstein(1992,JCR) x NumMentions weighted avg x (-1); cyber = GKG V2Tone-based proxy, no directionality",
   "top_articles": {
     "overall": {
-      "CHN_response": [
+      "CHN_threat": [
         {
-          "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
-          "goldstein": -2.0,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "BEIJING",
-          "event_code": "016",
-          "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
+          "url": "https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html",
+          "goldstein": 2.8,
+          "mentions": 4,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "043",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html",
+          "goldstein": 5.0,
+          "mentions": 2,
+          "actor1": "CHINESE",
+          "actor2": "TAIWAN",
+          "event_code": "080",
+          "title": null,
           "days_ago": 0
         }
       ],
-      "CHN_threat": [],
-      "USA_response": [],
-      "USA_threat": []
-    },
-    "military": {
-      "CHN_response": [
-        {
-          "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
-          "goldstein": -2.0,
-          "mentions": 6,
-          "actor1": "TAIPEI",
-          "actor2": "CHINESE",
-          "event_code": "090",
-          "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
-          "days_ago": 0
-        }
-      ],
-      "CHN_threat": []
-    },
-    "diplomatic": {
       "CHN_response": [
         {
           "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
@@ -2212,16 +2218,97 @@
           "days_ago": 0
         },
         {
-          "url": "http://www.thetibetpost.com/news/exile/taipei-forum-warns-over-beijing%E2%80%99s-transnational-repression-and-ethnic-unity-law",
-          "goldstein": -2.0,
+          "url": "https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html",
+          "goldstein": 1.9,
           "mentions": 4,
           "actor1": "TAIWAN",
-          "actor2": "CHINESE",
-          "event_code": "111",
+          "actor2": "CHINA",
+          "event_code": "042",
+          "title": null,
+          "days_ago": 0
+        }
+      ],
+      "USA_response": [
+        {
+          "url": "https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html",
+          "goldstein": -2.0,
+          "mentions": 2,
+          "actor1": "TAIWAN",
+          "actor2": "NVIDIA",
+          "event_code": "090",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.933thedrive.com/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huangs-return-as-uncertainty-eases/",
+          "goldstein": 4.0,
+          "mentions": 1,
+          "actor1": "TAIPEI",
+          "actor2": "NVIDIA",
+          "event_code": "030",
+          "title": null,
+          "days_ago": 0
+        }
+      ],
+      "USA_threat": [
+        {
+          "url": "https://english.hani.co.kr/arti/english_edition/e_international/1288815.html",
+          "goldstein": 3.5,
+          "mentions": 4,
+          "actor1": "NVIDIA",
+          "actor2": "TAIWAN",
+          "event_code": "050",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html",
+          "goldstein": 3.5,
+          "mentions": 4,
+          "actor1": "NVIDIA",
+          "actor2": "TAIWAN",
+          "event_code": "050",
+          "title": null,
+          "days_ago": 0
+        }
+      ]
+    },
+    "diplomatic": {
+      "USA_response": [
+        {
+          "url": "https://focustaiwan.tw/politics/202611180009",
+          "goldstein": 3.0,
+          "mentions": 14,
+          "actor1": "TAIWAN",
+          "actor2": "TEXAS",
+          "event_code": "020",
+          "title": "Taiwan foreign minister visits Texas, calls for closer ties - Focus Taiwan",
+          "days_ago": 6
+        }
+      ],
+      "CHN_response": [
+        {
+          "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
+          "goldstein": -2.0,
+          "mentions": 8,
+          "actor1": "TAIWAN",
+          "actor2": "BEIJING",
+          "event_code": "016",
+          "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868281",
+          "goldstein": 2.8,
+          "mentions": 2,
+          "actor1": "KAOHSIUNG",
+          "actor2": "CHINA",
+          "event_code": "043",
           "title": null,
           "days_ago": 1
         }
       ],
+      "USA_threat": [],
       "CHN_threat": [
         {
           "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868281",
@@ -2243,59 +2330,28 @@
           "title": null,
           "days_ago": 4
         }
-      ],
-      "USA_threat": [
-        {
-          "url": "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
-          "goldstein": -4.0,
-          "mentions": 1,
-          "actor1": "UNITED STATES",
-          "actor2": "TAIWAN",
-          "event_code": "120",
-          "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership | India News - The Times of India",
-          "days_ago": 1
-        }
-      ],
-      "USA_response": [
-        {
-          "url": "https://focustaiwan.tw/politics/202611180009",
-          "goldstein": 3.0,
-          "mentions": 14,
-          "actor1": "TAIWAN",
-          "actor2": "TEXAS",
-          "event_code": "020",
-          "title": "Taiwan foreign minister visits Texas, calls for closer ties - Focus Taiwan",
-          "days_ago": 6
-        }
       ]
     },
+    "military": {
+      "CHN_response": [
+        {
+          "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
+          "goldstein": -2.0,
+          "mentions": 6,
+          "actor1": "TAIPEI",
+          "actor2": "CHINESE",
+          "event_code": "090",
+          "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
+          "days_ago": 0
+        }
+      ],
+      "CHN_threat": []
+    },
     "supply": {
-      "CHN_threat": [],
       "CHN_response": [],
-      "USA_threat": [],
-      "USA_response": []
+      "CHN_threat": [],
+      "USA_response": [],
+      "USA_threat": []
     }
-  },
-  "commentary": {
-    "ko": "대만→중국 외교 채널이 +0.68으로 상승했습니다. 중국이 대만 인근에 폭격기와 전투기를 배치하고 중앙선을 넘는 조직적 순찰을 감행했다는 보도가 긴장을 높였습니다. 미국→대만 외교 채널은 +0.67로 상승했는데, 2026년 아시아 파워 지수 발표 관련 보도가 영향을 미쳤습니다. 대만→미국 전체 채널과 미국→대만 전체 채널은 각각 협력 방향으로 움직였습니다.",
-    "en": "The Taiwan→China diplomatic channel rose to +0.68, driven by reports of China deploying bombers and fighter jets near Taiwan with 15 aircraft crossing the median line in coordinated patrols. The US→Taiwan diplomatic channel also rose to +0.67, influenced by reporting on the Asia Power Index 2026. The Taiwan→US overall channel and US→Taiwan overall channel both moved toward cooperation.",
-    "zh": "臺灣→中國外交通道上升至+0.68，受到中國在臺灣附近部署轟炸機和戰鬥機、15架飛機協調越過中線巡邏的報導推動。美國→臺灣外交通道亦上升至+0.67，受亞洲權力指數2026發佈報導影響。臺灣→美國整體通道及美國→臺灣整體通道則朝向合作方向移動。",
-    "sources": [
-      {
-        "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
-        "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
-        "actor1": "TAIWAN",
-        "actor2": "BEIJING"
-      },
-      {
-        "url": "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
-        "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership | India News - The Times of India",
-        "actor1": "UNITED STATES",
-        "actor2": "TAIWAN"
-      }
-    ],
-    "model": "claude-haiku-4-5-20251001",
-    "generated_at": "2026-11-24T01:15:41.799187",
-    "basis": "index values and the audited records listed in sources; no external search"
   }
 }

@@ -1,4 +1,92 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-24,CHINESE,TAIWAN,190,-10.0,10,False,False,False,https://www.sfin.ro/relatiile-china-japonia/
+2026-11-24,TAIWAN,CHINESE,046,7.0,2,False,False,False,https://www.dailypress.net/opinion/local-columns/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/
+2026-11-24,TAIWAN,US OFFICIAL,090,-2.0,1,False,False,True,https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/
+2026-11-24,CHINA,TAIWAN,010,0.0,2,False,False,False,https://www.wgbh.org/news/local/2026-11-24/why-is-thoreaus-walden-so-popular-among-young-people-in-china
+2026-11-24,CHINA,TAIWAN,020,3.0,2,False,False,False,https://www.wgbh.org/news/local/2026-11-24/why-is-thoreaus-walden-so-popular-among-young-people-in-china
+2026-11-24,CHINA,TAIWAN,020,3.0,2,False,False,False,https://www.wgbh.org/news/local/2026-11-24/why-is-thoreaus-walden-so-popular-among-young-people-in-china
+2026-11-24,CHINESE,TAIWAN,046,7.0,2,False,False,False,https://www.dailypress.net/opinion/local-columns/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/
+2026-11-24,UNITED STATES,TAIWAN,110,-2.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868315
+2026-11-24,TAIWAN,NVIDIA,051,3.4,2,False,False,False,https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/
+2026-11-24,THE US,TAIWAN,020,3.0,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868315
+2026-11-24,TAIWAN,US OFFICIAL,090,-2.0,1,False,False,True,https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/
+2026-11-24,TAIWAN,WASHINGTON,010,0.0,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868315
+2026-11-24,THE US,TAIWAN,020,3.0,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868315
+2026-11-24,NVIDIA,TAIWAN,013,0.4,4,False,False,False,https://aninews.in/news/business/taiwan-stocks-post-biggest-ever-intraday-gain-surge-over-3300-points-on-nvidia-boost20261124081435/
+2026-11-24,NVIDIA,TAIWAN,051,3.4,4,False,False,False,https://aninews.in/news/business/taiwan-stocks-post-biggest-ever-intraday-gain-surge-over-3300-points-on-nvidia-boost20261124081435/
+2026-11-24,TAIWAN,CHINA,043,2.8,15,False,False,False,https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,TAIWAN,CHINA,043,2.8,3,False,False,False,https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,CHINA,TAIPEI,051,3.4,2,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,TAIPEI,CHINA,013,0.4,10,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,TAIPEI,BEIJING,112,-2.0,2,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,TAIPEI,CHINA,012,-0.4,10,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,TAIWAN,CHINA,112,-2.0,1,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,CHINA,TAIWAN,042,1.9,12,False,False,False,https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,TAIWAN,CHINA,043,2.8,3,False,False,False,https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,CHINA,TAIPEI,051,3.4,8,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,NVIDIA,TAIWAN,050,3.5,4,False,False,False,https://english.hani.co.kr/arti/english_edition/e_international/1288815.html
+2026-11-24,TAIWAN,CHINA,043,2.8,3,False,False,False,https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,TAIWAN,REUTERS,010,0.0,4,False,False,False,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,TAIWAN,CHINA,020,3.0,2,False,False,True,https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say
+2026-11-24,UNITED STATES,TAIWAN,050,3.5,2,False,False,False,https://english.hani.co.kr/arti/english_edition/e_international/1288815.html
+2026-11-24,TAIWAN,NVIDIA,042,1.9,20,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/24/2003868305
+2026-11-24,TAIWAN,CHINA,042,1.9,4,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,CHINA,TAIWAN,043,2.8,4,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,NVIDIA,TAIWAN,043,2.8,2,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,CHINA,TAIWAN,043,2.8,2,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,CHINA,TAIWAN,043,2.8,2,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,TAIWAN,CHINA,042,1.9,4,False,False,False,https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html
+2026-11-24,TAIWAN,CHINESE,046,7.0,2,False,False,False,https://www.ironmountaindailynews.com/opinion/2026/11/trumps-tough-on-china-talk-always-just-an-act/
+2026-11-24,CHINESE,TAIWAN,046,7.0,2,False,False,False,https://www.ironmountaindailynews.com/opinion/2026/11/trumps-tough-on-china-talk-always-just-an-act/
+2026-11-24,TAIWAN,UNITED STATES,043,2.8,2,False,False,False,https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html
+2026-11-24,AMERICAN,TAIWAN,042,1.9,10,False,False,False,https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html
+2026-11-24,TAIWAN,AMERICAN,043,2.8,8,False,False,False,https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html
+2026-11-24,TAIPEI,NVIDIA,042,1.9,6,False,False,False,https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/
+2026-11-24,TAIPEI,NVIDIA,043,2.8,6,False,False,False,https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/
+2026-11-24,NVIDIA,TAIPEI,042,1.9,6,False,False,False,https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/
+2026-11-24,NVIDIA,TAIWAN,013,0.4,4,False,False,False,https://news.webindia123.com/news/Articles/Business/20261124/4523705.html
+2026-11-24,NVIDIA,TAIWAN,051,3.4,4,False,False,False,https://news.webindia123.com/news/Articles/Business/20261124/4523705.html
+2026-11-24,NVIDIA,TAIPEI,043,2.8,6,False,False,False,https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/
+2026-11-24,TAIPEI,CHINESE,042,1.9,6,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,CHINESE,043,2.8,4,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIWAN,CHINA,043,2.8,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,CHINESE,186,-10.0,7,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,UNITED STATES,TAIPEI,042,1.9,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,UNITED STATES,TAIPEI,043,2.8,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,CHINESE,TAIPEI,042,1.9,4,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,CHINA,TAIWAN,042,1.9,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,CHINESE,TAIPEI,043,2.8,6,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,UNITED STATES,042,1.9,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,UNITED STATES,043,2.8,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,CHINA,186,-10.0,1,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,UNITED STATES,042,1.9,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,TAIPEI,UNITED STATES,043,2.8,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,UNITED STATES,TAIPEI,042,1.9,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,UNITED STATES,TAIPEI,043,2.8,2,False,False,False,https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/
+2026-11-24,NVIDIA,TAIWAN,172,-5.0,1,False,False,False,https://www.rawstory.com/trump-nvidia-2678507261/
+2026-11-24,NVIDIA,TAIWAN,172,-5.0,4,False,False,False,https://www.rawstory.com/trump-nvidia-2678507261/
+2026-11-24,TAIWAN,CHINA,010,0.0,1,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,TAIWAN,CHINA,060,6.0,1,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,TAIWAN,CHINA,010,0.0,4,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,TAIWAN,CHINA,060,6.0,4,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,CHINESE,TAIWAN,042,1.9,7,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,CHINA,TAIWAN,080,5.0,1,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,AMERICAN,TAIWAN,080,5.0,4,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,AMERICAN,TAIWAN,080,5.0,3,False,False,False,https://www.atlanticcouncil.org/dispatches/dispatch-from-2032-after-chinese-salvos-fail-to-defeat-taiwan-beijing-is-trapped-in-a-war-of-attrition/
+2026-11-24,TAIWAN,NEW YORK,042,1.9,10,False,False,False,https://www.hankookilbo.com/news/article/A2026112407520001416
+2026-11-24,NEW YORK,TAIWAN,043,2.8,10,False,False,False,https://www.hankookilbo.com/news/article/A2026112407520001416
+2026-11-24,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
+2026-11-24,CHINA,TAIWAN,090,-2.0,1,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
+2026-11-24,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
+2026-11-24,CHINA,TAIWAN,090,-2.0,1,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
+2026-11-24,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
+2026-11-24,TAIWAN,TEXAS,020,3.0,5,False,False,False,https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility
+2026-11-24,NVIDIA,TAIWAN,172,-5.0,6,False,False,False,https://2paragraphs.com/2026/11/ex-nsc-director-says-commerce-adding-megaspeed-to-entity-list-has-zero-effect/
+2026-11-24,NVIDIA,TAIWAN,172,-5.0,14,False,False,False,https://2paragraphs.com/2026/11/ex-nsc-director-says-commerce-adding-megaspeed-to-entity-list-has-zero-effect/
+2026-11-24,NVIDIA,TAIWAN,050,3.5,4,False,False,False,https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html
+2026-11-24,TAIWAN,NVIDIA,090,-2.0,2,False,False,False,https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html
+2026-11-24,TAIWAN,NVIDIA,090,-2.0,2,False,False,False,https://www.livemint.com/market/ai-trade-resurgence-drives-9-rally-in-taiwanese-stock-index-11795484279756.html
 2026-11-24,TAIPEI,CHINESE,090,-2.0,2,False,False,False,https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111
 2026-11-24,TAIPEI,CHINESE,090,-2.0,6,True,False,False,https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111
 2026-11-24,TAIWAN,BEIJING,016,-2.0,8,False,False,True,https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111
@@ -10,9 +98,44 @@
 2026-11-24,BEIJING,TAIWAN,120,-4.0,20,False,False,False,https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/
 2026-11-24,BEIJING,TAIWAN,120,-4.0,8,False,False,False,https://panow.com/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/
 2026-11-24,CHINESE,TAIWAN,080,5.0,2,False,False,False,https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html
-2026-11-24,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
-2026-11-24,CHINA,TAIWAN,090,-2.0,1,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
-2026-11-24,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
-2026-11-24,CHINA,TAIWAN,090,-2.0,1,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
-2026-11-24,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return
-2026-11-24,TAIWAN,TEXAS,020,3.0,5,False,False,False,https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility
+2026-11-24,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,NVIDIA,051,3.4,2,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,NVIDIA,051,3.4,2,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,NVIDIA,051,3.4,6,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351
+2026-11-24,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.winnipegfreepress.com/business/2026/11/24/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-24,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.winnipegfreepress.com/business/2026/11/24/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-24,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.techgoondu.com/2026/11/24/jensen-huang-is-back-on-a-shorter-leash/
+2026-11-24,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.techgoondu.com/2026/11/24/jensen-huang-is-back-on-a-shorter-leash/
+2026-11-24,CHINA,TAIWAN,090,-2.0,2,False,False,False,https://www.thedailybeast.com/maga-firebrand-laura-loomer-warns-trumps-ceo-rescue-of-jensen-huang-will-blow-up-in-his-face
+2026-11-24,TAIWAN,CHINESE,173,-5.0,1,False,False,False,https://aninews.in/news/world/asia/chinese-election-interference-emerges-as-major-security-threat-in-taiwan-mac20261124141637/
+2026-11-24,TAIPEI,NVIDIA,030,4.0,1,False,False,False,https://www.933thedrive.com/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huangs-return-as-uncertainty-eases/
+2026-11-24,TAIWAN,CHINESE,173,-5.0,1,False,False,False,https://aninews.in/news/world/asia/chinese-election-interference-emerges-as-major-security-threat-in-taiwan-mac20261124141637/
+2026-11-24,TAIPEI,NVIDIA,030,4.0,1,False,False,False,https://www.933thedrive.com/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huangs-return-as-uncertainty-eases/
+2026-11-24,TAIWAN,CHINESE,010,0.0,6,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,NVIDIA,051,3.4,24,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,CHINESE,050,3.5,3,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,NVIDIA,TAIWAN,043,2.8,10,False,False,False,https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html
+2026-11-24,TAIWAN,NVIDIA,042,1.9,10,False,False,False,https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html
+2026-11-24,TAIWAN,CHINESE,050,3.5,3,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,NVIDIA,050,3.5,12,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,NVIDIA,051,3.4,36,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,CHINESE,010,0.0,6,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,CHINA,090,-2.0,3,False,False,False,http://www.goskagit.com/news/world/some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/article_5e5fd44f-45ab-5d4b-ba9f-8efdbdbfca36.html
+2026-11-24,TAIWAN,CHINESE,042,1.9,10,False,False,False,http://arabic.news.cn/20261124/8f1ad1f30d1e4dd19d1bcf2a360e0a20/c.html
+2026-11-24,CHINESE,TAIWAN,043,2.8,10,False,False,False,http://arabic.news.cn/20261124/8f1ad1f30d1e4dd19d1bcf2a360e0a20/c.html
+2026-11-24,TAIWAN,WASHINGTON,010,0.0,4,False,False,False,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,UNITED STATES,TAIWAN,110,-2.0,4,False,False,False,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,TAIWAN,UNITED STATES,010,0.0,4,False,False,False,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,AMERICAN,TAIWAN,100,-5.0,2,False,False,False,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,UNITED STATES,TAIWAN,110,-2.0,4,False,False,False,https://focustaiwan.tw/politics/202611240008
+2026-11-24,AMERICAN,TAIWAN,100,-5.0,2,False,False,True,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,UNITED STATES,TAIWAN,100,-5.0,10,False,False,False,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,AMERICAN,TAIWAN,100,-5.0,2,False,False,True,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,AMERICAN INSTITUTE IN TAIWAN,TAIWAN,100,-5.0,2,False,False,True,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,TAIWAN,WASHINGTON,010,0.0,12,False,False,False,https://focustaiwan.tw:443/politics/202611240008
+2026-11-24,CHINA,TAIWAN,110,-2.0,2,False,False,False,https://www.dw.com/id/cina-abaikan-jepang-di-ktt-apec-ketegangan-kedua-negara-meningkat/a-80027582
+2026-11-24,CHINA,TAIWAN,110,-2.0,8,False,False,False,https://www.dw.com/id/cina-abaikan-jepang-di-ktt-apec-ketegangan-kedua-negara-meningkat/a-80027582
+2026-11-24,CHINA,TAIWAN,010,0.0,10,False,False,False,https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287917&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147

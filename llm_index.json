@@ -4,10 +4,10 @@
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "cells": {
   "CHN_threat": {
-   "value": 1.2,
-   "raw": 7.2,
-   "e": 1,
-   "mentions": 8
+   "value": 1.8286,
+   "raw": 6.4,
+   "e": 2,
+   "mentions": 9
   },
   "CHN_response": {
    "value": -0.6667,
