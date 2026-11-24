@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
   "prompt_version": 3,
-  "saved_at": "2026-11-24T11:36:59.395465",
+  "saved_at": "2026-11-24T23:16:14.248104",
   "entries": {
     "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111|016|neg": {
       "ok": true,
@@ -1205,6 +1205,216 @@
         "c2": null,
         "c3": null,
         "reason": "조건1: 아니오 — 기사는 아시아 전역의 국력지수를 다루는 일반적인 순위 기사이며, 미국-대만 간의 구체적인 양자 사건(군사행동, 위협, 분쟁 등)을 다루고 있지 않습니다. 조건2: 해당사항 없음 — 조건1에서 이미 부정적 국가간 행위가 존재하지 않으므로, 기사의 논조(단순 순위 발표)는 미국-대만 간의 갈등적 행위와 무관합니다. 조건3: 해당사항 없음 — 미국-대만 간의 직접적인 행위 자체"
+      }
+    },
+    "https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/|186|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Donald Trump wanted Nvidia’s chief reinstated. Here’s how he succeeded - NZ Herald",
+      "text_len": 2500,
+      "paragraph_1": "The President set in motion a weekend of manoeuvring, led by Vice-President JD Vance, to help Jensen Huang get his old job back.",
+      "paragraph_2": "US President Donald Trump had just returned to Washington from China at the end of last week, and his desire to have Jensen Huang reinstated as Nvidia’s CEO was only intensifying, especially as he watched the sharemarket slide at the end of last week.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국 대통령 트럼프가 엔비디아 CEO 젠슨 황의 복귀를 중재한 사건을 다루고 있으며, 대만과 중국(또는 대만-중국) 간의 국가급 행위나 상호작용을 직접 다루지 않고 있습니다. 조건2: 해당 없음 — 조건1이 충족되지 않아 평가 대상이 아닙니다. 조건3: 해당 없음 — 조건1이 충족되지 않아 평가 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "https://news.ltn.com.tw/news/focus/breakingnews/5652247|057|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "《TAIPEI TIMES》China financing scheme bound to fail: experts - 焦點 - 自由時報電子報",
+      "text_len": 2500,
+      "paragraph_1": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。",
+      "paragraph_2": "A bank employee counts 100 yuan notes at a bank counter in Nanjing, China, on June 13, 2023.\r\nPhoto: AFP",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 중국 정부(대만업무판공실, 수출입은행)가 대만 기업을 대상으로 추진하는 금융협력 계획을 다루고 있으며, 이는 대만-중국 간 직접적인 국가급 상호작용입니다. 조건2: 아니오 — 기사의 논조는 명백히 부정적이며, 중국의 금융 계획을 \"실패할 운명\" \"정치 개입 도구\" \"자금세탁 수단\" \"과신\"으로 비판하고 있어서 긍정적 코드(GoldsteinScale +8.0)와 완전히 "
+      }
+    },
+    "https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang’s Nvidia comeback: How Taipei’s night markets and local fans reacted to the CEO’s shock return",
+      "text_len": 2500,
+      "paragraph_1": "Taipei: In Taipei’s bustling night markets, Jensen Huang was a fallen king always destined to be resurrected.",
+      "paragraph_2": "Just after 10pm on Monday (Taiwan time), the news of his astonishing comeback as chief executive of Nvidia began pinging on phones across Ningxia Night Market, where Huang has been a frequent visitor during his trips to Taiwan.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 개인 CEO(Jensen Huang)의 경력 복귀와 개인적 스캔들을 다루고 있으며, 대만 정부와 중국 정부 간의 국가급 행위나 상호작용(군사행동, 외교분쟁, 정책결정 등)을 직접 다루고 있지 않습니다. 조건2: 해당없음 — 조건1이 충족되지 않으므로 평가 불필요합니다. 최종: 아니오"
+      }
+    },
+    "http://arabic.news.cn/20261124/8f1ad1f30d1e4dd19d1bcf2a360e0a20/c.html|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "بنك من البر الرئيسي الصيني يعتزم توسيع الدعم المالي لشركات تايوان العاملة في البر الرئيسي",
+      "text_len": 1600,
+      "paragraph_1": "بكين 24 نوفمبر2026 (شينخوا) وقع مكتب شؤون تايوان التابع لمجلس الدولة وبنك الصين للاستيراد والتصدير على اتفاقية بشأن توسيع الدعم المالي للشركات من منطقة تايوان الصينية وتعميق التكامل الاقتصادي عبر المضيق خلال السنوات الخمس المقبلة، وذلك في العاصمة الصينية بكين يوم الاثنين الماضي.",
+      "paragraph_2": "وبموجب الاتفاقية، سيقوم البنك السياساتي بتوسيع الخدمات المالية الشاملة وتقديم الدعم المالي في عدة مجالات، بما في ذلك مساعدة شركات تايوان على تأسيس وتوسيع عملياتها في البر الرئيسي الصيني، وتطوير المجمعات الصناعية التي تشمل استثمارات من تايوان، وتسهيل استثمار شركات البر الرئيسي الصيني في تايوان، وتعزيز التجارة عبر المضيق، ودعم شركات تايوان المستثمرة في البر الرئيسي للمشاركة في مبادرة \"الحزام والطريق\".",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사는 중국 정부 기관(국무원 대만사무국)과 중국 정책은행(수출입은행) 간의 금융협력 협약을 다루고 있으며, 대만 정부의 행위나 대만-중국 정부 간 직접적 상호작용이 아닌 중국 측의 일방적 경제지원 정책 발표입니다. 조건2: 예 — 기사의 실제 논조는 금융지원, 경제통합, 무역촉진 등 경제협력을 다루고 있어 긍정적 코드(GoldsteinScale +1.9)와 일치합니다"
+      }
+    },
+    "https://www.shfanews.net/post/338580|042|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "بنك من البر الرئيسي الصيني يعتزم توسيع الدعم المالي لشركات تايوان العاملة في البر الرئيسي - شبكة فلسطين للأنباء - شفا",
+      "text_len": 1479,
+      "paragraph_1": "24 نوفمبر، 2026 عربي و دولي",
+      "paragraph_2": "شفا – وقع مكتب شؤون تايوان التابع لمجلس الدولة وبنك الصين للاستيراد والتصدير على اتفاقية بشأن توسيع الدعم المالي للشركات من منطقة تايوان الصينية وتعميق التكامل الاقتصادي عبر المضيق خلال السنوات الخمس المقبلة، وذلك في العاصمة الصينية بكين يوم الاثنين الماضي.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국 정부 기관(국무원 대만사무실)과 중국 정책은행 간의 협약을 다루고 있으며, 대만 정부의 직접적인 행위나 양국 정부 간의 상호작용이 아니라 중국이 대만 기업들을 지원하기 위한 일방적 조치입니다. 조건2: 예 — 기사의 실제 내용은 금융지원, 경제협력, 투자 촉진 등 명백히 협력적이고 긍정적인 경제협력 사안이며, GDELT의 양수 점수(+1.9)와 완전히 일치합니"
+      }
+    },
+    "https://focustaiwan.tw/society/202611240023|057|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan employers demand migrant labor reforms, minister's resignation - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 24 (CNA) A group representing migrant worker employers rallied outside the Executive Yuan in Taipei on Tuesday, demanding reforms to Taiwan's migrant labor policies and calling for Labor Minister Hung Sun-han (洪申翰) to resign.",
+      "paragraph_2": "The International Association of Family and Employers with Disabilities, joined by business and fishing industry representatives, handed a petition to an Executive Yuan representative, calling on Premier Cho Jung-tai (卓榮泰) to introduce concrete reforms.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 국내 노동정책 시위로서, 대만-미국 두 국가 간의 직접적인 국가급 행위(군사행동, 외교충돌, 위협 등)를 다루지 않고 있으며, 미국과의 ART 협약은 맥락으로만 언급되어 양국 간 쌍방향 상호작용이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 정부 정책 비판, 장관 사퇴 요구, 정부 개혁 미흡 지적 등 갈등적이고 부정적인 내용이므로 +8.0의 \"협력적/긍정"
+      }
+    },
+    "https://www.dailynews.com/2026/11/24/jensen-huang-nvidia-return-taiwan/|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia",
+      "text_len": 2500,
+      "paragraph_1": "By TAIJING WU and JOHNSON LAI",
+      "paragraph_2": "TAIPEI, Taiwan (AP) — People in Taiwan were initially shocked when the scandal broke. But now that Jensen Huang has been reinstated as CEO of chipmaking giant Nvidia, some in his birthplace see the decision as justified, believing he is indispensable to the company.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사는 개인 기업인 Jensen Huang의 CEO 복귀에 대한 대만 시민들의 개인적 반응을 다루고 있으며, 대만 정부와 미국 정부(또는 Nvidia) 간의 국가급 행위나 상호작용이 아닙니다. 조건2: 예 — 기사의 실제 내용은 Huang의 복귀를 긍정적으로 평가하는 대만 시민들의 환영 의견으로 가득 차 있으며, GoldsteinScale +3.4의 협력적/긍정적 코드"
+      }
+    },
+    "https://elpais.com/economia/2026-11-24/asi-fue-el-regreso-de-jensen-huang-a-nvidia-en-siete-actos-de-la-presion-de-trump-al-apoyo-familiar.html|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Así fue el regreso de Jensen Huang a Nvidia en siete actos: de la presión de Trump al apoyo familiar | Economía | EL PAÍS",
+      "text_len": 2500,
+      "paragraph_1": "Jensen Huang ha tardado once días en volver a tomar el timón de Nvidia . Su salida supuso un terremoto corporativo en Wall Street y su regreso, un chute de la droga más potente para los inversores. Durante ese corto periodo de tiempo, Huang ha pasado de querer redimir sus pecados a combatir para recuperar el trono de la compañía que creó hace 33 años y que encumbró a lo más alto de Wall Street.",
+      "paragraph_2": "El sorprendente regreso de Jensen Huang al frente de Nvidia se fraguó durante el fin de semana. El presidente de Estados Unidos, Donald Trump, jugó un papel decisivo, según confesó él mismo. “Los convencí. Yo hice el trató” , contó este lunes en una larga entrevista en la cadena CNBC.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia CEO Jensen Huang의 개인적 스캔들과 복귀에 관한 기업 뉴스일 뿐, 대만과 오리건(미국) 간의 국가급 행위자 사이의 사건(군사, 외교, 안보 관련)을 다루고 있지 않습니다. 조건2: 해당없음 — 조건1이 거짓이므로 평가 불필요 최종: 아니오"
+      }
+    },
+    "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry|050|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang return boosts Taiwan tech stock market | The Straits Times",
+      "text_len": 2500,
+      "paragraph_1": "Sign up now: Get insights on Asia's fast-moving developments",
+      "paragraph_2": "A \"Taiwan heart Jensen\" sign displayed on the Taipei 101 skyscraper in Taipei on Nov 16.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 개인 기업인 NVIDIA의 CEO 인사 이동과 그에 따른 대만 주식시장 반응을 다루고 있으며, 대만과 미국 정부(국가급 행위자) 간의 직접적인 국가 행위(군사행동, 외교 갈등, 안보 위협 등)를 다루고 있지 않습니다. 조건2: 예 — 기사의 실제 논조는 Jensen Huang의 복귀를 긍정적으로 평가하며, 대만 주식시장의 회복과 대만의 AI 산업 지원이라는 우호적 "
+      }
+    },
+    "https://wccftech.com/a-hollow-gesture-the-u-s-blacklists-alice-huang-linked-megaspeed-but-skips-a-key-rule-that-theoretically-keeps-nvidia-chips-flowing/|172|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "A Hollow Gesture: The U.S. Blacklists Alice Huang-Linked Megaspeed — But Skips a Key Rule That Theoretically Keeps NVIDIA Chips Flowing",
+      "text_len": 2500,
+      "paragraph_1": "Talk about one step forward, two steps back. The U.S. Commerce Department has just placed Alice Huang-linked Megaspeed on the so-called Entity List — but omitted a key rule that would have given the blacklisting action its real teeth, leaving a critical loophole for NVIDIA chips to keep flowing to the now-disgraced firm.",
+      "paragraph_2": "For anyone catching up: Jensen Huang’s shock reinstatement by NVIDIA’s board on Monday came less than two weeks after he resigned over an extramarital affair with Alice Huang — a suspected Chinese spy and a one-time executive at Singapore-based Megaspeed, which allegedly helped Chinese companies access restricted NVIDIA chips either physically or remotely via its sprawling network of data centers in Southeast Asia.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 중국 기업(Megaspeed) 제재 조치를 다루고 있으며, 대만과 대만-미국 사이의 직접적인 국가 간 행위(위협, 제재, 갈등)가 아니라 미국-중국 간 갈등에서 대만이 부수적으로 언급(NVIDIA 칩 생산지)되는 상황입니다. 조건2: 예 — 기사의 논조는 미국 상무부의 제재 조치가 \"불완전하고 허점이 있다\"는 비판적·부정적 내용으로, GoldsteinScal"
+      }
+    },
+    "https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan stocks soar over 9% as Jensen Huang's return to Nvidia sparks global market rally",
+      "text_len": 565,
+      "paragraph_1": "Global equities staged a dramatic recovery following the surprise return of Jensen Huang as chief executive officer of Nvidia, reigniting investor confidence in the artificial intelligence sector and sparking a massive relief rally across Wall Street and Asia.",
+      "paragraph_2": "Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the 'Keep me signed in' box in the log-in section. This will save the password on the computer you're using to access the site.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 NVIDIA CEO의 복귀로 인한 글로벌 주식시장 랠리를 다루고 있으며, 대만과 미국 간의 정부/국가급 행위나 상호작용(군사행동, 외교회담, 정책결정 등)을 다루고 있지 않고, 대만은 단지 \"아시아 주식시장\"의 일부로 부수적으로 언급될 뿐입니다. 조건2: 해당없음 — 조건1이 거짓이므로 평가 대상이 아닙니다. 최종: 아니오"
+      }
+    },
+    "https://www.hankookilbo.com/news/article/A2026112407520001416|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "美, 젠슨 황 복귀 당일 中 첩자 의혹 앨리스 황 회사 '수출통제' 지정-국제ㅣ한국일보",
+      "text_len": 1013,
+      "paragraph_1": "미국 뉴욕타임스가 29일 공개한 사진에서 젠슨 황 엔비디아 최고경영자와 중국 스파이로 지목된 앨리스 황이 2024년 6월 대만 타이베이에서 열린 행사에 참석해 나란히 앉아 있다. 링크드인 캡처",
+      "paragraph_2": "미국 상무부는 23일(현지시간) 젠슨 황 엔비디아 최고경영자(CEO)의 내연녀인 앨리스 황(중국명 황러)이 임원으로 근무했던 싱가포르 기업 메가스피드를 수출통제 명단에 올렸다. 젠슨 황이 이사회의 만장일치 결정으로 엔비디아에 복귀한 당일 메가스피드에 대한 제재 조치를 단행함으로써 의혹의 확산을 차단하려는 의도로 풀이된다.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국 상무부의 싱가포르 기업(메가스피드) 수출통제 조치이며, 대만은 2024년 6월 행사 개최지로만 언급될 뿐 대만 정부가 행위자로서 미국을 겨냥하거나 관여하는 국가급 사건이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 미국의 중국 기술 유출 적발, 제재 조치, 스파이 의혹 수사 등 갈등적·위협적 내용인데, GDELT가 +2.8의 협력적/긍정적 점"
+      }
+    },
+    "https://www.ng.ru/world/2026-11-24/6_9631_elections.html|010|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Местные выборы на Тайване стали новостью глобального масштаба / В мире / Независимая газета",
+      "text_len": 2500,
+      "paragraph_1": "Кандидат в мэры Пума Шэнь считает, что не надо бояться рассердить Пекин.  Фото Reuters",
+      "paragraph_2": "На Тайване на финишную прямую вышла избирательная кампания. В субботу, 28 ноября, здесь будут решать, к кому перейдет власть в городах и уездах. Самые острые предвыборные баталии развернулись в столице – городе Тайбэе. От того, кто победит в борьбе за пост мэра, сторонник объединения с материковым Китаем или сторонник независимости, в определенной мере зависит, будут ли отношения между островом и КНР развиваться в конструктивном ключе или дело может дойти до применения военной силы.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 내 지방선거와 대만 정치 주제를 다루고 있으며, 미국과 대만 간의 직접적인 국가 간 사건(군사행동, 외교 접촉, 정책 결정 등)을 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 갈등적이고 긴장 관계를 중심으로 하고 있으며(중국과의 대립, 군사 충돌 가능성 언급), GoldsteinScale +0.0의 긍정적/협력적 분류와 불일치합니다. 최종: "
+      }
+    },
+    "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Blacklisted Chinese universities procured Nvidia chips, records show",
+      "text_len": 2500,
+      "paragraph_1": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has been keen to attract.",
+      "paragraph_2": "In three years, the corporate entity has gone from an inactive Chinese gaming subsidiary to one of Asia’s biggest buyers of cutting-edge semiconductors from the US.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 반도체 수출통제, 싱가포르 기업 Megaspeed, 엔비디아 CEO 스캔들을 다루고 있으며, 대만과 중국 간의 직접적인 국가급 상호작용(군사행동, 외교회담, 협력 등)을 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 미국의 수출통제 회피 의혹, 칩 밀수, 중국 정보기관 연루 등 갈등과 위협을 다루고 있으나, GoldsteinScale +6.4는 협"
+      }
+    },
+    "https://news.ltn.com.tw/news/focus/breakingnews/5652219|071|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "《TAIPEI TIMES》Taiwan Labor Party official arrested for using Chinese funding for political campaigning - 焦點 - 自由時報電子報",
+      "text_len": 2470,
+      "paragraph_1": "為達最佳瀏覽效果，建議使用 Chrome、Firefox 或 Microsoft Edge 的瀏覽器。",
+      "paragraph_2": "A sign for the Kaohsiung District Prosecutors’ Office is pictured in an undated photograph.\r\nPhoto: CNA",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 내 정당 간 선거자금 비리 사건으로, 중국 정부/국가 행위자가 대만 국가에 대해 직접 행동한 것이 아니라 대만의 민간 정치단체가 중국 민간단체로부터 자금을 받은 국내 사건입니다. 조건2: 아니오 — 기사의 실제 논조는 외국 선거개입 혐의, 반투명법 위반, 체포 및 구금 등 갈등/위협 내용인데, GDELT가 +7.4의 긍정적 코드를 부여한 것과 불일치합니다. 최"
       }
     }
   }

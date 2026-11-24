@@ -1,20 +1,20 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T11:39:02.585632",
+ "generated_at": "2026-11-24T23:17:37.566795",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 40,
- "n_coded": 36,
- "n_relevant": 4,
+ "n_articles": 59,
+ "n_coded": 55,
+ "n_relevant": 5,
  "stats": {
-  "api_calls": 34,
+  "api_calls": 23,
   "api_failures": 0,
   "unparseable": 4,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 364188,
-  "input_uncached": 6170,
+  "cache_read": 242792,
+  "input_uncached": 4176,
   "folded": 0
  },
  "articles": {
@@ -289,6 +289,144 @@
    },
    "mentions": 1,
    "title": "Nvidia suppliers, startups in Asia cheer Huang’s return as uncertainty eases | 93.3 The Drive"
+  },
+  "https://www.dailynews.com/2026/11/24/jensen-huang-nvidia-return-taiwan/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 18,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia"
+  },
+  "https://focustaiwan.tw/society/202611240023": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwan employers demand migrant labor reforms, minister's resignation - Focus Taiwan"
+  },
+  "https://www.ng.ru/world/2026-11-24/6_9631_elections.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Местные выборы на Тайване стали новостью глобального масштаба / В мире / Независимая газета"
+  },
+  "https://wccftech.com/a-hollow-gesture-the-u-s-blacklists-alice-huang-linked-megaspeed-but-skips-a-key-rule-that-theoretically-keeps-nvidia-chips-flowing/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "A Hollow Gesture: The U.S. Blacklists Alice Huang-Linked Megaspeed — But Skips a Key Rule That Theoretically Keeps NVIDIA Chips Flowing"
+  },
+  "https://www.shfanews.net/post/338580": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "بنك من البر الرئيسي الصيني يعتزم توسيع الدعم المالي لشركات تايوان العاملة في البر الرئيسي - شبكة فلسطين للأنباء - شفا"
+  },
+  "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "LLM agents work for their parent companies, not for you | Michael Harley"
+  },
+  "https://elpais.com/economia/2026-11-24/asi-fue-el-regreso-de-jensen-huang-a-nvidia-en-siete-actos-de-la-presion-de-trump-al-apoyo-familiar.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Así fue el regreso de Jensen Huang a Nvidia en siete actos: de la presión de Trump al apoyo familiar | Economía | EL PAÍS"
+  },
+  "https://www.theepochtimes.com/world/taiwan-envoy-urges-canada-to-sign-pending-deal-says-it-will-help-shield-ottawa-from-coercion-by-beijing-6128841": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 7,
+   "title": "Taiwan Envoy Urges Canada to Sign Pending Deal, Says It Will Help Shield Ottawa From Coercion by Beijing | The Epoch Times"
+  },
+  "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Jensen Huang return boosts Taiwan tech stock market | The Straits Times"
+  },
+  "https://english.elpais.com/usa/2026-11-24/jensen-huangs-return-to-nvidia-in-seven-acts-from-trumps-pressure-to-family-support.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Jensen Huang’s return to Nvidia in seven acts: From Trump’s pressure to family support | U.S. | EL PAÍS English"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5652247": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "《TAIPEI TIMES》China financing scheme bound to fail: experts - 焦點 - 自由時報電子報"
+  },
+  "https://isp.netscape.com:443/pf/story/0001/20261124/1ec8552ba88c4df37cfd9af731b7e561": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal"
+  },
+  "http://www.sitkasentinel.com/stories/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal,188576": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal - Daily Sitka Sentinel"
+  },
+  "https://www.rawstory.com/trump-nvidia-2678511371/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "'Soft-pedaling racism': Conservative's defense of Trump's 'blood' remark draws fire - Raw Story"
+  },
+  "https://pjmedia.com/scott-pinsker/2026/11/24/welcome-to-the-political-singularity-lets-brand-the-democrats-as-the-stupid-party-n4959668": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Welcome to the Political Singularity: Let’s Brand the Democrats as the Stupid Party! – PJ Media"
+  },
+  "https://mymotherlode.com/news/national/11336100/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal - myMotherLode.com"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5652219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "《TAIPEI TIMES》Taiwan Labor Party official arrested for using Chinese funding for political campaigning - 焦點 - 自由時報電子報"
+  },
+  "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From Yalta to Shenzhen: The return of spheres of influence and the collapse of consensus – Orange County Register"
+  },
+  "https://www.sej.org/headlines/he-sacrificed-everything-stop-water-pollution-texas-doesn-t-care": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "He Sacrificed Everything to Stop Water Pollution. Texas Doesn’t Care. | SEJ"
   }
  }
 }

@@ -16,10 +16,10 @@
    "mentions": 8
   },
   "USA_response": {
-   "value": -0.6667,
+   "value": -1.1429,
    "raw": -4.0,
-   "e": 1,
-   "mentions": 2
+   "e": 2,
+   "mentions": 9
   }
  }
 }

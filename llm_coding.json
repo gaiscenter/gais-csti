@@ -1,20 +1,20 @@
 {
  "date": "2026-11-24",
- "generated_at": "2026-11-24T11:39:02.585632",
+ "generated_at": "2026-11-24T23:17:37.566795",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 40,
- "n_coded": 36,
- "n_relevant": 4,
+ "n_articles": 59,
+ "n_coded": 55,
+ "n_relevant": 5,
  "stats": {
-  "api_calls": 34,
+  "api_calls": 23,
   "api_failures": 0,
   "unparseable": 4,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 364188,
-  "input_uncached": 6170,
+  "cache_read": 242792,
+  "input_uncached": 4176,
   "folded": 0
  },
  "articles": {
@@ -25,6 +25,13 @@
    "mentions": 36,
    "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal | News | goskagit.com"
   },
+  "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion"
+  },
   "https://www.taipeitimes.com/News/biz/archives/2026/11/24/2003868305": {
    "tags": {
     "v1": "no"
@@ -32,12 +39,19 @@
    "mentions": 20,
    "title": "Taiwan stocks soar on news of Jensen Huang’s return to Nvidia - Taipei Times"
   },
-  "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+  "https://www.dailynews.com/2026/11/24/jensen-huang-nvidia-return-taiwan/": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 20,
-   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion"
+   "mentions": 18,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia"
+  },
+  "https://focustaiwan.tw/society/202611240023": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taiwan employers demand migrant labor reforms, minister's resignation - Focus Taiwan"
   },
   "https://www.theage.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html": {
    "tags": {
@@ -53,12 +67,19 @@
    "mentions": 14,
    "title": "Ex-NSC Director Says Commerce Adding Megaspeed to Entity List “Has ZERO Effect”"
   },
-  "https://www.sfin.ro/relatiile-china-japonia/": {
+  "https://www.ng.ru/world/2026-11-24/6_9631_elections.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Tensiuni între China și Japonia la APEC"
+   "title": "Местные выборы на Тайване стали новостью глобального масштаба / В мире / Независимая газета"
+  },
+  "https://wccftech.com/a-hollow-gesture-the-u-s-blacklists-alice-huang-linked-megaspeed-but-skips-a-key-rule-that-theoretically-keeps-nvidia-chips-flowing/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "A Hollow Gesture: The U.S. Blacklists Alice Huang-Linked Megaspeed — But Skips a Key Rule That Theoretically Keeps NVIDIA Chips Flowing"
   },
   "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say": {
    "tags": {
@@ -66,6 +87,48 @@
    },
    "mentions": 10,
    "title": "Taiwan's elections not about China, but Beijing has a lot to say, Asia News - AsiaOne"
+  },
+  "https://www.shfanews.net/post/338580": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "بنك من البر الرئيسي الصيني يعتزم توسيع الدعم المالي لشركات تايوان العاملة في البر الرئيسي - شبكة فلسطين للأنباء - شفا"
+  },
+  "https://www.sfin.ro/relatiile-china-japonia/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Tensiuni între China și Japonia la APEC"
+  },
+  "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "LLM agents work for their parent companies, not for you | Michael Harley"
+  },
+  "https://elpais.com/economia/2026-11-24/asi-fue-el-regreso-de-jensen-huang-a-nvidia-en-siete-actos-de-la-presion-de-trump-al-apoyo-familiar.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Así fue el regreso de Jensen Huang a Nvidia en siete actos: de la presión de Trump al apoyo familiar | Economía | EL PAÍS"
+  },
+  "https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan stocks soar over 9% as Jensen Huang's return to Nvidia sparks global market rally"
+  },
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287917&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "미사일 위협에서 AI 여론전까지...중국의 대만 선거 개입 30년사 - 오마이뉴스"
   },
   "https://www.clarin.com/mundo/fuerte-repunte-bursatil-asia-acciones-tecnologicas-vuelan-impulsadas-vuelta-jensen-huang-nvidia_0_nBwm38FjzG.html": {
    "tags": {
@@ -81,19 +144,12 @@
    "mentions": 10,
    "title": "美, 젠슨 황 복귀 당일 中 첩자 의혹 앨리스 황 회사 '수출통제' 지정-국제ㅣ한국일보"
   },
-  "https://www.digitimes.com/news/a20261124VL215/jensen-huang-nvidia-recovery-market-taiwan.html": {
+  "https://www.dw.com/id/cina-abaikan-jepang-di-ktt-apec-ketegangan-kedua-negara-meningkat/a-80027582": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 10,
-   "title": "Taiwan stocks soar over 9% as Jensen Huang's return to Nvidia sparks global market rally"
-  },
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287917&PAGE_CD=N0002&BLCK_NO=&CMPT_CD=M0147": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "미사일 위협에서 AI 여론전까지...중국의 대만 선거 개입 30년사 - 오마이뉴스"
+   "mentions": 8,
+   "title": "Takaichi Disambut Dingin Cina di KTT APEC, Ada Apa?"
   },
   "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111": {
    "tags": {
@@ -119,12 +175,31 @@
    "mentions": 8,
    "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion | paNOW"
   },
-  "https://www.dw.com/id/cina-abaikan-jepang-di-ktt-apec-ketegangan-kedua-negara-meningkat/a-80027582": {
+  "https://www.theepochtimes.com/world/taiwan-envoy-urges-canada-to-sign-pending-deal-says-it-will-help-shield-ottawa-from-coercion-by-beijing-6128841": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 7,
+   "title": "Taiwan Envoy Urges Canada to Sign Pending Deal, Says It Will Help Shield Ottawa From Coercion by Beijing | The Epoch Times"
+  },
+  "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry": {
    "tags": {
     "v1": "no"
    },
-   "mentions": 8,
-   "title": "Takaichi Disambut Dingin Cina di KTT APEC, Ada Apa?"
+   "mentions": 7,
+   "title": "Jensen Huang return boosts Taiwan tech stock market | The Straits Times"
+  },
+  "https://english.elpais.com/usa/2026-11-24/jensen-huangs-return-to-nvidia-in-seven-acts-from-trumps-pressure-to-family-support.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Jensen Huang’s return to Nvidia in seven acts: From Trump’s pressure to family support | U.S. | EL PAÍS English"
   },
   "https://www.nzherald.co.nz/business/donald-trump-wanted-nvidias-chief-reinstated-heres-how-he-succeeded/premium/OLFNB7CNTZBZDBGCQ4L6VEJGZU/": {
    "tags": {
@@ -140,12 +215,12 @@
    "mentions": 7,
    "title": "Dispatch from 2032: After Chinese salvos fail to defeat Taiwan, Beijing is trapped in a war of attrition - Atlantic Council"
   },
-  "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/": {
+  "https://news.ltn.com.tw/news/focus/breakingnews/5652247": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "What Jensen Huang’s return as Nvidia CEO means"
+   "title": "《TAIPEI TIMES》China financing scheme bound to fail: experts - 焦點 - 自由時報電子報"
   },
   "https://www.newsday.com/news/nation/taiwan-jensen-huang-nvidia-scandal-c24351": {
    "tags": {
@@ -154,47 +229,33 @@
    "mentions": 6,
    "title": "Some in Jensen Huang's native Taiwan welcome his return to Nvidia despite scandal - Newsday"
   },
+  "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/11/24/what-jensen-huangs-return-as-nvidia-ceo-means-for-investors/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "What Jensen Huang’s return as Nvidia CEO means"
+  },
+  "https://isp.netscape.com:443/pf/story/0001/20261124/1ec8552ba88c4df37cfd9af731b7e561": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal"
+  },
+  "http://www.sitkasentinel.com/stories/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal,188576": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal - Daily Sitka Sentinel"
+  },
   "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility": {
    "tags": {
     "v1": "no"
    },
    "mentions": 5,
    "title": "TSMC eyes Brazos County for $22.6 billion semiconductor facility"
-  },
-  "https://aninews.in/news/business/taiwan-stocks-post-biggest-ever-intraday-gain-surge-over-3300-points-on-nvidia-boost20261124081435/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Taiwan stocks post biggest-ever intraday gain, surge over 3,300 points on Nvidia boost"
-  },
-  "https://english.hani.co.kr/arti/english_edition/e_international/1288815.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Nvidia board comes under fire for reinstating Huang mid-investigation"
-  },
-  "https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Jensen Huang’s Nvidia comeback: How Taipei’s night markets and local fans reacted to the CEO’s shock return"
-  },
-  "https://news.webindia123.com/news/Articles/Business/20261124/4523705.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Taiwan stocks post biggest-ever intraday gain, surge over 3,300 points on Nvidia boost"
-  },
-  "https://www.rawstory.com/trump-nvidia-2678507261/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "'Zero effect!' Expert spots critical flaw in Trump admin's toothless chips crackdown"
   },
   "https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return": {
    "tags": {
@@ -210,12 +271,75 @@
    "mentions": 4,
    "title": "AI Trade Resurgence Drives 9% Rally in Taiwanese Stock Index | Stock Market News"
   },
-  "https://www.dailypress.net/opinion/local-columns/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/": {
+  "https://www.rawstory.com/trump-nvidia-2678507261/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "'Zero effect!' Expert spots critical flaw in Trump admin's toothless chips crackdown"
+  },
+  "https://www.rawstory.com/trump-nvidia-2678511371/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "'Soft-pedaling racism': Conservative's defense of Trump's 'blood' remark draws fire - Raw Story"
+  },
+  "https://www.smh.com.au/world/asia/at-taipei-s-night-markets-jensen-huang-is-a-resurrected-king-20261124-p61gqq.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Jensen Huang’s Nvidia comeback: How Taipei’s night markets and local fans reacted to the CEO’s shock return"
+  },
+  "https://news.webindia123.com/news/Articles/Business/20261124/4523705.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan stocks post biggest-ever intraday gain, surge over 3,300 points on Nvidia boost"
+  },
+  "https://aninews.in/news/business/taiwan-stocks-post-biggest-ever-intraday-gain-surge-over-3300-points-on-nvidia-boost20261124081435/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan stocks post biggest-ever intraday gain, surge over 3,300 points on Nvidia boost"
+  },
+  "https://english.hani.co.kr/arti/english_edition/e_international/1288815.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia board comes under fire for reinstating Huang mid-investigation"
+  },
+  "https://pjmedia.com/scott-pinsker/2026/11/24/welcome-to-the-political-singularity-lets-brand-the-democrats-as-the-stupid-party-n4959668": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Welcome to the Political Singularity: Let’s Brand the Democrats as the Stupid Party! – PJ Media"
+  },
+  "https://mymotherlode.com/news/national/11336100/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "Trump’s tough-on-China talk was always just an act - Daily Press"
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal - myMotherLode.com"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5652219": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "《TAIPEI TIMES》Taiwan Labor Party official arrested for using Chinese funding for political campaigning - 焦點 - 自由時報電子報"
+  },
+  "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "From Yalta to Shenzhen: The return of spheres of influence and the collapse of consensus – Orange County Register"
   },
   "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/": {
    "tags": {
@@ -224,12 +348,12 @@
    "mentions": 2,
    "title": "Taiwan welcomes Jensen Huang's return as Nvidia CEO - OrissaPOST"
   },
-  "https://www.wgbh.org/news/local/2026-11-24/why-is-thoreaus-walden-so-popular-among-young-people-in-china": {
+  "https://www.dailypress.net/opinion/local-columns/2026/11/trumps-tough-on-china-talk-was-always-just-an-act/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "Why is Thoreau's 'Walden' so popular among young people in China? | GBH"
+   "title": "Trump’s tough-on-China talk was always just an act - Daily Press"
   },
   "https://www.ironmountaindailynews.com/opinion/2026/11/trumps-tough-on-china-talk-always-just-an-act/": {
    "tags": {
@@ -238,17 +362,19 @@
    "mentions": 2,
    "title": "Trump’s tough-on-China talk always just an act - The Daily News"
   },
-  "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html": {
+  "https://www.wgbh.org/news/local/2026-11-24/why-is-thoreaus-walden-so-popular-among-young-people-in-china": {
    "tags": {
-    "v1": "yes",
-    "v2": "USA",
-    "v3": "response",
-    "v4": "economic",
-    "v5": "030",
-    "conf": "low"
+    "v1": "no"
    },
    "mentions": 2,
-   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion"
+   "title": "Why is Thoreau's 'Walden' so popular among young people in China? | GBH"
+  },
+  "https://www.thedailybeast.com/maga-firebrand-laura-loomer-warns-trumps-ceo-rescue-of-jensen-huang-will-blow-up-in-his-face": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "MAGA Firebrand Laura Loomer Warns Trumpâs CEO Rescue of Jensen Huang Will Blow Up in His Face"
   },
   "https://www.winnipegfreepress.com/business/2026/11/24/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal": {
    "tags": {
@@ -264,12 +390,17 @@
    "mentions": 2,
    "title": "Jensen Huang is back - on a shorter leash - Techgoondu"
   },
-  "https://www.thedailybeast.com/maga-firebrand-laura-loomer-warns-trumps-ceo-rescue-of-jensen-huang-will-blow-up-in-his-face": {
+  "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html": {
    "tags": {
-    "v1": "no"
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "low"
    },
    "mentions": 2,
-   "title": "MAGA Firebrand Laura Loomer Warns Trumpâs CEO Rescue of Jensen Huang Will Blow Up in His Face"
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion"
   },
   "https://aninews.in/news/world/asia/chinese-election-interference-emerges-as-major-security-threat-in-taiwan-mac20261124141637/": {
    "tags": {
@@ -282,6 +413,13 @@
    },
    "mentions": 1,
    "title": "Chinese election interference emerges as major security threat in Taiwan: MAC"
+  },
+  "https://www.sej.org/headlines/he-sacrificed-everything-stop-water-pollution-texas-doesn-t-care": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "He Sacrificed Everything to Stop Water Pollution. Texas Doesn’t Care. | SEJ"
   },
   "https://www.933thedrive.com/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huangs-return-as-uncertainty-eases/": {
    "tags": {

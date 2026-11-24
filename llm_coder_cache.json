@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-24T11:39:02.570080",
+ "saved_at": "2026-11-24T23:17:37.556865",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15289,6 +15289,68 @@
    "conf": "high"
   },
   "https://www.933thedrive.com/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huangs-return-as-uncertainty-eases/": {
+   "v1": "no"
+  },
+  "https://www.dailynews.com/2026/11/24/jensen-huang-nvidia-return-taiwan/": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/society/202611240023": {
+   "v1": "no"
+  },
+  "https://www.ng.ru/world/2026-11-24/6_9631_elections.html": {
+   "v1": "no"
+  },
+  "https://wccftech.com/a-hollow-gesture-the-u-s-blacklists-alice-huang-linked-megaspeed-but-skips-a-key-rule-that-theoretically-keeps-nvidia-chips-flowing/": {
+   "v1": "no"
+  },
+  "https://www.shfanews.net/post/338580": {
+   "v1": "no"
+  },
+  "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/": {
+   "v1": "no"
+  },
+  "https://elpais.com/economia/2026-11-24/asi-fue-el-regreso-de-jensen-huang-a-nvidia-en-siete-actos-de-la-presion-de-trump-al-apoyo-familiar.html": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/world/taiwan-envoy-urges-canada-to-sign-pending-deal-says-it-will-help-shield-ottawa-from-coercion-by-beijing-6128841": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "030",
+   "conf": "low"
+  },
+  "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry": {
+   "v1": "no"
+  },
+  "https://english.elpais.com/usa/2026-11-24/jensen-huangs-return-to-nvidia-in-seven-acts-from-trumps-pressure-to-family-support.html": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5652247": {
+   "v1": "no"
+  },
+  "https://isp.netscape.com:443/pf/story/0001/20261124/1ec8552ba88c4df37cfd9af731b7e561": {
+   "v1": "no"
+  },
+  "http://www.sitkasentinel.com/stories/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal,188576": {
+   "v1": "no"
+  },
+  "https://www.rawstory.com/trump-nvidia-2678511371/": {
+   "v1": "no"
+  },
+  "https://pjmedia.com/scott-pinsker/2026/11/24/welcome-to-the-political-singularity-lets-brand-the-democrats-as-the-stupid-party-n4959668": {
+   "v1": "no"
+  },
+  "https://mymotherlode.com/news/national/11336100/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal.html": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5652219": {
+   "v1": "no"
+  },
+  "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/": {
+   "v1": "no"
+  },
+  "https://www.sej.org/headlines/he-sacrificed-everything-stop-water-pollution-texas-doesn-t-care": {
    "v1": "no"
   }
  }
