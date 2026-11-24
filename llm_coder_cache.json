@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-23T09:52:28.818666",
+ "saved_at": "2026-11-24T01:15:36.719493",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15162,6 +15162,39 @@
   },
   "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms": {
    "v1": "no"
+  },
+  "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "v1": "no"
+  },
+  "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://panow.com/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "030",
+   "conf": "high"
+  },
+  "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility": {
+   "v1": "no"
+  },
+  "https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return": {
+   "v1": "no"
+  },
+  "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "030",
+   "conf": "low"
   }
  }
 }

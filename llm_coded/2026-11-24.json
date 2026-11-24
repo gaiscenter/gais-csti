@@ -1,0 +1,79 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T01:15:36.728099",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 6,
+ "n_coded": 6,
+ "n_relevant": 3,
+ "stats": {
+  "api_calls": 6,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 55180,
+  "input_uncached": 718,
+  "folded": 0
+ },
+ "articles": {
+  "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion"
+  },
+  "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes"
+  },
+  "https://panow.com/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion | paNOW"
+  },
+  "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "TSMC eyes Brazos County for $22.6 billion semiconductor facility"
+  },
+  "https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "âSuspiciousâ Polymarket Accounts Cash In on Sex-Mad Nvidia CEO Jensen Huangâs Return"
+  },
+  "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "030",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion"
+  }
+ }
+}

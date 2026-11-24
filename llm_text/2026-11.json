@@ -6999,10 +6999,52 @@
    "p2": "",
    "first_seen": "2026-11-23",
    "published": null
+  },
+  "https://lethbridgeherald.com/news/national-news/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion",
+   "p1": "Question of the Day: Including Saturday, there are 33 days left until December 24. Have you already started your Christmas shopping?",
+   "p2": "By Canadian Press on November 23, 2026.",
+   "first_seen": "2026-11-24",
+   "published": null
+  },
+  "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111": {
+   "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
+   "p1": "China deployed fighter jets, bombers and support aircraft during a coordinated military patrol around Taiwan over the weekend, with 15 Chinese aircraft sorties crossing the Taiwan Strait's median line or its extension. The activity came as Taipei reported 12 Chinese naval vessels operating around the island Monday.",
+   "p2": "Taiwan's Ministry of National Defense said it detected 21 sorties involving People's Liberation Army aircraft Saturday, including J-10, J-16 and Su-30 fighters, H-6K bombers, KJ-500 early warning aircraft, Y-20U aerial refueling planes, drones and helicopters.",
+   "first_seen": "2026-11-24",
+   "published": null
+  },
+  "https://panow.com/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/": {
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion | paNOW",
+   "p1": "OTTAWA — Taiwan’s deputy foreign minister says a trade agreement with Canada that has gone unsigned for months could yield deeper co-operation in high-tech fields like AI and help shield Canada from coercion by Beijing.",
+   "p2": "Chen Ming-chi told The Canadian Press Taiwan fears Beijing might move to weaponize Canada’s new trade ties with China and suggested Ottawa spread out its trade.",
+   "first_seen": "2026-11-24",
+   "published": null
+  },
+  "https://www.kxxv.com/news/local-news/in-your-neighborhood/brazos-county/tsmc-eyes-brazos-county-for-22-6-billion-semiconductor-facility": {
+   "title": "TSMC eyes Brazos County for $22.6 billion semiconductor facility",
+   "p1": "BRAZOS COUNTY, Texas — One of the world's largest semiconductor manufacturers is considering Brazos County for a massive new manufacturing facility that could bring billions of dollars in investment and thousands of jobs to the area.",
+   "p2": "TSMC, or Taiwan Semiconductor Manufacturing Company Limited, has filed an application with the Texas Comptroller of Public Accounts through the state's Jobs, Energy, Technology and Innovation, or JETI, program as it evaluates Brazos County for its proposed TSMC Texas Advanced Semiconductor Manufacturing Campus.",
+   "first_seen": "2026-11-24",
+   "published": null
+  },
+  "https://www.thedailybeast.com/suspicious-polymarket-accounts-cash-in-on-sex-mad-nvidia-ceo-jensen-huangs-return": {
+   "title": "âSuspiciousâ Polymarket Accounts Cash In on Sex-Mad Nvidia CEO Jensen Huangâs Return",
+   "p1": "By clicking â SIGN UP â you agree to our Terms of Use and Privacy Policy .",
+   "p2": "More than a dozen Polymarket accounts collectively raked in hundreds of thousands of dollars after placing last-minute bets that tech billionaire Jensen Huang would be reinstated as Nvidiaâs CEO.",
+   "first_seen": "2026-11-24",
+   "published": null
+  },
+  "https://www.wellandtribune.ca/business/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion/article_b950dfae-b9ef-5fdd-82c8-4967e4eb7ff7.html": {
+   "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion",
+   "p1": "Two soldiers lower the Taiwan national flag during the daily flag ceremony at the Chiang Kai-shek Memorial Hall in Taipei, Taiwan, Tuesday, April 29, 2025. (AP Photo/Chiang Ying-ying)",
+   "p2": "OTTAWA - Taiwan’s deputy foreign minister says a trade agreement with Canada that has gone unsigned for months could yield deeper co-operation in high-tech fields like AI and help shield Canada from coercion by Beijing.",
+   "first_seen": "2026-11-24",
+   "published": null
   }
  },
  "_meta": {
-  "updated_at": "2026-11-23T09:51:52.413256",
+  "updated_at": "2026-11-24T01:15:16.957932",
   "note": "LLM 코딩에 쓴 기사 본문. 코드북이 바뀌어도 지우지 않는다 — 과거 날짜를 새 코드북으로 다시 코딩하려면 이 본문이 있어야 하고, 기사는 시간이 지나면 내려간다."
  }
 }

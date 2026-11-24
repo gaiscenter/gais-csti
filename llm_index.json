@@ -1,6 +1,25 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "mode": "shadow",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
- "cells": {}
+ "cells": {
+  "CHN_threat": {
+   "value": 1.2,
+   "raw": 7.2,
+   "e": 1,
+   "mentions": 8
+  },
+  "CHN_response": {
+   "value": -0.6667,
+   "raw": -4.0,
+   "e": 1,
+   "mentions": 8
+  },
+  "USA_response": {
+   "value": -0.6667,
+   "raw": -4.0,
+   "e": 1,
+   "mentions": 2
+  }
+ }
 }
