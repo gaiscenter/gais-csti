@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-25T10:30:19.897270",
+ "saved_at": "2026-11-25T22:45:37.408340",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15406,6 +15406,69 @@
    "v4": "economic",
    "v5": "160",
    "conf": "high"
+  },
+  "http://french.xinhuanet.com/20261125/6bcfadc3713f419498babd7b69afe6c6/c.html": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw/business/202611250020": {
+   "v1": "no"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=04086886645649328&mediaCodeNo=257": {
+   "v1": "no"
+  },
+  "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646": {
+   "v1": "no"
+  },
+  "https://www.businessinsider.com/jensen-huang-family-children-nvidia-2026-11": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5653523": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "economic",
+   "v5": "130",
+   "conf": "low"
+  },
+  "https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "economic",
+   "v5": "130",
+   "conf": "high"
+  },
+  "https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/26/2003868391": {
+   "v1": "no"
+  },
+  "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418": {
+   "v1": "no"
+  },
+  "https://www.michigancapitolconfidential.com/news/medc-oakland-county-state-agency-spent-more-than-230000-on-asia-trip": {
+   "v1": "no"
+  },
+  "https://www.kjzz.org/politics/2026-11-25/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "threat",
+   "v4": "economic",
+   "v5": "130",
+   "conf": "low"
+  },
+  "https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/": {
+   "v1": "no"
+  },
+  "https://www.businesstimes.com.sg/international/asia-data-centres-sound-out-us-clients-replace-china-demand": {
+   "v1": "no"
   }
  }
 }

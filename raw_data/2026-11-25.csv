@@ -1,52 +1,97 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
-2026-11-25,TAIWAN,THE US,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376
-2026-11-25,WASHINGTON,TAIWAN,020,3.0,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868374
-2026-11-25,THE US,TAIWAN,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376
-2026-11-25,WASHINGTON,TAIWAN,051,3.4,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868374
-2026-11-25,CHINA,TAIWAN,051,3.4,2,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
-2026-11-25,CHINA,TAIWAN,051,3.4,2,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
-2026-11-25,CHINA,TAIWAN,051,3.4,4,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,TAIWAN,CHINA,061,6.4,1,False,True,False,https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/
+2026-11-25,TAIWAN,CHINESE,020,3.0,6,False,False,True,https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil
+2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-25,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-25,TAIWAN,NVIDIA,051,3.4,2,False,False,False,https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-25,TAIWAN,NVIDIA,051,3.4,2,False,False,False,https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-25,TAIWAN,CHINA,090,-2.0,2,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,TAIWANESE,CHINESE,090,-2.0,5,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,TAIWAN,CHINA,010,0.0,1,False,False,False,https://www.businesstimes.com.sg/international/asia-data-centres-sound-out-us-clients-replace-china-demand
+2026-11-25,TAIWAN,CHINA,042,1.9,8,False,False,False,http://french.xinhuanet.com/20261125/6bcfadc3713f419498babd7b69afe6c6/c.html
+2026-11-25,TAIWAN,NVIDIA,051,3.4,6,False,False,False,https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
+2026-11-25,TAIWAN,CHINA,010,0.0,1,False,False,False,https://www.businesstimes.com.sg/international/asia-data-centres-sound-out-us-clients-replace-china-demand
+2026-11-25,TAIWAN,CHINESE,020,3.0,6,False,False,True,https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil
+2026-11-25,TAIWAN,CHINA,042,1.9,10,False,False,False,http://french.xinhuanet.com/20261125/6bcfadc3713f419498babd7b69afe6c6/c.html
+2026-11-25,TAIWAN,NVIDIA,042,1.9,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,NVIDIA,051,3.4,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,CHINA,TAIWAN,010,0.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,CHINA,TAIWAN,016,-2.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,CHINA,TAIWAN,070,7.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
-2026-11-25,TAIPEI,CHINA,016,-2.0,2,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
-2026-11-25,TAIWAN,CHINA,071,7.4,10,False,True,False,http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china
-2026-11-25,TAIWAN,CHINA,190,-10.0,10,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,TAIWAN,CHINA,193,-10.0,10,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINESE,020,3.0,10,False,False,False,https://fakti.bg/world/1104351-kitai-sreshtata-na-si-putin-i-tramp-e-signal-kam-taivan
+2026-11-25,TAIWAN,NVIDIA,051,3.4,8,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,TAIWAN,CHINA,061,6.4,2,False,True,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,TAIPEI,CHINA,016,-2.0,2,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINA,190,-10.0,10,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,TAIWAN,CHINA,016,-2.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,TAIPEI,CHINA,110,-2.0,8,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINA,071,7.4,8,False,True,False,https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646
+2026-11-25,TAIWAN,CHINA,071,7.4,10,False,True,False,http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china
+2026-11-25,CHINA,TAIWAN,051,3.4,2,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,CHINA,TAIWAN,051,3.4,2,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,TAIWAN,GUAM,042,1.9,8,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
+2026-11-25,UNITED STATES,TAIWAN,051,3.4,3,False,False,False,https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/
+2026-11-25,CHINA,TAIWAN,043,2.8,20,False,False,False,http://french.xinhuanet.com/20261125/6bcfadc3713f419498babd7b69afe6c6/c.html
+2026-11-25,TAIWAN,CHINA,042,1.9,2,False,False,False,http://french.xinhuanet.com/20261125/6bcfadc3713f419498babd7b69afe6c6/c.html
+2026-11-25,CHINA,TAIWAN,051,3.4,4,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return
+2026-11-25,TAIWAN,NVIDIA,042,1.9,4,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return
+2026-11-25,GUAM,TAIWAN,043,2.8,3,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
+2026-11-25,GUAM,TAIWAN,043,2.8,5,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
+2026-11-25,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,CHINA,TAIWAN,061,6.4,2,False,True,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
 2026-11-25,CHINA,TAIWAN,016,-2.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,CHINA,TAIWAN,070,7.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,CHINA,TAIWAN,010,0.0,4,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIPEI,CHINA,110,-2.0,2,False,False,False,https://krro.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,REUTERS,TAIWAN,051,3.4,10,False,False,False,https://www.edaily.co.kr/News/Read?newsId=04086886645649328&mediaCodeNo=257
+2026-11-25,TAIWAN,CHINA,031,5.2,2,False,False,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,UNITED STATES,TAIWAN,052,3.5,1,False,False,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,NVIDIA,TAIPEI,046,7.0,8,False,False,False,https://www.businessinsider.com/jensen-huang-family-children-nvidia-2026-11
+2026-11-25,TAIPEI,NVIDIA,046,7.0,8,False,False,False,https://www.businessinsider.com/jensen-huang-family-children-nvidia-2026-11
 2026-11-25,TAIPEI,CHINA,110,-2.0,2,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,TAIWAN,REUTERS,010,0.0,4,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
 2026-11-25,TAIWAN,REUTERS,013,0.4,3,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
-2026-11-25,TAIWAN,CHINESE,020,3.0,10,False,False,False,https://fakti.bg/world/1104351-kitai-sreshtata-na-si-putin-i-tramp-e-signal-kam-taivan
-2026-11-25,TAIPEI,CHINA,110,-2.0,2,False,False,False,https://krro.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
-2026-11-25,TAIWAN,GUAM,042,1.9,8,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
-2026-11-25,GUAM,TAIWAN,043,2.8,3,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
-2026-11-25,GUAM,TAIWAN,043,2.8,5,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
-2026-11-25,UNITED STATES,TAIWAN,051,3.4,3,False,False,False,https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/
-2026-11-25,UNITED STATES,TAIWAN,051,3.4,3,False,False,False,https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/
-2026-11-25,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return
-2026-11-25,TAIWAN,NVIDIA,042,1.9,4,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return
-2026-11-25,TAIWAN,CHINA,090,-2.0,2,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
-2026-11-25,TAIWANESE,CHINESE,090,-2.0,5,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,TAIWAN,THE US,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376
+2026-11-25,THE US,TAIWAN,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376
 2026-11-25,NVIDIA,TAIWAN,014,0.0,2,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
 2026-11-25,TAIWANESE,NVIDIA,050,3.5,7,False,False,True,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
 2026-11-25,TAIPEI,CHINA,090,-2.0,2,False,False,False,https://www.breitbart.com/politics/2026/11/24/commerce-department-blacklists-megaspeed-the-company-at-the-heart-of-jensen-huangs-china-spy-scandal/
-2026-11-25,TEXAS,TAIWAN,020,3.0,10,False,False,False,https://www.kxxv.com/news/local-news/tsmc-seeks-school-tax-break-for-proposed-college-station-semiconductor-campus-in-brazos-county
-2026-11-25,TAIWAN,NVIDIA,042,1.9,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
-2026-11-25,TAIWAN,NVIDIA,051,3.4,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
-2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
-2026-11-25,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
-2026-11-25,TAIWAN,NVIDIA,051,3.4,8,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
-2026-11-25,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,NVIDIA,TAIWAN,043,2.8,14,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
-2026-11-25,NVIDIA,TAIWAN,043,2.8,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,TAIWAN,NVIDIA,042,1.9,14,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,TAIWAN,NVIDIA,050,3.5,4,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,TAIWAN,NVIDIA,051,3.4,16,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,NVIDIA,TAIWAN,043,2.8,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,UNITED STATES,TAIWAN,052,3.5,3,False,False,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,UNITED STATES,TAIWAN,052,3.5,1,False,False,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,WASHINGTON,TAIWAN,020,3.0,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868374
+2026-11-25,WASHINGTON,TAIWAN,051,3.4,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868374
+2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal
 2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
 2026-11-25,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWANESE,UNITED STATES,100,-5.0,12,False,False,False,https://focustaiwan.tw/business/202611250020
+2026-11-25,TAIWANESE,UNITED STATES,100,-5.0,8,False,False,False,https://focustaiwan.tw/business/202611250020
+2026-11-25,TAIWAN,CHINA,031,5.2,2,False,False,False,https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834
+2026-11-25,UNITED STATES,TAIWAN,051,3.4,3,False,False,False,https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/
+2026-11-25,TAIWAN,MICHIGAN,080,5.0,2,False,False,False,https://www.michigancapitolconfidential.com/news/medc-oakland-county-state-agency-spent-more-than-230000-on-asia-trip
+2026-11-25,NVIDIA,TAIPEI,046,7.0,2,False,False,False,https://www.businessinsider.com/jensen-huang-family-children-nvidia-2026-11
+2026-11-25,TAIPEI,NVIDIA,046,7.0,2,False,False,False,https://www.businessinsider.com/jensen-huang-family-children-nvidia-2026-11
+2026-11-25,TEXAS,TAIWAN,020,3.0,10,False,False,False,https://www.kxxv.com/news/local-news/tsmc-seeks-school-tax-break-for-proposed-college-station-semiconductor-campus-in-brazos-county
+2026-11-25,TAIPEI,CHINA,020,3.0,7,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5653523
+2026-11-25,PHOENIX,TAIWAN,036,4.0,2,False,False,False,https://www.kjzz.org/politics/2026-11-25/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-25,PHOENIX,TAIWAN,036,4.0,2,False,False,False,https://www.kjzz.org/politics/2026-11-25/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-25,TAIWAN,PHOENIX,036,4.0,2,False,False,False,https://www.kjzz.org/politics/2026-11-25/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-25,TAIWAN,PHOENIX,036,4.0,2,False,False,False,https://www.kjzz.org/politics/2026-11-25/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-25,CHINESE,TAIWANESE,193,-10.0,3,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418
+2026-11-25,CHINESE,TAIWAN,193,-10.0,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418
+2026-11-25,CHINESE,TAIWAN,193,-10.0,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418
+2026-11-25,NVIDIA,TAIWAN,050,3.5,4,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/26/2003868391
+2026-11-25,TAIWAN,CHINA,016,-2.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418
+2026-11-25,WASHINGTON,TAIWAN,020,3.0,2,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405
+2026-11-25,WASHINGTON,TAIWAN,051,3.4,2,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405

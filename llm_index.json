@@ -9,11 +9,17 @@
    "e": 2,
    "mentions": 10
   },
+  "USA_threat": {
+   "value": 1.2571,
+   "raw": 4.4,
+   "e": 2,
+   "mentions": 9
+  },
   "CHN_threat": {
-   "value": -0.0,
-   "raw": -0.0,
-   "e": 1,
-   "mentions": 4
+   "value": 0.7543,
+   "raw": 2.64,
+   "e": 2,
+   "mentions": 10
   }
  }
 }

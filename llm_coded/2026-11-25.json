@@ -1,20 +1,20 @@
 {
  "date": "2026-11-25",
- "generated_at": "2026-11-25T10:30:19.911698",
+ "generated_at": "2026-11-25T22:45:37.422614",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 14,
- "n_coded": 13,
- "n_relevant": 3,
+ "n_articles": 30,
+ "n_coded": 29,
+ "n_relevant": 6,
  "stats": {
-  "api_calls": 14,
+  "api_calls": 17,
   "api_failures": 0,
   "unparseable": 1,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 143468,
-  "input_uncached": 1841,
+  "cache_read": 176576,
+  "input_uncached": 1956,
   "folded": 0
  },
  "articles": {
@@ -123,6 +123,133 @@
    },
    "mentions": 2,
    "title": "Commerce Department Blacklists Megaspeed, the Company at the Heart of Jensen Huang's China Spy Scandal"
+  },
+  "http://french.xinhuanet.com/20261125/6bcfadc3713f419498babd7b69afe6c6/c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "La partie continentale de la Chine reste le meilleur endroit pour les entrepreneurs taiwanais (porte-parole) - Xinhua - french.news.cn"
+  },
+  "https://focustaiwan.tw/business/202611250020": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 12,
+   "title": "TIER expects U.S. tariffs on Taiwan goods not to top 15% - Focus Taiwan"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=04086886645649328&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "중국 '애국마을'서 자란 앨리스 황..'학생 때부터 허영' 증언도"
+  },
+  "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Australia, Solomons sign pact as China deal nears expiry"
+  },
+  "https://www.businessinsider.com/jensen-huang-family-children-nvidia-2026-11": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "Meet Jensen Huang's Children, Son-in-Law Who Work at Nvidia - Business Insider"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5653523": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "130",
+    "conf": "low"
+   },
+   "mentions": 7,
+   "title": "《TAIPEI TIMES》 US proposed new tariffs on 14 trading partners, including Taiwan, China - 焦點 - 自由時報電子報"
+  },
+  "https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "130",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Trump administration proposes 20% tariff on Chinese goods, new levies on 13 partners"
+  },
+  "https://naharnet.com/stories/en/323973-some-in-jensen-huang-s-native-taiwan-welcome-his-return-to-nvidia-despite-scandal": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Some in Jensen Huang's native Taiwan welcome his return to Nvidia despite scandal — Naharnet"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/26/2003868391": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Jensen Huang’s return reassures Taiwan suppliers, people say - Taipei Times"
+  },
+  "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Fact check: Taiwan vote hit by deepfakes, false claims"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/26/2003868418": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Comedian makes light of repression - Taipei Times"
+  },
+  "https://www.michigancapitolconfidential.com/news/medc-oakland-county-state-agency-spent-more-than-230000-on-asia-trip": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "MEDC, Oakland County, state agency spent more than $230,000 on Asia trip – Michigan Capitol Confidential"
+  },
+  "https://www.kjzz.org/politics/2026-11-25/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump is expected to visit TSMC's Phoenix campus, where they make Nvidia chips"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868405": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "130",
+    "conf": "low"
+   },
+   "mentions": 2,
+   "title": "US proposed new tariffs on 14 trading partners, including Taiwan, China - Taipei Times"
+  },
+  "https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan pitches itself as ‘middle power’ that belongs in Carney’s trade diversification push - The Globe and Mail"
+  },
+  "https://www.businesstimes.com.sg/international/asia-data-centres-sound-out-us-clients-replace-china-demand": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Asia data centres sound out US clients to replace China demand - The Business Times"
   }
  }
 }

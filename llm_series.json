@@ -47,7 +47,7 @@
   "generated_at": "2026-11-12T10:28:28"
  },
  "_meta": {
-  "updated_at": "2026-11-25T10:30:19.913740",
+  "updated_at": "2026-11-25T22:45:37.425038",
   "note": "날짜별 LLM 코딩 지수. llm_index.json 은 그날치만 담고 매 실행 덮이므로, 전환 후 그래프가 쓸 과거는 이 파일에만 있다. 날짜마다 codebook_fingerprint 를 적어 방법론 전환일을 남긴다."
  },
  "2026-08-14": {
@@ -5016,11 +5016,17 @@
     "e": 2,
     "mentions": 10
    },
+   "USA_threat": {
+    "value": 1.2571,
+    "raw": 4.4,
+    "e": 2,
+    "mentions": 9
+   },
    "CHN_threat": {
-    "value": -0.0,
-    "raw": -0.0,
-    "e": 1,
-    "mentions": 4
+    "value": 0.7543,
+    "raw": 2.64,
+    "e": 2,
+    "mentions": 10
    }
   },
   "channels": {
@@ -5041,6 +5047,18 @@
     }
    },
    "economic": {
+    "USA_threat": {
+     "value": 1.2571,
+     "raw": 4.4,
+     "e": 2,
+     "mentions": 9
+    },
+    "CHN_threat": {
+     "value": 0.7333,
+     "raw": 4.4,
+     "e": 1,
+     "mentions": 6
+    },
     "USA_response": {
      "value": 0.6667,
      "raw": 4.0,
@@ -5049,12 +5067,12 @@
     }
    }
   },
-  "n_articles": 14,
-  "n_coded": 13,
-  "n_relevant": 3,
+  "n_articles": 30,
+  "n_coded": 29,
+  "n_relevant": 6,
   "codebook_fingerprint": "c7f5b2daf3d781e5",
   "model": "claude-haiku-4-5-20251001",
   "mode": "shadow",
-  "generated_at": "2026-11-25T10:30:19.911698"
+  "generated_at": "2026-11-25T22:45:37.422614"
  }
 }
