@@ -1,0 +1,128 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T10:30:19.911698",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 14,
+ "n_coded": 13,
+ "n_relevant": 3,
+ "stats": {
+  "api_calls": 14,
+  "api_failures": 0,
+  "unparseable": 1,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 143468,
+  "input_uncached": 1841,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Some in Jensen Huang’s native Taiwan welcome his return to Nvidia despite scandal"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Employers demand migrant labor reforms - Taipei Times"
+  },
+  "https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Taiwan comedian shoots off punch lines to combat China’s anger at his jokes | HOT 96 | The Tri State's #1 Hit Music Station | Evansville, IN"
+  },
+  "http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Australia, Solomon Islands sign sweeping pact stymieing China - Asia & Pacific - The Jakarta Post"
+  },
+  "https://fakti.bg/world/1104351-kitai-sreshtata-na-si-putin-i-tramp-e-signal-kam-taivan": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Китай: Срещата на Си, Путин и Тръмп е сигнал към Тайван"
+  },
+  "https://www.kxxv.com/news/local-news/tsmc-seeks-school-tax-break-for-proposed-college-station-semiconductor-campus-in-brazos-county": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "TSMC seeks tax break for proposed College Station chip campus"
+  },
+  "https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "military",
+    "v5": "060",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "US, Philippines plan improvements to airport near Taiwan | Stars and Stripes"
+  },
+  "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "Jensen Huang is back, but it won’t be business as usual for Taiwan’s tech industry – Asia News Network"
+  },
+  "https://ria.ru/20261125/kitay-2133758804.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "010",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Пекин заявил о бесперспективности независимости Тайваня - РИА Новости, 25.11.2026"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Investors ‘really happy’ at Huang’s return | The Star"
+  },
+  "https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump takes credit for Huang’s return; Nvidia inquiry open | The Shillong Times"
+  },
+  "https://krro.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Taiwan comedian shoots off punch lines to combat China’s anger at his jokes | 103.7 The KRRO"
+  },
+  "https://www.breitbart.com/politics/2026/11/24/commerce-department-blacklists-megaspeed-the-company-at-the-heart-of-jensen-huangs-china-spy-scandal/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "160",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Commerce Department Blacklists Megaspeed, the Company at the Heart of Jensen Huang's China Spy Scandal"
+  }
+ }
+}

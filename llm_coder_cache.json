@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-24T23:17:37.556865",
+ "saved_at": "2026-11-25T10:30:19.897270",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15352,6 +15352,60 @@
   },
   "https://www.sej.org/headlines/he-sacrificed-everything-stop-water-pollution-texas-doesn-t-care": {
    "v1": "no"
+  },
+  "https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376": {
+   "v1": "no"
+  },
+  "https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/": {
+   "v1": "no"
+  },
+  "http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china": {
+   "v1": "no"
+  },
+  "https://fakti.bg/world/1104351-kitai-sreshtata-na-si-putin-i-tramp-e-signal-kam-taivan": {
+   "v1": "no"
+  },
+  "https://www.kxxv.com/news/local-news/tsmc-seeks-school-tax-break-for-proposed-college-station-semiconductor-campus-in-brazos-county": {
+   "v1": "no"
+  },
+  "https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "military",
+   "v5": "060",
+   "conf": "high"
+  },
+  "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/": {
+   "v1": "no"
+  },
+  "https://ria.ru/20261125/kitay-2133758804.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return": {
+   "v1": "no"
+  },
+  "https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/": {
+   "v1": "no"
+  },
+  "https://krro.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/": {
+   "v1": "no"
+  },
+  "https://www.breitbart.com/politics/2026/11/24/commerce-department-blacklists-megaspeed-the-company-at-the-heart-of-jensen-huangs-china-spy-scandal/": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "160",
+   "conf": "high"
   }
  }
 }

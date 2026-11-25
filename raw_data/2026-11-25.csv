@@ -1,0 +1,52 @@
+﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-25,TAIWAN,THE US,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376
+2026-11-25,WASHINGTON,TAIWAN,020,3.0,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868374
+2026-11-25,THE US,TAIWAN,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868376
+2026-11-25,WASHINGTON,TAIWAN,051,3.4,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/25/2003868374
+2026-11-25,CHINA,TAIWAN,051,3.4,2,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,CHINA,TAIWAN,051,3.4,2,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,CHINA,TAIWAN,051,3.4,4,False,False,True,https://ria.ru/20261125/kitay-2133758804.html
+2026-11-25,CHINA,TAIWAN,010,0.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,CHINA,TAIWAN,016,-2.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,CHINA,TAIWAN,070,7.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIPEI,CHINA,016,-2.0,2,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINA,071,7.4,10,False,True,False,http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china
+2026-11-25,TAIWAN,CHINA,190,-10.0,10,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINA,193,-10.0,10,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINA,016,-2.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIPEI,CHINA,110,-2.0,8,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,CHINA,TAIWAN,016,-2.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,CHINA,TAIWAN,070,7.0,1,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,CHINA,TAIWAN,010,0.0,4,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIPEI,CHINA,110,-2.0,2,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,REUTERS,010,0.0,4,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,REUTERS,013,0.4,3,False,False,False,https://hot96.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,CHINESE,020,3.0,10,False,False,False,https://fakti.bg/world/1104351-kitai-sreshtata-na-si-putin-i-tramp-e-signal-kam-taivan
+2026-11-25,TAIPEI,CHINA,110,-2.0,2,False,False,False,https://krro.com/2026/11/24/taiwan-comedian-shoots-off-punch-lines-to-combat-chinas-anger-at-his-jokes/
+2026-11-25,TAIWAN,GUAM,042,1.9,8,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
+2026-11-25,GUAM,TAIWAN,043,2.8,3,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
+2026-11-25,GUAM,TAIWAN,043,2.8,5,False,False,False,https://www.stripes.com/theaters/asia_pacific/2026-11-25/batan-basco-philippines-us-air-force-23570574.html
+2026-11-25,UNITED STATES,TAIWAN,051,3.4,3,False,False,False,https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/
+2026-11-25,UNITED STATES,TAIWAN,051,3.4,3,False,False,False,https://theshillongtimes.com/2026/11/25/trump-takes-credit-for-huangs-return-nvidia-inquiry-open/
+2026-11-25,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return
+2026-11-25,TAIWAN,NVIDIA,042,1.9,4,False,False,False,https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/25/investors-really-happy-at-huangs-return
+2026-11-25,TAIWAN,CHINA,090,-2.0,2,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,TAIWANESE,CHINESE,090,-2.0,5,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,NVIDIA,TAIWAN,014,0.0,2,False,False,False,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,TAIWANESE,NVIDIA,050,3.5,7,False,False,True,https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/
+2026-11-25,TAIPEI,CHINA,090,-2.0,2,False,False,False,https://www.breitbart.com/politics/2026/11/24/commerce-department-blacklists-megaspeed-the-company-at-the-heart-of-jensen-huangs-china-spy-scandal/
+2026-11-25,TEXAS,TAIWAN,020,3.0,10,False,False,False,https://www.kxxv.com/news/local-news/tsmc-seeks-school-tax-break-for-proposed-college-station-semiconductor-campus-in-brazos-county
+2026-11-25,TAIWAN,NVIDIA,042,1.9,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,NVIDIA,051,3.4,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,NVIDIA,051,3.4,8,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,NVIDIA,TAIWAN,043,2.8,14,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,NVIDIA,TAIWAN,043,2.8,6,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINESE,050,3.5,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,NVIDIA,042,1.9,14,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,NVIDIA,050,3.5,4,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,NVIDIA,051,3.4,16,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
+2026-11-25,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.klkntv.com/i/some-in-jensen-huangs-native-taiwan-welcome-his-return-to-nvidia-despite-scandal/
