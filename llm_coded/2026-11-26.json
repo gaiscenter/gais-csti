@@ -1,20 +1,20 @@
 {
  "date": "2026-11-26",
- "generated_at": "2026-11-26T10:05:44.214024",
+ "generated_at": "2026-11-26T22:36:41.704793",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 18,
- "n_coded": 17,
- "n_relevant": 2,
+ "n_articles": 43,
+ "n_coded": 40,
+ "n_relevant": 6,
  "stats": {
-  "api_calls": 18,
+  "api_calls": 26,
   "api_failures": 0,
-  "unparseable": 1,
+  "unparseable": 3,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 187612,
-  "input_uncached": 3285,
+  "cache_read": 275900,
+  "input_uncached": 4612,
   "folded": 0
  },
  "articles": {
@@ -146,6 +146,187 @@
    },
    "mentions": 2,
    "title": "Experts Warn of Fragile AI Financing and U.S.–China Risks - North Dallas Gazette"
+  },
+  "https://focustaiwan.tw:443/society/202611260016": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Retired Navy petty officer sentenced to 6 years in China spying case - Focus Taiwan"
+  },
+  "https://www.delfi.lt/naujienos/uzsienyje/tikiuosi-kad-klystu-buves-jav-admirolas-apie-galima-kinijos-puolima-120339059": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "„Tikiuosi, kad klystu“: buvęs JAV admirolas apie galimą Kinijos puolimą - Delfi"
+  },
+  "https://focustaiwan.tw/politics/202611260013": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 14,
+   "title": "Agricultural minister says no new U.S. tariffs on 322 Taiwan products - Focus Taiwan"
+  },
+  "https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Dovydas Skarolskis. Taivanas ar Kinijos komunistai: leisimÄs nukirsdinami? - LRT"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868454": {
+   "tags": {
+    "v1": "yes",
+    "v2": "USA",
+    "v3": "response",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Fresh tariffs blitz pushes Asian nations to speed up trade deals with Washington - Taipei Times"
+  },
+  "https://aninews.in/news/world/asia/chinas-financing-scheme-for-taiwanese-businesses-viewed-as-bid-to-influence-local-elections-say-experts20261126195100/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "economic",
+    "v5": "100",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "China's financing scheme for Taiwanese businesses viewed as bid to influence local elections, say experts"
+  },
+  "https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "China's Defence Ministry urges Japan to stop 'stirring up' South China Sea disputes - The Hindu"
+  },
+  "https://www.elespectador.com/mundo/mas-paises/china-acusa-a-taiwan-de-promover-el-separatismo-y-exige-frenar-sus-actividades-en-colombia/": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 7,
+   "title": "China acusa a Taiwán de promover el separatismo y exige frenar sus actividades en Colombia | EL ESPECTADOR"
+  },
+  "https://www.liverpoolecho.co.uk/travel/black-friday-flights-breathtaking-island-34968167": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "Black Friday sale on flights to 'breathtaking' island named must-visit in 2027"
+  },
+  "https://focustaiwan.tw/politics/202611260018": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 6,
+   "title": "MAC monitoring Shanghai party chief probe as city forum remains pending - Focus Taiwan"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868489": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "MAC watches Shanghai probe amid forum uncertainty - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 5,
+   "title": "322 agricultural items still exempt from US tariffs - Taipei Times"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868461": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Taiwan cannot rely on one person - Taipei Times"
+  },
+  "https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "diplomatic",
+    "v5": "110",
+    "conf": "high"
+   },
+   "mentions": 4,
+   "title": "Taiwan Labor Party Official Detained Over Alleged Funding From China | The Epoch Times"
+  },
+  "https://www.cbc.ca/news/world/nvidia-singapore-9.7436761": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Nvidia scandal has put Singapore in U.S. sights. What's at stake for the city-state | CBC News"
+  },
+  "https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 4,
+   "title": "Colombia Halts BRICS Accession Process to Prioritize National Development Plan"
+  },
+  "https://www.siliconrepublic.com/business/ft-nvidia-turns-down-south-asian-shipments-after-new-us-chip-curbs": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "FT: Nvidia turns down south-east Asian shipments after new US chip curbs"
+  },
+  "https://www.azpm.org/tech/2026-11-26/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Trump is expected to visit TSMC's Phoenix campus, where they make Nvidia chips"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868459": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "EDITORIAL: Nine-in-one a litmus test for Taiwan - Taipei Times"
+  },
+  "https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Historic summit in Shenzhen with Xi, Trump and Putin: \"We have made history\". Agreement on nuclear power, but the crux of the wars remains"
+  },
+  "https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Απειλές Τραμπ για νέους δασμούς, Η ΚΑΘΗΜΕΡΙΝΗ, kathimerini.com.cy"
+  },
+  "https://econotimes.com/Trump-Raises-Prospect-of-U-S-Government-Ownership-in-Nvidia-1780807": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Trump Raises Prospect of U.S. Government Ownership in Nvidia | EconoTimes"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Tariff terms with US solid, official says - Taipei Times"
   }
  }
 }

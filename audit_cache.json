@@ -1,7 +1,7 @@
 {
   "date": "2026-11-26",
   "prompt_version": 3,
-  "saved_at": "2026-11-26T10:04:45.435373",
+  "saved_at": "2026-11-26T22:35:13.636379",
   "entries": {
     "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show|190|neg": {
       "ok": false,
@@ -1037,6 +1037,230 @@
         "c2": true,
         "c3": null,
         "reason": "조건1: 아니오 — 기사는 미국 기업(Nvidia)과 대만 기업(SPIL)의 민간 비즈니스 거래를 다루고 있으며, 대만 국가와 미국 국가 사이의 국가급 행위(외교, 군사, 안보 관련 행동)가 아닙니다. 조건2: 예 — 기사의 실제 논조는 Nvidia의 자금 지원, 생산 용량 확대, 협력 강화 등 경제협력의 긍정적 내용으로, +7.4의 협력적/긍정적 코드와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "US takes China dispute over Taiwan flight restrictions to UN aviation body | arabtimes",
+      "text_len": 2500,
+      "paragraph_1": "US takes China dispute over Taiwan flight restrictions to UN aviation body",
+      "paragraph_2": "WASHINGTON, Nov 26: The United States has asked the United Nations aviation agency to investigate the withdrawal of overflight permits that disrupted Taiwan President Lai Ching-te's planned visit to Eswatini in April, escalating diplomatic tensions with China over Taiwan's international engagement.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 이 기사의 주요 행위자는 미국과 중국이며, 대만은 분쟁의 대상(대만 대통령의 항공편 제한)이지만 직접적인 행위자가 아니고, GDELT 분류상 \"대만→미국\" 방향의 국가 간 행위가 존재하지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 항공권 취소에 대한 미국의 항의와 국제중재 신청으로, 갈등과 외교적 긴장을 다루고 있으나 GoldsteinScale +3.4는 협"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482|071|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Taiwan outlines US investment support - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Taiwan has secured preferential treatment for potential US semiconductor tariffs and is helping Taiwanese companies expanding there obtain tariff exemptions and investment support, Vice Premier Cheng Li-chiun (鄭麗君) said yesterday.",
+      "paragraph_2": "The vice premier made the remarks after Washington proposed to impose tariffs on 14 economies under an investigation into manufacturing overcapacity.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 대만 정부(부총리 정리군, 경제부장관 등)와 미국 정부 간의 투자 협력, 관세 협상, 투자 양해각서 등 국가급 행위자 간의 직접적 사건을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 대만이 미국 반도체 관세에서 우대 대우를 받고, 양국 간 투자 협력을 체결하고, 비자·토지·전력 등에서 지원을 받는 경제협력 내용으로, GoldsteinScale +7.4의 협력적"
+      }
+    },
+    "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Tariff terms with US solid, official says - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Taiwan is confident of preserving its tariff terms with the US of no more than 15 percent, Vice Premier Cheng Li-chiun (鄭麗君) said yesterday, after US Trade Representative Jamieson Greer on Wednesday proposed new duties on 14 major trading partners over alleged excess manufacturing capacity.",
+      "paragraph_2": "The US’ proposal would apply tariffs of up to 15 percent to Taiwanese goods, accounting for existing duties, while leaving open an alternative rate of up to 25 percent if Washington finds ongoing consultations and commitments unsatisfactory, the Office of the US Trade Representative (USTR) said.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국이 대만을 포함한 14개 주요 거래국에 관세를 제안한 사건이지만, 이는 대만의 미국에 대한 행위가 아니라 미국이 대만을 겨냥한 일방적 경제 조치이며, 대만-미국 간 직접적인 안보 위협·군사행동·영토침범 등의 상호작용이 아닙니다. 조건2: 아니오 — 기사의 실제 논조는 미국의 관세 부과 제안(경제적 압박/제재의 성격)인데, GDOEL 코드 020과 Goldstei"
+      }
+    },
+    "https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami|112|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Dovydas Skarolskis. Taivanas ar Kinijos komunistai: leisimÄs nukirsdinami? - LRT",
+      "text_len": 2500,
+      "paragraph_1": "PrieÅ¡ keletÄ metÅ³ Lietuva pasaulinÄse naujienose buvo minima kaip didvyriÅ¡ka maÅ¾a Å¡alis. Tuometiniai UÅ¾sienio reikalÅ³ ministerijos (URM) ir Seimo UÅ¾sienio reikalÅ³ komiteto (URK) politikai su Taivano atveju kasdien traukÄ agresyvÄjaÄios Rusijos metu bÅ«tinÄ tarptautinÄ¯ dÄmesÄ¯. PraradÄ porÄ Å¡imtÅ³ milijonÅ³ eurÅ³ iÅ¡ Kinijos (labiau ne mes naudojome kinÅ³ rinkÄ, o jie pardavinÄjo Å¡lamÅ¡tÄ mums), su JAV administracijos pagalba Ä¯tvirtinome milijardines Ä¯plaukas iÅ¡ RytÅ³ ir PietryÄiÅ³ Azijos bei Okeanijos bei paÄiÅ³ JAV.Â",
+      "paragraph_2": "Bet Å¡iandien padÄtis apsivertinÄja: tarptautinÄje politikoje esame tik plÅ«duras, o prezidento politinÄ laikysena degraduoja greiÄiau nei veganiÅ¡kas maiÅ¡elis.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사는 리투아니아의 대만 정책과 중국과의 외교 갈등을 다루고 있으며, 미국-대만 간의 직접적인 정부 행위(군사행동, 위협, 영토침범 등)를 다루지 않습니다. 조건2: 예 — 기사의 논조는 중국의 압력과 리투아니아의 외교적 어려움을 비판적으로 다루고 있어 부정적/갈등적 맥락과 일치합니다. 조건3: 아니오 — 기사의 부정적 논조는 중국-리투아니아 간의 갈등에서 비롯되었으며, "
+      }
+    },
+    "https://focustaiwan.tw/politics/202611260013|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Agricultural minister says no new U.S. tariffs on 322 Taiwan products - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 26 (CNA) Agriculture Minister Chen Chun-chi (陳駿季) said Thursday that 322 agricultural products will remain exempt from additional U.S. tariffs following a Section 301 investigation into structural excess capacity.",
+      "paragraph_2": "Chen said the 322 products account for 36-40 percent of exported value to the U.S., with 26, including moth orchids and anthuriums, granted Taiwan-specific exemptions.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 미국의 Section 301 조사에 따른 관세 정책이 대만 농산물에 직접 적용되는 미국-대만 간의 양자 무역 협상 결과를 다루고 있습니다. 조건2: 아니오 — 기사의 실제 내용은 미국이 대만 제품에 최대 15-25%의 관세를 부과하려는 위협과 제재 조치이며, 이는 갈등/압박의 성격이므로 GoldsteinScale +3.0(협력적/긍정적)이라는 긍정적 코드와 불일치합니다"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "322 agricultural items still exempt from US tariffs - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Taiwan’s 322 agricultural products remain exempt from US tariffs, including 26 with additional exemptions, the Ministry of Agriculture Ministry said yesterday.",
+      "paragraph_2": "The US Trade Representative Office on Wednesday unveiled a report on 16 economies over potential structural excess capacity and production in manufacturing sectors that it identified as unfair or restrictive to US commerce under Section 301 of the US Trade Act.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 관세 정책과 대만 농산물의 관세 현황을 보도하는 것으로, 대만 정부의 일방적 행위나 미국을 겨냥한 직접 행동이 아니라 미국의 통상 정책 결정에 대한 대만의 수혜 상황을 다루고 있습니다. 조건2: 예 — 기사의 실제 논조는 대만이 미국과의 협상을 통해 322개 농산물에 대한 관세 면제를 획득하고 경쟁력 있는 지위를 유지하고 있다는 협력적이고 긍정적인 내용입니다"
+      }
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868454|030|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Fresh tariffs blitz pushes Asian nations to speed up trade deals with Washington - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "US President Donald Trump’s fresh tariff blitz aims to pressure Asian countries into sealing trade deals with Washington to avoid unfavorable duty rates, analysts said yesterday.",
+      "paragraph_2": "The proposed levies announced on Wednesday affect a range of nations in the region. They could result in rates of up to 20 percent on exports from the targeted countries, but face a period of public comment before taking effect, at the earliest in January.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 미국의 관세 정책이 여러 아시아 국가(베트남, 인도, 중국 등)에 미치는 영향에 관한 것이며, 대만은 제목에만 출처(Taipei Times)로 언급될 뿐 기사 본문에서 대만-미국 간의 구체적인 사건이나 행위로 다루어지지 않습니다. 조건2: 아니오 — 기사의 실제 내용은 미국의 관세 위협, 무역 압박, 협상 조건으로서의 관세 활용 등 갈등적·강압적 성격을"
+      }
+    },
+    "https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes|193|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan comedian shoots off punch lines to combat China's anger at his jokes, Asia News - AsiaOne",
+      "text_len": 2500,
+      "paragraph_1": "TAIPEI - Even a stand-up comedian now comes with a security detail to watch the exits and scan the crowd as he fires off jokes in democratic Taiwan, claimed by China as its own territory despite never having governed it.",
+      "paragraph_2": "In the spotlight at a Taipei club, Huang Yi-Hao put a simple question to an audience of fans and plainclothes officers, the last group there to ensure the night ended only in laughter after he drew threats for jesting about China's leader.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 아니오 — 기사의 중심은 개인 코미디언에 대한 폭력 위협 사건이며, 국가급 행위자(대만 정부, 중국 정부)가 상대방을 겨냥한 직접적 행위(미사일, 군사훈련, 영공침범, 공개 위협 등)가 아닙니다. 조건2: 예 — 기사의 실제 논조는 갈등적/부정적으로, 중국의 \"폭력적 검열\", \"초국가적 억압\"을 비판하고 있어 음수 코드와 일치합니다. 조건3: 아니오 — 부정적 논조의 주체가 제3자("
+      }
+    },
+    "http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html|042|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "La partie continentale de la Chine reste le meilleur endroit pour les entrepreneurs taiwanais",
+      "text_len": 2447,
+      "paragraph_1": "La partie continentale de la Chine reste le meilleur endroit pour les entrepreneurs taiwanais qui souhaitent investir et dÃ©velopper leurs activitÃ©s, et toute manÅuvre politique visant Ã  favoriser un dÃ©couplage Ã©conomique entre les deux rives du dÃ©troit de Taiwan est vouÃ©e Ã  l'Ã©chec, a dÃ©clarÃ© mercredi Zhang Han, porte-parole du Bureau des affaires de Taiwan du Conseil des Affaires d'Etat.",
+      "paragraph_2": "La porte-parole a fait ces dÃ©clarations lors d'une confÃ©rence de presse en rÃ©ponse Ã  une question des mÃ©dias concernant les affirmations des autoritÃ©s du Parti dÃ©mocrate progressiste selon lesquelles la part des investissements Ã  l'Ã©tranger des entreprises taiwanaises vers la partie continentale de la Chine aurait diminuÃ© cette annÃ©e.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 기사는 대만과 중국 간 경제협력(투자, 금융지원, 산업단지 개발)에 관한 양국 정부 차원의 사건을 직접 다루고 있습니다. 조건2: 예 — 기사의 실제 내용(경제협력 협정, 금융지원 확대, 투자 장려)은 협력적·긍정적 성격이며, GoldsteinScale +1.9 점수와 일치합니다. 최종: 예"
+      }
+    },
+    "https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Swap the winter wonderland for a seaside paradise across Asia",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 여행지 추천 콘텐츠로서 대만과 중국 간의 국가급 행위자 사이의 사건을 다루지 않으며, 카오슝과 상하이는 단지 여행 출발지로 언급될 뿐 두 지역 간의 정치·군사·외교적 상호작용이 없습니다. 조건2: 예 — 기사의 논조는 여행 정보 제공으로 우호적이며, GoldsteinScale +2.8의 협력적/긍정적 분류와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.delfi.lt/naujienos/uzsienyje/tikiuosi-kad-klystu-buves-jav-admirolas-apie-galima-kinijos-puolima-120339059|150|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "„Tikiuosi, kad klystu“: buvęs JAV admirolas apie galimą Kinijos puolimą - Delfi",
+      "text_len": 513,
+      "paragraph_1": "Kinijos prezidentas Xi Jinpingas vėl pakartojo raginimus dėl „susivienijimo“ su Taivanu, tačiau susilaikė nuo užuominų apie jėgos panaudojimą. Bet kokiu atveju tokia Pekino retorika priminė dar 2021 m. išsakytą perspėjimą, kad Kinija gali jau 2027 m. užpulti Taivaną. Ką tuomet darytų JAV prezidentas Donaldas Trumpas, kuris visai neseniai spaudė ranką Xi Jinpingui?",
+      "paragraph_2": "„Istorinių tendencijų neįmanoma sustabdyti. Mūsų tėvynės visiškas susivienijimas turi būti įgyvendintas, ir jis, be abejonės, gali būti įgyvend...",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 중국 주석의 대만 통일 언급과 2027년 무력침공 가능성이라는 중국-대만 간 직접적 안보 위협을 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 무력통일 위협과 그에 따른 미국의 대응 불확실성을 다루고 있으며, 이는 갈등적/부정적 내용과 일치합니다. 조건3: 아니오 — 기사의 부정적 논조는 중국 주석의 발언과 그에 대한 전 미국 제독의 평가·우려에서 비롯된 것으"
+      }
+    },
+    "https://www.elespectador.com/mundo/mas-paises/china-acusa-a-taiwan-de-promover-el-separatismo-y-exige-frenar-sus-actividades-en-colombia/|120|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China acusa a Taiwán de promover el separatismo y exige frenar sus actividades en Colombia | EL ESPECTADOR",
+      "text_len": 2500,
+      "paragraph_1": "Audio generado con IA de Google",
+      "paragraph_2": "La Embajada de China en Colombia expresó su rechazo a las declaraciones de la Oficina Comercial de Taipéi en Colombia, a la que acusó de promover la independencia de Taiwán y de intentar socavar las relaciones diplomáticas entre Bogotá y Pekín. La controversia se produce tras la visita de nueve congresistas colombianos a la isla, que generó un reclamo diplomático del Gobierno chino.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 중심은 중국 대사관이 콜롬bia 내 대만 상업 사무소의 활동을 비판하는 외교적 항의이며, 실제 대만-중국 간 직접적인 군사행동이나 안보 위협 행위(미사일, 영공침범, 군사훈련 등)가 아니라 제3국(콜롬비아)에서의 외교적 갈등입니다. 조건2: 예 — 기사의 실제 논조는 중국의 비난, 거짓 주장 지적, 외교적 항의 등 명백하게 갈등적이고 부정적이며, GoldsteinS"
+      }
+    },
+    "https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/|140|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Colombia Halts BRICS Accession Process to Prioritize National Development Plan",
+      "text_len": 2500,
+      "paragraph_1": "Colombia's Ministry of Foreign Affairs has officially halted the procedures for the country's accession to the BRICS grouping and the New Development Bank. In a statement released during a leadership transition, the ministry clarified that Bogotá will not continue work on this integration process, explicitly stating that no new negotiations regarding the multilateral organization will be conducted.",
+      "paragraph_2": "Omar Bula, the foreign minister under President Abelardo de la Espriela, noted that while Colombia remains committed to multilateral dialogue, its priorities are shifting. The administration stated that its focus will be on mobilizing resources and technical assistance for the 2026-2030 National Development Plan, known as \"Colombia Patria Milagro,” rather than advancing BRICS-related initiatives.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 콜롬비아의 BRICS 가입 중단 결정이며, 대만-중국 간 직접적인 행위(군사행동, 위협, 충돌 등)가 아니라 콜롬비아 의원들의 대만 방문과 그에 대한 중국의 항의 사건이 부수적으로 언급되어 있을 뿐입니다. 조건2: 아니오 — 기사의 실제 논조는 콜롬비아가 경제 정책 우선순위 변화로 BRICS를 탈퇴하고 미국 등 전통 동맹으로 전환하는 외교적 재조정으로 "
+      }
+    },
+    "https://www.liverpoolecho.co.uk/travel/black-friday-flights-breathtaking-island-34968167|036|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Black Friday sale on flights to 'breathtaking' island named must-visit in 2027",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 흑금요일 항공편 할인 판매에 관한 여행 뉴스일 뿐 중국과 대만 간의 국가급 행위나 안보 관련 사건을 다루고 있지 않습니다. 조건2: 예 — 기사의 논조는 관광 목적지 소개로 우호적이고 협력적입니다. 최종: 아니오"
+      }
+    },
+    "https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390|030|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan Labor Party Official Detained Over Alleged Funding From China | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "TAIPEI, Taiwan—A court has ordered the detention of Taiwan Labor Party vice chairman Huang Kang over allegations of accepting Chinese campaign funding.",
+      "paragraph_2": "Prosecutors in the southern city of Kaohsiung said investigators searched six locations and summoned suspects and witnesses a day earlier as part of a probe into suspected foreign election interference, according to a Nov. 24 press release.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 국내 정당(노동당)의 당원이 중국 자금을 받은 혐의로 대만 검찰에 의해 체포된 사건으로, 국가 간 직접 행위(군사작전, 외교적 조치, 공식 정책)가 아니라 사법 당국의 국내 범죄 수사를 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 외국 선거 개입 혐의, 불법 자금 수수, 국내법 위반 등 명백한 갈등적·부정적 사건을 보도하고 있으나, GDELT가 이"
+      }
+    },
+    "https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Απειλές Τραμπ για νέους δασμούς, Η ΚΑΘΗΜΕΡΙΝΗ, kathimerini.com.cy",
+      "text_len": 2500,
+      "paragraph_1": "Η Βραζιλία ξεκαθάρισε ότι δεν πρόκειται να υποκύψει στη νέα «απειλή» των ΗΠΑ για επιβολή δασμών, ενώ η Κίνα κατηγόρησε την Ουάσιγκτον για «πολιτική χειραγώγηση», μετά την τελευταία κίνηση του Ντόναλντ Τραμπ στο μέτωπο του διεθνούς εμπορίου, η οποία αφορά 14 σημαντικούς εμπορικούς εταίρους των ΗΠΑ, μεταξύ των οποίων και Ευρωπαϊκή Ενωση.",
+      "paragraph_2": "Η κυβέρνηση της Βραζιλίας ανακοίνωσε χθες, Τετάρτη πως «η Βραζιλία δεν πρόκειται να υποκύψει σε αυτού του είδους τις απειλές».",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 관세 정책을 브라질, 중국, EU 등 여러 국가를 대상으로 다루고 있으며, 대만은 기사에서 전혀 언급되지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 미국의 관세 위협, 브라질의 반발, 중국의 비난 등 갈등적이고 부정적인 내용으로, +6.4(협력적/긍정적)라는 Goldstein 점수와 불일치합니다. 최종: 아니오"
       }
     }
   }

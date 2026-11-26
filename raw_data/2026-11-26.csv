@@ -1,73 +1,152 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
-2026-11-26,CHINESE,TAIWAN,017,0.0,10,False,False,False,https://www.prestigeonline.com/hk/lifestyle/culture-plus-entertainment/golden-horse-awards-2026-hong-kong-winners/
-2026-11-26,UNITED STATES,TAIWAN,014,0.0,2,False,False,False,https://northdallasgazette.com/2026/11/25/experts-warn-of-fragile-ai-financing-and-u-s-china-risks/
-2026-11-26,TAIWAN,UNITED STATES,050,3.5,10,False,False,False,https://www.etoday.co.kr/news/view/2653509
-2026-11-26,TAIWAN,BEIJING,112,-2.0,2,False,False,False,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
+2026-11-26,UNITED STATES,TAIWAN SEMICONDUCTOR MANUFACTURING CO,036,4.0,1,False,False,False,https://econotimes.com/Trump-Raises-Prospect-of-U-S-Government-Ownership-in-Nvidia-1780807
+2026-11-26,UNITED STATES,TAIWAN SEMICONDUCTOR MANUFACTURING CO,036,4.0,1,False,False,False,https://econotimes.com/Trump-Raises-Prospect-of-U-S-Government-Ownership-in-Nvidia-1780807
+2026-11-26,UNITED STATES,TAIWAN SEMICONDUCTOR MANUFACTURING CO,036,4.0,1,False,False,False,https://econotimes.com/Trump-Raises-Prospect-of-U-S-Government-Ownership-in-Nvidia-1780807
+2026-11-26,UNITED STATES,TAIWAN SEMICONDUCTOR MANUFACTURING CO,036,4.0,1,False,False,False,https://econotimes.com/Trump-Raises-Prospect-of-U-S-Government-Ownership-in-Nvidia-1780807
+2026-11-26,PHOENIX,TAIWAN,036,4.0,2,False,False,False,https://www.azpm.org/tech/2026-11-26/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-26,PHOENIX,TAIWAN,036,4.0,2,False,False,False,https://www.azpm.org/tech/2026-11-26/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-26,TAIWAN,PHOENIX,036,4.0,2,False,False,False,https://www.azpm.org/tech/2026-11-26/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-26,TAIWAN,PHOENIX,036,4.0,2,False,False,False,https://www.azpm.org/tech/2026-11-26/trump-is-expected-to-visit-tsmcs-phoenix-campus-where-they-make-nvidia-chips
+2026-11-26,TAIWAN,CHINA,080,5.0,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868459
+2026-11-26,SHANGHAI,TAIPEI,010,0.0,5,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868489
+2026-11-26,TAIWAN,NVIDIA,0831,5.0,4,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868461
+2026-11-26,TAIWAN,THE US,061,6.4,2,False,True,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483
+2026-11-26,THE US,TAIWAN,061,6.4,5,False,True,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483
+2026-11-26,UNITED STATES,TAIPEI,044,2.5,1,False,False,True,https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470
+2026-11-26,TAIWAN,AMERICAN,010,0.0,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868461
+2026-11-26,TAIWAN,AMERICAN,010,0.0,2,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868461
+2026-11-26,TAIWANESE,UNITED STATES,071,7.4,1,False,True,True,https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482
+2026-11-26,TAIWAN,WASHINGTON,030,4.0,2,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868454
+2026-11-26,TAIWAN,WASHINGTON,030,4.0,8,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868454
+2026-11-26,BEIJING,TAIWAN,120,-4.0,1,False,False,False,https://www.elespectador.com/mundo/mas-paises/china-acusa-a-taiwan-de-promover-el-separatismo-y-exige-frenar-sus-actividades-en-colombia/
+2026-11-26,BEIJING,TAIWAN,120,-4.0,7,False,False,False,https://www.elespectador.com/mundo/mas-paises/china-acusa-a-taiwan-de-promover-el-separatismo-y-exige-frenar-sus-actividades-en-colombia/
+2026-11-26,TAIWAN,CHINA,030,4.0,2,False,False,False,https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390
+2026-11-26,TAIWAN,CHINA,030,4.0,3,False,False,False,https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390
+2026-11-26,TAIPEI,CHINESE,173,-5.0,2,False,False,False,https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390
+2026-11-26,CHINA,TAIWAN,030,4.0,4,False,False,False,https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390
+2026-11-26,CHINA,TAIWAN,030,4.0,1,False,False,False,https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390
+2026-11-26,CHINA,TAIWAN,036,4.0,6,False,False,False,https://www.liverpoolecho.co.uk/travel/black-friday-flights-breathtaking-island-34968167
+2026-11-26,CHINA,TAIWAN,036,4.0,2,False,False,False,https://www.liverpoolecho.co.uk/travel/black-friday-flights-breathtaking-island-34968167
+2026-11-26,TAIWAN,CHINESE,043,2.8,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAIWAN,CHINA,046,7.0,6,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAIWAN,CHINA,090,-2.0,2,False,False,False,https://www.cbc.ca/news/world/nvidia-singapore-9.7436761
+2026-11-26,CHINESE,TAIPEI,090,-2.0,7,False,False,False,https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/
+2026-11-26,CHINESE,TAIWAN,042,1.9,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAINAN,CHINESE,010,0.0,4,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAIWAN,CHINESE,043,2.8,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAINAN,CHINESE,010,0.0,6,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAIWAN,CHINA,042,1.9,8,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
+2026-11-26,TAIWAN,CHINA,042,1.9,20,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
+2026-11-26,TAINAN,CHINA,010,0.0,20,False,False,False,https://focustaiwan.tw:443/society/202611260016
+2026-11-26,CHINA,TAIWAN,051,3.4,2,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,TAIWAN,CHINA,193,-10.0,10,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,BEIJING,TAIWANESE,010,0.0,8,False,False,False,https://aninews.in/news/world/asia/chinas-financing-scheme-for-taiwanese-businesses-viewed-as-bid-to-influence-local-elections-say-experts20261126195100/
 2026-11-26,TAIWAN,CHINA,112,-2.0,2,False,False,False,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
+2026-11-26,SHANGHAI,TAIPEI,010,0.0,6,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,CHINA,TAIWAN,150,-7.2,2,False,False,False,https://www.delfi.lt/naujienos/uzsienyje/tikiuosi-kad-klystu-buves-jav-admirolas-apie-galima-kinijos-puolima-120339059
+2026-11-26,TAIWAN,CHINA,120,-4.0,2,False,False,False,https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/
+2026-11-26,TAIWAN,BEIJING,112,-2.0,6,False,False,False,https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/
+2026-11-26,TAIPEI,CHINA,051,3.4,2,False,False,False,https://www.china-files.com/taiwan-files-elezioni-locali-2026-shenzhen-sun-yat-sen/
+2026-11-26,TAIPEI,CHINA,016,-2.0,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,TAIWAN,CHINA,016,-2.0,1,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,TAIPEI,CHINA,110,-2.0,10,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,TAIWAN,CHINA,190,-10.0,10,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,TAIWAN,CHINA,042,1.9,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
+2026-11-26,TAIWAN,CHINA,043,2.8,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
+2026-11-26,TAIWAN,BEIJING,112,-2.0,2,False,False,False,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
 2026-11-26,TAIWAN,BEIJING,112,-2.0,6,False,False,False,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
-2026-11-26,TAIWAN,UNITED STATES,043,2.8,2,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
-2026-11-26,UNITED STATES,TAIWAN,042,1.9,2,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
-2026-11-26,UNITED STATES,TAIWAN,042,1.9,3,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
-2026-11-26,TAIWAN,UNITED STATES,043,2.8,3,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
-2026-11-26,TAIWAN,UNITED STATES,061,6.4,4,False,True,False,https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/
-2026-11-26,TAIWAN,UNITED STATES,061,6.4,6,False,True,False,https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/
+2026-11-26,BEIJING,TAIWAN,114,-2.0,1,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,BEIJING,TAIWAN,120,-4.0,2,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,BEIJING,TAIWAN,140,-6.5,1,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,TAIWAN,BEIJING,172,-5.0,10,False,False,False,https://www.sknvibes.com/news/newsdetails.cfm/128125
+2026-11-26,TAIWAN,NVIDIA,050,3.5,4,False,False,False,https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3
+2026-11-26,SHANGHAI,KAOHSIUNG,010,0.0,8,False,False,False,https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia
+2026-11-26,SHANGHAI,KAOHSIUNG,042,1.9,8,False,False,False,https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia
+2026-11-26,KAOHSIUNG,SHANGHAI,043,2.8,8,False,False,False,https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia
+2026-11-26,TAIPEI,SHANGHAI,042,1.9,4,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3
+2026-11-26,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,TAIWAN,CHINA,010,0.0,2,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,TAIWAN,WASHINGTON,020,3.0,1,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,TAIWAN,CHINA,010,0.0,2,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,TAIWAN,CHINA,040,1.0,2,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,CHINESE,TAIWAN,017,0.0,10,False,False,False,https://www.prestigeonline.com/hk/lifestyle/culture-plus-entertainment/golden-horse-awards-2026-hong-kong-winners/
+2026-11-26,TAIWAN,CHINA,010,0.0,1,False,False,False,https://www.cbc.ca/news/world/nvidia-singapore-9.7436761
+2026-11-26,THE US,TAIWAN,020,3.0,2,False,False,False,https://www.moneycontrol.com/news/business/india-s-us-tariff-disadvantage-with-advanced-economies-could-widen-to-25-percentage-points-once-existing-customs-duties-are-factored-in-14089726.html
+2026-11-26,NVIDIA,TAIWAN,050,3.5,1,False,False,False,https://www.cbc.ca/news/world/nvidia-singapore-9.7436761
+2026-11-26,TAIWAN,UNITED STATES,050,3.5,10,False,False,False,https://www.etoday.co.kr/news/view/2653509
+2026-11-26,TAIWAN,CHINA,010,0.0,1,False,False,False,https://www.cbc.ca/news/world/nvidia-singapore-9.7436761
+2026-11-26,NVIDIA,TAIWAN,050,3.5,1,False,False,False,https://www.cbc.ca/news/world/nvidia-singapore-9.7436761
+2026-11-26,BEIJING,TAIWAN,114,-2.0,4,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,CHINA,TAIWAN,120,-4.0,1,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,BEIJING,TAIWAN,140,-6.5,4,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,BEIJING,TAIWAN,120,-4.0,4,False,False,False,https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/
+2026-11-26,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
+2026-11-26,THE US,TAIWAN,051,3.4,8,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
+2026-11-26,WASHINGTON,TAIWAN,161,-4.0,8,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
+2026-11-26,UNITED STATES,TAIWAN,161,-4.0,2,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
+2026-11-26,THE US,TAIWAN,051,3.4,2,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
+2026-11-26,CHINA,TAIWAN,043,2.8,30,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
+2026-11-26,TAIWAN,CHINA,042,1.9,2,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
+2026-11-26,TAIWANESE,NVIDIA,173,-5.0,1,False,False,False,https://www.siliconrepublic.com/business/ft-nvidia-turns-down-south-asian-shipments-after-new-us-chip-curbs
+2026-11-26,THE US,TAIWAN,020,3.0,8,False,False,False,https://www.moneycontrol.com/news/business/india-s-us-tariff-disadvantage-with-advanced-economies-could-widen-to-25-percentage-points-once-existing-customs-duties-are-factored-in-14089726.html
+2026-11-26,UNITED STATES,TAIWAN,014,0.0,2,False,False,False,https://northdallasgazette.com/2026/11/25/experts-warn-of-fragile-ai-financing-and-u-s-china-risks/
 2026-11-26,TAIWAN,THE US,013,0.4,10,False,False,False,https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding
 2026-11-26,TAIWAN,THE US,050,3.5,10,False,False,False,https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding
 2026-11-26,TAIWAN,THE US,057,8.0,10,False,False,False,https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding
 2026-11-26,THE US,TAIWAN,050,3.5,10,False,False,False,https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding
 2026-11-26,THE US,TAIWAN,057,8.0,10,False,False,False,https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding
+2026-11-26,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3
+2026-11-26,BEIJING,TAIWAN,172,-5.0,10,False,False,False,https://www.sknvibes.com/news/newsdetails.cfm/128125
+2026-11-26,TAIWANESE,NVIDIA,173,-5.0,1,False,False,False,https://www.siliconrepublic.com/business/ft-nvidia-turns-down-south-asian-shipments-after-new-us-chip-curbs
+2026-11-26,TAIWANESE,NVIDIA,173,-5.0,3,False,False,False,https://www.siliconrepublic.com/business/ft-nvidia-turns-down-south-asian-shipments-after-new-us-chip-curbs
+2026-11-26,A US,TAIWAN,112,-2.0,10,False,False,True,https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami
+2026-11-26,CHINA,TAIWAN,051,3.4,2,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,CHINA,TAIWAN,150,-7.2,2,False,False,False,https://www.delfi.lt/naujienos/uzsienyje/tikiuosi-kad-klystu-buves-jav-admirolas-apie-galima-kinijos-puolima-120339059
+2026-11-26,CHINA,TAIWAN,150,-7.2,16,False,False,False,https://www.delfi.lt/naujienos/uzsienyje/tikiuosi-kad-klystu-buves-jav-admirolas-apie-galima-kinijos-puolima-120339059
+2026-11-26,BEIJING,TAIWAN,130,-4.4,8,False,False,False,https://www.china-files.com/taiwan-files-elezioni-locali-2026-shenzhen-sun-yat-sen/
+2026-11-26,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,CHINESE,TAIWAN,070,7.0,3,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
+2026-11-26,CHINA,TAIWAN,042,1.9,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
+2026-11-26,CHINA,TAIWAN,043,2.8,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
+2026-11-26,BEIJING,TAIWAN,010,0.0,2,False,False,False,https://aninews.in/news/world/asia/chinas-financing-scheme-for-taiwanese-businesses-viewed-as-bid-to-influence-local-elections-say-experts20261126195100/
+2026-11-26,TAIPEI,CHINA,111,-2.0,2,False,False,False,https://aninews.in/news/world/asia/chinas-financing-scheme-for-taiwanese-businesses-viewed-as-bid-to-influence-local-elections-say-experts20261126195100/
+2026-11-26,CHINA,TAIPEI,010,0.0,8,False,False,False,https://www.thehindu.com/news/international/chinas-defence-ministry-urges-japan-to-stop-stirring-up-south-china-sea-disputes/article71747672.ece
+2026-11-26,SHANGHAI,TAIPEI,043,2.8,4,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,TAIWANESE,CHINA,061,6.4,14,False,True,False,https://focustaiwan.tw/politics/202611260013
+2026-11-26,UNITED STATES,TAIWANESE,020,3.0,6,False,False,False,https://focustaiwan.tw/politics/202611260013
+2026-11-26,CHINA,TAIWAN,043,2.8,2,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,TAIWAN,CHINA,042,1.9,2,False,False,False,https://focustaiwan.tw/politics/202611260018
+2026-11-26,TAIWAN,UNITED STATES,061,6.4,2,False,True,False,https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys
+2026-11-26,TAIWAN,CHINA,112,-2.0,1,False,False,False,https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/
 2026-11-26,TAIWAN,THE US,050,3.5,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438
 2026-11-26,TAIWAN,THE US,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438
 2026-11-26,THE US,TAIWAN,050,3.5,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438
 2026-11-26,THE US,TAIWAN,057,8.0,10,False,False,False,https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438
-2026-11-26,TAIPEI,CHINA,051,3.4,2,False,False,False,https://www.china-files.com/taiwan-files-elezioni-locali-2026-shenzhen-sun-yat-sen/
-2026-11-26,BEIJING,TAIWAN,130,-4.4,8,False,False,False,https://www.china-files.com/taiwan-files-elezioni-locali-2026-shenzhen-sun-yat-sen/
-2026-11-26,THE US,TAIWAN,051,3.4,8,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
-2026-11-26,WASHINGTON,TAIWAN,161,-4.0,8,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
-2026-11-26,UNITED STATES,TAIWAN,161,-4.0,2,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
-2026-11-26,THE US,TAIWAN,051,3.4,2,False,False,False,https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/
-2026-11-26,TAIWAN,NVIDIA,050,3.5,4,False,False,False,https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3
-2026-11-26,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3
-2026-11-26,TAIWAN,CHINA,051,3.4,2,False,False,False,https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3
 2026-11-26,TAIWAN,UNITED STATES,057,8.0,2,False,False,False,https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html
 2026-11-26,UNITED STATES,TAIWAN,057,8.0,2,False,False,False,https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html
-2026-11-26,WASHINGTON,TAIPEI,057,8.0,6,False,False,False,https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html
-2026-11-26,TAIPEI,WASHINGTON,057,8.0,6,False,False,False,https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html
 2026-11-26,TAIWAN,UNITED STATES,046,7.0,6,False,False,False,https://focustaiwan.tw/politics/202611260008
-2026-11-26,CHINESE,TAIPEI,090,-2.0,7,False,False,False,https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/
-2026-11-26,CHINESE,TAIPEI,090,-2.0,2,False,False,False,https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/
-2026-11-26,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,TAIWAN,CHINA,193,-10.0,10,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,TAIPEI,CHINA,016,-2.0,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,TAIWAN,CHINA,016,-2.0,1,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,TAIPEI,CHINA,110,-2.0,10,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,TAIWAN,CHINA,190,-10.0,10,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,CHINA,TAIWAN,016,-2.0,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,CHINESE,TAIWAN,070,7.0,3,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
 2026-11-26,TAIWAN,REUTERS,010,0.0,3,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
 2026-11-26,TAIWAN,REUTERS,013,0.4,2,False,False,False,https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes
-2026-11-26,CHINESE,TAIWAN,042,1.9,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAINAN,CHINESE,010,0.0,4,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAIWAN,CHINESE,043,2.8,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAIWAN,CHINESE,043,2.8,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAINAN,CHINESE,010,0.0,6,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAIWAN,CHINA,046,7.0,6,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAIWAN,CHINA,042,1.9,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
-2026-11-26,TAIWAN,CHINA,043,2.8,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
-2026-11-26,CHINESE,TAIWAN,042,1.9,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAIWAN,UNITED STATES,043,2.8,2,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
+2026-11-26,UNITED STATES,TAIWAN,042,1.9,2,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
+2026-11-26,TAIWAN,UNITED STATES,061,6.4,4,False,True,False,https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/
+2026-11-26,NVIDIA,TAIWAN,050,3.5,4,False,False,False,https://www.cbc.ca/news/world/nvidia-singapore-9.7436761
+2026-11-26,UNITED STATES,TAIWANESE,020,3.0,14,False,False,False,https://focustaiwan.tw/politics/202611260013
+2026-11-26,WASHINGTON,TAIPEI,057,8.0,6,False,False,False,https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html
+2026-11-26,UNITED STATES,TAIWAN,042,1.9,3,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
+2026-11-26,CHINESE,TAIPEI,090,-2.0,2,False,False,False,https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/
 2026-11-26,CHINA,TAIWAN,046,7.0,2,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
 2026-11-26,TAIWAN,CHINA,046,7.0,2,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
 2026-11-26,CHINA,TAIWAN,046,7.0,2,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,TAIWAN,CHINA,046,7.0,2,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
+2026-11-26,CHINESE,TAIWAN,042,1.9,1,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
 2026-11-26,CHINA,TAIWAN,046,7.0,6,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,TAIWAN,CHINA,046,7.0,2,False,False,False,https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/
-2026-11-26,CHINA,TAIWAN,042,1.9,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
-2026-11-26,CHINA,TAIWAN,043,2.8,4,False,False,False,https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/
-2026-11-26,TAIWAN,CHINA,042,1.9,8,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
-2026-11-26,TAIWAN,CHINA,042,1.9,20,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
-2026-11-26,CHINA,TAIWAN,043,2.8,30,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
-2026-11-26,TAIWAN,CHINA,042,1.9,2,False,False,False,http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html
-2026-11-26,SHANGHAI,KAOHSIUNG,010,0.0,8,False,False,False,https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia
-2026-11-26,SHANGHAI,KAOHSIUNG,042,1.9,8,False,False,False,https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia
-2026-11-26,KAOHSIUNG,SHANGHAI,043,2.8,8,False,False,False,https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia
-2026-11-26,TAIWAN,BEIJING,172,-5.0,10,False,False,False,https://www.sknvibes.com/news/newsdetails.cfm/128125
-2026-11-26,BEIJING,TAIWAN,172,-5.0,10,False,False,False,https://www.sknvibes.com/news/newsdetails.cfm/128125
+2026-11-26,TAIWAN,UNITED STATES,051,3.4,2,False,False,True,https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/
+2026-11-26,TAIWAN,AMERICAN,051,3.4,8,False,False,True,https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/
+2026-11-26,TAIPEI,WASHINGTON,057,8.0,6,False,False,False,https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html
+2026-11-26,TAIWAN,UNITED STATES,043,2.8,3,False,False,True,https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/
+2026-11-26,TAIWAN,UNITED STATES,061,6.4,6,False,True,False,https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/
+2026-11-26,TAIWAN,WASHINGTON,020,3.0,1,False,False,False,https://www.odnako.org/historic-summit-in-shenzhen-with-xi-trump-and-putin-we-have-made-history-agreement-on-nuclear-power-but-the-crux-of-the-wars-remains/
