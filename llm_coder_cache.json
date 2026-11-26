@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-25T22:45:37.408340",
+ "saved_at": "2026-11-26T10:05:44.202365",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15468,6 +15468,67 @@
    "v1": "no"
   },
   "https://www.businesstimes.com.sg/international/asia-data-centres-sound-out-us-clients-replace-china-demand": {
+   "v1": "no"
+  },
+  "http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html": {
+   "v1": "no"
+  },
+  "https://www.etoday.co.kr/news/view/2653509": {
+   "v1": "no"
+  },
+  "https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438": {
+   "v1": "yes",
+   "v2": "USA",
+   "v3": "response",
+   "v4": "economic",
+   "v5": "010",
+   "conf": "high"
+  },
+  "https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes": {
+   "v1": "no"
+  },
+  "https://www.sknvibes.com/news/newsdetails.cfm/128125": {
+   "v1": "no"
+  },
+  "https://www.china-files.com/taiwan-files-elezioni-locali-2026-shenzhen-sun-yat-sen/": {
+   "v1": "no"
+  },
+  "https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/": {
+   "v1": "no"
+  },
+  "https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia": {
+   "v1": "no"
+  },
+  "https://nypost.com/2026/11/26/us-news/dennys-faces-heat-over-gushy-tribute-to-nvidia-ceo-jensen-huang-just-put-the-pancakes-on-bro/": {
+   "v1": "no"
+  },
+  "https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "diplomatic",
+   "v5": "110",
+   "conf": "high"
+  },
+  "https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/": {
+   "v1": "no"
+  },
+  "https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html": {
+   "v1": "no"
+  },
+  "https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/": {
+   "v1": "no"
+  },
+  "https://www.afr.com/world/asia/jensanity-erupts-in-taiwan-and-china-on-nvidia-ceo-s-comeback-20261126-p61hj3": {
+   "v1": "no"
+  },
+  "https://www.durangoherald.com/articles/associated-press/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful/": {
+   "v1": "no"
+  },
+  "https://northdallasgazette.com/2026/11/25/experts-warn-of-fragile-ai-financing-and-u-s-china-risks/": {
    "v1": "no"
   }
  }
