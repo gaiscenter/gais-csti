@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
   "prompt_version": 3,
-  "saved_at": "2026-11-27T10:09:38.093741",
+  "saved_at": "2026-11-27T22:20:29.453613",
   "entries": {
     "https://korrespondent.net/world/4932450-kytai-podnial-30-boevykh-samoletov-vozle-taivania|190|neg": {
       "ok": true,
@@ -785,6 +785,342 @@
         "c2": false,
         "c3": null,
         "reason": "조건1: 아니오 — 기사는 미국-중국-러시아 삼자 정상회담을 주로 다루며, 대만과 대만-중국 간의 직접적인 사건(군사행동, 위협, 영토분쟁 등)을 전혀 다루지 않고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 비판적이고 부정적이며(Trump의 독재자들과의 만남을 \"도덕적 권위의 추락\", \"수치와 약점의 이미지\"로 평가), GoldsteinScale +0.0의 긍정적 코드와 일치하지 않습"
+      }
+    },
+    "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/|050|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Jensen Huang is back, but it won’t be business as usual for Taiwan’s tech industry",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만과 대만-미국 간의 국가급 행위(정부 차원의 정책, 군사행동, 외교 조치 등)를 다루지 않으며, Jensen Huang(개인 기업인)의 복귀와 대만 주식시장의 반응이라는 경제/기업 사건만 다루고 있습니다. 조건2: 예 — 기사의 논조는 Jensen Huang의 복귀를 긍정적으로 평가하며 대만 경제에 미치는 긍정적 영향(주가 급등, 시장 안정화)을 강조하고 있어 "
+      }
+    },
+    "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms|120|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 2026년 아시아 파워 인덱스 순위를 다루는 것으로, 대만과 미국 간의 구체적인 양자 사건(군사행동, 위협, 분쟁 등)을 다루고 있지 않으며, 대만은 기사에서 명시적으로 언급되지 않습니다. 조건2: 해당 없음 — 조건1이 거짓이므로 평가 불필요 조건3: 해당 없음 — 조건1이 거짓이므로 평가 불필요 최종: 아니오"
+      }
+    },
+    "https://www.theepochtimes.com/china/taiwan-sentences-ex-navy-officer-to-prison-in-china-spy-case-6130162|0841|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan Sentences Ex-Navy Officer to Prison in China Spy Case | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "TAIPEI, Taiwan—A local court has sentenced a retired Navy petty officer to six years in prison for attempting to recruit Coast Guard and maritime agency personnel to hand over classified documents to China.",
+      "paragraph_2": "The defendant, identified only by his surname Ma, was sentenced on Nov. 26 by the Tainan branch of Taiwan’s High Court, according to a press release. He was convicted under the National Security Act and the Anti-Corruption Act.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 개인 군 퇴직자의 첩보 활동 사건이지, 대만과 중국 국가(정부/국가급 행위자) 간의 직접적인 국가 행위(군사행동, 외교활동, 정책결정 등)를 다루고 있지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 스파이 모집, 뇌물, 국가기밀 유출 시도 등 갈등적이고 부정적인 내용이지만, GDELT가 부여한 GoldsteinScale +7.0은 \"협력적/긍정적\"을 의미하므로"
+      }
+    },
+    "https://openthemagazine.com/world/sleeping-on-taiwan|120|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi Jinping's Taiwan Warning: A Strategic Shift at the Shenzhen Summit",
+      "text_len": 2500,
+      "paragraph_1": "The best comment on the lukewarm APEC plenary and tepid trilateral at the Kylin Villa in Shenzhen may have come from Donald Trump. He fell asleep.",
+      "paragraph_2": "The difference between the advertising and the product was embarrassing. When leaders of the universe meet, they should discuss Star Wars, or at least World Wars, or World Fears. Instead, they gathered to reiterate a banal warning on nuclear weapons, a matter that was settled with the SALT treaties between America and the Soviet Union in 1972 and 1979; discuss immunity for state officials, a subject which is generally left to mid-level bureaucrats; and pontificate upon United Nations reform, which will never happen in their lifetime.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 시진핑의 대만에 대한 직접적인 경고(\"Be sensible on Taiwan\")와 중국의 대만 통일 캠페인을 중심으로 다루고 있으며, 이는 대만과 중국 간의 직접적인 안보 관계에 관한 사건입니다. 조건2: 예 — 기사의 실제 논조는 중국의 위협적 입장, 대만 통일을 향한 압박, 그리고 긴장 고조를 묘사하고 있어 부정적/갈등적 성격이 명확하게 드러납니다. 조건3: 아니오"
+      }
+    },
+    "https://www.portfolio.hu/global/20261127/egymasnak-feszulnek-a-katonai-hatalmak-egyre-sulyosabb-a-helyzet-mar-a-legrosszabbra-keszulnek-879734|120|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Egymásnak feszülnek a katonai hatalmak: egyre súlyosabb a helyzet, már a legrosszabbra készülnek - Portfolio.hu",
+      "text_len": 2193,
+      "paragraph_1": "Csen Hszi, a védelmi tárca szóvivője a szokásos pekingi sajtótájékoztatón kijelentette, hogy",
+      "paragraph_2": "Japán nem érintett a területi vitákban, így nincs joga véleményt nyilvánítani az ügyben.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 중국과 필리핀, 베트남, 말레이시아, 브루나이 등 여러 국가 간의 남중국해 분쟁이며, 대만은 영토 주장권자로만 언급되고 중국의 대만에 대한 군사훈련이 부수적으로 언급될 뿐 대만과 중국 간의 직접적인 사건이 기사의 중심이 아닙니다. 조건2: 예 — 기사의 논조는 중국의 군사적 확대, 위협적 행동, 국제법 무시 등을 비판하는 명확하게 갈등적이고 부정적인 내"
+      }
+    },
+    "https://www.business-standard.com/opinion/columns/xi-trump-summit-signals-a-shifting-order-india-must-learn-to-navigate-126112701476_1.html|020|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Xi-Trump summit signals a shifting order India must learn to navigate",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Xi-Trump 정상회담과 인도의 지정학적 입장을 다루고 있으며, 대만과 중국 간의 직접적인 사건(군사행동, 위협, 영토분쟁 등)을 주요 내용으로 다루지 않습니다. 조건2: 해당 없음 — 조건1이 충족되지 않았으므로 평가 불필요합니다. 최종: 아니오"
+      }
+    },
+    "https://qa.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace|190|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China slams PH-Australia defense pact, calls Japan 'destroyer' of regional peace | Philstar.com",
+      "text_len": 2500,
+      "paragraph_1": "MANILA, Philippines — China's defense ministry on Thursday, November 26, denounced the Philippines' new defense pact with Australia, a deal it says came about as unnamed Filipino politicians have been courting \"non-regional forces\" to stir up trouble in the South China Sea.",
+      "paragraph_2": "Ministry spokesperson Senior Colonel Chen Xi, speaking at a regular press briefing in Beijing, also called Japan \"a real destroyer of peace and tranquility in the Asia-Pacific\" over a Japanese defense think tank's report and Tokyo's plan to give the Philippine military a coastal radar system and surveillance drones.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 필리핀-호주 국방협력협정과 일본의 대필리핀 지원을 주제로 하며, 대만은 기사에 전혀 언급되지 않고 있습니다. 조건2: 예|아니오 — 적용 불가 (조건1 불충족) 조건3: 예|아니오 — 적용 불가 (조건1 불충족) 최종: 아니오"
+      }
+    },
+    "https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Satellite images reveal China testing new method to land troops ashore in Taiwan drill | The Independent",
+      "text_len": 2500,
+      "paragraph_1": "Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.",
+      "paragraph_2": "Already a member? Log in",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 중국의 대만 상정 군사훈련(상륙작전 훈련)으로 대만의 안보에 직접 겨냥된 일방적 행위이며, 이는 양국 간 직접적인 사건이다. 조건2: 아니오 — 기사의 실제 내용은 중국의 대만 침공 시나리오를 상정한 군사훈련으로, 위협·제재·군사적 압박에 해당하는 갈등적 성격인데 GoldsteinScale +2.8(협력적/긍정적)이 부여되어 명백한 불일치를 보인다. 최종: 아니오"
+      }
+    },
+    "https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941|130|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan’s Local Elections: 5 Things to Know About the China Factor | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "Nearly 19.6 million Taiwanese are eligible to vote for mayors and county leaders on Saturday in local elections that have drawn Beijing’s attention ahead of the island’s 2028 presidential race.",
+      "paragraph_2": "Although Taiwan’s local leaders do not determine its foreign or defense policies, the Chinese regime has offered economic incentives to Taiwan, sanctioned businesses belonging to a mayoral candidate’s father, and been accused by Taiwanese authorities of attempting to influence the elections.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": true,
+        "reason": "조건1: 예 — 기사는 중국이 대만 선거에 영향력을 행사하려는 시도(경제적 인센티브 제공, 기업 제재, 선거 개입 시도 등)를 명시적으로 다루고 있으며, 이는 대만의 정치주권에 직접 영향을 미치려는 국가급 행위입니다. 조건2: 아니오 — 기사의 실제 논조는 중립적 보도이며, 중국의 행위(경제 인센티브, 제재, 개입 시도)를 사실 기반으로 보도할 뿐 갈등적/부정적 평가를 직접 드러내지 않습니다"
+      }
+    },
+    "https://www.thecattlesite.com/news/us-beef-exports-to-taiwan-jump-23-in-september|061|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "US beef exports to Taiwan jump 23% in September\n\t\t\t\t\t\t | The Cattle Site",
+      "text_len": 1793,
+      "paragraph_1": "Korea and Caribbean also gain as Asian demand holds up",
+      "paragraph_2": "Beef exports to Taiwan totalled 5,416 tonnes in September, up 23% from a year ago, while value soared 38% to $65.2 million, according to the US Meat Export Federation (USMEF). The result followed a near-record performance in August. Through the first three quarters of the year, shipments to Taiwan were up 15% to 48,316 tonnes, while value climbed 20% to $580 million. With a strong finish, exports to Taiwan could reach new heights in 2026. The current full-year records for Taiwan are 64,818 tonnes valued at $748 million, both from 2022.",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 미국의 대만 향 소고기 수출 증가에 관한 무역/경제 통계를 다루고 있으며, 정부 간 군사·안보 행위나 국가급 행위자의 직접적 상호작용을 포함하지 않습니다. 조건2: 예 — 기사의 실제 논조는 긍정적인 경제협력(수출 증가, 무역 호황)을 다루고 있으며, 이는 CAMEO 061과 GoldsteinScale +6.4의 협력적/긍정적 분류와 일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes|057|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Yo también soy taiwanés | El Nuevo Siglo",
+      "text_len": 2500,
+      "paragraph_1": "Escribo desde Taipéi, la misma semana en que nueve congresistas de las comisiones segundas de Senado y Cámara recorren la isla. El viaje, que termina el 27 de noviembre, se convirtió en el episodio más tenso entre Colombia y China desde que Abelardo de la Espriella llegó a la Casa de Nariño.",
+      "paragraph_2": "A comienzos de semana, la Embajada de China expresó su \"firme rechazo\", pidió \"corregir el error\" y calificó a Taiwán como la \"primera línea roja infranqueable\" de la relación bilateral. Acusó a Taipéi de buscar apoyos con \"plata y engaño\", sin presentar pruebas, y exigió al Gobierno y al Congreso frenar los intercambios oficiales con la isla. El miércoles, el canciller Omar Bula desayunó con el embajador Zhu Jingyang y, según la embajada, reiteró que la posición colombiana \"nunca ha cambiado ni cambiará\". Ese mismo día, el canciller taiwanés, Lin Chia-lung, recibió a la delegación.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 핵심은 콜롬비아-중국 간의 긴장(대만 방문 관련)이며, 대만-미국 간의 직접적인 국가급 행위나 상호작용을 다루지 않습니다. 조건2: 아니오 — 기사의 실제 논조는 중국의 항의, 외교적 긴장, 대사의 비난 발언 등 갈등적/부정적 내용이므로 긍정적 코드(+8.0)와 불일치합니다. 최종: 아니오"
+      }
+    },
+    "https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546|031|pos": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Massachusetts signs MOU with education ministry - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "The Massachusetts State Government yesterday signed an education pact with Taiwan, joining 28 other US states in cooperation talks, the Ministry of Education said yesterday.",
+      "paragraph_2": "Under the memorandums of understanding (MOU), the two sides would exchange course materials, aid in language teacher recruitment and have mutual exchange programs for teaching assistants, it said.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 예 — 매사추세츠 주 정부와 대만 교육부 간의 양자 협력 MOU 체결로, 두 국가(정부급 행위자) 간의 직접적인 사건이다. 조건2: 예 — 기사의 실제 내용은 교육 자료 교환, 언어 교사 모집 지원, 학생/교사 교류 프로그램 등 명백한 협력적·우호적 활동이며, GoldsteinScale +5.2(협력/긍정)와 완벽하게 일치한다. 최종: 예"
+      }
+    },
+    "https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882|100|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "China’s Next Aircraft Carrier Shaping Up To Be World’s Biggest   - Newsweek",
+      "text_len": 2500,
+      "paragraph_1": "China’s fourth aircraft carrier is rapidly taking shape according to satellite imagery amid speculation that when unveiled, it could be the world's largest warship, signaling a step up in Beijing's naval force projection.",
+      "paragraph_2": "Details are unconfirmed about the size, propulsion and capabilities of the vessel referred to as \"Type 004.\"",
+      "detail": {
+        "c1": false,
+        "c2": true,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 중국의 항모 건조에 관한 것이며, 대만과 미국 사이의 직접적인 행위나 상호작용이 아니라 중국이 대만해협에서의 잠재적 군사력을 강화하는 것에 대한 제3국(미국)의 우려를 다루고 있습니다. 조건2: 예 — 기사의 논조는 중국의 군사력 강화를 위협적으로 보도하고 있으며, 이는 부정적/갈등적 코드와 일치합니다. 조건3: 해당 없음 — 조건1이 충족되지 않으므로 평가 대상이"
+      }
+    },
+    "https://focustaiwan.tw:443/business/202611270009|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Stock market jitters weigh on Taiwan consumer confidence: Survey - Focus Taiwan",
+      "text_len": 2500,
+      "paragraph_1": "Taipei, Nov. 27 (CNA) Taiwan's consumer confidence weakened in November as concerns over the development of artificial intelligence (AI) fueled global market volatility and made investors increasingly cautious, according to a survey released Friday by National Central University (NCU).",
+      "paragraph_2": "The consumer confidence index (CCI) fell 0.36 points from a month earlier to 65.91 in November, marking its second consecutive monthly decline, according to the survey, conducted Nov. 18-21.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만-미국 간 직접적인 국가급 행위(군사행동, 외교적 조치, 정책 결정 등)를 다루지 않으며, 오히려 NVIDIA CEO 교체와 글로벌 AI 시장 불안이 대만의 소비자심리에 미친 간접적 영향만을 다루고 있습니다. 조건2: 아니오 — 기사의 논조는 주식시장 급락, 소비자신심 하락, 시장 불안정성 등 부정적 경제 상황을 다루고 있으나, CAMEO 043(+2.8)은 협"
+      }
+    },
+    "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/|051|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinese ads selling banned Nvidia servers for $3M as Jensen Huang scandal chokes supply: 'Market is crazy'",
+      "text_len": 2500,
+      "paragraph_1": "Chinese videos are advertising banned Nvidia chips for sale at $3 million apiece , more than five times the US price.",
+      "paragraph_2": "Prices have spiked amid a crackdown by both Washington and the chip maker on the processors after investigations found they had been making their way into the market.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사의 주요 내용은 중국 내 불법 칩 거래, 미국의 제재 강화, CEO 스캔들 등이며, 대만-대만 간 직접적인 국가급 행위(군사행동, 위협, 공식 정책 대결)는 다루지 않고 있고, 대만의 검찰 적발 사건은 부수적 언급에 불과합니다. 조건2: 아니오 — 기사의 실제 논조는 미국 제재 강화, 칩 불법 거래, CEO 스캔들 등 갈등과 제약을 다루고 있어 부정적/적대적 성격이 명"
+      }
+    },
+    "https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408|084|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Inside Nvidia’s Ecosystem—and Why It Matters | The Epoch Times",
+      "text_len": 2500,
+      "paragraph_1": "Wall Street and the rest of the world know Nvidia for its chips that are hard to buy. But industry experts argue its biggest advantage is something harder for competitors to purchase: an ecosystem that allows the company to offer a full stack of products.",
+      "paragraph_2": "Nvidia’s product offering resembles a pyramid with several levels. At the bottom are the chips. Above them is the networking that links thousands of chips into one system. Next come the server racks and complete machines. Nvidia sells every layer.",
+      "detail": {
+        "c1": false,
+        "c2": null,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 Nvidia의 비즈니스 에코시스템과 경쟁력에 관한 산업 분석 기사이며, 미국과 대만 간의 국가급 행위자 간 사건(군사행동, 외교관계, 안보 관련 사항)을 다루지 않습니다. 조건2: 해당없음 — 조건1이 충족되지 않음. 최종: 아니오"
+      }
+    },
+    "https://www.taipeitimes.com/News/biz/archives/2026/11/28/2003868511|043|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Stock market jitters sap confidence - Taipei Times",
+      "text_len": 2500,
+      "paragraph_1": "Taiwan’s consumer confidence weakened this month, a survey released yesterday by National Central University (NCU) showed, with experts linking it to concerns over the development of artificial intelligence (AI) fueling global market volatility and making investors increasingly cautious.",
+      "paragraph_2": "The consumer confidence index (CCI) fell 0.36 points from a month earlier to 65.91 in the survey — which was conducted last week from Wednesday to Saturday — marking its second consecutive monthly decline.",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만과 미국(또는 대만과 NVIDIA) 간의 직접적인 국가급 행위나 안보 관련 사건을 다루지 않으며, NVIDIA의 경영진 변화와 이로 인한 글로벌 주식시장 변동성이 대만의 소비자 심리에 미치는 간접적 영향만을 다루고 있습니다. 조건2: 아니오 — 기사의 실제 논조는 주가 하락, 시장 불안정성, 소비자 신뢰 약화 등 부정적 경제 상황을 다루고 있으나, GDELT가 "
+      }
+    },
+    "https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html|180|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Китай провів масштабні навчання із висадки десанту на Тайвань, - Reuters",
+      "text_len": 2500,
+      "paragraph_1": "Китайці вивчають можливість використання великої кількості цивільних суден.",
+      "paragraph_2": "Китайські військові проводять масштабні навчання з відпрацювання морського десанту в провінції Фуцзянь, розташованій навпроти Тайваню . Під час маневрів армія випробовує новий спосіб висадки військ на узбережжя – створення плавучого мосту з цивільних суден. Про це повідомляє Reuters із посиланням на супутникові знімки та аналітичний звіт компанії ingeniSPACE.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국이 대만을 겨냥한 군사훈련(상륙작전 연습)을 실시하고 있으며, 이는 대만의 안보에 직접 영향을 주는 일방적 행위로서 두 국가 간 사건에 해당합니다. 조건2: 예 — 기사의 실제 논조는 중국의 군사훈련, 무력시위, 대만 침공 가능성 등을 다루고 있어 갈등적/부정적 방향과 일치합니다. 조건3: 예 — 부정적 논조는 중국의 군사훈련 행위 자체에서 나오며, 대만 국방부가 이를 모"
+      }
+    },
+    "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kitaiskata-armia-testva-novi-desantni-taktiki-za-taivan-v-kraibrezni-uchenia|180|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Китайската армия тества нови десантни тактики за Тайван в крайбрежни учения - Свят - manager.bg",
+      "text_len": 2500,
+      "paragraph_1": "Снимка: Shutterstock",
+      "paragraph_2": "Китай провежда продължаващо няколко седмици учение за амфибиен десант в провинцията срещу Тайван, като тества нов метод за стоварване на войски на брега чрез свързване на цивилни плавателни съдове в импровизиран плаващ мост, показват сателитни снимки и изследователски доклад.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국군이 대만을 겨냥한 양서상륙작전 훈련을 실시하고 있으며, 이는 대만의 안보에 직접 영향을 주는 군사 위협 행위입니다. 조건2: 예 — 기사의 논조는 중국의 군사훈련, 무력시위, 대만 침공 시나리오 준비 등을 다루고 있어 명백히 갈등적/부정적입니다. 조건3: 예 — 부정적 논조는 중국의 군사행동 자체에서 비롯되었으며, 기사는 중국이 당사자로 한 행위를 보도하는 것이지 제3국"
+      }
+    },
+    "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinese military tests new Taiwan landing tactics in coastal drills",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사 제목은 \"Chinese military tests new Taiwan landing tactics in coastal drills\"로 중국의 대만 상정 군사훈련을 다루고 있으나, 제공된 본문은 웹사이트 네비게이션 메뉴만 포함되어 있어 실제 기사 내용을 확인할 수 없습니다. 조건2: 아니오 — Goldstein Scale +5.0은 협력적/긍정적 상호작용을 의미하는데,"
+      }
+    },
+    "https://ua.korrespondent.net/world/4932618-kytai-vidpratsovuie-vysadku-desantu-na-taivan|180|neg": {
+      "ok": true,
+      "article_fetched": true,
+      "title": "Китай відпрацьовує висадку десанту на Тайвань - Korrespondent.net",
+      "text_len": 2500,
+      "paragraph_1": "Китай проводить багатотижневі навчання з висадки морського десанту у провінції Фуцзянь, розташованій навпроти Тайваню. Військові випробовують новий спосіб доставки військ на берег: з'єднують цивільні судна, утворюючи імпровізований плавучий міст. Про це свідчать супутникові знімки та дослідження, з якими ознайомилося Reuters .",
+      "paragraph_2": "Китай вважає демократично керований Тайвань своєю територією, хоча Тайбей відкидає претензії Пекіна на суверенітет. Пекін також ніколи не відмовлявся від застосування сили для встановлення контролю над островом.",
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": true,
+        "reason": "조건1: 예 — 중국이 대만을 겨냥하여 상정한 대규모 군사훈련(상륙작전 연습)으로, 대만의 안보에 직접 영향을 주는 일방적 행위이므로 두 국가 간 사건에 해당합니다. 조건2: 예 — 기사의 실제 내용은 중국의 침략 시나리오를 상정한 군사훈련, 무력시위, 위협으로서 명백하게 갈등적·부정적이며, 부여된 GoldsteinScale -9.0과 일치합니다. 조건3: 예 — 부정적 논조는 중국 자신의 "
+      }
+    },
+    "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/|150|neg": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Taiwan Is Preparing for a War That Could Reshape the World",
+      "text_len": 2500,
+      "paragraph_1": null,
+      "paragraph_2": null,
+      "detail": {
+        "c1": true,
+        "c2": true,
+        "c3": false,
+        "reason": "조건1: 예 — 기사는 대만이 중국의 군사적 압박에 대응하여 국방 전략을 준비하고 있는 것을 다루고 있으며, 이는 대만과 중국 간의 직접적인 안보 대립을 중심 주제로 하고 있습니다. 조건2: 예 — 기사의 논조는 전쟁 위협, 중국의 군사 압박, 대만의 방어 준비 등 갈등적이고 부정적인 내용으로 일관되어 있으며, 부여된 GoldsteinScale -7.2(갈등/위협)와 일치합니다. 조건3: 아"
+      }
+    },
+    "https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html|080|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "Chinese military tests new Taiwan landing tactics in coastal drills | Top News | lufkindailynews.com",
+      "text_len": 2500,
+      "paragraph_1": "By Yimou Lee and Greg Torode",
+      "paragraph_2": "TAIPEI/HONG KONG, Nov 27 (Reuters) - China is staging a weeks-long amphibious landing drill in the province facing Taiwan, testing a new method to land troops ashore by linking civilian vessels into a makeshift floating bridge, satellite images and a research report showed.",
+      "detail": {
+        "c1": true,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 예 — 중국이 대만을 목표로 한 상륙 작전 훈련을 실시하고 있으며, 이는 대만 점령을 염두에 둔 군사력 전개로서 대만의 안보에 직접 영향을 주는 중국-대만 간 사건이다. 조건2: 아니오 — 기사의 실제 내용은 중국의 대만 침공 시나리오를 상정한 군사훈련, 무력 시연, 위협으로서 본질적으로 갈등적이고 부정적이지만, GDELT가 이를 협력적/긍정적(+5.0)으로 분류했으므로 심각한 불일"
+      }
+    },
+    "https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/27/taiwan-celebra-elecciones-locales-que-mediran-las-fuerzas-de-los-partidos-pro-y-anti-pekin.shtml|071|pos": {
+      "ok": false,
+      "article_fetched": true,
+      "title": "TaiwÃ¡n celebra elecciones locales: medirÃ¡n las fuerzas de los partidos pro y anti PekÃ­n | Internacional | BioBioChile",
+      "text_len": 2500,
+      "paragraph_1": "Certifico que es informaciÃ³n real y autorizo a Bio Bio para publicarla de la forma Que estime conveniente, manteniendo la confidencialidad de mis datos si asi lo deseo",
+      "paragraph_2": "Editora de Internacional",
+      "detail": {
+        "c1": false,
+        "c2": false,
+        "c3": null,
+        "reason": "조건1: 아니오 — 기사는 대만 국내 지방선거를 다루고 있으며, 대만과 베이징(중국) 정부 간의 직접적인 국가급 상호작용(군사행동, 외교적 위협, 영토분쟁 등)이 아니라 대만 내 정당 간 선거 경쟁을 보도하고 있습니다. 조건2: 아니오 — Goldstein Scale +7.4(협력적/긍정적)로 분류되었으나, 기사는 중국과 가까운 쿠오민탕과 중국을 비판하는 민진당 간의 선거 대결, 그리고 Pu"
       }
     }
   }

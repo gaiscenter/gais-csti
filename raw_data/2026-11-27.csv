@@ -1,44 +1,106 @@
 ﻿date,actor1,actor2,event_code,goldstein,mentions,is_military,is_supply,is_diplomatic,url
+2026-11-27,TAIPEI,CHINA,0841,7.0,10,False,False,False,https://www.theepochtimes.com/china/taiwan-sentences-ex-navy-officer-to-prison-in-china-spy-case-6130162
+2026-11-27,TAIWAN,UNITED STATES,010,0.0,1,False,False,False,https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408
+2026-11-27,TAIWAN,OHIO,030,4.0,2,False,False,False,https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408
+2026-11-27,UNITED STATES,TAIWAN,084,7.0,2,False,False,False,https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408
+2026-11-27,UNITED STATES,TAIWAN,084,7.0,2,False,False,False,https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408
+2026-11-27,TAIWAN,WASHINGTON,013,0.4,6,False,False,False,https://www.voanews.com/a/explainer-why-beijing-is-watching-taiwan-s-local-elections-and-what-they-could-mean-for-2028-20261127/8228726.html
+2026-11-27,CHINA,TAIWAN,180,-9.0,10,False,False,False,https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html
+2026-11-27,CHINA,TAIWAN,180,-9.0,4,True,False,False,https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html
+2026-11-27,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.rawstory.com/nvidia-2678550278/
+2026-11-27,TAIWAN,CHINA,090,-2.0,1,False,False,False,https://www.rawstory.com/nvidia-2678550278/
+2026-11-27,UNITED STATES,TAIWANESE,012,-0.4,2,False,False,False,https://www.rawstory.com/nvidia-2678550278/
+2026-11-27,NVIDIA,TAIPEI,051,3.4,6,False,False,False,https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/
+2026-11-27,CHINA,TAIWAN,180,-9.0,2,False,False,False,https://news.bigmir.net/ua/world/10473336-kitaj-vidpratsovuje-visadku-desantu-na-tajvan
+2026-11-27,TAIPEI,CHINA,043,2.8,5,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5655937
+2026-11-27,CHINA,TAIPEI,042,1.9,3,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5655937
+2026-11-27,CHINA,TAIWAN,042,1.9,1,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5655937
+2026-11-27,CHINA,TAIPEI,042,1.9,1,False,False,False,https://news.ltn.com.tw/news/focus/breakingnews/5655937
+2026-11-27,CHINA,TAIWAN,010,0.0,1,False,False,False,https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882
+2026-11-27,TAIWAN,UNITED STATES,010,0.0,2,False,False,False,https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882
+2026-11-27,TAIWAN,UNITED STATES,010,0.0,1,False,False,False,https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882
+2026-11-27,TAIWAN,UNITED STATES,010,0.0,1,False,False,False,https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882
+2026-11-27,TAIWAN,UNITED STATES,100,-5.0,2,False,False,False,https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882
+2026-11-27,TAIWAN,UNITED STATES,100,-5.0,6,False,False,False,https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882
+2026-11-27,TAIWAN,CHINESE,042,1.9,6,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWAN,CHINA,042,1.9,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWAN,CHINA,010,0.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,TAIWAN,CHINA,042,1.9,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,TAIWAN,CHINESE,010,0.0,6,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,TAIWAN,CHINA,042,1.9,5,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,TAIWAN,CHINA,020,3.0,10,False,False,False,https://www.business-standard.com/opinion/columns/xi-trump-summit-signals-a-shifting-order-india-must-learn-to-navigate-126112701476_1.html
+2026-11-27,CHINA,TAIWAN,051,3.4,10,False,False,False,https://www.business-standard.com/opinion/columns/xi-trump-summit-signals-a-shifting-order-india-must-learn-to-navigate-126112701476_1.html
+2026-11-27,NVIDIA,TAIWAN,043,2.8,4,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/28/2003868511
+2026-11-27,TAIWAN,NVIDIA,042,1.9,2,False,False,False,https://www.taipeitimes.com/News/biz/archives/2026/11/28/2003868511
+2026-11-27,CHINA,TAIWAN,043,2.8,1,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,TAIWAN,CHINESE,010,0.0,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,CHINA,TAIWAN,043,2.8,5,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536
+2026-11-27,CHINA,TAIWAN,010,0.0,1,False,False,False,https://www.taipeitimes.com/News/editorials/archives/2026/11/28/2003868518
+2026-11-27,CHINESE,TAIWAN,043,2.8,6,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,CHINESE,TAIWAN,043,2.8,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWANESE,SEATTLE,040,1.0,1,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525
+2026-11-27,UNITED STATES,TAIWANESE,040,1.0,2,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525
+2026-11-27,SEATTLE,TAIWANESE,040,1.0,1,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525
+2026-11-27,CHINA,TAIWAN,043,2.8,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWAN,UNITED STATES,031,5.2,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWAN,CHINESE,042,1.9,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWAN,MASSACHUSETTS,031,5.2,6,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWAN,UNITED STATES,031,5.2,2,False,False,False,https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546
+2026-11-27,TAIWANESE,UNITED STATES,040,1.0,2,False,False,False,https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525
+2026-11-27,TAIWAN,THE US,061,6.4,10,False,True,False,https://www.thecattlesite.com/news/us-beef-exports-to-taiwan-jump-23-in-september
+2026-11-27,TAIWAN,BEIJING,014,0.0,8,False,False,False,https://www.theepochtimes.com/china/chinas-space-program-could-hand-its-military-an-edge-in-future-wars-analysts-warn-6129880
+2026-11-27,TAIWAN,BEIJING,014,0.0,2,False,False,False,https://www.theepochtimes.com/china/chinas-space-program-could-hand-its-military-an-edge-in-future-wars-analysts-warn-6129880
+2026-11-27,TAIWAN,CHINA,190,-10.0,3,False,False,False,https://qa.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,TAIWAN,NVIDIA,042,1.9,4,False,False,False,https://focustaiwan.tw:443/business/202611270009
 2026-11-27,TAIWAN,CHINESE,190,-10.0,8,False,False,False,https://korrespondent.net/world/4932450-kytai-podnial-30-boevykh-samoletov-vozle-taivania
-2026-11-27,BEIJING,TAIWAN,016,-2.0,1,False,False,False,https://news.az/news/china-tests-new-amphibious-landing-tactics-in-military-drills-near-taiwan
-2026-11-27,BEIJING,TAIPEI,016,-2.0,3,False,False,False,https://news.az/news/china-tests-new-amphibious-landing-tactics-in-military-drills-near-taiwan
-2026-11-27,BEIJING,TAIWAN,016,-2.0,1,False,False,False,https://news.az/news/china-tests-new-amphibious-landing-tactics-in-military-drills-near-taiwan
-2026-11-27,TAIWAN,CHINA,040,1.0,8,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
-2026-11-27,CHINA,TAIWAN,040,1.0,8,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
-2026-11-27,CHINA,TAIWAN,040,1.0,2,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
-2026-11-27,TAIWAN,CHINA,040,1.0,2,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
-2026-11-27,CHINA,TAIWAN,080,5.0,2,True,False,False,https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html
-2026-11-27,CHINA,TAIWAN,043,2.8,1,False,False,False,https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html
-2026-11-27,TAIWAN,CHINA,042,1.9,1,False,False,False,https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html
+2026-11-27,CHINA,TAIWAN,012,-0.4,2,False,False,False,https://biz.heraldcorp.com/article/10951705
+2026-11-27,CHINESE,TAIWAN,084,7.0,8,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
+2026-11-27,TAIWAN,CHINA,040,1.0,10,False,False,False,"http://www.sitkasentinel.com/stories/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china,189211"
+2026-11-27,TAIWAN,CHINESE,010,0.0,10,False,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
+2026-11-27,TAIWAN,CHINESE,010,0.0,6,False,False,False,https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
+2026-11-27,TAIWAN,CHINA,042,1.9,1,False,False,False,https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
+2026-11-27,TAIWAN,CHINA,042,1.9,11,False,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
+2026-11-27,TAIWAN,CHINESE,010,0.0,7,False,False,False,https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece
+2026-11-27,TAIWAN,CHINA,042,1.9,6,False,False,False,https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece
+2026-11-27,CHINA,TAIWAN,180,-9.0,10,False,False,False,https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kitaiskata-armia-testva-novi-desantni-taktiki-za-taivan-v-kraibrezni-uchenia
+2026-11-27,CHINA,TAIWAN,042,1.9,10,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,TAIWAN,CHINA,190,-10.0,4,True,False,False,https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills
+2026-11-27,TAIWAN,BEIJING,130,-4.4,2,False,False,False,https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941
+2026-11-27,CHINESE,TAIWANESE,020,3.0,1,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
+2026-11-27,CHINA,TAIWANESE,0214,3.4,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
 2026-11-27,CHINA,TAIWAN,010,0.0,4,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
+2026-11-27,CHINA,TAIWANESE,040,1.0,2,False,False,False,https://www.presstv.co.uk/Detail/2026/11/27/781721/the-us-china-microchip-war%20aria-hidden=true%20tabindex=-1
+2026-11-27,TAIWAN,CHINA,190,-10.0,7,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,TAIWAN,BEIJING,130,-4.4,6,False,False,False,https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941
+2026-11-27,TAIWAN,CHINA,130,-4.4,2,False,False,False,https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941
+2026-11-27,CHINA,TAIWAN,040,1.0,1,False,False,False,https://www.dailyexcelsior.com/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china/
 2026-11-27,BEIJING,TAIWAN,111,-2.0,4,False,False,False,https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html
-2026-11-27,BEIJING,TAIWANESE,014,0.0,20,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
-2026-11-27,BEIJING,TAIWANESE,020,3.0,20,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
-2026-11-27,BEIJING,TAIWAN,111,-2.0,16,False,False,False,https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html
-2026-11-27,CHINA,TAIWAN,130,-4.4,20,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
-2026-11-27,CHINA,TAIWAN,010,0.0,16,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
 2026-11-27,TAIWAN,CHINA,040,1.0,10,False,False,False,https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html
+2026-11-27,TAIWAN,BEIJING,071,7.4,2,False,True,False,https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/27/taiwan-celebra-elecciones-locales-que-mediran-las-fuerzas-de-los-partidos-pro-y-anti-pekin.shtml
+2026-11-27,TAIWAN,CHINA,042,1.9,8,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,TAIWAN,CHINA,043,2.8,10,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,TAIWAN,CHINA,042,1.9,2,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,TAIWAN,CHINA,043,2.8,4,False,False,False,https://www.manilatimes.net/2026/11/27/world/asia-oceania/rivals-in-taipei-mayoral-race-rally-on-eve-of-elections/2479188
+2026-11-27,TAIPEI,CHINESE,016,-2.0,10,False,False,False,https://www.ottopagine.it/mondo/politica/445218/taiwan-al-voto-la-cina-schiera-30-aerei-militari-e-prepara-ponti-da-sbarco.shtml
+2026-11-27,CHINA,TAIWAN,080,5.0,2,True,False,False,https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html
+2026-11-27,BEIJING,TAIWAN,031,5.2,1,False,False,False,https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941
+2026-11-27,TAIWAN,BEIJING,120,-4.0,8,False,False,False,https://www.portfolio.hu/global/20261127/egymasnak-feszulnek-a-katonai-hatalmak-egyre-sulyosabb-a-helyzet-mar-a-legrosszabbra-keszulnek-879734
+2026-11-27,TAIWAN,CHINA,120,-4.0,2,False,False,False,https://www.portfolio.hu/global/20261127/egymasnak-feszulnek-a-katonai-hatalmak-egyre-sulyosabb-a-helyzet-mar-a-legrosszabbra-keszulnek-879734
+2026-11-27,TAIWAN,CHINA,040,1.0,8,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
+2026-11-27,TAIWAN,CHINESE,120,-4.0,2,False,False,False,https://openthemagazine.com/world/sleeping-on-taiwan
+2026-11-27,CHINA,KAOHSIUNG,150,-7.2,4,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,CHINA,KAOHSIUNG,150,-7.2,2,True,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,THE US,TAIWAN,012,-0.4,2,False,False,True,https://www.segye.com:443/newsView/20261127505562
+2026-11-27,TAIWAN,CHINESE,120,-4.0,16,False,False,False,https://openthemagazine.com/world/sleeping-on-taiwan
+2026-11-27,CHINA,TAIWAN,040,1.0,4,False,False,False,https://www.dailyexcelsior.com/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china/
+2026-11-27,CHINA,TAIWAN,040,1.0,2,False,False,False,https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812
 2026-11-27,CHINA,TAIWAN,040,1.0,2,False,False,False,https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html
 2026-11-27,CHINA,TAIWAN,040,1.0,8,False,False,False,https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html
-2026-11-27,CHINA,TAIWAN,012,-0.4,2,False,False,False,https://biz.heraldcorp.com/article/10951705
-2026-11-27,CHINA,TAIWAN,012,-0.4,8,False,False,False,https://biz.heraldcorp.com/article/10951705
-2026-11-27,TAIWAN,CHINA,040,1.0,10,False,False,False,"http://www.sitkasentinel.com/stories/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china,189211"
-2026-11-27,CHINESE,TAIWAN,084,7.0,8,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
+2026-11-27,CHINA,TAIWAN,010,0.0,2,False,False,False,https://ichannela.com/news/detail/000000562004.do
 2026-11-27,CHINA,TAIWAN,084,7.0,2,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
-2026-11-27,CHINESE,TAIWAN,010,0.0,10,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
-2026-11-27,CHINESE,TAIWAN,020,3.0,10,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
-2026-11-27,TAIWAN,ARIZONA,043,2.8,3,False,False,False,https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia
-2026-11-27,ARIZONA,TAIWAN,036,4.0,3,False,False,False,https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia
-2026-11-27,ARIZONA,TAIWAN,042,1.9,3,False,False,False,https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia
-2026-11-27,CHINA,TAIWAN,040,1.0,2,False,False,False,https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812
-2026-11-27,TAIWAN,CHINA,190,-10.0,7,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
 2026-11-27,CHINA,TAIWAN,100,-5.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
-2026-11-27,CHINA,TAIWAN,190,-10.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
-2026-11-27,TAIWAN,CHINA,190,-10.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
-2026-11-27,CHINA,TAIWAN,100,-5.0,7,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
-2026-11-27,CHINA,TAIWAN,190,-10.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
-2026-11-27,THE US,TAIWAN,012,-0.4,2,False,False,True,https://www.segye.com:443/newsView/20261127505562
-2026-11-27,THE US,TAIWAN,012,-0.4,8,False,False,True,https://www.segye.com:443/newsView/20261127505562
+2026-11-27,TAIWAN,THE US,017,0.0,2,False,False,False,https://www.attitude.co.uk/culture/film-tv/boys-on-film-25-silver-bullet-trailer-attitude-540681/
+2026-11-27,TAIWAN,THE US,017,0.0,4,False,False,False,https://www.attitude.co.uk/culture/film-tv/boys-on-film-25-silver-bullet-trailer-attitude-540681/
 2026-11-27,CHINESE,TAIWANESE,020,3.0,1,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
 2026-11-27,CHINA,TAIWAN,010,0.0,1,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
 2026-11-27,CHINESE,TAIWANESE,020,3.0,3,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
@@ -46,17 +108,59 @@
 2026-11-27,CHINA,TAIWANESE,010,0.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
 2026-11-27,CHINA,TAIWANESE,0214,3.4,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
 2026-11-27,CHINESE,TAIWANESE,010,0.0,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
-2026-11-27,CHINESE,TAIWANESE,020,3.0,1,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
-2026-11-27,CHINA,TAIWANESE,0214,3.4,2,False,False,False,https://www.hani.co.kr/arti/english_edition/e_international/1289403.html
-2026-11-27,TAIWAN,CHINA,190,-10.0,4,True,False,False,https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills
+2026-11-27,CHINA,TAIWANESE,040,1.0,2,False,False,False,https://www.presstv.co.uk/Detail/2026/11/27/781721/the-us-china-microchip-war%20aria-hidden=true%20tabindex=-1
+2026-11-27,THE US,TAIWAN,012,-0.4,8,False,False,True,https://www.segye.com:443/newsView/20261127505562
+2026-11-27,ARIZONA,TAIWAN,036,4.0,3,False,False,False,https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia
+2026-11-27,ARIZONA,TAIWAN,042,1.9,3,False,False,False,https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia
+2026-11-27,CHINA,TAIWAN,012,-0.4,8,False,False,False,https://biz.heraldcorp.com/article/10951705
+2026-11-27,CHINESE,TAIWAN,010,0.0,10,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
+2026-11-27,CHINESE,TAIWAN,020,3.0,10,False,False,False,https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257
+2026-11-27,TAIWAN,CHINESE,010,0.0,1,False,False,False,https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece
+2026-11-27,CHINA,TAIWAN,043,2.8,6,False,False,False,https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece
 2026-11-27,CHINA,TAIWAN,080,5.0,10,True,False,False,https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills
 2026-11-27,CHINA,TAIWAN,190,-10.0,4,True,False,False,https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills
+2026-11-27,BEIJING,TAIWAN,031,5.2,1,False,False,False,https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941
+2026-11-27,BEIJING,TAIWAN,016,-2.0,1,False,False,False,https://news.az/news/china-tests-new-amphibious-landing-tactics-in-military-drills-near-taiwan
+2026-11-27,BEIJING,TAIPEI,016,-2.0,3,False,False,False,https://news.az/news/china-tests-new-amphibious-landing-tactics-in-military-drills-near-taiwan
+2026-11-27,BEIJING,TAIWANESE,014,0.0,20,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
+2026-11-27,BEIJING,TAIWANESE,020,3.0,20,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
+2026-11-27,BEIJING,TAIWAN,111,-2.0,16,False,False,False,https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html
+2026-11-27,CHINA,TAIWAN,043,2.8,8,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,CHINA,TAIWAN,043,2.8,2,False,False,False,https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html
+2026-11-27,CHINA,TAIWAN,042,1.9,4,False,False,False,https://www.manilatimes.net/2026/11/27/world/asia-oceania/rivals-in-taipei-mayoral-race-rally-on-eve-of-elections/2479188
+2026-11-27,CHINA,TAIWAN,040,1.0,8,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
+2026-11-27,NVIDIA,TAIWAN,043,2.8,8,False,False,False,https://focustaiwan.tw:443/business/202611270009
+2026-11-27,TAIWAN,NVIDIA,042,1.9,4,False,False,False,https://focustaiwan.tw:443/business/202611270009
+2026-11-27,UNITED STATES,TAIWAN,020,3.0,1,False,False,False,https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941
+2026-11-27,BEIJING,TAIWAN,016,-2.0,1,False,False,False,https://news.az/news/china-tests-new-amphibious-landing-tactics-in-military-drills-near-taiwan
+2026-11-27,CHINA,TAIWAN,040,1.0,2,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
+2026-11-27,TAIWAN,CHINA,040,1.0,2,False,False,False,http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html
+2026-11-27,CHINA,TAIWAN,043,2.8,1,False,False,False,https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html
+2026-11-27,TAIWAN,CHINA,042,1.9,1,False,False,False,https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html
 2026-11-27,TAIWAN,CHINESE,010,0.0,4,False,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
+2026-11-27,CHINA,TAIWAN,130,-4.4,20,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
+2026-11-27,TAIWAN,BEIJING,112,-2.0,2,False,False,False,https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/27/taiwan-celebra-elecciones-locales-que-mediran-las-fuerzas-de-los-partidos-pro-y-anti-pekin.shtml
+2026-11-27,CHINA,TAIWAN,180,-9.0,8,False,False,False,https://ua.korrespondent.net/world/4932618-kytai-vidpratsovuie-vysadku-desantu-na-taivan
+2026-11-27,TAIPEI,BEIJING,016,-2.0,8,False,False,False,https://korrespondent.net/world/4932618-kytai-otrabatyvaet-vysadku-desanta-na-taivan
 2026-11-27,CHINA,TAIWAN,043,2.8,1,False,False,False,https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
 2026-11-27,CHINA,TAIWAN,043,2.8,11,False,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
 2026-11-27,CHINA,TAIWAN,080,5.0,4,True,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
 2026-11-27,CHINA,TAIWAN,080,5.0,16,True,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
-2026-11-27,TAIWAN,CHINESE,010,0.0,10,False,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
-2026-11-27,TAIWAN,CHINESE,010,0.0,6,False,False,False,https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
-2026-11-27,TAIWAN,CHINA,042,1.9,1,False,False,False,https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
-2026-11-27,TAIWAN,CHINA,042,1.9,11,False,False,False,https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills
+2026-11-27,CHINA,TAIWAN,180,-9.0,2,False,False,False,https://ua.korrespondent.net/world/4932618-kytai-vidpratsovuie-vysadku-desantu-na-taivan
+2026-11-27,WASHINGTON,TAIPEI,030,4.0,8,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,WASHINGTON,TAIPEI,057,8.0,8,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,CHINA,TAIWAN,010,0.0,16,False,False,False,https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections
+2026-11-27,CHINA,TAIWAN,100,-5.0,3,False,False,False,https://qa.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,CHINA,TAIWAN,100,-5.0,7,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,CHINA,TAIWAN,190,-10.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,TAIWAN,CHINA,190,-10.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,CHINA,TAIWAN,190,-10.0,1,False,False,False,https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace
+2026-11-27,CHINA,TAIWAN,180,-9.0,8,False,False,False,https://ua.korrespondent.net/world/4932618-kytai-vidpratsovuie-vysadku-desantu-na-taivan
+2026-11-27,TAIWAN,ARIZONA,043,2.8,3,False,False,False,https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia
+2026-11-27,TAIPEI,WASHINGTON,030,4.0,8,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,TAIPEI,WASHINGTON,057,8.0,8,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,TAIWAN,UNITED STATES,030,4.0,2,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,TAIWAN,UNITED STATES,057,8.0,2,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,UNITED STATES,TAIWAN,030,4.0,2,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,UNITED STATES,TAIWAN,057,8.0,2,False,False,False,https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes
+2026-11-27,TAIWAN,CHINESE,120,-4.0,2,False,False,False,https://openthemagazine.com/world/sleeping-on-taiwan

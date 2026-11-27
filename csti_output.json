@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:06:50.847491",
+  "generated_at": "2026-11-27T22:19:08.684259",
   "query_date": "2026-11-27",
   "total_rows": 123,
   "dates": [
@@ -100,7 +100,7 @@
       -1.4934,
       -0.4667,
       -1.4041,
-      -0.7465
+      1.1286
     ],
     "CHN_response": [
       -1.4152,
@@ -133,7 +133,7 @@
       -1.6555,
       -0.6731,
       -1.4432,
-      1.2886
+      0.4028
     ],
     "USA_threat": [
       -2.0854,
@@ -166,7 +166,7 @@
       -1.9158,
       -2.0811,
       -2.2534,
-      -1.4373
+      -0.165
     ],
     "USA_response": [
       -0.1866,
@@ -199,14 +199,14 @@
       -1.6725,
       -1.4933,
       -1.1294,
-      -1.8096
+      -1.4129
     ]
   },
   "current": {
-    "CHN_threat": -0.7465,
-    "CHN_response": 1.2886,
-    "USA_threat": -1.4373,
-    "USA_response": -1.8096
+    "CHN_threat": 1.1286,
+    "CHN_response": 0.4028,
+    "USA_threat": -0.165,
+    "USA_response": -1.4129
   },
   "level": {
     "CHN_threat": "mod",
@@ -248,7 +248,7 @@
           -1.4934,
           -0.4667,
           -1.4041,
-          -0.7465
+          1.1286
         ],
         "CHN_response": [
           -1.4152,
@@ -281,7 +281,7 @@
           -1.6555,
           -0.6731,
           -1.4432,
-          1.2886
+          0.4028
         ],
         "USA_threat": [
           -2.0854,
@@ -314,7 +314,7 @@
           -1.9158,
           -2.0811,
           -2.2534,
-          -1.4373
+          -0.165
         ],
         "USA_response": [
           -0.1866,
@@ -347,14 +347,14 @@
           -1.6725,
           -1.4933,
           -1.1294,
-          -1.8096
+          -1.4129
         ]
       },
       "current": {
-        "CHN_threat": -0.7465,
-        "CHN_response": 1.2886,
-        "USA_threat": -1.4373,
-        "USA_response": -1.8096
+        "CHN_threat": 1.1286,
+        "CHN_response": 0.4028,
+        "USA_threat": -0.165,
+        "USA_response": -1.4129
       },
       "level": {
         "CHN_threat": "mod",
@@ -528,7 +528,7 @@
           -1.3154,
           -0.707,
           0.2857,
-          -0.6443
+          0.2518
         ],
         "CHN_response": [
           -1.4152,
@@ -561,7 +561,7 @@
           -1.6342,
           -0.5559,
           0.0124,
-          1.2899
+          0.563
         ],
         "USA_threat": [
           -2.0854,
@@ -593,8 +593,8 @@
           -2.8658,
           -0.9278,
           -3.1617,
-          -2.8747,
-          -0.3806
+          -3.2322,
+          -2.6671
         ],
         "USA_response": [
           -0.1866,
@@ -626,13 +626,9 @@
           -2.2323,
           -2.5196,
           -1.9435,
-          -3.6192,
-          -0.4667
+          -3.7738,
+          -2.3611
         ]
-      },
-      "carried_forward": {
-        "USA_response": true,
-        "USA_threat": true
       }
     },
     "military": {
@@ -668,7 +664,7 @@
           0.4319,
           0.2217,
           0.0112,
-          -1.4379
+          0.5417
         ],
         "CHN_response": [
           -0.5,
@@ -771,7 +767,7 @@
         ]
       },
       "current": {
-        "CHN_threat": -1.4379,
+        "CHN_threat": 0.5417,
         "CHN_response": 1.6667,
         "USA_threat": 0.0,
         "USA_response": 0.0
@@ -948,7 +944,7 @@
           0.4434,
           0.197,
           0.0889,
-          -1.6667
+          -0.9667
         ],
         "CHN_response": [
           -0.5,
@@ -1397,7 +1393,7 @@
           -2.775,
           -3.5913,
           -1.0667,
-          -4.497
+          -1.2333
         ],
         "USA_threat": [
           -1.8286,
@@ -1463,12 +1459,12 @@
           -0.4846,
           -0.3936,
           -3.2333,
-          -2.8741
+          -1.0667
         ]
       },
       "carried_forward": {
-        "CHN_threat": true,
-        "CHN_response": true
+        "CHN_response": true,
+        "CHN_threat": true
       }
     },
     "diplomatic": {
@@ -1570,7 +1566,7 @@
           -0.2148,
           0.3636,
           -0.2084,
-          0.0976
+          0.1111
         ],
         "USA_response": [
           0.0,
@@ -1603,14 +1599,14 @@
           -0.0093,
           -0.0047,
           -1.2333,
-          -0.5696
+          -0.6727
         ]
       },
       "current": {
         "CHN_threat": -0.594,
         "CHN_response": 0.0952,
-        "USA_threat": 0.0976,
-        "USA_response": -0.5696
+        "USA_threat": 0.1111,
+        "USA_response": -0.6727
       },
       "level": {
         "CHN_threat": "mod",
@@ -1887,6 +1883,7 @@
         ]
       },
       "carried_forward": {
+        "USA_threat": true,
         "CHN_threat": true
       }
     },
@@ -2037,25 +2034,25 @@
     "window_days": 30,
     "run_date": "2026-11-27",
     "events": {
-      "total_events_matched": 4501,
-      "total_mentions_matched": 18087,
-      "military_events": 99,
-      "military_mentions": 488,
-      "supply_events": 114,
-      "supply_mentions": 483,
+      "total_events_matched": 4616,
+      "total_mentions_matched": 18525,
+      "military_events": 101,
+      "military_mentions": 494,
+      "supply_events": 116,
+      "supply_mentions": 495,
       "diplomatic_events": 450,
       "diplomatic_mentions": 1673,
       "by_partner": {
         "CHN": {
-          "events_all": 3039,
-          "events_military": 97,
-          "events_supply": 84,
+          "events_all": 3107,
+          "events_military": 99,
+          "events_supply": 85,
           "events_diplomatic": 333
         },
         "USA": {
-          "events_all": 1462,
+          "events_all": 1509,
           "events_military": 2,
-          "events_supply": 30,
+          "events_supply": 31,
           "events_diplomatic": 117
         }
       }
@@ -2070,82 +2067,95 @@
     "audit": {
       "enabled": true,
       "date_audited": "2026-11-27",
-      "checked": 60,
-      "flagged": 51,
+      "checked": 75,
+      "flagged": 65,
       "flagged_urls": [
-        "https://www.ng.ru/world/2026-11-24/6_9631_elections.html",
-        "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/",
-        "https://focustaiwan.tw:443/business/202611200021",
-        "https://www.rediff.com/news/report/alice-huang-was-in-touch-with-china-during-affair-with-ex-nvidia-ceo-report/20261123.htm",
-        "https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/",
         "https://www.segye.com:443/newsView/20261127505562",
-        "https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia",
-        "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004",
-        "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
-        "https://www.lasillavacia.com/en-vivo/bula-se-reunio-con-embajador-chino-tras-visita-de-congresistas-a-taiwan/",
+        "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646",
+        "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/",
+        "https://qa.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace",
+        "https://www.theepochtimes.com/china/taiwan-sentences-ex-navy-officer-to-prison-in-china-spy-case-6130162",
+        "https://focustaiwan.tw/culture/202611210018",
+        "https://focustaiwan.tw:443/business/202611200021",
         "https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868281",
+        "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/",
+        "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
+        "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/",
+        "https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/",
+        "https://focustaiwan.tw:443/business/202611270009",
+        "https://www.jpost.com/business-and-innovation/article-915861",
+        "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china",
+        "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry",
+        "https://www.portfolio.hu/global/20261127/egymasnak-feszulnek-a-katonai-hatalmak-egyre-sulyosabb-a-helyzet-mar-a-legrosszabbra-keszulnek-879734",
         "https://www.theepochtimes.com/opinion/should-the-us-preempt-china-with-a-naval-blockade-before-its-too-late-6126437",
+        "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/",
+        "https://openthemagazine.com/world/sleeping-on-taiwan",
+        "https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882",
+        "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say",
+        "https://www.thecattlesite.com/news/us-beef-exports-to-taiwan-jump-23-in-september",
+        "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills",
+        "https://news.ltn.com.tw/news/focus/breakingnews/5653523",
+        "https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/",
+        "https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html",
+        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
+        "https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes",
+        "https://www.business-standard.com/opinion/columns/xi-trump-summit-signals-a-shifting-order-india-must-learn-to-navigate-126112701476_1.html",
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/28/2003868511",
         "http://www.thetibetpost.com/news/exile/taipei-forum-warns-over-beijing%E2%80%99s-transnational-repression-and-ethnic-unity-law",
-        "https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami",
-        "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135",
-        "http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china",
-        "https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/",
         "https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257",
+        "https://www.lasillavacia.com/en-vivo/bula-se-reunio-con-embajador-chino-tras-visita-de-congresistas-a-taiwan/",
+        "https://news.ltn.com.tw/news/focus/breakingnews/5652219",
+        "https://news.webindia123.com/news/Articles/World/20261121/4522742.html",
+        "https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/27/taiwan-celebra-elecciones-locales-que-mediran-las-fuerzas-de-los-partidos-pro-y-anti-pekin.shtml",
+        "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004",
+        "https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941",
+        "https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470",
+        "https://ria.ru/20261125/kitay-2133758804.html",
+        "https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami",
+        "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html",
+        "https://focustaiwan.tw:443/politics/202611240008",
+        "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit",
+        "https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia",
+        "https://www.ng.ru/world/2026-11-24/6_9631_elections.html",
+        "http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868355",
         "https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace",
         "https://focustaiwan.tw/politics/202611260013",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868355",
-        "https://news.ltn.com.tw/news/focus/breakingnews/5652219",
-        "https://www.jpost.com/business-and-innovation/article-915861",
-        "https://news.webindia123.com/news/Articles/World/20261121/4522742.html",
-        "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit",
-        "https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868281",
-        "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/",
-        "https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html",
-        "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/",
-        "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646",
-        "https://news.ltn.com.tw/news/focus/breakingnews/5653523",
-        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
-        "https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html",
-        "https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118",
-        "https://focustaiwan.tw:443/politics/202611240008",
-        "http://www.sitkasentinel.com/stories/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china,189211",
-        "http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html",
-        "https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470",
-        "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry",
-        "https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys",
         "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868283",
-        "https://ria.ru/20261125/kitay-2133758804.html",
-        "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html",
+        "https://www.rediff.com/news/report/alice-huang-was-in-touch-with-china-during-affair-with-ex-nvidia-ceo-report/20261123.htm",
+        "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135",
+        "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
+        "https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html",
+        "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118",
+        "https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil",
         "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
-        "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china",
-        "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say",
-        "https://focustaiwan.tw/culture/202611210018"
+        "https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys",
+        "https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/"
       ],
       "corrections_applied": 12,
       "audit_log_file": "audit_log.json",
       "degraded": false,
-      "api_calls": 56,
+      "api_calls": 24,
       "api_failures": 0,
       "tokens": {
-        "input_tokens": 96573,
-        "output_tokens": 13078,
+        "input_tokens": 45721,
+        "output_tokens": 6016,
         "cache_write": 0,
         "cache_read": 0
       },
-      "cache_hits": 0,
+      "cache_hits": 51,
       "skipped_over_cap": 0,
       "carried_forward_fields": [
         "diplomatic.CHN_threat",
-        "overall.USA_response",
-        "overall.USA_threat",
+        "diplomatic.USA_threat",
         "supply.CHN_response",
         "supply.CHN_threat"
       ],
-      "carried_forward_count": 5
+      "carried_forward_count": 4
     }
   },
   "partner_names": {
@@ -2154,6 +2164,34 @@
   },
   "note": "CSTI = Goldstein(1992,JCR) x NumMentions weighted avg x (-1); cyber = GKG V2Tone-based proxy, no directionality",
   "top_articles": {
+    "diplomatic": {
+      "USA_response": [
+        {
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
+          "goldstein": 7.4,
+          "mentions": 1,
+          "actor1": "TAIWANESE",
+          "actor2": "UNITED STATES",
+          "event_code": "071",
+          "title": "Taiwan outlines US investment support - Taipei Times",
+          "days_ago": 1
+        }
+      ],
+      "USA_threat": [],
+      "CHN_response": [
+        {
+          "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
+          "goldstein": -2.0,
+          "mentions": 8,
+          "actor1": "TAIWAN",
+          "actor2": "BEIJING",
+          "event_code": "016",
+          "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
+          "days_ago": 3
+        }
+      ],
+      "CHN_threat": []
+    },
     "overall": {
       "CHN_response": [
         {
@@ -2177,92 +2215,75 @@
           "days_ago": 0
         }
       ],
-      "CHN_threat": [
-        {
-          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-          "goldstein": -4.4,
-          "mentions": 20,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "130",
-          "title": "Threat from China looms large over Taiwan’s local elections | Taiwan | The Guardian",
-          "days_ago": 0
-        },
-        {
-          "url": "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills",
-          "goldstein": 5.0,
-          "mentions": 16,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "080",
-          "title": null,
-          "days_ago": 0
-        }
-      ],
-      "USA_response": [],
-      "USA_threat": []
-    },
-    "diplomatic": {
       "USA_response": [
         {
-          "url": "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/",
-          "goldstein": 3.5,
-          "mentions": 7,
-          "actor1": "TAIWANESE",
-          "actor2": "NVIDIA",
-          "event_code": "050",
-          "title": "One moment, please...",
-          "days_ago": 2
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546",
+          "goldstein": 5.2,
+          "mentions": 6,
+          "actor1": "TAIWAN",
+          "actor2": "MASSACHUSETTS",
+          "event_code": "031",
+          "title": "Massachusetts signs MOU with education ministry - Taipei Times",
+          "days_ago": 0
         },
         {
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
-          "goldstein": 7.4,
-          "mentions": 1,
-          "actor1": "TAIWANESE",
-          "actor2": "UNITED STATES",
-          "event_code": "071",
-          "title": "Taiwan outlines US investment support - Taipei Times",
-          "days_ago": 1
+          "url": "https://www.voanews.com/a/explainer-why-beijing-is-watching-taiwan-s-local-elections-and-what-they-could-mean-for-2028-20261127/8228726.html",
+          "goldstein": 0.4,
+          "mentions": 6,
+          "actor1": "TAIWAN",
+          "actor2": "WASHINGTON",
+          "event_code": "013",
+          "title": null,
+          "days_ago": 0
         }
       ],
       "USA_threat": [
         {
-          "url": "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
-          "goldstein": -4.0,
-          "mentions": 1,
+          "url": "https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525",
+          "goldstein": 1.0,
+          "mentions": 2,
           "actor1": "UNITED STATES",
-          "actor2": "TAIWAN",
-          "event_code": "120",
-          "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership | India News - The Times of India",
-          "days_ago": 4
-        }
-      ],
-      "CHN_response": [
-        {
-          "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
-          "goldstein": -2.0,
-          "mentions": 8,
-          "actor1": "TAIWAN",
-          "actor2": "BEIJING",
-          "event_code": "016",
-          "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
-          "days_ago": 3
-        }
-      ],
-      "CHN_threat": []
-    },
-    "military": {
-      "CHN_threat": [
-        {
-          "url": "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills",
-          "goldstein": 5.0,
-          "mentions": 16,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "080",
+          "actor2": "TAIWANESE",
+          "event_code": "040",
           "title": null,
           "days_ago": 0
         },
+        {
+          "url": "https://www.rawstory.com/nvidia-2678550278/",
+          "goldstein": -0.4,
+          "mentions": 2,
+          "actor1": "UNITED STATES",
+          "actor2": "TAIWANESE",
+          "event_code": "012",
+          "title": null,
+          "days_ago": 0
+        }
+      ],
+      "CHN_threat": [
+        {
+          "url": "https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html",
+          "goldstein": -9.0,
+          "mentions": 10,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "180",
+          "title": "Китай провів масштабні навчання із висадки десанту на Тайвань, - Reuters",
+          "days_ago": 0
+        },
+        {
+          "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kitaiskata-armia-testva-novi-desantni-taktiki-za-taivan-v-kraibrezni-uchenia",
+          "goldstein": -9.0,
+          "mentions": 10,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "180",
+          "title": "Китайската армия тества нови десантни тактики за Тайван в крайбрежни учения - Свят - manager.bg",
+          "days_ago": 0
+        }
+      ]
+    },
+    "military": {
+      "CHN_threat": [
         {
           "url": "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills",
           "goldstein": 5.0,
@@ -2271,6 +2292,16 @@
           "actor2": "TAIWAN",
           "event_code": "080",
           "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+          "days_ago": 0
+        },
+        {
+          "url": "https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html",
+          "goldstein": -9.0,
+          "mentions": 4,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "180",
+          "title": "Китай провів масштабні навчання із висадки десанту на Тайвань, - Reuters",
           "days_ago": 0
         }
       ],
@@ -2332,18 +2363,24 @@
           "days_ago": 1
         }
       ],
-      "CHN_threat": [],
-      "CHN_response": []
+      "CHN_response": [],
+      "CHN_threat": []
     }
   },
   "commentary": {
-    "ko": "대만-중국 관계에서 대만→중국 방향의 긴장이 급상승했다. 중국이 대만 인근에서 30대의 전투기를 운용했다는 보도가 긴장 지수를 크게 상향시켰다. 동시에 중국→대만 방향의 군사 채널은 협력 쪽으로 움직였는데, 중국군이 대만 상륙 작전 훈련을 실시했다는 보도의 영향으로 보인다. 중국→대만 전체 채널도 소폭 협력 쪽으로 이동했으나, 대만의 지방선거를 둘러싼 중국의 위협 담론이 긴장을 가중시켰다. 대만-미국 관계는 전반적으로 협력 기조를 유지했으며, 미국의 농산물 관세 면제 조치가 공급망 채널에서 협력을 강화했다.",
-    "en": "Taiwan-China tensions surged sharply in the Taiwan→China direction as reporting on 30 Chinese combat aircraft operating near Taiwan significantly raised the index. Meanwhile, the China→Taiwan military channel moved toward cooperation, influenced by coverage of Chinese military landing operation drills. The overall China→Taiwan channel also moved slightly toward cooperation, though Chinese threat rhetoric surrounding Taiwan's local elections added tension. Taiwan-US relations maintained cooperative footing overall, with US agricultural tariff exemptions strengthening the supply chain channel toward cooperation.",
-    "zh": "臺灣與中國關係中，臺灣→中國方向的緊張局勢急速上升，中國在臺灣附近調動30架戰鬥機的報導大幅推高指數。同時，中國→臺灣的軍事管道朝向合作移動，受到中國軍隊進行登陸作戰演習報導的影響。中國→臺灣的整體管道也輕微朝向合作移動，但中國圍繞臺灣地方選舉的威脅言論加重了緊張局勢。臺灣與美國的關係整體上保持合作態勢，美國的農產品關稅豁免措施強化了供應鏈管道的合作。",
+    "ko": "중국 → 대만 관계에서 긴장이 크게 높아졌다. 중국군이 대만 상륙 작전 훈련을 대규모로 실시했다는 보도와 중국 전투기 30대가 대만 근처에서 활동했다는 보도가 군사 채널 긴장도를 올렸다. 다만 중국군의 새로운 상륙 전술 시험이라는 보도도 함께 전해져 군사 채널에서는 부분적으로 상쇄되었다. 대만 → 미국 관계는 협력 쪽으로 움직였다. 미국이 대만산 농산물 322개 품목에 대한 관세 면제를 유지했다는 보도가 공급망 채널 협력도를 높였고, 대만이 미국과의 투자 지원 방안을 공개했다는 외교 채널 보도도 협력을 강화했다. 대만 → 중국 관계와 미국 → 대만 관계는 상대적으로 평온하다.",
+    "en": "China-to-Taiwan tensions rose sharply. Reports of large-scale Chinese military amphibious landing exercises and 30 Chinese fighter aircraft near Taiwan drove up the military channel. However, coverage of Chinese military testing new landing tactics partly offset these increases. Taiwan-to-US relations shifted toward cooperation. US tariff exemptions for 322 Taiwanese agricultural items strengthened the supply chain channel, while Taiwan's announcement of US investment support measures reinforced diplomatic cooperation. Taiwan-to-China and US-to-Taiwan relations remained relatively stable.",
+    "zh": "中國對臺灣的緊張度大幅上升。中國軍隊進行大規模兩棲登陸演習以及30架中國戰機在臺灣附近活動的報導推高了軍事管道的緊張指數。不過中國軍隊測試新登陸戰術的報導也有所抵銷。臺灣對美國的關係趨向合作。美國維持對322項臺灣農產品的關稅豁免推高供應鏈合作度，臺灣公布美國投資支持方案的外交報導也強化了合作。臺灣對中國和美國對臺灣的關係相對平穩。",
     "sources": [
       {
-        "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-        "title": "Threat from China looms large over Taiwan’s local elections | Taiwan | The Guardian",
+        "url": "https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html",
+        "title": "Китай провів масштабні навчання із висадки десанту на Тайвань, - Reuters",
+        "actor1": "CHINA",
+        "actor2": "TAIWAN"
+      },
+      {
+        "url": "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kitaiskata-armia-testva-novi-desantni-taktiki-za-taivan-v-kraibrezni-uchenia",
+        "title": "Китайската армия тества нови десантни тактики за Тайван в крайбрежни учения - Свят - manager.bg",
         "actor1": "CHINA",
         "actor2": "TAIWAN"
       },
@@ -2364,10 +2401,22 @@
         "title": "322 agricultural items still exempt from US tariffs - Taipei Times",
         "actor1": "THE US",
         "actor2": "TAIWAN"
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868546",
+        "title": "Massachusetts signs MOU with education ministry - Taipei Times",
+        "actor1": "TAIWAN",
+        "actor2": "MASSACHUSETTS"
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
+        "title": "Taiwan outlines US investment support - Taipei Times",
+        "actor1": "TAIWANESE",
+        "actor2": "UNITED STATES"
       }
     ],
     "model": "claude-haiku-4-5-20251001",
-    "generated_at": "2026-11-27T10:10:32.803084",
+    "generated_at": "2026-11-27T22:22:21.653322",
     "basis": "index values and the audited records listed in sources; no external search"
   }
 }

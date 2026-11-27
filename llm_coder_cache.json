@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-27T10:10:25.469101",
+ "saved_at": "2026-11-27T22:22:13.740184",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15686,6 +15686,165 @@
    "conf": "high"
   },
   "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812": {
+   "v1": "no"
+  },
+  "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://openthemagazine.com/world/sleeping-on-taiwan": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/china/taiwan-sentences-ex-navy-officer-to-prison-in-china-spy-case-6130162": {
+   "v1": "no"
+  },
+  "https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.business-standard.com/opinion/columns/xi-trump-summit-signals-a-shifting-order-india-must-learn-to-navigate-126112701476_1.html": {
+   "v1": "no"
+  },
+  "https://www.thecattlesite.com/news/us-beef-exports-to-taiwan-jump-23-in-september": {
+   "v1": "no"
+  },
+  "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kitaiskata-armia-testva-novi-desantni-taktiki-za-taivan-v-kraibrezni-uchenia": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.ottopagine.it/mondo/politica/445218/taiwan-al-voto-la-cina-schiera-30-aerei-militari-e-prepara-ponti-da-sbarco.shtml": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.theepochtimes.com/china/chinas-space-program-could-hand-its-military-an-edge-in-future-wars-analysts-warn-6129880": {
+   "v1": "no"
+  },
+  "https://focustaiwan.tw:443/business/202611270009": {
+   "v1": "no"
+  },
+  "https://www.portfolio.hu/global/20261127/egymasnak-feszulnek-a-katonai-hatalmak-egyre-sulyosabb-a-helyzet-mar-a-legrosszabbra-keszulnek-879734": {
+   "v1": "no"
+  },
+  "https://ua.korrespondent.net/world/4932618-kytai-vidpratsovuie-vysadku-desantu-na-taivan": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://korrespondent.net/world/4932618-kytai-otrabatyvaet-vysadku-desanta-na-taivan": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes": {
+   "v1": "no"
+  },
+  "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.voanews.com/a/explainer-why-beijing-is-watching-taiwan-s-local-elections-and-what-they-could-mean-for-2028-20261127/8228726.html": {
+   "v1": "no"
+  },
+  "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/": {
+   "v1": "no"
+  },
+  "https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941": {
+   "v1": "no"
+  },
+  "https://news.ltn.com.tw/news/focus/breakingnews/5655937": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.taipeitimes.com/News/biz/archives/2026/11/28/2003868511": {
+   "v1": "no"
+  },
+  "https://www.dailyexcelsior.com/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china/": {
+   "v1": "no"
+  },
+  "https://www.manilatimes.net/2026/11/27/world/asia-oceania/rivals-in-taipei-mayoral-race-rally-on-eve-of-elections/2479188": {
+   "v1": "no"
+  },
+  "https://www.attitude.co.uk/culture/film-tv/boys-on-film-25-silver-bullet-trailer-attitude-540681/": {
+   "v1": "no"
+  },
+  "https://qa.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408": {
+   "v1": "no"
+  },
+  "https://www.rawstory.com/nvidia-2678550278/": {
+   "v1": "no"
+  },
+  "https://news.bigmir.net/ua/world/10473336-kitaj-vidpratsovuje-visadku-desantu-na-tajvan": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525": {
+   "v1": "no"
+  },
+  "https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/27/taiwan-celebra-elecciones-locales-que-mediran-las-fuerzas-de-los-partidos-pro-y-anti-pekin.shtml": {
+   "v1": "no"
+  },
+  "https://www.taipeitimes.com/News/editorials/archives/2026/11/28/2003868518": {
    "v1": "no"
   }
  }
