@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-11-26T22:34:10.684787",
-  "query_date": "2026-11-26",
+  "generated_at": "2026-11-27T10:06:50.847491",
+  "query_date": "2026-11-27",
   "total_rows": 123,
   "dates": [
-    "10-27",
     "10-28",
     "10-29",
     "10-30",
@@ -33,10 +32,10 @@
     "11-23",
     "11-24",
     "11-25",
-    "11-26"
+    "11-26",
+    "11-27"
   ],
   "full_dates": [
-    "2026-10-27",
     "2026-10-28",
     "2026-10-29",
     "2026-10-30",
@@ -66,11 +65,11 @@
     "2026-11-23",
     "2026-11-24",
     "2026-11-25",
-    "2026-11-26"
+    "2026-11-26",
+    "2026-11-27"
   ],
   "series": {
     "CHN_threat": [
-      -2.0347,
       -2.1695,
       1.348,
       0.4369,
@@ -100,10 +99,10 @@
       0.6821,
       -1.4934,
       -0.4667,
-      -1.4041
+      -1.4041,
+      -0.7465
     ],
     "CHN_response": [
-      -1.5378,
       -1.4152,
       0.9663,
       -0.1043,
@@ -133,10 +132,10 @@
       -0.0,
       -1.6555,
       -0.6731,
-      -1.4432
+      -1.4432,
+      1.2886
     ],
     "USA_threat": [
-      -1.1615,
       -2.0854,
       -0.2577,
       -0.0635,
@@ -166,10 +165,10 @@
       0.4629,
       -1.9158,
       -2.0811,
-      -2.2534
+      -2.2534,
+      -1.4373
     ],
     "USA_response": [
-      -1.3875,
       -0.1866,
       -2.1012,
       -4.0045,
@@ -199,26 +198,26 @@
       -0.2578,
       -1.6725,
       -1.4933,
-      -1.1294
+      -1.1294,
+      -1.8096
     ]
   },
   "current": {
-    "CHN_threat": -1.4041,
-    "CHN_response": -1.4432,
-    "USA_threat": -2.2534,
-    "USA_response": -1.1294
+    "CHN_threat": -0.7465,
+    "CHN_response": 1.2886,
+    "USA_threat": -1.4373,
+    "USA_response": -1.8096
   },
   "level": {
     "CHN_threat": "mod",
     "CHN_response": "mod",
-    "USA_threat": "low",
+    "USA_threat": "mod",
     "USA_response": "mod"
   },
   "domains": {
     "overall": {
       "series": {
         "CHN_threat": [
-          -2.0347,
           -2.1695,
           1.348,
           0.4369,
@@ -248,10 +247,10 @@
           0.6821,
           -1.4934,
           -0.4667,
-          -1.4041
+          -1.4041,
+          -0.7465
         ],
         "CHN_response": [
-          -1.5378,
           -1.4152,
           0.9663,
           -0.1043,
@@ -281,10 +280,10 @@
           -0.0,
           -1.6555,
           -0.6731,
-          -1.4432
+          -1.4432,
+          1.2886
         ],
         "USA_threat": [
-          -1.1615,
           -2.0854,
           -0.2577,
           -0.0635,
@@ -314,10 +313,10 @@
           0.4629,
           -1.9158,
           -2.0811,
-          -2.2534
+          -2.2534,
+          -1.4373
         ],
         "USA_response": [
-          -1.3875,
           -0.1866,
           -2.1012,
           -4.0045,
@@ -347,19 +346,20 @@
           -0.2578,
           -1.6725,
           -1.4933,
-          -1.1294
+          -1.1294,
+          -1.8096
         ]
       },
       "current": {
-        "CHN_threat": -1.4041,
-        "CHN_response": -1.4432,
-        "USA_threat": -2.2534,
-        "USA_response": -1.1294
+        "CHN_threat": -0.7465,
+        "CHN_response": 1.2886,
+        "USA_threat": -1.4373,
+        "USA_response": -1.8096
       },
       "level": {
         "CHN_threat": "mod",
         "CHN_response": "mod",
-        "USA_threat": "low",
+        "USA_threat": "mod",
         "USA_response": "mod"
       },
       "measured": {
@@ -498,7 +498,6 @@
       },
       "series_raw": {
         "CHN_threat": [
-          -2.0347,
           -2.1695,
           1.348,
           0.4369,
@@ -528,10 +527,10 @@
           -0.6107,
           -1.3154,
           -0.707,
-          0.2495
+          0.2857,
+          -0.6443
         ],
         "CHN_response": [
-          -1.5378,
           -1.4152,
           0.9663,
           -0.1043,
@@ -561,10 +560,10 @@
           -0.2834,
           -1.6342,
           -0.5559,
-          0.0307
+          0.0124,
+          1.2899
         ],
         "USA_threat": [
-          -1.1615,
           -2.0854,
           -0.2577,
           -0.0635,
@@ -594,10 +593,10 @@
           -2.8658,
           -0.9278,
           -3.1617,
-          -2.8747
+          -2.8747,
+          -0.3806
         ],
         "USA_response": [
-          -1.3875,
           -0.1866,
           -2.1012,
           -4.0045,
@@ -627,14 +626,18 @@
           -2.2323,
           -2.5196,
           -1.9435,
-          -3.6192
+          -3.6192,
+          -0.4667
         ]
+      },
+      "carried_forward": {
+        "USA_response": true,
+        "USA_threat": true
       }
     },
     "military": {
       "series": {
         "CHN_threat": [
-          0.0,
           -0.4444,
           -0.2857,
           -0.5,
@@ -664,10 +667,10 @@
           0.6,
           0.4319,
           0.2217,
-          0.0112
+          0.0112,
+          -1.4379
         ],
         "CHN_response": [
-          0.0,
           -0.5,
           -0.2727,
           0.7333,
@@ -697,10 +700,10 @@
           -0.1617,
           0.3333,
           0.1818,
-          0.0952
+          0.0952,
+          1.6667
         ],
         "USA_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -730,6 +733,7 @@
           0.0,
           0.0,
           0.0,
+          0.0,
           0.0
         ],
         "USA_response": [
@@ -767,8 +771,8 @@
         ]
       },
       "current": {
-        "CHN_threat": 0.0112,
-        "CHN_response": 0.0952,
+        "CHN_threat": -1.4379,
+        "CHN_response": 1.6667,
         "USA_threat": 0.0,
         "USA_response": 0.0
       },
@@ -780,7 +784,7 @@
       },
       "measured": {
         "CHN_threat": [
-          false,
+          true,
           true,
           true,
           true,
@@ -813,7 +817,7 @@
           true
         ],
         "CHN_response": [
-          false,
+          true,
           true,
           true,
           true,
@@ -849,20 +853,20 @@
           false,
           false,
           false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
           false,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
           false,
           false,
           false,
@@ -914,7 +918,6 @@
       },
       "series_raw": {
         "CHN_threat": [
-          0.0,
           -0.4444,
           -0.2857,
           -0.5,
@@ -944,10 +947,10 @@
           0.8637,
           0.4434,
           0.197,
-          0.0889
+          0.0889,
+          -1.6667
         ],
         "CHN_response": [
-          0.0,
           -0.5,
           -0.2727,
           0.7333,
@@ -977,10 +980,10 @@
           -0.1743,
           0.3333,
           0.1735,
-          0.0952
+          0.0952,
+          1.6667
         ],
         "USA_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -1010,6 +1013,7 @@
           0.0,
           0.0,
           0.0,
+          0.0,
           0.0
         ],
         "USA_response": [
@@ -1050,13 +1054,12 @@
     "supply": {
       "series": {
         "CHN_threat": [
-          -1.8286,
-          -1.5515,
-          -1.3045,
-          -1.0879,
-          -0.901,
-          -0.7417,
-          -0.6074,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           2.2857,
           1.9394,
           1.6306,
@@ -1080,16 +1083,16 @@
           -2.0576,
           -0.8534,
           -1.3108,
-          -1.4629
+          -1.4629,
+          -1.828
         ],
         "CHN_response": [
-          -1.8286,
-          -1.5515,
-          -1.3045,
-          -1.0879,
-          -0.901,
-          -0.7417,
-          -0.6074,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           0.0,
           0.0,
           -3.7636,
@@ -1113,15 +1116,15 @@
           -2.8213,
           -2.1143,
           -2.22,
-          -2.873
+          -2.873,
+          -0.8534
         ],
         "USA_threat": [
           -1.8286,
-          -1.8286,
-          -2.3391,
-          -2.0188,
-          -1.7238,
-          -1.4576,
+          -1.5515,
+          -1.3045,
+          -1.0879,
+          -0.901,
           -1.2333,
           -1.5201,
           -0.8397,
@@ -1146,16 +1149,16 @@
           -0.7394,
           -0.4482,
           -0.3641,
-          -0.2949
+          -0.2949,
+          -0.8828
         ],
         "USA_response": [
-          -1.8286,
-          -1.5515,
-          -1.3045,
+          0.0,
+          0.0,
           -3.0275,
-          -2.993,
-          -2.6287,
-          -2.2816,
+          -2.6582,
+          -2.3066,
+          -1.9794,
           -1.6812,
           -1.4148,
           -1.1809,
@@ -1179,29 +1182,30 @@
           -0.967,
           -0.4756,
           -0.3877,
-          -1.2333
+          -1.2333,
+          -1.6323
         ]
       },
       "current": {
-        "CHN_threat": -1.4629,
-        "CHN_response": -2.873,
-        "USA_threat": -0.2949,
-        "USA_response": -1.2333
+        "CHN_threat": -1.828,
+        "CHN_response": -0.8534,
+        "USA_threat": -0.8828,
+        "USA_response": -1.6323
       },
       "level": {
         "CHN_threat": "mod",
-        "CHN_response": "low",
+        "CHN_response": "mod",
         "USA_threat": "mod",
         "USA_response": "mod"
       },
       "measured": {
         "CHN_threat": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
           true,
           true,
           true,
@@ -1229,15 +1233,15 @@
           true
         ],
         "CHN_response": [
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
-          true,
           false,
           false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
           true,
           true,
           true,
@@ -1295,9 +1299,8 @@
           true
         ],
         "USA_response": [
-          true,
-          true,
-          true,
+          false,
+          false,
           true,
           true,
           true,
@@ -1309,6 +1312,7 @@
           false,
           false,
           false,
+          true,
           true,
           true,
           true,
@@ -1330,13 +1334,12 @@
       },
       "series_raw": {
         "CHN_threat": [
-          -1.8286,
-          -1.5515,
-          -1.3045,
-          -1.0879,
-          -0.901,
-          -0.7417,
-          -0.6074,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           2.2857,
           1.9394,
           1.6306,
@@ -1360,16 +1363,16 @@
           -1.0667,
           -1.6385,
           -1.8286,
-          -2.285
+          -2.285,
+          -1.6165
         ],
         "CHN_response": [
-          -1.8286,
-          -1.5515,
-          -1.3045,
-          -1.0879,
-          -0.901,
-          -0.7417,
-          -0.6074,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
           0.0,
           0.0,
           -3.7636,
@@ -1393,15 +1396,15 @@
           -3.9735,
           -2.775,
           -3.5913,
-          -1.0667
+          -1.0667,
+          -4.497
         ],
         "USA_threat": [
           -1.8286,
-          -1.8286,
-          -2.3391,
-          -2.0188,
-          -1.7238,
-          -1.4576,
+          -1.5515,
+          -1.3045,
+          -1.0879,
+          -0.901,
           -1.2333,
           -1.5201,
           -0.8397,
@@ -1426,16 +1429,16 @@
           -0.5603,
           -0.4551,
           -0.3686,
-          -1.0667
+          -1.0667,
+          -0.8828
         ],
         "USA_response": [
-          -1.8286,
-          -1.5515,
-          -1.3045,
+          0.0,
+          0.0,
           -3.0275,
-          -2.993,
-          -2.6287,
-          -2.2816,
+          -2.6582,
+          -2.3066,
+          -1.9794,
           -1.6812,
           -1.4148,
           -1.1809,
@@ -1459,11 +1462,11 @@
           -0.5945,
           -0.4846,
           -0.3936,
-          -3.2333
+          -3.2333,
+          -2.8741
         ]
       },
       "carried_forward": {
-        "USA_threat": true,
         "CHN_threat": true,
         "CHN_response": true
       }
@@ -1471,7 +1474,6 @@
     "diplomatic": {
       "series": {
         "CHN_threat": [
-          0.0,
           -0.5455,
           -0.1,
           -0.2226,
@@ -1501,15 +1503,15 @@
           0.0085,
           -0.4453,
           -0.2661,
-          -0.0
+          -0.0,
+          -0.594
         ],
         "CHN_response": [
-          0.75,
           0.1111,
           -0.4529,
-          -0.2576,
-          -0.1576,
-          -0.0887,
+          -0.2882,
+          -0.1729,
+          -0.0961,
           -1.1667,
           -0.6464,
           -1.0043,
@@ -1534,10 +1536,10 @@
           -0.0804,
           0.3941,
           0.2681,
-          0.1399
+          0.1399,
+          0.0952
         ],
         "USA_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -1567,10 +1569,10 @@
           -0.0619,
           -0.2148,
           0.3636,
-          -0.2084
+          -0.2084,
+          0.0976
         ],
         "USA_response": [
-          0.0,
           0.0,
           -0.1143,
           -3.0286,
@@ -1600,14 +1602,15 @@
           0.0715,
           -0.0093,
           -0.0047,
-          -1.2333
+          -1.2333,
+          -0.5696
         ]
       },
       "current": {
-        "CHN_threat": -0.0,
-        "CHN_response": 0.1399,
-        "USA_threat": -0.2084,
-        "USA_response": -1.2333
+        "CHN_threat": -0.594,
+        "CHN_response": 0.0952,
+        "USA_threat": 0.0976,
+        "USA_response": -0.5696
       },
       "level": {
         "CHN_threat": "mod",
@@ -1617,7 +1620,7 @@
       },
       "measured": {
         "CHN_threat": [
-          false,
+          true,
           true,
           true,
           true,
@@ -1689,7 +1692,7 @@
           false,
           false,
           false,
-          false,
+          true,
           true,
           true,
           true,
@@ -1717,7 +1720,7 @@
         ],
         "USA_response": [
           false,
-          false,
+          true,
           true,
           true,
           true,
@@ -1751,7 +1754,6 @@
       },
       "series_raw": {
         "CHN_threat": [
-          0.0,
           -0.5455,
           -0.1,
           -0.2226,
@@ -1781,15 +1783,15 @@
           -0.3167,
           -0.6667,
           -1.6444,
-          -1.1881
+          -1.1881,
+          -0.7138
         ],
         "CHN_response": [
-          0.75,
           0.1111,
           -0.4529,
-          -0.2576,
-          -0.1576,
-          -0.0887,
+          -0.2882,
+          -0.1729,
+          -0.0961,
           -1.1667,
           -0.6464,
           -1.0043,
@@ -1814,10 +1816,10 @@
           0.3,
           0.25,
           -1.275,
-          -0.8723
+          -0.8723,
+          -0.5406
         ],
         "USA_threat": [
-          0.0,
           0.0,
           0.0,
           0.0,
@@ -1847,10 +1849,10 @@
           -0.4296,
           0.8333,
           -0.4167,
-          0.2222
+          0.2222,
+          0.1143
         ],
         "USA_response": [
-          0.0,
           0.0,
           -0.1143,
           -3.0286,
@@ -1880,23 +1882,23 @@
           -0.5667,
           -0.8542,
           -0.9821,
-          -1.7312
+          -1.7312,
+          -1.3603
         ]
       },
       "carried_forward": {
-        "USA_threat": true
+        "CHN_threat": true
       }
     },
     "cyber": {
       "series": {
         "CHN": [
-          0.2125,
-          0.227,
-          0.2302,
-          0.1923,
-          0.1941,
-          0.2056,
-          0.2002,
+          0.2065,
+          0.222,
+          0.1799,
+          0.1841,
+          0.1983,
+          0.1933,
           0.1994,
           0.1905,
           0.1775,
@@ -1920,16 +1922,16 @@
           0.1493,
           0.1406,
           0.192,
-          0.2082
+          0.2082,
+          0.2165
         ],
         "USA": [
-          0.2,
-          0.2429,
-          0.2417,
-          0.2181,
-          0.2238,
-          0.2339,
-          0.2379,
+          0.2365,
+          0.2386,
+          0.2127,
+          0.2201,
+          0.2318,
+          0.2366,
           0.2731,
           0.2666,
           0.2548,
@@ -1953,22 +1955,22 @@
           0.168,
           0.152,
           0.1906,
-          0.1921
+          0.1921,
+          0.174
         ]
       },
       "current": {
-        "CHN": 0.2082,
-        "USA": 0.1921
+        "CHN": 0.2165,
+        "USA": 0.174
       },
       "series_raw": {
         "CHN": [
-          0.2125,
-          0.227,
-          0.2302,
-          0.1923,
-          0.1941,
-          0.2056,
-          0.2002,
+          0.2065,
+          0.222,
+          0.1799,
+          0.1841,
+          0.1983,
+          0.1933,
           0.1994,
           0.1905,
           0.1775,
@@ -1992,16 +1994,16 @@
           0.1509,
           0.1432,
           0.1968,
-          0.2082
+          0.2074,
+          0.2165
         ],
         "USA": [
-          0.2,
-          0.2429,
-          0.2417,
-          0.2181,
-          0.2238,
-          0.2339,
-          0.2379,
+          0.2365,
+          0.2386,
+          0.2127,
+          0.2201,
+          0.2318,
+          0.2366,
           0.2731,
           0.2666,
           0.2548,
@@ -2025,152 +2027,125 @@
           0.1685,
           0.1517,
           0.1879,
-          0.1921
+          0.1932,
+          0.174
         ]
       }
     }
   },
   "stats": {
     "window_days": 30,
-    "run_date": "2026-11-26",
+    "run_date": "2026-11-27",
     "events": {
-      "total_events_matched": 4510,
-      "total_mentions_matched": 18146,
-      "military_events": 93,
-      "military_mentions": 448,
-      "supply_events": 122,
-      "supply_mentions": 523,
-      "diplomatic_events": 451,
-      "diplomatic_mentions": 1671,
+      "total_events_matched": 4501,
+      "total_mentions_matched": 18087,
+      "military_events": 99,
+      "military_mentions": 488,
+      "supply_events": 114,
+      "supply_mentions": 483,
+      "diplomatic_events": 450,
+      "diplomatic_mentions": 1673,
       "by_partner": {
         "CHN": {
-          "events_all": 3044,
-          "events_military": 91,
-          "events_supply": 88,
-          "events_diplomatic": 336
+          "events_all": 3039,
+          "events_military": 97,
+          "events_supply": 84,
+          "events_diplomatic": 333
         },
         "USA": {
-          "events_all": 1466,
+          "events_all": 1462,
           "events_military": 2,
-          "events_supply": 34,
-          "events_diplomatic": 115
+          "events_supply": 30,
+          "events_diplomatic": 117
         }
       }
     },
     "gkg_cyber": {
-      "total_documents_matched": 2663,
+      "total_documents_matched": 2669,
       "by_partner": {
-        "CHN": 1356,
-        "USA": 1510
+        "CHN": 1352,
+        "USA": 1505
       }
     },
     "audit": {
       "enabled": true,
-      "date_audited": "2026-11-26",
-      "checked": 86,
-      "flagged": 80,
+      "date_audited": "2026-11-27",
+      "checked": 60,
+      "flagged": 51,
       "flagged_urls": [
-        "https://japantoday.com/category/features/travel/swap-the-winter-wonderland-for-a-seaside-paradise-agoda-picks-five-sun-soaked-shores-across-asia",
-        "https://www.chennaionline.com/news/japans-pm-urges-talks-with-china/",
-        "https://focustaiwan.tw/society/202611190003",
-        "https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470",
-        "https://ria.ru/20261125/kitay-2133758804.html",
-        "https://www.theepochtimes.com/opinion/china-sees-an-opening-as-scandal-topples-the-president-of-taiwans-last-south-american-ally-6125863",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/20/2003868071",
-        "https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/",
-        "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/",
-        "https://www.theepochtimes.com/world/taiwan-labor-party-official-detained-over-alleged-funding-from-china-6129390",
-        "https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys",
-        "https://www.jpost.com/business-and-innovation/article-915861",
-        "https://www.tribuneindia.com/news/comment/how-us-can-limit-nvidia-damage/",
-        "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
-        "https://www.hani.co.kr/arti/international/international_general/1288227.html",
-        "https://www.theepochtimes.com/opinion/the-neocloud-and-transshipment-how-china-sneaks-ai-compute-from-the-world-6125337",
-        "https://www.straitstimes.com/asia/taiwan-reports-two-russian-military-aircraft-nearby-second-time-this-week",
-        "https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868281",
+        "https://www.ng.ru/world/2026-11-24/6_9631_elections.html",
+        "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/",
+        "https://focustaiwan.tw:443/business/202611200021",
+        "https://www.rediff.com/news/report/alice-huang-was-in-touch-with-china-during-affair-with-ex-nvidia-ceo-report/20261123.htm",
+        "https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/",
+        "https://www.segye.com:443/newsView/20261127505562",
+        "https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia",
         "https://www.theepochtimes.com/world/taiwan-warns-carney-about-chinas-weaponization-of-interdependence-as-ottawa-seeks-deeper-ties-6128004",
-        "https://english.pravda.ru/news/world/174476-colombia-halts-brics-accession/",
-        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
-        "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438",
-        "https://telegrafi.com/tajvani-raporton-per-dy-aeroplane-ushtarake-ruse-prane-ishullit-hera-e-dyte-brenda-javes/",
-        "https://lb.ua/world/2026/11/19/782222_tayvan_vdruge_tizhden_povidomiv.html",
-        "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/",
-        "https://www.taipeitimes.com/News/biz/archives/2026/11/27/2003868454",
+        "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
+        "https://www.lasillavacia.com/en-vivo/bula-se-reunio-con-embajador-chino-tras-visita-de-congresistas-a-taiwan/",
+        "https://www.kathimerini.gr/world/564614521/apeiles-tramp-gia-neoys-dasmoys-pos-antedrasan-kina-vrazilia-e-e-kai-dimokratikoi-stis-ipa/",
+        "https://www.theepochtimes.com/opinion/should-the-us-preempt-china-with-a-naval-blockade-before-its-too-late-6126437",
+        "http://www.thetibetpost.com/news/exile/taipei-forum-warns-over-beijing%E2%80%99s-transnational-repression-and-ethnic-unity-law",
+        "https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami",
         "https://ua.korrespondent.net/ukraine/4930225-pidsumky-1911-reaktsiia-putina-i-koalitsiia-okhochykh",
         "https://www.taipeitimes.com/News/taiwan/archives/2026/11/21/2003868135",
-        "https://focustaiwan.tw/politics/202611190024",
-        "https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil",
-        "https://focustaiwan.tw:443/politics/202611240008",
-        "https://www.liverpoolecho.co.uk/travel/black-friday-flights-breathtaking-island-34968167",
-        "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
-        "https://www.mirror.co.uk/news/world-news/russian-bombers-fighter-trump-putin-37895045",
-        "https://www.ng.ru/world/2026-11-24/6_9631_elections.html",
-        "https://focustaiwan.tw/politics/202611260008",
-        "https://www.etoday.co.kr/news/view/2653509",
-        "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china",
-        "https://www.theglobeandmail.com/politics/article-taiwan-middle-power-pitch-belongs-carneys-trade-diversification-push/",
-        "https://www.lrt.lt/naujienos/pozicija/679/3126112/dovydas-skarolskis-taivanas-ar-kinijos-komunistai-leisimes-nukirsdinami",
-        "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
-        "https://www.lasillavacia.com/en-vivo/bula-se-reunio-con-embajador-chino-tras-visita-de-congresistas-a-taiwan/",
-        "https://focustaiwan.tw:443/business/202611200021",
-        "https://www.theglobeandmail.com/politics/article-carney-government-plans-to-conclude-trade-deal-with-taiwan-despite/",
         "http://www.thejakartapost.com/world/2026/11/25/australia-solomon-islands-sign-sweeping-pact-stymieing-china",
-        "https://thesun.ng/apec-presidents-xi-trump-meet-in-shenzhen/",
-        "https://www.whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868355",
-        "https://news.webindia123.com/news/Articles/World/20261121/4522742.html",
         "https://www.arabtimesonline.com/news/us-takes-china-dispute-over-taiwan-flight-restrictions-to-un-aviation-body/",
-        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483",
-        "https://www.china-files.com/taiwan-files-elezioni-locali-2026-shenzhen-sun-yat-sen/",
-        "https://www.thenational.com.pg/taiwan-office-closure-has-no-impact-on-png-us-ties/",
+        "https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257",
+        "https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace",
         "https://focustaiwan.tw/politics/202611260013",
-        "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646",
-        "https://ua.korrespondent.net/world/4930200-si-zasterih-trampa-schodo-taivanui",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/25/2003868355",
         "https://news.ltn.com.tw/news/focus/breakingnews/5652219",
-        "https://www.elespectador.com/mundo/mas-paises/china-acusa-a-taiwan-de-promover-el-separatismo-y-exige-frenar-sus-actividades-en-colombia/",
-        "https://www.wtxl.com/world/blacklisted-chinese-universities-procured-nvidia-chips-records-show",
+        "https://www.jpost.com/business-and-innovation/article-915861",
+        "https://news.webindia123.com/news/Articles/World/20261121/4522742.html",
+        "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit",
+        "https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html",
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868281",
+        "https://dailycaller.com/2026/11/21/trump-tremendous-tax-data-centers-overseas-china-ai/",
+        "https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html",
+        "https://www.orissapost.com/taiwan-welcomes-jensen-huangs-return-as-nvidia-ceo/",
+        "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646",
+        "https://news.ltn.com.tw/news/focus/breakingnews/5653523",
+        "https://www.thestar.com.my/business/business-news/2026/11/20/malaysia039s-trade-rises-58-to-rm4366bil-in-oct---dosm",
+        "https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html",
+        "https://news3lv.com/news/nation-world/trump-administration-proposes-20-tariff-on-chinese-goods-new-levies-on-13-partners-european-union-japan-south-korea-taiwan-excessive-manufacturing-economy-section-301-trade-act-1974-brazil",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/21/2003868118",
+        "https://focustaiwan.tw:443/politics/202611240008",
+        "http://www.sitkasentinel.com/stories/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china,189211",
+        "http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html",
+        "https://www.riotimesonline.com/un-agency-faces-us-push-over-taiwan-flight-to-eswatini/",
+        "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868470",
         "https://www.straitstimes.com/asia/east-asia/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry",
-        "https://www.sknvibes.com/news/newsdetails.cfm/128125",
-        "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html",
-        "https://focustaiwan.tw/business/202611190021",
-        "https://www.theepochtimes.com/opinion/should-the-us-preempt-china-with-a-naval-blockade-before-its-too-late-6126437",
-        "https://www.techtimes.com/articles/331032/20261118/nvidia-chip-packaging-deal-funds-spil-lines-making-ai-chip-interposer-wafers-not-just-assembly.htm",
-        "https://novamakedonija.com.mk/svet/kina-isprati-ostro-predupreduvanje-do-vashington-ne-igrajte-si-so-prashanjeto-za-tajvan/",
-        "https://www.okaz.com.sa/politics/na/2276319",
-        "https://www.ocregister.com/2026/11/24/from-yalta-to-shenzhen-the-return-of-spheres-of-influence-and-the-collapse-of-consensus/",
-        "https://www.mk.ru/politics/2026/11/26/dve-strany-briks-vozmushheny-ugrozami-trampa-usilit-torgovuyu-voynu.html",
-        "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/",
+        "https://www.kathimerini.com.cy/gr/kosmos/apeiles-tramp-gia-neoys-dasmoys",
         "https://www.taipeitimes.com/News/taiwan/archives/2026/11/24/2003868283",
-        "http://www.thetibetpost.com/news/exile/taipei-forum-warns-over-beijing%E2%80%99s-transnational-repression-and-ethnic-unity-law",
-        "https://en.apa.az/asia/chinese-leader-warns-trump-over-taiwan-537151",
-        "https://www.asiaone.com/asia/taiwan-comedian-shoots-punch-lines-combat-chinas-anger-his-jokes",
-        "https://www.rediff.com/news/report/alice-huang-was-in-touch-with-china-during-affair-with-ex-nvidia-ceo-report/20261123.htm",
-        "https://www.delfi.lt/naujienos/uzsienyje/tikiuosi-kad-klystu-buves-jav-admirolas-apie-galima-kinijos-puolima-120339059",
-        "https://www.thenational.com.pg/closing-taiwan-office-not-easy/",
+        "https://ria.ru/20261125/kitay-2133758804.html",
+        "http://eng.chinamil.com.cn/2025xb/O_251451/16501068.html",
+        "https://slguardian.org/taiwan-is-preparing-for-a-war-that-could-reshape-the-world/",
+        "http://www.zerohedge.com/geopolitical/pepe-escobar-says-putin-vows-massive-retaliation-over-crimean-bridge-attack-china",
+        "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say",
         "https://focustaiwan.tw/culture/202611210018"
       ],
-      "corrections_applied": 14,
+      "corrections_applied": 12,
       "audit_log_file": "audit_log.json",
       "degraded": false,
-      "api_calls": 16,
+      "api_calls": 56,
       "api_failures": 0,
       "tokens": {
-        "input_tokens": 29618,
-        "output_tokens": 4027,
+        "input_tokens": 96573,
+        "output_tokens": 13078,
         "cache_write": 0,
         "cache_read": 0
       },
-      "cache_hits": 69,
+      "cache_hits": 0,
       "skipped_over_cap": 0,
       "carried_forward_fields": [
-        "diplomatic.USA_threat",
+        "diplomatic.CHN_threat",
+        "overall.USA_response",
+        "overall.USA_threat",
         "supply.CHN_response",
-        "supply.CHN_threat",
-        "supply.USA_threat"
+        "supply.CHN_threat"
       ],
-      "carried_forward_count": 4
+      "carried_forward_count": 5
     }
   },
   "partner_names": {
@@ -2179,8 +2154,66 @@
   },
   "note": "CSTI = Goldstein(1992,JCR) x NumMentions weighted avg x (-1); cyber = GKG V2Tone-based proxy, no directionality",
   "top_articles": {
+    "overall": {
+      "CHN_response": [
+        {
+          "url": "https://korrespondent.net/world/4932450-kytai-podnial-30-boevykh-samoletov-vozle-taivania",
+          "goldstein": -10.0,
+          "mentions": 8,
+          "actor1": "TAIWAN",
+          "actor2": "CHINESE",
+          "event_code": "190",
+          "title": "Китай поднял 30 боевых самолетов возле Тайваня - Korrespondent.net",
+          "days_ago": 0
+        },
+        {
+          "url": "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills",
+          "goldstein": -10.0,
+          "mentions": 4,
+          "actor1": "TAIWAN",
+          "actor2": "CHINA",
+          "event_code": "190",
+          "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+          "days_ago": 0
+        }
+      ],
+      "CHN_threat": [
+        {
+          "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+          "goldstein": -4.4,
+          "mentions": 20,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "130",
+          "title": "Threat from China looms large over Taiwan’s local elections | Taiwan | The Guardian",
+          "days_ago": 0
+        },
+        {
+          "url": "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills",
+          "goldstein": 5.0,
+          "mentions": 16,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "080",
+          "title": null,
+          "days_ago": 0
+        }
+      ],
+      "USA_response": [],
+      "USA_threat": []
+    },
     "diplomatic": {
       "USA_response": [
+        {
+          "url": "https://asianews.network/jensen-huang-is-back-but-it-wont-be-business-as-usual-for-taiwans-tech-industry/",
+          "goldstein": 3.5,
+          "mentions": 7,
+          "actor1": "TAIWANESE",
+          "actor2": "NVIDIA",
+          "event_code": "050",
+          "title": "One moment, please...",
+          "days_ago": 2
+        },
         {
           "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
           "goldstein": 7.4,
@@ -2189,10 +2222,21 @@
           "actor2": "UNITED STATES",
           "event_code": "071",
           "title": "Taiwan outlines US investment support - Taipei Times",
-          "days_ago": 0
+          "days_ago": 1
         }
       ],
-      "USA_threat": [],
+      "USA_threat": [
+        {
+          "url": "https://timesofindia.indiatimes.com/india/asia-power-index-2026-us-china-india-rank-as-top-3-powers-pm-modi-second-to-xi-in-regional-leadership/articleshow/136088182.cms",
+          "goldstein": -4.0,
+          "mentions": 1,
+          "actor1": "UNITED STATES",
+          "actor2": "TAIWAN",
+          "event_code": "120",
+          "title": "Asia Power Index 2026: US, China, India rank as top 3 powers; PM Modi second to Xi in regional leadership | India News - The Times of India",
+          "days_ago": 4
+        }
+      ],
       "CHN_response": [
         {
           "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
@@ -2202,151 +2246,45 @@
           "actor2": "BEIJING",
           "event_code": "016",
           "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
-          "days_ago": 2
-        },
-        {
-          "url": "https://www.asiaone.com:443/asia/taiwans-elections-not-about-china-beijing-has-lot-say",
-          "goldstein": 3.0,
-          "mentions": 2,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "020",
-          "title": null,
-          "days_ago": 2
+          "days_ago": 3
         }
       ],
-      "CHN_threat": [
-        {
-          "url": "https://istoe.com.br/xi-jinping-fim-armas-nucleares-trump-putin",
-          "goldstein": 0.0,
-          "mentions": 10,
-          "actor1": "XI JINPING",
-          "actor2": "TAIWAN",
-          "event_code": "010",
-          "title": null,
-          "days_ago": 7
-        },
-        {
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit",
-          "goldstein": 0.0,
-          "mentions": 3,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "010",
-          "title": null,
-          "days_ago": 6
-        }
-      ]
-    },
-    "overall": {
-      "USA_threat": [
-        {
-          "url": "https://www.moneycontrol.com/news/business/india-s-us-tariff-disadvantage-with-advanced-economies-could-widen-to-25-percentage-points-once-existing-customs-duties-are-factored-in-14089726.html",
-          "goldstein": 3.0,
-          "mentions": 8,
-          "actor1": "THE US",
-          "actor2": "TAIWAN",
-          "event_code": "020",
-          "title": null,
-          "days_ago": 0
-        },
-        {
-          "url": "https://www.cbc.ca/news/world/nvidia-singapore-9.7436761",
-          "goldstein": 3.5,
-          "mentions": 4,
-          "actor1": "NVIDIA",
-          "actor2": "TAIWAN",
-          "event_code": "050",
-          "title": null,
-          "days_ago": 0
-        }
-      ],
-      "USA_response": [
-        {
-          "url": "https://www.taipeitimes.com/News/editorials/archives/2026/11/27/2003868461",
-          "goldstein": 5.0,
-          "mentions": 4,
-          "actor1": "TAIWAN",
-          "actor2": "NVIDIA",
-          "event_code": "0831",
-          "title": null,
-          "days_ago": 0
-        },
-        {
-          "url": "https://www.siliconrepublic.com/business/ft-nvidia-turns-down-south-asian-shipments-after-new-us-chip-curbs",
-          "goldstein": -5.0,
-          "mentions": 3,
-          "actor1": "TAIWANESE",
-          "actor2": "NVIDIA",
-          "event_code": "173",
-          "title": null,
-          "days_ago": 0
-        }
-      ],
-      "CHN_response": [
-        {
-          "url": "https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/",
-          "goldstein": 7.0,
-          "mentions": 6,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "046",
-          "title": "Taiwan: Individual Chinese tourists to arrive by mid-year",
-          "days_ago": 0
-        },
-        {
-          "url": "http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html",
-          "goldstein": 1.9,
-          "mentions": 20,
-          "actor1": "TAIWAN",
-          "actor2": "CHINA",
-          "event_code": "042",
-          "title": "La partie continentale de la Chine reste le meilleur endroit pour les entrepreneurs taiwanais",
-          "days_ago": 0
-        }
-      ],
-      "CHN_threat": [
-        {
-          "url": "http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html",
-          "goldstein": 2.8,
-          "mentions": 30,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "043",
-          "title": "La partie continentale de la Chine reste le meilleur endroit pour les entrepreneurs taiwanais",
-          "days_ago": 0
-        },
-        {
-          "url": "https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/",
-          "goldstein": 7.0,
-          "mentions": 6,
-          "actor1": "CHINA",
-          "actor2": "TAIWAN",
-          "event_code": "046",
-          "title": "Taiwan: Individual Chinese tourists to arrive by mid-year",
-          "days_ago": 0
-        }
-      ]
-    },
-    "supply": {
-      "USA_response": [
-        {
-          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
-          "goldstein": 7.4,
-          "mentions": 1,
-          "actor1": "TAIWANESE",
-          "actor2": "UNITED STATES",
-          "event_code": "071",
-          "title": "Taiwan outlines US investment support - Taipei Times",
-          "days_ago": 0
-        }
-      ],
-      "USA_threat": [],
-      "CHN_threat": [],
-      "CHN_response": []
+      "CHN_threat": []
     },
     "military": {
+      "CHN_threat": [
+        {
+          "url": "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills",
+          "goldstein": 5.0,
+          "mentions": 16,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "080",
+          "title": null,
+          "days_ago": 0
+        },
+        {
+          "url": "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills",
+          "goldstein": 5.0,
+          "mentions": 10,
+          "actor1": "CHINA",
+          "actor2": "TAIWAN",
+          "event_code": "080",
+          "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+          "days_ago": 0
+        }
+      ],
       "CHN_response": [
+        {
+          "url": "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills",
+          "goldstein": -10.0,
+          "mentions": 4,
+          "actor1": "TAIWAN",
+          "actor2": "CHINA",
+          "event_code": "190",
+          "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+          "days_ago": 0
+        },
         {
           "url": "https://www.ibtimes.com/china-military-patrol-aircraft-around-taiwan-3810111",
           "goldstein": -2.0,
@@ -2355,49 +2293,81 @@
           "actor2": "CHINESE",
           "event_code": "090",
           "title": "China Deploys Bombers, Fighter Jets Near Taiwan. 15 Aircraft Cross Median Line In Coordinated Patrol. | IBTimes",
-          "days_ago": 2
-        }
-      ],
-      "CHN_threat": [
-        {
-          "url": "http://www.jpost.com/conferences/article-915400",
-          "goldstein": -7.2,
-          "mentions": 6,
-          "actor1": "CHINESE",
-          "actor2": "TAIWAN",
-          "event_code": "154",
-          "title": "Iran, China threats highlight need for Israel, Australia to rethink defense | The Jerusalem Post",
-          "days_ago": 7
+          "days_ago": 3
         }
       ]
+    },
+    "supply": {
+      "USA_response": [
+        {
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483",
+          "goldstein": 6.4,
+          "mentions": 2,
+          "actor1": "TAIWAN",
+          "actor2": "THE US",
+          "event_code": "061",
+          "title": "322 agricultural items still exempt from US tariffs - Taipei Times",
+          "days_ago": 1
+        },
+        {
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
+          "goldstein": 7.4,
+          "mentions": 1,
+          "actor1": "TAIWANESE",
+          "actor2": "UNITED STATES",
+          "event_code": "071",
+          "title": "Taiwan outlines US investment support - Taipei Times",
+          "days_ago": 1
+        }
+      ],
+      "USA_threat": [
+        {
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483",
+          "goldstein": 6.4,
+          "mentions": 5,
+          "actor1": "THE US",
+          "actor2": "TAIWAN",
+          "event_code": "061",
+          "title": "322 agricultural items still exempt from US tariffs - Taipei Times",
+          "days_ago": 1
+        }
+      ],
+      "CHN_threat": [],
+      "CHN_response": []
     }
   },
   "commentary": {
-    "ko": "대만-중국 관계에서 중국→대만 채널이 협력 쪽으로 -0.94 하락했다. 중국 본토가 대만 기업인들에게 여전히 최고의 사업 기회 지역이라는 보도와 중국 관광객의 개별 방문이 중반까지 재개될 예정이라는 보도가 긴장 완화에 기여했다. 다만 대만→미국 외교 채널은 -1.23 하락했는데, 이는 측정 기준이 없는 상태에서의 변동이다.",
-    "en": "In Taiwan-China relations, the China→Taiwan channel fell 0.94 points toward cooperation. Reports on mainland China remaining an optimal business location for Taiwanese entrepreneurs and the resumption of individual Chinese tourist arrivals by mid-year contributed to reduced tension. The Taiwan→US diplomatic channel declined 1.23 points, though measured data for this shift is unavailable.",
-    "zh": "在臺灣與中國的關係中，中國→臺灣頻道下降0.94點，往協力方向發展。關於中國大陸仍是臺灣企業家最佳經商地點的報導，以及中國個別觀光客預計中年開始抵臺的報導，都有助於緩解緊張。惟臺灣→美國外交頻道下降1.23點，此時期內無可用測量數據。",
+    "ko": "대만-중국 관계에서 대만→중국 방향의 긴장이 급상승했다. 중국이 대만 인근에서 30대의 전투기를 운용했다는 보도가 긴장 지수를 크게 상향시켰다. 동시에 중국→대만 방향의 군사 채널은 협력 쪽으로 움직였는데, 중국군이 대만 상륙 작전 훈련을 실시했다는 보도의 영향으로 보인다. 중국→대만 전체 채널도 소폭 협력 쪽으로 이동했으나, 대만의 지방선거를 둘러싼 중국의 위협 담론이 긴장을 가중시켰다. 대만-미국 관계는 전반적으로 협력 기조를 유지했으며, 미국의 농산물 관세 면제 조치가 공급망 채널에서 협력을 강화했다.",
+    "en": "Taiwan-China tensions surged sharply in the Taiwan→China direction as reporting on 30 Chinese combat aircraft operating near Taiwan significantly raised the index. Meanwhile, the China→Taiwan military channel moved toward cooperation, influenced by coverage of Chinese military landing operation drills. The overall China→Taiwan channel also moved slightly toward cooperation, though Chinese threat rhetoric surrounding Taiwan's local elections added tension. Taiwan-US relations maintained cooperative footing overall, with US agricultural tariff exemptions strengthening the supply chain channel toward cooperation.",
+    "zh": "臺灣與中國關係中，臺灣→中國方向的緊張局勢急速上升，中國在臺灣附近調動30架戰鬥機的報導大幅推高指數。同時，中國→臺灣的軍事管道朝向合作移動，受到中國軍隊進行登陸作戰演習報導的影響。中國→臺灣的整體管道也輕微朝向合作移動，但中國圍繞臺灣地方選舉的威脅言論加重了緊張局勢。臺灣與美國的關係整體上保持合作態勢，美國的農產品關稅豁免措施強化了供應鏈管道的合作。",
     "sources": [
       {
-        "url": "http://french.peopledaily.com.cn/Chine/n3/2026/1126/c31354-20523217.html",
-        "title": "La partie continentale de la Chine reste le meilleur endroit pour les entrepreneurs taiwanais",
+        "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+        "title": "Threat from China looms large over Taiwan’s local elections | Taiwan | The Guardian",
         "actor1": "CHINA",
         "actor2": "TAIWAN"
       },
       {
-        "url": "https://eturbonews.com/taiwan-individual-chinese-tourists-arrive-mid-year/",
-        "title": "Taiwan: Individual Chinese tourists to arrive by mid-year",
+        "url": "https://korrespondent.net/world/4932450-kytai-podnial-30-boevykh-samoletov-vozle-taivania",
+        "title": "Китай поднял 30 боевых самолетов возле Тайваня - Korrespondent.net",
         "actor1": "TAIWAN",
-        "actor2": "CHINA"
+        "actor2": "CHINESE"
       },
       {
-        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868482",
-        "title": "Taiwan outlines US investment support - Taipei Times",
-        "actor1": "TAIWANESE",
-        "actor2": "UNITED STATES"
+        "url": "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills",
+        "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+        "actor1": "CHINA",
+        "actor2": "TAIWAN"
+      },
+      {
+        "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/27/2003868483",
+        "title": "322 agricultural items still exempt from US tariffs - Taipei Times",
+        "actor1": "THE US",
+        "actor2": "TAIWAN"
       }
     ],
     "model": "claude-haiku-4-5-20251001",
-    "generated_at": "2026-11-26T22:36:46.915231",
+    "generated_at": "2026-11-27T10:10:32.803084",
     "basis": "index values and the audited records listed in sources; no external search"
   }
 }

@@ -1,0 +1,154 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T10:10:25.479149",
+ "codebook_fingerprint": "c7f5b2daf3d781e5",
+ "mode": "shadow",
+ "model": "claude-haiku-4-5-20251001",
+ "n_articles": 16,
+ "n_coded": 16,
+ "n_relevant": 4,
+ "stats": {
+  "api_calls": 16,
+  "api_failures": 0,
+  "unparseable": 0,
+  "unpriced": 0,
+  "cache_write": 11036,
+  "cache_read": 165540,
+  "input_uncached": 2681,
+  "folded": 0
+ },
+ "articles": {
+  "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 20,
+   "title": "Threat from China looms large over Taiwan’s local elections | Taiwan | The Guardian"
+  },
+  "https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 16,
+   "title": "Taipei mayoral race: How upstart candidate Puma Shen is challenging the KMT’s historic stronghold in Taiwan’s capital"
+  },
+  "https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China | World | the-messenger.com"
+  },
+  "http://www.sitkasentinel.com/stories/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china,189211": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China - Daily Sitka Sentinel"
+  },
+  "https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "국정원 “中에 정보원 석방 조건으로 대만 정보 제공 제안한 적 없어”"
+  },
+  "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 10,
+   "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills"
+  },
+  "https://korrespondent.net/world/4932450-kytai-podnial-30-boevykh-samoletov-vozle-taivania": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 8,
+   "title": "Китай поднял 30 боевых самолетов возле Тайваня - Korrespondent.net"
+  },
+  "http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "AP News Summary at 3:13 a.m. EST | Nation | cecildaily.com"
+  },
+  "https://biz.heraldcorp.com/article/10951705": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "靑 국정원장 교체 배경에…韓·中 ‘반도체 전쟁’ 있었다 - 헤럴드경제"
+  },
+  "https://www.segye.com:443/newsView/20261127505562": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 8,
+   "title": "다이빙 주한중국대사 “한·미동맹, 중국 겨냥해선 안돼” | 세계일보"
+  },
+  "https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 7,
+   "title": "China slams PH-Australia defense pact, calls Japan 'destroyer' of regional peace | Philstar.com"
+  },
+  "https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 6,
+   "title": "Chinese military tests new Taiwan landing tactics in coastal drills | The Straits Times"
+  },
+  "https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Trump says Huang excited about his 'second term' at Nvidia - The Business Times"
+  },
+  "https://www.hani.co.kr/arti/english_edition/e_international/1289403.html": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 3,
+   "title": "Beijing sought Seoul’s intel on foreign operatives in Korea in exchange for Korean informant’s release"
+  },
+  "https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html": {
+   "tags": {
+    "v1": "yes",
+    "v2": "CHN",
+    "v3": "threat",
+    "v4": "military",
+    "v5": "150",
+    "conf": "high"
+   },
+   "mentions": 2,
+   "title": "Chinese military tests new Taiwan landing tactics in coastal drills | Top News | lufkindailynews.com"
+  },
+  "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 2,
+   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China - ABC News"
+  }
+ }
+}
