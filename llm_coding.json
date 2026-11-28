@@ -1,64 +1,38 @@
 {
- "date": "2026-11-27",
- "generated_at": "2026-11-27T22:22:13.750669",
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T09:30:11.902389",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "mode": "shadow",
  "model": "claude-haiku-4-5-20251001",
- "n_articles": 51,
- "n_coded": 49,
- "n_relevant": 16,
+ "n_articles": 21,
+ "n_coded": 21,
+ "n_relevant": 3,
  "stats": {
-  "api_calls": 35,
+  "api_calls": 21,
   "api_failures": 0,
-  "unparseable": 2,
+  "unparseable": 0,
   "unpriced": 0,
   "cache_write": 11036,
-  "cache_read": 375224,
-  "input_uncached": 11104,
+  "cache_read": 220720,
+  "input_uncached": 8856,
   "folded": 0
  },
  "articles": {
-  "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 20,
-   "title": "Threat from China looms large over Taiwan’s local elections | Taiwan | The Guardian"
-  },
-  "https://japantoday.com/category/world/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 16,
-   "title": "Chinese military tests new Taiwan landing tactics in coastal drills"
-  },
-  "https://www.smh.com.au/world/asia/he-s-savvy-telegenic-and-knows-how-to-draw-a-crowd-why-this-mayoral-candidate-has-china-on-edge-20261127-p61h7c.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 16,
-   "title": "Taipei mayoral race: How upstart candidate Puma Shen is challenging the KMT’s historic stronghold in Taiwan’s capital"
-  },
-  "https://openthemagazine.com/world/sleeping-on-taiwan": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 16,
-   "title": "Xi Jinping's Taiwan Warning: A Strategic Shift at the Shenzhen Summit"
-  },
-  "https://www.theepochtimes.com/china/taiwan-sentences-ex-navy-officer-to-prison-in-china-spy-case-6130162": {
+  "https://www.infobae.com/america/mundo/2026/11/28/donald-trump-inaugurara-una-planta-que-entrega-chips-a-nvidia-en-una-senal-de-respaldo-a-jensen-huang-como-ceo-de-la-empresa/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Taiwan Sentences Ex-Navy Officer to Prison in China Spy Case | The Epoch Times"
+   "title": "Donald Trump inaugurará una planta que entrega chips a Nvidia en una señal de respaldo a Jensen Huang como CEO de la empresa - Infobae"
   },
-  "https://www.unian.ua/world/kitay-proviv-masshtabni-navchannya-iz-visadki-desantu-na-tayvan-reuters-13573749.html": {
+  "https://executivedigest.sapo.pt/trump-vai-inaugurar-fabrica-que-produz-chips-para-a-nvidia-apos-reconducao-de-jensen-huang/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 10,
+   "title": "Trump vai inaugurar fábrica que produz chips para a Nvidia após recondução de Jensen Huang"
+  },
+  "https://www.aljazeera.net/news/2026/11/28/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%B1%D8%B5%D8%AF-33-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%8812-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AD%D9%88%D9%84": {
    "tags": {
     "v1": "yes",
     "v2": "CHN",
@@ -68,106 +42,37 @@
     "conf": "high"
    },
    "mentions": 10,
-   "title": "Китай провів масштабні навчання із висадки десанту на Тайвань, - Reuters"
+   "title": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها | أخبار | الجزيرة نت"
   },
-  "https://www.business-standard.com/opinion/columns/xi-trump-summit-signals-a-shifting-order-india-must-learn-to-navigate-126112701476_1.html": {
+  "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "Xi-Trump summit signals a shifting order India must learn to navigate"
+   "title": "Taiwan votes in local elections to choose mayors, other leaders | Elections News | Al Jazeera"
   },
-  "https://www.thecattlesite.com/news/us-beef-exports-to-taiwan-jump-23-in-september": {
+  "https://executivedigest.sapo.pt/taiwan-inicia-eleicoes-locais-sob-alertas-de-interferencia-chinesa/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 10,
-   "title": "US beef exports to Taiwan jump 23% in September\n\t\t\t\t\t\t | The Cattle Site"
+   "title": "Taiwan inicia eleições locais sob alertas de interferência chinesa"
   },
-  "https://www.edaily.co.kr/News/Read?newsId=01436646645649984&mediaCodeNo=257": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "국정원 “中에 정보원 석방 조건으로 대만 정보 제공 제안한 적 없어”"
-  },
-  "http://www.sitkasentinel.com/stories/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china,189211": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China - Daily Sitka Sentinel"
-  },
-  "https://manager.bg/%D1%81%D0%B2%D1%8F%D1%82/kitaiskata-armia-testva-novi-desantni-taktiki-za-taivan-v-kraibrezni-uchenia": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 10,
-   "title": "Китайската армия тества нови десантни тактики за Тайван в крайбрежни учения - Свят - manager.bg"
-  },
-  "https://www.independent.co.uk/asia/china/china-taiwan-landing-drill-b3092537.html": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 10,
-   "title": "Satellite images reveal China testing new method to land troops ashore in Taiwan drill | The Independent"
-  },
-  "https://english.aawsat.com/world/5346198-chinese-military-tests-new-taiwan-landing-tactics-coastal-drills": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 10,
-   "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills"
-  },
-  "https://www.the-messenger.com/news/world/article_7774ed6f-b924-5489-ac78-9ca65b3ef584.html": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 10,
-   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China | World | the-messenger.com"
-  },
-  "https://www.ottopagine.it/mondo/politica/445218/taiwan-al-voto-la-cina-schiera-30-aerei-militari-e-prepara-ponti-da-sbarco.shtml": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 10,
-   "title": "Taiwan al voto, la Cina schiera 30 aerei militari e prepara ponti da sbarco - Ottopagine.it Mondo"
-  },
-  "https://www.theepochtimes.com/china/chinas-space-program-could-hand-its-military-an-edge-in-future-wars-analysts-warn-6129880": {
+  "https://dominicanrepublicpost.com/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "China’s Space Program Could Hand Its Military an Edge in Future Wars, Analysts Warn | The Epoch Times"
+   "title": "Taiwan votes in local elections to choose mayors, other leaders  - Dominican Republic Post – Caribbean News, Business, Travel & Culture"
   },
-  "https://focustaiwan.tw:443/business/202611270009": {
+  "https://www.dw.com/en/polls-open-in-taiwans-closely-watched-local-elections/a-80083086": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Stock market jitters weigh on Taiwan consumer confidence: Survey - Focus Taiwan"
+   "title": "Taiwan goes to polls in closely watched local elections"
   },
-  "https://korrespondent.net/world/4932450-kytai-podnial-30-boevykh-samoletov-vozle-taivania": {
+  "https://www.theepochtimes.com/china/china-tests-floating-bridge-made-of-civilian-ships-in-military-landing-drills-6130194": {
    "tags": {
     "v1": "yes",
     "v2": "CHN",
@@ -177,37 +82,30 @@
     "conf": "high"
    },
    "mentions": 8,
-   "title": "Китай поднял 30 боевых самолетов возле Тайваня - Korrespondent.net"
+   "title": "China Tests Floating Bridge Made of Civilian Ships in Military Landing Drills | The Epoch Times"
   },
-  "https://biz.heraldcorp.com/article/10951705": {
+  "https://dominicanrepublicpost.com/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "靑 국정원장 교체 배경에…韓·中 ‘반도체 전쟁’ 있었다 - 헤럴드경제"
+   "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?  - Dominican Republic Post – Caribbean News, Business, Travel & Culture"
   },
-  "https://www.portfolio.hu/global/20261127/egymasnak-feszulnek-a-katonai-hatalmak-egyre-sulyosabb-a-helyzet-mar-a-legrosszabbra-keszulnek-879734": {
+  "https://www.hindustantimes.com/world-news/taiwan-heads-for-local-elections-ahead-of-2028-presidential-race-china-keeps-a-close-eye-101795827184750.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "Egymásnak feszülnek a katonai hatalmak: egyre súlyosabb a helyzet, már a legrosszabbra készülnek - Portfolio.hu"
+   "title": "Taiwan heads for local elections ahead of 2028 presidential race, China keeps a close eye | World News"
   },
-  "http://www.cecildaily.com/ap/nation/ap-news-summary-at-3-13-a-m-est/article_99b31b89-ec4d-58cb-934b-a9365ea97088.html": {
+  "https://jang.com.pk/news/1637276": {
    "tags": {
     "v1": "no"
    },
    "mentions": 8,
-   "title": "AP News Summary at 3:13 a.m. EST | Nation | cecildaily.com"
+   "title": "تین بڑوں کی بیٹھک!"
   },
-  "https://www.segye.com:443/newsView/20261127505562": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "다이빙 주한중국대사 “한·미동맹, 중국 겨냥해선 안돼” | 세계일보"
-  },
-  "https://ua.korrespondent.net/world/4932618-kytai-vidpratsovuie-vysadku-desantu-na-taivan": {
+  "https://news.republika.co.id/berita/tp6uc5451/jelang-pemilu-taiwan-china-kerahkan-30-penerbangan-militer-26-lintasi-garis-tengah-selat": {
    "tags": {
     "v1": "yes",
     "v2": "CHN",
@@ -217,229 +115,70 @@
     "conf": "high"
    },
    "mentions": 8,
-   "title": "Китай відпрацьовує висадку десанту на Тайвань - Korrespondent.net"
+   "title": "Jelang Pemilu Taiwan, China Kerahkan 30 Penerbangan Militer, 26 Lintasi Garis Tengah Selat | Republika Online"
   },
-  "https://korrespondent.net/world/4932618-kytai-otrabatyvaet-vysadku-desanta-na-taivan": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 8,
-   "title": "Китай отрабатывает высадку десанта на Тайвань - Korrespondent.net"
-  },
-  "https://www.elnuevosiglo.com.co/columnistas/yo-tambien-soy-taiwanes": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 8,
-   "title": "Yo también soy taiwanés | El Nuevo Siglo"
-  },
-  "https://www.thehindu.com/news/international/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article71752063.ece": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 7,
-   "title": "Chinese Military tests new Taiwan landing tactics in coastal drills - The Hindu"
-  },
-  "https://www.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 7,
-   "title": "China slams PH-Australia defense pact, calls Japan 'destroyer' of regional peace | Philstar.com"
-  },
-  "https://www.voanews.com/a/explainer-why-beijing-is-watching-taiwan-s-local-elections-and-what-they-could-mean-for-2028-20261127/8228726.html": {
+  "https://orf.at/stories/3449504/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 6,
-   "title": "Explainer: Why Beijing is watching Taiwan’s local elections, and what they could mean for 2028"
+   "title": "Stimmungstest für 2028: Kommunalwahlen in Taiwan - news.ORF.at"
   },
-  "https://nypost.com/2026/11/27/tech/chinese-ads-selling-banned-nvidia-servers-for-3m-as-jensen-huang-scandal-chokes-supply-market-is-crazy/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "Chinese ads selling banned Nvidia servers for $3M as Jensen Huang scandal chokes supply: 'Market is crazy'"
-  },
-  "https://www.newsweek.com/chinas-next-aircraft-carrier-shaping-up-to-be-worlds-biggest-12773882": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 6,
-   "title": "China’s Next Aircraft Carrier Shaping Up To Be World’s Biggest   - Newsweek"
-  },
-  "https://www.taipeitimes.com/News/taiwan/archives/2026/11/28/2003868536": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 6,
-   "title": "China tests landing tactics in drills - Taipei Times"
-  },
-  "https://www.straitstimes.com/asia/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 6,
-   "title": "Chinese military tests new Taiwan landing tactics in coastal drills | The Straits Times"
-  },
-  "https://www.theepochtimes.com/china/taiwans-local-elections-5-things-to-know-about-the-china-factor-6129941": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 6,
-   "title": "Taiwan’s Local Elections: 5 Things to Know About the China Factor | The Epoch Times"
-  },
-  "https://news.ltn.com.tw/news/focus/breakingnews/5655937": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 5,
-   "title": "《TAIPEI TIMES》 China tests landing tactics in drills - 焦點 - 自由時報電子報"
-  },
-  "https://www.taipeitimes.com/News/biz/archives/2026/11/28/2003868511": {
+  "https://www.sbctv.gr/2026/11/%CF%84%CE%B1%CE%B9%CE%B2%CE%B1%CE%BD-%CE%BF%CE%B9-%CF%88%CE%B7%CF%86%CE%BF%CF%86%CE%BF%CF%81%CE%BF%CE%B9-%CE%B5%CE%BA%CE%BB%CE%B5%CE%B3%CE%BF%CF%85%CE%BD/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 4,
-   "title": "Stock market jitters sap confidence - Taipei Times"
+   "title": "Ταϊβάν: Οι ψηφοφόροι εκλέγουν δημάρχους με το Πεκίνο να παρεμβαίνει"
   },
-  "https://www.dailyexcelsior.com/meet-the-rising-mayoral-candidate-in-taiwan-whos-also-sanctioned-by-china/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Meet the rising mayoral candidate  in Taiwan who's also sanctioned by China - Daily Excelsior"
-  },
-  "https://www.manilatimes.net/2026/11/27/world/asia-oceania/rivals-in-taipei-mayoral-race-rally-on-eve-of-elections/2479188": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Rivals in Taipei mayoral race rally on eve of elections | The Manila Times"
-  },
-  "https://www.attitude.co.uk/culture/film-tv/boys-on-film-25-silver-bullet-trailer-attitude-540681/": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 4,
-   "title": "Boys On Film 25: Silver Bullet unveils trailer with Attitude - Attitude"
-  },
-  "https://qa.philstar.com/headlines/2026/11/27/2573033/china-slams-ph-australia-defense-pact-calls-japan-destroyer-regional-peace": {
+  "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal": {
    "tags": {
     "v1": "no"
    },
    "mentions": 3,
-   "title": "China slams PH-Australia defense pact, calls Japan 'destroyer' of regional peace | Philstar.com"
+   "title": "Trump’s tariffs have become America’s new normal | Business and Economy | Al Jazeera"
   },
-  "https://www.hani.co.kr/arti/english_edition/e_international/1289403.html": {
+  "https://www.ksat.com/news/2026/11/27/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders-as-china-looks-on/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 3,
-   "title": "Beijing sought Seoul’s intel on foreign operatives in Korea in exchange for Korean informant’s release"
+   "title": "Taiwan holds elections to choose mayors and other local leaders as China looks on"
   },
-  "https://www.businesstimes.com.sg/international/trump-says-huang-excited-about-his-second-term-nvidia": {
+  "https://www.durangoherald.com/articles/associated-press/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders/": {
    "tags": {
     "v1": "no"
    },
    "mentions": 3,
-   "title": "Trump says Huang excited about his 'second term' at Nvidia - The Business Times"
+   "title": "Taiwan holds elections to choose mayors and other local leaders as China looks on"
   },
-  "https://www.theepochtimes.com/business/inside-nvidias-ecosystem-and-why-it-matters-6129408": {
+  "https://www.business-standard.com/world-news/taiwan-heads-to-polls-in-tight-local-elections-as-china-watches-closely-126112800101_1.html": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "Inside Nvidia’s Ecosystem—and Why It Matters | The Epoch Times"
+   "title": "Taiwan heads to polls in tight local elections as China watches closely | World News - Business Standard"
   },
-  "https://www.rawstory.com/nvidia-2678550278/": {
+  "https://www.businesstimes.com.sg/international/taiwan-goes-polls-tight-local-elections-china-watches": {
    "tags": {
     "v1": "no"
    },
    "mentions": 2,
-   "title": "Trump just dealt 'unintended blow' to US rival by rescuing affair-rocked CEO: analyst - Raw Story"
+   "title": "Taiwan goes to polls in tight local elections as China watches - The Business Times"
   },
-  "https://news.bigmir.net/ua/world/10473336-kitaj-vidpratsovuje-visadku-desantu-na-tajvan": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 2,
-   "title": "Китай відпрацьовує висадку десанту на Тайвань- Новини bigmir)net"
-  },
-  "https://www.taipeitimes.com/News/feat/archives/2026/11/28/2003868525": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "An eBay find brings postwar Taiwan into focus - Taipei Times"
-  },
-  "https://www.biobiochile.cl/noticias/internacional/radio-france-internationale/2026/11/27/taiwan-celebra-elecciones-locales-que-mediran-las-fuerzas-de-los-partidos-pro-y-anti-pekin.shtml": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "TaiwÃ¡n celebra elecciones locales: medirÃ¡n las fuerzas de los partidos pro y anti PekÃ­n | Internacional | BioBioChile"
-  },
-  "https://lufkindailynews.com/news_reuters/top_news/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/article_8e741ad5-0954-57c6-8062-fec432a55c67.html": {
-   "tags": {
-    "v1": "yes",
-    "v2": "CHN",
-    "v3": "threat",
-    "v4": "military",
-    "v5": "150",
-    "conf": "high"
-   },
-   "mentions": 2,
-   "title": "Chinese military tests new Taiwan landing tactics in coastal drills | Top News | lufkindailynews.com"
-  },
-  "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812": {
-   "tags": {
-    "v1": "no"
-   },
-   "mentions": 2,
-   "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China - ABC News"
-  },
-  "https://www.taipeitimes.com/News/editorials/archives/2026/11/28/2003868518": {
+  "https://www.asiaone.com/asia/taiwan-local-elections-china-sends-warplanes-lambastes-taipei-candidate": {
    "tags": {
     "v1": "no"
    },
    "mentions": 1,
-   "title": "The balancing act of Marco Rubio - Taipei Times"
+   "title": "Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate, Asia News - AsiaOne"
+  },
+  "https://www.inquisitr.com/taiwan-local-elections-puma-shen/": {
+   "tags": {
+    "v1": "no"
+   },
+   "mentions": 1,
+   "title": "Taiwan voters cast ballots as Puma Shen challenges Taipei mayor"
   }
  }
 }

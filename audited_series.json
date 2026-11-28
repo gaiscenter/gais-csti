@@ -20,7 +20,7 @@
   "cyber|USA": 0.1495
  },
  "_meta": {
-  "updated_at": "2026-11-27T22:20:29.458286",
+  "updated_at": "2026-11-28T09:28:59.424410",
   "note": "날짜별로 그날 감사를 거쳐 공개된 값. 계열은 매 회차 재계산되므로 overlay_audited_series()가 이 기록으로 과거 날짜를 되살린다."
  },
  "2026-11-12": {
@@ -302,5 +302,25 @@
   "diplomatic|USA_response": -0.6727,
   "cyber|CHN": 0.2165,
   "cyber|USA": 0.174
+ },
+ "2026-11-28": {
+  "overall|CHN_threat": 1.5911,
+  "overall|CHN_response": 1.5126,
+  "overall|USA_threat": -1.3336,
+  "overall|USA_response": -1.1805,
+  "military|CHN_threat": 2.2629,
+  "military|CHN_response": 0.5841,
+  "military|USA_threat": 0.0,
+  "military|USA_response": 0.0,
+  "supply|CHN_threat": -1.2932,
+  "supply|CHN_response": -0.9866,
+  "supply|USA_threat": -0.7062,
+  "supply|USA_response": -0.8397,
+  "diplomatic|CHN_threat": 1.4286,
+  "diplomatic|CHN_response": 0.7692,
+  "diplomatic|USA_threat": 0.0571,
+  "diplomatic|USA_response": -0.3524,
+  "cyber|CHN": 0.2178,
+  "cyber|USA": 0.1879
  }
 }

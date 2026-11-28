@@ -1,13 +1,13 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "mode": "shadow",
  "codebook_fingerprint": "c7f5b2daf3d781e5",
  "cells": {
   "CHN_threat": {
-   "value": 5.4857,
+   "value": 2.7,
    "raw": 7.2,
-   "e": 16,
-   "mentions": 124
+   "e": 3,
+   "mentions": 26
   }
  }
 }

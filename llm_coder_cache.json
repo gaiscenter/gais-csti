@@ -1,6 +1,6 @@
 {
  "fingerprint": "c7f5b2daf3d781e5",
- "saved_at": "2026-11-27T22:22:13.740184",
+ "saved_at": "2026-11-28T09:30:11.890203",
  "entries": {
   "https://news.webindia123.com/news/Articles/World/20260814/4486870.html": {
    "v1": "yes",
@@ -15845,6 +15845,84 @@
    "v1": "no"
   },
   "https://www.taipeitimes.com/News/editorials/archives/2026/11/28/2003868518": {
+   "v1": "no"
+  },
+  "https://www.infobae.com/america/mundo/2026/11/28/donald-trump-inaugurara-una-planta-que-entrega-chips-a-nvidia-en-una-senal-de-respaldo-a-jensen-huang-como-ceo-de-la-empresa/": {
+   "v1": "no"
+  },
+  "https://executivedigest.sapo.pt/trump-vai-inaugurar-fabrica-que-produz-chips-para-a-nvidia-apos-reconducao-de-jensen-huang/": {
+   "v1": "no"
+  },
+  "https://www.aljazeera.net/news/2026/11/28/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%B1%D8%B5%D8%AF-33-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%8812-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AD%D9%88%D9%84": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders": {
+   "v1": "no"
+  },
+  "https://executivedigest.sapo.pt/taiwan-inicia-eleicoes-locais-sob-alertas-de-interferencia-chinesa/": {
+   "v1": "no"
+  },
+  "https://dominicanrepublicpost.com/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders/": {
+   "v1": "no"
+  },
+  "https://www.dw.com/en/polls-open-in-taiwans-closely-watched-local-elections/a-80083086": {
+   "v1": "no"
+  },
+  "https://www.theepochtimes.com/china/china-tests-floating-bridge-made-of-civilian-ships-in-military-landing-drills-6130194": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://dominicanrepublicpost.com/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai/": {
+   "v1": "no"
+  },
+  "https://www.hindustantimes.com/world-news/taiwan-heads-for-local-elections-ahead-of-2028-presidential-race-china-keeps-a-close-eye-101795827184750.html": {
+   "v1": "no"
+  },
+  "https://jang.com.pk/news/1637276": {
+   "v1": "no"
+  },
+  "https://news.republika.co.id/berita/tp6uc5451/jelang-pemilu-taiwan-china-kerahkan-30-penerbangan-militer-26-lintasi-garis-tengah-selat": {
+   "v1": "yes",
+   "v2": "CHN",
+   "v3": "threat",
+   "v4": "military",
+   "v5": "150",
+   "conf": "high"
+  },
+  "https://orf.at/stories/3449504/": {
+   "v1": "no"
+  },
+  "https://www.sbctv.gr/2026/11/%CF%84%CE%B1%CE%B9%CE%B2%CE%B1%CE%BD-%CE%BF%CE%B9-%CF%88%CE%B7%CF%86%CE%BF%CF%86%CE%BF%CF%81%CE%BF%CE%B9-%CE%B5%CE%BA%CE%BB%CE%B5%CE%B3%CE%BF%CF%85%CE%BD/": {
+   "v1": "no"
+  },
+  "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal": {
+   "v1": "no"
+  },
+  "https://www.ksat.com/news/2026/11/27/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders-as-china-looks-on/": {
+   "v1": "no"
+  },
+  "https://www.durangoherald.com/articles/associated-press/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders/": {
+   "v1": "no"
+  },
+  "https://www.business-standard.com/world-news/taiwan-heads-to-polls-in-tight-local-elections-as-china-watches-closely-126112800101_1.html": {
+   "v1": "no"
+  },
+  "https://www.businesstimes.com.sg/international/taiwan-goes-polls-tight-local-elections-china-watches": {
+   "v1": "no"
+  },
+  "https://www.asiaone.com/asia/taiwan-local-elections-china-sends-warplanes-lambastes-taipei-candidate": {
+   "v1": "no"
+  },
+  "https://www.inquisitr.com/taiwan-local-elections-puma-shen/": {
    "v1": "no"
   }
  }
